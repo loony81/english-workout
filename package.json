@@ -1,10 +1,11 @@
 {
   "name": "my-english-trainer-webapp",
   "version": "1.0.0",
-  "description": "single page app using onsen-ui",
-  "main": "",
+  "description": "single page web app created with react and onsenui",
+  "main": "app.js",
   "scripts": {
     "dev": "webpack-dev-server",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,7 +15,15 @@
     "onsenui": "^2.11.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^4.3.0",
+    "css-minimizer-webpack-plugin": "^1.1.5",
+    "fs-extra": "^9.0.1",
+    "html-webpack-plugin": "^4.5.0",
+    "mini-css-extract-plugin": "^1.0.0",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
