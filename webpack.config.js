@@ -26,11 +26,23 @@ const config = {
 	//here go shared settings for development and production
 
 	//watch, process and bundle this js file which acts as an entry point for entire app
-	entry: './app/assets/scripts/app.js',
+	entry: './app/assets/scripts/App.js',
 	plugins: [new HtmlWebpackPlugin({filename: 'index.html', template: './app/index.html'})],
 	module: {
 		rules: [
-			cssConfig
+			cssConfig,
+			{
+				test: /\.js$/,
+				exclude: /(node_modules)/,
+				use: {
+					loader: 'babel-loader',
+					options: {
+						// @babel/preset-react will transpile jsx into normal js and html
+						// @babel/preset-env will make sure our javascript works perfectly in older browsers
+						presets: ['@babel/preset-react', '@babel/preset-env']
+					}
+				}
+			}
 		]
 	}
 }
@@ -66,17 +78,6 @@ if(currentTask == 'dev'){
 
 // here go webpack configuration settings for production
 if(currentTask == 'build'){
-	// to make our production javascript backwards compatible (so that it works perfectly in older browsers)
-	config.module.rules.push({
-		test: /\.js$/,
-		exclude: /(node_modules)/,
-		use: {
-			loader: 'babel-loader',
-			options: {
-				presets: ['@babel/preset-env']
-			}
-		}
-	})
 	cssConfig.use.unshift(MiniCssExtractPlugin.loader)
 	config.output = {
 		// save the resulting js file in this location,
