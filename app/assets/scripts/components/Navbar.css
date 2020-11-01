@@ -1,0 +1,36 @@
+
+
+.Navbar {
+  background: #0aa2a4;
+  height: 80px;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.Navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+}
+
+.Navbar-logo {
+  color: yellow;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 3rem;
+  display: flex;
+  align-items: center;
+}
+
+.Navbar-logo img{
+	width: 2.5rem;
+	margin-left: 1rem;
+}
+
+
+
+@media screen and (max-width: 960px) {
+  
+}

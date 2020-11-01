@@ -4,7 +4,8 @@ import './App.css'
 // import React related modules
 import React from 'react'
 import ReactDOM from 'react-dom'
-import MyAmazingComponent from './components/MyAmazingComponent'
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+import Navbar from './components/Navbar'
 
 // for hot module replacement
 if(module.hot) module.hot.accept() 
@@ -12,9 +13,14 @@ if(module.hot) module.hot.accept()
 
 const App = () => {
 	return (
-		<div>
-			<MyAmazingComponent/>
-		</div>
+		<>
+			<Router>
+			<Navbar/>
+				<Switch>
+					<Route path='/' exact />
+				</Switch>
+			</Router>
+		</>
 	)
 }
 
