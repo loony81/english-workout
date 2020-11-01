@@ -1,9 +1,6 @@
 /*Global styles go here*/
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
 body {
-	/*background: #80deea;*/
-	background: #fff;
 	margin: 0;
 	font-family: 'Nunito', sans-serif;
-	/*text-align: center;*/
 }
