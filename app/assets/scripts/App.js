@@ -21,13 +21,13 @@ const App = () => {
 			<Router>
 			<Navbar/>
 				<Switch>
-					<Route path='/' exact />
+					<Route path='/' exact><Home/></Route>
+					<Route path='/about'><About/></Route>
+					<Route path='/grammar'><Grammar/></Route>
+					<Route path='/proverbs'><Proverbs/></Route>
 				</Switch>
 			</Router>
-			<Home/>
-			<About/>
-			<Grammar/>
-			<Proverbs/>
+		
 		</>
 	)
 }
