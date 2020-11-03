@@ -22,9 +22,9 @@ const Navbar = () => {
 				</Link>	
 				<ul className={click ? 'Navbar-menu active' : 'Navbar-menu'}>
 					<li className='Navbar-item'><Link to='/' className='Navbar-link' onClick={closeMobileMenu}>HOME</Link></li>
-					<li className='Navbar-item'><Link to='/about' className='Navbar-link' onClick={closeMobileMenu}>ABOUT</Link></li>
 					<li className='Navbar-item'><Link to='/grammar' className='Navbar-link' onClick={closeMobileMenu}>GRAMMAR</Link></li>
 					<li className='Navbar-item'><Link to='/proverbs' className='Navbar-link' onClick={closeMobileMenu}>PROVERBS</Link></li>
+					<li className='Navbar-item'><Link to='/about' className='Navbar-link' onClick={closeMobileMenu}>ABOUT</Link></li>
 				</ul>
 				<div className='Navbar-hamburger' onClick={handleClick}>
 	            	<i className={click ? 'fas fa-times' : 'fas fa-bars'} />
