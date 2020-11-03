@@ -1,8 +1,9 @@
 import React from 'react'
+import './PageLayout.css'
 
 const Layout = ({children}) => {
 	return (
-		<div>
+		<div className='PageLayout'>
 			{children}
 		</div>
 	) 

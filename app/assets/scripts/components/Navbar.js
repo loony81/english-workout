@@ -13,6 +13,13 @@ const Navbar = () => {
 	}
 	window.addEventListener('resize', showButton)
 
+	const navs = [
+		{path:'/', page: 'HOME'},
+		{path:'/grammar', page: 'GRAMMAR'},
+		{path:'/proverbs', page: 'PROVERBS'},
+		{path:'/about', page: 'ABOUT'}
+	]
+
 	return ( 
 	<>
 		<nav className='Navbar'>
@@ -21,10 +28,9 @@ const Navbar = () => {
 					<img src="assets/images/vectorpaint.svg" />ENGLISH WORKOUT 
 				</Link>	
 				<ul className={click ? 'Navbar-menu active' : 'Navbar-menu'}>
-					<li className='Navbar-item'><NavLink to='/' exact className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>HOME</NavLink></li>
-					<li className='Navbar-item'><NavLink to='/grammar' className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>GRAMMAR</NavLink></li>
-					<li className='Navbar-item'><NavLink to='/proverbs' className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>PROVERBS</NavLink></li>
-					<li className='Navbar-item'><NavLink to='/about' className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>ABOUT</NavLink></li>
+					{navs.map(item => (
+			        	<li className='Navbar-item'><NavLink to={item.path} exact className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>{item.page}</NavLink></li>
+			        ))}
 				</ul>
 				<div className='Navbar-hamburger' onClick={handleClick}>
 	            	<i className={click ? 'fas fa-times' : 'fas fa-bars'} />

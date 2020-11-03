@@ -1,0 +1,11 @@
+.PageLayout {
+	width: 80%;
+	max-width: 900px;
+	margin: 20px auto 0;
+	font-size: 1.4rem;
+	/*height: 100vh;*/
+}
+
+.PageLayout h3{
+	text-align: center;
+}

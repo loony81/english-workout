@@ -1,0 +1,11 @@
+.Footer {
+	background: #0aa2a4;
+	color: yellow;
+	text-align: center;
+	margin-top: auto;
+}
+
+.Footer a {
+	color: yellow;
+	text-decoration: none;
+}

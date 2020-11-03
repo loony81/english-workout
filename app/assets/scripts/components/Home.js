@@ -4,15 +4,7 @@ import PageLayout from './PageLayout'
 const Home = () => {
 	return (
 		<PageLayout>
-			<h1>This is the home page!</h1>
-			<h1>This is the home page!</h1>
-			<h1>This is the home page!</h1>
-			<h1>This is the home page!</h1>
-
-			<h1>This is the home page!</h1>
-			<h1>This is the home page!</h1>
-			<h1>This is the home page!</h1>
-			<h1>This is the home page!</h1>
+			<h3>Learn English by typing English proverbs, idioms, inspirational quotes and sayings by famous people!</h3>
 		</PageLayout>
 	) 
 }
