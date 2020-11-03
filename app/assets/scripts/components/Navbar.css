@@ -52,7 +52,7 @@
   transition: all 0.2s ease-out;
 }
 
-.Navbar-link:active {
+.Navbar-link-active {
   color: white;
   font-weight: 600;
 }

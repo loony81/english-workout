@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import {Link} from 'react-router-dom'
+import {Link, NavLink} from 'react-router-dom'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -21,10 +21,10 @@ const Navbar = () => {
 					<img src="assets/images/vectorpaint.svg" />ENGLISH WORKOUT 
 				</Link>	
 				<ul className={click ? 'Navbar-menu active' : 'Navbar-menu'}>
-					<li className='Navbar-item'><Link to='/' className='Navbar-link' onClick={closeMobileMenu}>HOME</Link></li>
-					<li className='Navbar-item'><Link to='/grammar' className='Navbar-link' onClick={closeMobileMenu}>GRAMMAR</Link></li>
-					<li className='Navbar-item'><Link to='/proverbs' className='Navbar-link' onClick={closeMobileMenu}>PROVERBS</Link></li>
-					<li className='Navbar-item'><Link to='/about' className='Navbar-link' onClick={closeMobileMenu}>ABOUT</Link></li>
+					<li className='Navbar-item'><NavLink to='/' exact className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>HOME</NavLink></li>
+					<li className='Navbar-item'><NavLink to='/grammar' className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>GRAMMAR</NavLink></li>
+					<li className='Navbar-item'><NavLink to='/proverbs' className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>PROVERBS</NavLink></li>
+					<li className='Navbar-item'><NavLink to='/about' className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>ABOUT</NavLink></li>
 				</ul>
 				<div className='Navbar-hamburger' onClick={handleClick}>
 	            	<i className={click ? 'fas fa-times' : 'fas fa-bars'} />
