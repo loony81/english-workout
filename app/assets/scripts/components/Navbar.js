@@ -28,8 +28,8 @@ const Navbar = () => {
 					<img src="assets/images/vectorpaint.svg" />ENGLISH WORKOUT 
 				</Link>	
 				<ul className={click ? 'Navbar-menu active' : 'Navbar-menu'}>
-					{navs.map(item => (
-			        	<li className='Navbar-item'><NavLink to={item.path} exact className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>{item.page}</NavLink></li>
+					{navs.map((item,i) => (
+			        	<li key={i} className='Navbar-item'><NavLink to={item.path} exact className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>{item.page}</NavLink></li>
 			        ))}
 				</ul>
 				<div className='Navbar-hamburger' onClick={handleClick}>
