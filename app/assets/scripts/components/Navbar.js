@@ -5,13 +5,13 @@ import './Navbar.css'
 const Navbar = () => {
 
 	const [click, setClick] = useState(false);
-	const [button, setButton] = useState(true);
+	// const [button, setButton] = useState(true);
 	const handleClick = () => setClick(!click);
 	const closeMobileMenu = () => setClick(false)
-	const showButton = () => {
-		window.innerWidth <= 960 ? setButton(false) : setButton(true)
-	}
-	window.addEventListener('resize', showButton)
+	// const showButton = () => {
+	// 	window.innerWidth <= 860 ? setButton(false) : setButton(true)
+	// }
+	// window.addEventListener('resize', showButton)
 
 	const navs = [
 		{path:'/', page: 'HOME'},
