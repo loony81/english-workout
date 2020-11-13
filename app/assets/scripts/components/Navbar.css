@@ -7,6 +7,7 @@
   top: 0;
   z-index: 999;
   border-bottom: 2px solid yellow;
+  box-shadow: 0px 15px 10px -15px #111;
 }
 
 .Navbar-container {
@@ -29,6 +30,7 @@
 .Navbar-logo img{
 	width: 2.5rem;
 	margin-left: 1rem;
+  transform: rotateZ(-45deg);
 }
 
 .Navbar-menu{

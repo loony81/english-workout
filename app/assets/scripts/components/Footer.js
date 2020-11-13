@@ -7,7 +7,7 @@ const Footer = () => {
 
 	return ( 
 	<footer className='Footer'>
-		<p>Created with &#9829; by <a href='https://github.com/loony81'>Roman Nazarenko</a></p>
+		<p>Created with &#9829; by <a href='https://github.com/loony81'>Roman Nazarenko <i class="fab fa-github-alt"></i></a></p>
 	</footer>
 	)
 }

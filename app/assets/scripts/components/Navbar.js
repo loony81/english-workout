@@ -25,7 +25,7 @@ const Navbar = () => {
 		<nav className='Navbar'>
 			<div className='Navbar-container'>
 				<Link to='/' className='Navbar-logo' onClick={closeMobileMenu}>
-					<img src="assets/images/download.svg" />ENGLISH WORKOUT 
+					<img src="assets/images/dumbbell.svg" />&nbsp;ENGLISH WORKOUT 
 				</Link>	
 				<ul className={click ? 'Navbar-menu active' : 'Navbar-menu'}>
 					{navs.map((item,i) => (
