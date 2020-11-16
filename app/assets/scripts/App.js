@@ -2,7 +2,7 @@
 // my own styles
 import './App.css'
 // import React related modules
-import React from 'react'
+import React, {useState} from 'react'
 import ReactDOM from 'react-dom'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import Navbar from './components/Navbar'
@@ -17,14 +17,15 @@ if(module.hot) module.hot.accept()
 
 
 const App = () => {
+
 	return (
 		<>
 			<Router>
 				<Navbar/>
 				<Switch>
 					<Route path='/' exact><Home/></Route>
-					<Route path='/grammar'><Grammar/></Route>
-					<Route path='/proverbs'><Proverbs/></Route>
+					<Route path='/grammar'><Grammar /></Route>
+					<Route path='/proverbs'><Proverbs /></Route>
 					<Route path='/about'><About/></Route>
 				</Switch>
 				<Footer/>
