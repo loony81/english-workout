@@ -2,7 +2,12 @@
 	width: 100%;
 }
 
+.WorkingArea h1{
+	margin-top: 0;
+}
+
 .WorkingArea > div{
 	background: #fff;
 	border-radius: 4px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
