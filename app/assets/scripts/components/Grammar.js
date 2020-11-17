@@ -1,23 +1,13 @@
-import React, {useState} from 'react'
+import React from 'react'
 import PageLayout from './PageLayout'
 import WorkingArea from './WorkingArea'
 
-const Grammar = () => {
-
-	const [items, setItems] = useState(1)
-
-	const generate = () => {
-		setItems(items + 1)
-	}
-
-	const getPrevious = () => {
-		setItems(items - 1)
-	}
+const Grammar = ({items, generate, getPrevious}) => {
 
 	return (
 		<PageLayout>
 			<h1>This is the Grammar page!</h1>
-			<WorkingArea items={items} generate={generate} getPrevious={getPrevious} />
+			<WorkingArea items={items} generate={generate} getPrevious={getPrevious} context='grammar' />
 		</PageLayout>
 	) 
 }

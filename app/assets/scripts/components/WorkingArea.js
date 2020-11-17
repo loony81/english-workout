@@ -1,8 +1,8 @@
-import React, {useState} from 'react'
+import React from 'react'
 import Button from './Button'
 import './WorkingArea.css'
 
-const WorkingArea = ({items, generate, getPrevious}) => {
+const WorkingArea = ({items, generate, getPrevious, context}) => {
 
 	return (
 		<div className='WorkingArea'>
@@ -10,8 +10,8 @@ const WorkingArea = ({items, generate, getPrevious}) => {
 				<p>{items}</p>
 				<textarea></textarea>
 			</div>
-			<Button onClickMe={() => generate()}>Generate <i className='far fa-play-circle' /></Button>
-			<Button onClickMe={() => getPrevious()} disabled={items==0 ? true : false}>Previous <i className='far fa-play-circle' /></Button>
+			<Button onClickMe={() => generate(context)}>Generate <i className='far fa-play-circle' /></Button>
+			<Button onClickMe={() => getPrevious(context)} disabled={items==0 ? true : false}>Previous <i className='far fa-play-circle' /></Button>
 		</div>
 	) 
 }
