@@ -4,7 +4,7 @@ import Button from './Button'
 
 const Grammar = () => {
 
-	const [items, setItems] = useState(0)
+	const [items, setItems] = useState(1)
 
 	const generate = () => {
 		setItems(items + 1)
@@ -20,7 +20,7 @@ const Grammar = () => {
 			<p>{items}</p>
 			<textarea></textarea>
 			<Button onClickMe={() => generate()}>Generate <i className='far fa-play-circle' /></Button>
-			<Button onClickMe={() => getPrevious()}>Previous <i className='far fa-play-circle' /></Button>
+			<Button onClickMe={() => getPrevious()} disabled={items==0 ? true : false}>Previous <i className='far fa-play-circle' /></Button>
 		</PageLayout>
 	) 
 }

@@ -20,7 +20,7 @@ const Proverbs = () => {
 			<p>{proverbs}</p>
 			<textarea></textarea>
 			<Button onClickMe={() => generate()}>Generate <i className='far fa-play-circle' /></Button>
-			<Button onClickMe={() => getPrevious()}>Previous <i className='far fa-play-circle' /></Button>
+			<Button onClickMe={() => getPrevious()} disabled={proverbs==0 ? true : false}>Previous <i className='far fa-play-circle' /></Button>
 		</PageLayout>
 	) 
 }

@@ -17,6 +17,13 @@
 	transition: 250ms;
 }
 
+.Button button:disabled{
+	color: #d3d3d3;
+	box-shadow: none;
+	/*transition: 250ms;*/
+}
+
+
 @media screen and (max-width: 860px) {
 	.Button button{
 		padding: 8px 20px;

@@ -2,7 +2,7 @@ import React from 'react'
 import './Button.css'
 import {Link} from 'react-router-dom'
 
-const Button = ({children, to, onClickMe}) => {
+const Button = ({children, to, onClickMe, disabled}) => {
 	if(to){
 		return (
 			<Link to={to} className='Button'>
@@ -10,7 +10,7 @@ const Button = ({children, to, onClickMe}) => {
 			</Link>
 		) 
 	}
-	return <a className='Button'><button onClick={onClickMe}>{children}</button></a>
+	return <a className='Button'><button onClick={onClickMe} disabled={disabled}>{children}</button></a>
 
 	
 }
