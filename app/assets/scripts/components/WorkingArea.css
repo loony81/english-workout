@@ -1,0 +1,8 @@
+.WorkingArea {
+	width: 100%;
+}
+
+.WorkingArea > div{
+	background: #fff;
+	border-radius: 4px;
+}
