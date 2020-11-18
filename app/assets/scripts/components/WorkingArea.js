@@ -6,13 +6,16 @@ const WorkingArea = ({items, generate, getPrevious, context}) => {
 
 	return (
 		<div className='WorkingArea'>
-			<h1>This is the {context} page!</h1>
-			<div>
+			<h3>This is the {context} page!</h3>
+			<div className='WorkingArea-show'>
 				<p>{items}</p>
-				<textarea></textarea>
+				<textarea autoFocus></textarea>
 			</div>
-			<Button onClickMe={() => generate(context)}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
-			<Button onClickMe={() => getPrevious(context)} disabled={items==0 ? true : false}>Previous <br/><i className='fas fa-chevron-circle-left' /></Button>
+			<div className='WorkingArea-navigation'>
+				<Button onClickMe={() => generate(context)}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
+				<Button onClickMe={() => getPrevious(context)} disabled={items==0 ? true : false}>Previous <br/><i className='fas fa-chevron-circle-left' /></Button>
+			</div>
+			
 		</div>
 	) 
 }
