@@ -2,11 +2,11 @@ import React from 'react'
 import PageLayout from './PageLayout'
 import WorkingArea from './WorkingArea'
 
-const Proverbs = ({items, generate, getPrevious}) => {
+const Proverbs = ({items, generate}) => {
 
 	return (
 		<PageLayout>
-			<WorkingArea items={items} generate={generate} getPrevious={getPrevious} context='proverbs' />
+			<WorkingArea items={items} generate={generate} context='proverbs' />
 		</PageLayout>
 	) 
 }

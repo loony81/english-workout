@@ -15,6 +15,9 @@
 }
 
 @media screen and (max-width: 860px) {
+	.PageLayout {
+		width: 90%;
+	}
 	.PageLayout h1{
 		font-size: 2rem;
 	}

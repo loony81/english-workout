@@ -11,6 +11,7 @@ import About from './components/About'
 import Grammar from './components/Grammar'
 import Proverbs from './components/Proverbs'
 import Footer from './components/Footer'
+import axios from 'axios'
 
 // for hot module replacement
 if(module.hot) module.hot.accept() 
@@ -18,17 +19,28 @@ if(module.hot) module.hot.accept()
 
 const App = () => {
 
-	const [grammarItems, setGrammarItems] = useState(0)
-	const [proverbs, setProverbs] = useState(0)
+	const [grammarItems, setGrammarItems] = useState([])
+	const [proverbs, setProverbs] = useState([])
 
 	const generate = context => {
-		if(context == 'grammar') setGrammarItems(grammarItems + 1)
-		if(context == 'proverbs') setProverbs(proverbs + 1)
-	}
-
-	const getPrevious = context => {
-		if(context == 'grammar') setGrammarItems(grammarItems - 1)
-		if(context == 'proverbs') setProverbs(proverbs - 1)
+		
+		if(context == 'grammar') {
+			axios.get('/getgrammar')
+				.then(res => {
+					const newGrammarItems = [...grammarItems]
+					newGrammarItems.push(res.data)
+					setGrammarItems(newGrammarItems)
+				})
+				.catch(err => console.log(err));
+		} 
+		if(context == 'proverbs') {
+			axios.get('/getproverbs')
+				.then(res => {
+					const newProverbs = [...proverbs, res.data]
+					setProverbs(newProverbs)
+				}) 
+				.catch(err => console.log(err));
+		} 
 	}
 
 	return (
@@ -37,8 +49,8 @@ const App = () => {
 				<Navbar/>
 				<Switch>
 					<Route path='/' exact><Home/></Route>
-					<Route path='/grammar'><Grammar generate={generate} getPrevious={getPrevious} items={grammarItems}/></Route>
-					<Route path='/proverbs'><Proverbs generate={generate} getPrevious={getPrevious} items={proverbs} /></Route>
+					<Route path='/grammar'><Grammar generate={generate} items={grammarItems}/></Route>
+					<Route path='/proverbs'><Proverbs generate={generate} items={proverbs} /></Route>
 					<Route path='/about'><About/></Route>
 				</Switch>
 				<Footer/>
