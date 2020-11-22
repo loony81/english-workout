@@ -17,6 +17,7 @@ const WorkingArea = ({items, generate, context}) => {
 			<h3>This is the {context} page!</h3>
 			<div className='WorkingArea-show'>
 				<p>{currentItem == -1 ? '' : items[currentItem]}</p>
+				{context == 'grammar' && <p>here goes description</p>}
 				<textarea autoFocus></textarea>
 			</div>
 			<div className='WorkingArea-navigation'>
