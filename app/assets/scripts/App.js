@@ -19,6 +19,7 @@ if(module.hot) module.hot.accept()
 
 const App = () => {
 
+
 	const [grammarItems, setGrammarItems] = useState([])
 	const [proverbs, setProverbs] = useState([])
 

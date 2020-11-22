@@ -1,24 +1,22 @@
 const express = require('express')
 const path = require('path')
 const app = express()
+const grammarData = require('./data/grammar_audio.json')
+const proverbs = require('./data/proverbs.json')
 
-const proverbs = [
-	'A bird is known by its note, and a man by his talk',
-	'A bird may be known by its song',
-	'A bird never flew on one wing',
-	'A black hen lays a white egg',
-	'A black plum is as sweet as white'
-]
+const grammarQty = grammarData.length
+const proverbsQty = proverbs.length
+
 
 app.use(express.static(path.join(__dirname, '/dist')))
 
 app.get('/getgrammar', (req, res) => {
-	const index = Math.floor(Math.random() * proverbs.length)
-    return res.send(proverbs[index])
+	const index = Math.floor(Math.random() * grammarQty)
+    return res.send(grammarData[index])
 })
 
 app.get('/getproverbs', (req, res) => {
-  	const index = Math.floor(Math.random() * proverbs.length)
+  	const index = Math.floor(Math.random() * proverbsQty)
     return res.send(proverbs[index])
 })
 
