@@ -12,6 +12,7 @@ import Grammar from './components/Grammar'
 import Proverbs from './components/Proverbs'
 import Footer from './components/Footer'
 import axios from 'axios'
+import regeneratorRuntime from "regenerator-runtime";
 
 // for hot module replacement
 if(module.hot) module.hot.accept() 
@@ -23,25 +24,24 @@ const App = () => {
 	const [grammarItems, setGrammarItems] = useState([])
 	const [proverbs, setProverbs] = useState([])
 
-	const generate = context => {
+	async function generate(context){
+		try {
+			if(context == 'grammar') {
+				const data = await axios.get('/getgrammar')
+				const newGrammarItems = [...grammarItems]
+				newGrammarItems.push(data.data)
+				setGrammarItems(newGrammarItems)
+			} 
+			if(context == 'proverbs') {
+				const data = await axios.get('/getproverbs')
+				const newProverbs = [...proverbs, data.data]
+				setProverbs(newProverbs)
+			}
+		} catch(err) {
+			err => console.log(err)
+		}
 		
-		if(context == 'grammar') {
-			axios.get('/getgrammar')
-				.then(res => {
-					const newGrammarItems = [...grammarItems]
-					newGrammarItems.push(res.data)
-					setGrammarItems(newGrammarItems)
-				})
-				.catch(err => console.log(err));
-		} 
-		if(context == 'proverbs') {
-			axios.get('/getproverbs')
-				.then(res => {
-					const newProverbs = [...proverbs, res.data]
-					setProverbs(newProverbs)
-				}) 
-				.catch(err => console.log(err));
-		} 
+		 
 	}
 
 	return (
