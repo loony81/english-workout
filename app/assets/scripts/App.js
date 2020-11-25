@@ -5,43 +5,58 @@ import './App.css'
 import React, {useState} from 'react'
 import ReactDOM from 'react-dom'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+// import components
 import Navbar from './components/Navbar'
 import Home from './components/Home'
 import About from './components/About'
 import Grammar from './components/Grammar'
 import Proverbs from './components/Proverbs'
 import Footer from './components/Footer'
+//import other modules
 import axios from 'axios'
-import regeneratorRuntime from "regenerator-runtime";
+import regeneratorRuntime from "regenerator-runtime"
+import localforage from 'localforage'
 
 // for hot module replacement
 if(module.hot) module.hot.accept() 
 
 
 const App = () => {
-
-
+	//state
 	const [grammarItems, setGrammarItems] = useState([])
 	const [proverbs, setProverbs] = useState([])
 
+	//this function makes a request to the server, gets a new proverb or grammar sentence and saves it in state
+	//it also gets the audio file related to the proverb or grammar sentence and saves it in indexedDB for offline use
 	async function generate(context){
 		try {
 			if(context == 'grammar') {
-				const data = await axios.get('/getgrammar')
+				const item = await axios.get('/getgrammar')
+				const audioUrl = '/audio/grammar/' + item.data.sounds[0]
+   				const audioFile = await axios.get(audioUrl, {
+				   responseType: 'blob'
+				})
+   				// store audio file in indexedDB
+   				await localforage.setItem(audioUrl, audioFile.data)
 				const newGrammarItems = [...grammarItems]
-				newGrammarItems.push(data.data)
+				newGrammarItems.push({proverb: item.data.proverb, audioUrl: audioUrl, description: item.data.description})
 				setGrammarItems(newGrammarItems)
 			} 
 			if(context == 'proverbs') {
-				const data = await axios.get('/getproverbs')
-				const newProverbs = [...proverbs, data.data]
+				const item = await axios.get('/getproverbs')
+				const audioUrl = '/audio/proverbs/' + item.data.sounds[0]
+				const audioFile = await axios.get(audioUrl, {
+				   responseType: 'blob'
+				})
+   				// store audio file in indexedDB
+   				await localforage.setItem(audioUrl, audioFile.data)
+   				const newProverb = {proverb: item.data.proverb, audioUrl: audioUrl}
+				const newProverbs = [...proverbs, newProverb]
 				setProverbs(newProverbs)
 			}
 		} catch(err) {
 			err => console.log(err)
-		}
-		
-		 
+		}	 
 	}
 
 	return (

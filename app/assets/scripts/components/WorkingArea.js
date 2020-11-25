@@ -1,6 +1,9 @@
 import React, {useState, useEffect} from 'react'
 import Button from './Button'
 import './WorkingArea.css'
+// import { get } from 'idb-keyval'
+import localforage from 'localforage'
+
 
 const WorkingArea = ({items, generate, context}) => {
 
@@ -14,8 +17,22 @@ const WorkingArea = ({items, generate, context}) => {
 		setCurrentItem(currentItem - 1)
 	}
 
-	const play = () => {
-		console.log(items[currentItem].sounds)
+	async function play(){
+		const audioUrl = items[currentItem].audioUrl
+		try {
+			const blob = await localforage.getItem(audioUrl)
+			if(!blob){
+				const audio = await new Audio(audioUrl)
+				audio.volume = 1
+				audio.play()
+			} else {
+				const audio = new Audio(URL.createObjectURL(blob))
+				audio.volume = 1
+				audio.play()
+			}
+		} catch(err) {
+			console.log(err)
+		}
 	}
 
 	return (

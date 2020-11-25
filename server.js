@@ -21,6 +21,23 @@ app.get('/getproverbs', (req, res) => {
     return res.send(proverbs[index])
 })
 
+// a route for downloading audio files
+app.get('/audio/:context/:file', (req, res, err) => {
+  const filePath = path.join(__dirname, './data/audio/' + req.params.context + '/' + req.params.file)
+  const stat = fs.statSync(filePath);
+
+  // set response headers
+  res.writeHead(200, {
+    'Content-Type': 'audio/aac',
+    'Content-Length': stat.size
+  });
+  //create read stream
+  const readStream = fs.createReadStream(filePath)
+  // pipe read stream to response stream
+  readStream.pipe(res);
+});
+
+
 app.get('/*', (req, res) => {
  	res.sendFile(path.join(__dirname, 'dist', 'index.html'))
 })
