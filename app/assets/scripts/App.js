@@ -12,7 +12,8 @@ import Grammar from './components/Grammar'
 import Proverbs from './components/Proverbs'
 import Footer from './components/Footer'
 import axios from 'axios'
-import regeneratorRuntime from "regenerator-runtime";
+import regeneratorRuntime from "regenerator-runtime"
+import localforage from 'localforage'
 
 // for hot module replacement
 if(module.hot) module.hot.accept() 
@@ -27,9 +28,15 @@ const App = () => {
 	async function generate(context){
 		try {
 			if(context == 'grammar') {
-				const data = await axios.get('/getgrammar')
+				const item = await axios.get('/getgrammar')
+				const audioUrl = '/audio/grammar/' + item.data.sounds[0]
+   				const audioFile = await axios.get(audioUrl, {
+				   responseType: 'blob'
+				})
+   				// store audio file in indexedDB
+   				await localforage.setItem(audioUrl, audioFile.data)
 				const newGrammarItems = [...grammarItems]
-				newGrammarItems.push(data.data)
+				newGrammarItems.push({proverb: item.data.proverb, audioUrl: audioUrl, description: item.data.description})
 				setGrammarItems(newGrammarItems)
 			} 
 			if(context == 'proverbs') {
@@ -39,9 +46,7 @@ const App = () => {
 			}
 		} catch(err) {
 			err => console.log(err)
-		}
-		
-		 
+		}	 
 	}
 
 	return (
