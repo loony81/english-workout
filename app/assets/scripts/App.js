@@ -26,18 +26,28 @@ const App = () => {
 	const [grammarItems, setGrammarItems] = useState([])
 	const [proverbs, setProverbs] = useState([])
 
-	//this function makes a request to the server, gets a new proverb or grammar sentence and saves it in state
-	//it also gets the audio file related to the proverb or grammar sentence and saves it in indexedDB for offline use
+	// gets the audio file related to the proverb or grammar sentence 
+	// and saves it in indexedDB for offline use
+	async function getAudio(url){
+		try {
+			const audioFile = await axios.get(url, {
+			   responseType: 'blob'
+			})
+			// store audio file in indexedDB
+			await localforage.setItem(url, audioFile.data)
+		} catch(err) {
+			console.log(err)
+		}	
+	}
+
+	//this function makes a request to the server, 
+	// gets a new proverb or grammar sentence and saves it in state
 	async function generate(context){
 		try {
 			if(context == 'grammar') {
 				const item = await axios.get('/getgrammar')
 				const audioUrl = '/audio/grammar/' + item.data.sounds[0]
-   				const audioFile = await axios.get(audioUrl, {
-				   responseType: 'blob'
-				})
-   				// store audio file in indexedDB
-   				await localforage.setItem(audioUrl, audioFile.data)
+   				await getAudio(audioUrl)
 				const newGrammarItems = [...grammarItems]
 				newGrammarItems.push({proverb: item.data.proverb, audioUrl: audioUrl, description: item.data.description})
 				setGrammarItems(newGrammarItems)
@@ -45,11 +55,7 @@ const App = () => {
 			if(context == 'proverbs') {
 				const item = await axios.get('/getproverbs')
 				const audioUrl = '/audio/proverbs/' + item.data.sounds[0]
-				const audioFile = await axios.get(audioUrl, {
-				   responseType: 'blob'
-				})
-   				// store audio file in indexedDB
-   				await localforage.setItem(audioUrl, audioFile.data)
+				await getAudio(audioUrl)
    				const newProverb = {proverb: item.data.proverb, audioUrl: audioUrl}
 				const newProverbs = [...proverbs, newProverb]
 				setProverbs(newProverbs)
