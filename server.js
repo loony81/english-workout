@@ -9,7 +9,8 @@ const grammarQty = grammarData.length
 const proverbsQty = proverbs.length
 
 
-app.use(express.static(path.join(__dirname, '/dist')))
+// app.use(express.static(path.join(__dirname, '/dist')))
+app.use(express.static(__dirname + '/dist'))
 
 app.get('/getgrammar', (req, res) => {
 	const index = Math.floor(Math.random() * grammarQty)
@@ -24,7 +25,7 @@ app.get('/getproverbs', (req, res) => {
 // a route for downloading audio files
 app.get('/audio/:context/:file', (req, res, err) => {
   const filePath = path.join(__dirname, './data/audio/' + req.params.context + '/' + req.params.file)
-  const stat = fs.statSync(filePath);
+  const stat = fs.statSync(filePath)
 
   // set response headers
   res.writeHead(200, {
@@ -34,7 +35,7 @@ app.get('/audio/:context/:file', (req, res, err) => {
   //create read stream
   const readStream = fs.createReadStream(filePath)
   // pipe read stream to response stream
-  readStream.pipe(res);
+  readStream.pipe(res)
 });
 
 
