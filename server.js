@@ -12,6 +12,10 @@ const proverbsQty = proverbs.length
 // app.use(express.static(path.join(__dirname, '/dist')))
 app.use(express.static(__dirname + '/dist'))
 
+app.get('/', (req, res) => {
+  res.sendFile('index.html')
+})
+
 app.get('/getgrammar', (req, res) => {
 	const index = Math.floor(Math.random() * grammarQty)
     return res.send(grammarData[index])
@@ -36,11 +40,10 @@ app.get('/audio/:context/:file', (req, res, err) => {
   const readStream = fs.createReadStream(filePath)
   // pipe read stream to response stream
   readStream.pipe(res)
-});
+})
 
-
-app.get('/*', (req, res) => {
- 	res.sendFile(path.join(__dirname, 'dist', 'index.html'))
+app.get('*', (req, res) => {
+ 	res.redirect('/')
 })
 
 app.listen(8080)
