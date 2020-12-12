@@ -18,20 +18,25 @@ const WorkingArea = ({items, generate, context}) => {
 	}
 
 	async function play(){
-		const audioUrl = items[currentItem].audioUrl
-		try {
-			const blob = await localforage.getItem(audioUrl)
-			if(!blob){
-				const audio = await new Audio(audioUrl)
-				audio.volume = 1
-				audio.play()
-			} else {
-				const audio = new Audio(URL.createObjectURL(blob))
-				audio.volume = 1
-				audio.play()
+		const fileName = items[currentItem].audioFileName
+		const fileUrl = items[currentItem].audioFileUrl
+		if(fileUrl){
+			try {
+				const blob = await localforage.getItem(fileName)
+				if(!blob){
+					// if audio can't be found in indexedDB and fileUrl is not an empty string
+					// then try to play it direclty from Google Drive
+					const audio = await new Audio(fileUrl)
+					audio.volume = 1
+					audio.play()
+				} else {
+					const audio = new Audio(URL.createObjectURL(blob))
+					audio.volume = 1
+					audio.play()
+				}
+			} catch(err) {
+				console.log(err)
 			}
-		} catch(err) {
-			console.log(err)
 		}
 	}
 
@@ -39,7 +44,7 @@ const WorkingArea = ({items, generate, context}) => {
 		<div className='WorkingArea'>
 			<h3>This is the {context} page!</h3>
 			<div className='WorkingArea-show'>
-				<p>{currentItem == -1 ? '' : items[currentItem].proverb}</p>
+				<p>{currentItem == -1 ? '' : items[currentItem].sentence}</p>
 				{context == 'grammar'  && <p>{currentItem == -1 ? '' : items[currentItem].description}</p>}
 				<textarea autoFocus></textarea>
 			</div>
