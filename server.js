@@ -2,15 +2,23 @@ const express = require('express')
 const path = require('path')
 const fs = require('fs')
 const app = express()
+const axios = require('axios')
 const grammarData = require('./data/grammar_audio.json')
 const proverbs = require('./data/proverbs.json')
+const googleDriveLinks = require('./data/googleDriveLinks.json')
 
 const grammarQty = grammarData.length
 const proverbsQty = proverbs.length
 
 
-// app.use(express.static(path.join(__dirname, '/dist')))
 app.use(express.static(__dirname + '/dist'))
+app.use(express.json())
+
+const findLink = file => {
+  //find the link to the audio file in googleDriveLinks
+  const item = googleDriveLinks.find(item => item.Filename === file)
+  return item ? item['Direct Link'] : ''
+}
 
 app.get('/', (req, res) => {
   res.sendFile('index.html')
@@ -18,28 +26,52 @@ app.get('/', (req, res) => {
 
 app.get('/getgrammar', (req, res) => {
 	const index = Math.floor(Math.random() * grammarQty)
-    return res.send(grammarData[index])
+  const item = grammarData[index]
+  // grab one file from the array of audio files related to this grammar sentence
+  // if there are no audio files in the array (no audio files have been recorded yet) then send an empty string
+  const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
+  const dataToSend = {
+    sentence: item.proverb, 
+    description: item.description,
+    audioFileName,
+    audioFileUrl: findLink(audioFileName)
+  }
+  return res.send(dataToSend)
 })
 
-app.get('/getproverbs', (req, res) => {
+app.get('/getproverb', (req, res) => {
   	const index = Math.floor(Math.random() * proverbsQty)
-    return res.send(proverbs[index])
+    const item = proverbs[index]
+    // grab one file from the array of audio files related to this proverb
+    // if there are no audio files in the array (no audio files have been recorded yet) then send an empty string
+    const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
+    console.log(audioFileName)
+    const dataToSend = {
+      sentence: item.proverb, 
+      audioFileName,
+      audioFileUrl: findLink(audioFileName)
+    }
+    return res.send(dataToSend)
 })
 
-// a route for downloading audio files
-app.get('/audio/:context/:file', (req, res, err) => {
-  const filePath = path.join(__dirname, './data/audio/' + req.params.context + '/' + req.params.file)
-  const stat = fs.statSync(filePath)
-
-  // set response headers
-  res.writeHead(200, {
-    'Content-Type': 'audio/aac',
-    'Content-Length': stat.size
-  });
-  //create read stream
-  const readStream = fs.createReadStream(filePath)
-  // pipe read stream to response stream
-  readStream.pipe(res)
+// a route for downloading audio files from Google Drive
+app.post('/audio', async (req, res) => {
+   try{
+       // set response headers
+       res.writeHead(200, {
+        'Content-Type': 'audio/aac'
+       });
+       //get the audio file from Google Drive as a stream
+       const audio = await axios({
+        url: req.body.url,
+        method: 'GET',
+        responseType: 'stream'
+       })
+       // and pipe it directly to response
+       audio.data.pipe(res)
+   } catch(err){
+      console.log(err)
+   }
 })
 
 app.get('*', (req, res) => {

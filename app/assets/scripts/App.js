@@ -26,15 +26,16 @@ const App = () => {
 	const [grammarItems, setGrammarItems] = useState([])
 	const [proverbs, setProverbs] = useState([])
 
-	// gets the audio file related to the proverb or grammar sentence 
+	// this function gets the audio file related to the proverb or grammar sentence 
 	// and saves it in indexedDB for offline use
-	async function getAudio(url){
+	// due to the CORS issue we can't download audio files directly from Google Drive,
+	// so instead we make a request to our own server and make it download an audio file from Google Drive
+	// and send it back to us
+	async function getAudio(url, name){
 		try {
-			const audioFile = await axios.get(url, {
-			   responseType: 'blob'
-			})
+			const audioFile = await axios.post('/audio', {url}, {responseType: 'blob'})
 			// store audio file in indexedDB
-			await localforage.setItem(url, audioFile.data)
+			await localforage.setItem(name, audioFile.data)
 		} catch(err) {
 			console.log(err)
 		}	
@@ -46,22 +47,23 @@ const App = () => {
 		try {
 			if(context == 'grammar') {
 				const item = await axios.get('/getgrammar')
-				const audioUrl = '/audio/grammar/' + item.data.sounds[0]
-   				await getAudio(audioUrl)
+				const audioFileUrl = item.data.audioFileUrl
+				if(audioFileUrl) await getAudio(audioFileUrl, item.data.audioFileName)
+   				
 				const newGrammarItems = [...grammarItems]
-				newGrammarItems.push({proverb: item.data.proverb, audioUrl: audioUrl, description: item.data.description})
+				newGrammarItems.push(item.data)
 				setGrammarItems(newGrammarItems)
 			} 
 			if(context == 'proverbs') {
-				const item = await axios.get('/getproverbs')
-				const audioUrl = '/audio/proverbs/' + item.data.sounds[0]
-				await getAudio(audioUrl)
-   				const newProverb = {proverb: item.data.proverb, audioUrl: audioUrl}
-				const newProverbs = [...proverbs, newProverb]
+				const item = await axios.get('/getproverb')
+				const audioFileUrl = item.data.audioFileUrl
+				if(audioFileUrl) await getAudio(audioFileUrl, item.data.audioFileName)
+
+				const newProverbs = [...proverbs, item.data]
 				setProverbs(newProverbs)
 			}
 		} catch(err) {
-			err => console.log(err)
+			console.log(err)
 		}	 
 	}
 
