@@ -34,6 +34,10 @@
 	border-top-left-radius: 4px;
 }
 
+.WorkingArea-show p:nth-of-type(2){
+	font-size: 1rem;
+}
+
 .WorkingArea-show textarea{
 	width: 100%;
 	flex: 1;
@@ -48,4 +52,10 @@
 	margin: 15px auto 0;
 	display: flex;
 	justify-content: space-around;
+}
+
+@media screen and (max-width: 860px) {
+	.WorkingArea-show p:nth-of-type(2){
+		font-size: .8rem;
+	}
 }

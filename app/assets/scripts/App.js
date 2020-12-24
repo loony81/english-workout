@@ -37,7 +37,7 @@ const App = () => {
 			// store audio file in indexedDB
 			await localforage.setItem(name, audioFile.data)
 		} catch(err) {
-			console.log(err)
+			console.log(err.message)
 		}	
 	}
 
@@ -63,7 +63,7 @@ const App = () => {
 				setProverbs(newProverbs)
 			}
 		} catch(err) {
-			console.log(err)
+			console.log(err.message)
 		}	 
 	}
 

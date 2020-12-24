@@ -53,6 +53,7 @@ app.get('/getproverb', (req, res) => {
 
 // a route for downloading audio files from Google Drive
 app.post('/audio', async (req, res) => {
+  // do we really need an async callback here?
    try{
        // set response headers
        res.writeHead(200, {
@@ -67,11 +68,12 @@ app.post('/audio', async (req, res) => {
        // and pipe it directly to response
        audio.data.pipe(res)
    } catch(err){
-      console.log(err)
+      console.log(err.message)
    }
 })
 
 app.get('*', (req, res) => {
+  // Is index.html being resent every time a request hits this route?
  	res.redirect('/')
 })
 
