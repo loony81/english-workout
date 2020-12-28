@@ -1,14 +1,14 @@
 const express = require('express')
 const app = express()
 const axios = require('axios')
-const grammarData = require('./data/grammar_audio.json')
+const grammarSentences = require('./data/grammar_audio.json')
 const proverbs = require('./data/proverbs.json')
 const googleDriveLinks = require('./data/googleDriveLinks.json')
 
-const grammarQty = grammarData.length
+const grammarQty = grammarSentences.length
 const proverbsQty = proverbs.length
 
-
+//middleware
 app.use(express.static(__dirname + '/dist'))
 app.use(express.json())
 
@@ -18,36 +18,33 @@ const findLink = file => {
   return item ? item['Direct Link'] : ''
 }
 
+const grabOneItem = (index, data) => {
+  const item = data[index]
+  // grab one file from the array of audio files, if there are no audio files in the array  
+  // (no audio files have been recorded yet) then send an empty string
+  const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
+  return {
+    sentence: item.proverb, 
+    description: item.description, // there will be no description for proverbs
+    audioFileName,
+    audioFileUrl: findLink(audioFileName)
+  }
+}
+
 app.get('/', (req, res) => {
   res.sendFile('index.html')
 })
 
 app.get('/getgrammar', (req, res) => {
 	const index = Math.floor(Math.random() * grammarQty)
-  const item = grammarData[index]
-  // grab one file from the array of audio files related to this grammar sentence
-  // if there are no audio files in the array (no audio files have been recorded yet) then send an empty string
-  const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
-  const dataToSend = {
-    sentence: item.proverb, 
-    description: item.description,
-    audioFileName,
-    audioFileUrl: findLink(audioFileName)
-  }
+  const dataToSend = grabOneItem(index, grammarSentences)
   return res.send(dataToSend)
 })
 
 app.get('/getproverb', (req, res) => {
   	const index = Math.floor(Math.random() * proverbsQty)
-    const item = proverbs[index]
-    // grab one file from the array of audio files related to this proverb
-    // if there are no audio files in the array (no audio files have been recorded yet) then send an empty string
-    const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
-    const dataToSend = {
-      sentence: item.proverb, 
-      audioFileName,
-      audioFileUrl: findLink(audioFileName)
-    }
+    const {sentence, audioFileName, audioFileUrl} = grabOneItem(index, proverbs) // we don't need the description here
+    const dataToSend = {sentence, audioFileName, audioFileUrl}
     return res.send(dataToSend)
 })
 
@@ -67,8 +64,8 @@ app.post('/audio', async (req, res) => {
        })
        // and pipe it directly to response
        audio.data.pipe(res)
-   } catch(err){
-      console.log(err.message)
+   } catch(e){
+      res.status(500).send(e.message)
    }
 })
 
