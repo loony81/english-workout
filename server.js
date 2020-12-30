@@ -25,7 +25,7 @@ const grabOneItem = (index, data) => {
   const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
   return {
     sentence: item.proverb, 
-    description: item.description, // there will be no description for proverbs
+    description: item.description, // descripton will be undefined for proverbs
     audioFileName,
     audioFileUrl: findLink(audioFileName)
   }
@@ -38,14 +38,14 @@ app.get('/', (req, res) => {
 app.get('/getgrammar', (req, res) => {
 	const index = Math.floor(Math.random() * grammarQty)
   const dataToSend = grabOneItem(index, grammarSentences)
-  return res.send(dataToSend)
+  res.send(dataToSend)
 })
 
 app.get('/getproverb', (req, res) => {
   	const index = Math.floor(Math.random() * proverbsQty)
-    const {sentence, audioFileName, audioFileUrl} = grabOneItem(index, proverbs) // we don't need the description here
+    const {sentence, audioFileName, audioFileUrl} = grabOneItem(index, proverbs) // select everything except description
     const dataToSend = {sentence, audioFileName, audioFileUrl}
-    return res.send(dataToSend)
+    res.send(dataToSend)
 })
 
 // a route for downloading audio files from Google Drive
