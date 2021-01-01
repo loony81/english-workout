@@ -29,9 +29,10 @@ const App = () => {
 	// this function gets the audio file related to the proverb or grammar sentence 
 	// and saves it in indexedDB for offline use
 	// due to the CORS issue we can't download audio files directly from Google Drive,
-	// so instead we make a request to our own server and make it download an audio file from Google Drive
+	// so instead we make a request to our own server and make it download the audio file from Google Drive
 	// and send it back to us
 	async function getAudio(url, name){
+		console.log('inside getAudio()')
 		try {
 			const audioFile = await axios.post('/audio', {url}, {responseType: 'blob'})
 			// store audio file in indexedDB
@@ -41,24 +42,35 @@ const App = () => {
 		}	
 	}
 
+	//this function creates a mask for a proverb or grammar sentence
+	const createMask = str => {
+		let mask = ''
+		for(let char of str){
+			char === ' ' ? mask+=' ' : mask+='x'
+		}
+		return mask
+	}
+
 	//this function makes a request to the server, 
 	// gets a new proverb or grammar sentence and saves it in state
 	async function generate(context){
 		try {
+			const item = await axios.get('/get'+context)
+			const {audioFileUrl, audioFileName} = item.data
+			//check if there is alreay an audio file with this name in indexedDB
+			const audioFileAlreadyInDB = await localforage.getItem(audioFileName)
+			console.log(audioFileAlreadyInDB)
+			console.log(audioFileUrl)
+			// if there is no such file, download it from Google Drive
+			if(audioFileUrl && !audioFileAlreadyInDB) await getAudio(audioFileUrl, audioFileName)
+			//create a mask to hide the sentence, add it to the item as one of the properties
+			//could've added it on the serverside but there's no need to transfer extra data 
+			item.data.mask = createMask(item.data.sentence)
 			if(context == 'grammar') {
-				const item = await axios.get('/getgrammar')
-				const audioFileUrl = item.data.audioFileUrl
-				if(audioFileUrl) await getAudio(audioFileUrl, item.data.audioFileName)
-   				
-				const newGrammarItems = [...grammarItems]
-				newGrammarItems.push(item.data)
+				const newGrammarItems = [...grammarItems, item.data]
 				setGrammarItems(newGrammarItems)
 			} 
-			if(context == 'proverbs') {
-				const item = await axios.get('/getproverb')
-				const audioFileUrl = item.data.audioFileUrl
-				if(audioFileUrl) await getAudio(audioFileUrl, item.data.audioFileName)
-
+			if(context == 'proverb') {
 				const newProverbs = [...proverbs, item.data]
 				setProverbs(newProverbs)
 			}

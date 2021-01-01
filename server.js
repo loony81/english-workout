@@ -65,7 +65,7 @@ app.post('/audio', async (req, res) => {
        // and pipe it directly to response
        audio.data.pipe(res)
    } catch(e){
-      res.status(500).send(e.message)
+      res.sendStatus(500)
    }
 })
 
