@@ -37,8 +37,8 @@ const App = () => {
 			const audioFile = await axios.post('/audio', {url}, {responseType: 'blob'})
 			// store audio file in indexedDB
 			await localforage.setItem(name, audioFile.data)
-		} catch(err) {
-			console.log(err.message)
+		} catch(e) {
+			console.log(e.message)
 		}	
 	}
 
@@ -60,7 +60,7 @@ const App = () => {
 			//check if there is alreay an audio file with this name in indexedDB
 			const audioFileAlreadyInDB = await localforage.getItem(audioFileName)
 			console.log(audioFileAlreadyInDB)
-			console.log(audioFileUrl)
+			console.log(audioFileUrl || 'there\'s no url for this audio')
 			// if there is no such file, download it from Google Drive
 			if(audioFileUrl && !audioFileAlreadyInDB) await getAudio(audioFileUrl, audioFileName)
 			//create a mask to hide the sentence, add it to the item as one of the properties
@@ -74,8 +74,8 @@ const App = () => {
 				const newProverbs = [...proverbs, item.data]
 				setProverbs(newProverbs)
 			}
-		} catch(err) {
-			console.log(err.message)
+		} catch(e) {
+			console.log(e.message)
 		}	 
 	}
 

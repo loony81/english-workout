@@ -51,26 +51,26 @@ app.get('/getproverb', (req, res) => {
 // a route for downloading audio files from Google Drive
 app.post('/audio', async (req, res) => {
   // do we really need an async callback here?
-   try{
-       // set response headers
-       res.writeHead(200, {
-        'Content-Type': 'audio/aac'
-       });
+   try{    
        //get the audio file from Google Drive as a stream
        const audio = await axios({
         url: req.body.url,
         method: 'GET',
         responseType: 'stream'
        })
+       // set response headers
+       res.writeHead(200, {
+        'Content-Type': 'audio/aac'
+       })
        // and pipe it directly to response
        audio.data.pipe(res)
    } catch(e){
-      res.sendStatus(500)
+      res.status(500).send(e.message)
    }
 })
 
 app.get('*', (req, res) => {
-  // Is index.html being resent every time a request hits this route?
+  // Does index.html get resent every time a request hits this route?
  	res.redirect('/')
 })
 

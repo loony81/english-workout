@@ -1,17 +1,16 @@
 import React, {useState, useEffect, useRef} from 'react'
 import Button from './Button'
 import './WorkingArea.css'
-// import { get } from 'idb-keyval'
 import localforage from 'localforage'
 
 
 const WorkingArea = ({items, generate, context}) => {
 
 	let [currentItem, setCurrentItem] = useState(items.length - 1)
-	const [visible, setVisible] = useState(false) // a flag to hide or show a sentence
-	const [revealedSentence, setRevealedSentence] = useState('') // revealedSentence shows a correctly typed portion of a hidden sentece
+	const [sentenceVisibility, setSentenceVisibility] = useState(false) // a flag to hide or show a proverb/grammar sentence
+	const [revealedSentence, setRevealedSentence] = useState('') // revealedSentence shows a correctly typed portion of a sentence
+	const [description, setDescription] = useState(false) // a flag to toggle between the textarea and the description section
 	const taRef = useRef() // to access textarea directly (we can't use getElementById from within React)
-
 
 	// every time a new item is generated and added to the items array, we reset the currentItem index
 	// to point to the latest item
@@ -65,23 +64,23 @@ const WorkingArea = ({items, generate, context}) => {
 	}
 
 	const toggleVisibility = () => {
-		setVisible(!visible) // toggle the visible flag
+		setSentenceVisibility(!sentenceVisibility) // hide or show a proverb/grammar sentence
 		setRevealedSentence(items[currentItem].mask) // reset revealedSentence to be fully hidden
 	}
-
 
 	return (
 		<div className='WorkingArea'>
 			<h3>This is the {context} page!</h3>
 			<div className='WorkingArea-show'>
-				<p>{(currentItem > -1) && (visible ? items[currentItem].sentence : revealedSentence)}</p>
-				<textarea autoFocus onChange={compareText} ref={taRef}></textarea>
-				{context == 'grammar'  && <p>{currentItem == -1 ? '' : items[currentItem].description}</p>}
+				<p>{(currentItem > -1) && (sentenceVisibility ? items[currentItem].sentence : revealedSentence)}</p>
+				<textarea onChange={compareText} ref={taRef} style = {{visibility: description ? 'hidden' : 'visible'}} placeholder='Type it here'></textarea>
+				{context == 'grammar'  && <p style = {{visibility: description ? 'visible' : 'hidden'}}>{currentItem == -1 ? '' : items[currentItem].description}</p>}
+				{(context == 'grammar' && currentItem > -1)  && <button onClick={() => setDescription(!description)}>{description ? <i className="fas fa-keyboard" /> : <i className="fas fa-info" />}</button>}
 			</div>
 			<div className='WorkingArea-navigation'>
 				<Button onClickMe={() => generate(context)}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
 				<Button onClickMe={() => play()}>Play <br/><i className='fas fa-volume-up' /></Button>
-				<Button onClickMe={() => toggleVisibility()} disabled={currentItem < 0 ? true : false}>{visible ? 'Hide' : 'Show'} <br/><i className='fas fa-volume-up' /></Button>
+				<Button onClickMe={() => toggleVisibility()} disabled={currentItem < 0 ? true : false}>{sentenceVisibility ? 'Hide' : 'Show'} <br/>{sentenceVisibility ? <i className="fas fa-eye-slash" /> : <i className="fas fa-eye" />}</Button>
 				<Button onClickMe={() => getPrevious()} disabled={currentItem <= 0 ? true : false}>Previous <br/><i className='fas fa-chevron-circle-left' /></Button>
 			</div>
 			
