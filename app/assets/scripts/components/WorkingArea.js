@@ -79,7 +79,7 @@ const WorkingArea = ({items, generate, context}) => {
 			</div>
 			<div className='WorkingArea-navigation'>
 				<Button onClickMe={() => generate(context)}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
-				<Button onClickMe={() => play()}>Play <br/><i className='fas fa-volume-up' /></Button>
+				<Button onClickMe={() => play()} disabled={currentItem < 0 ? true : false}>Play <br/><i className='fas fa-volume-up' /></Button>
 				<Button onClickMe={() => toggleVisibility()} disabled={currentItem < 0 ? true : false}>{sentenceVisibility ? 'Hide' : 'Show'} <br/>{sentenceVisibility ? <i className="fas fa-eye-slash" /> : <i className="fas fa-eye" />}</Button>
 				<Button onClickMe={() => getPrevious()} disabled={currentItem <= 0 ? true : false}>Previous <br/><i className='fas fa-chevron-circle-left' /></Button>
 			</div>

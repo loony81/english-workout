@@ -3,13 +3,14 @@
 .Button  button{
 	color: #0aa2a4;
 	background: yellow;
-	width: 120px;
+	width: 100px;
 	padding: 10px;
 	border-radius: 5px;
 	outline: none;
 	border: none;
 	cursor: pointer;
-	font-size: 1rem;
+	margin: 0 3px;
+	font-size: .9rem;
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
@@ -28,7 +29,11 @@
 @media screen and (max-width: 860px) {
 	.Button button{
 		padding: 8px;
-		width: 80px;
-		font-size: .7rem;
+		width: 55px;
+		/*Hide text, but leave icon elements*/
+		font-size: 0;
+	}
+	.Button .fas { 
+		font-size: 1.2rem; 
 	}
 }
