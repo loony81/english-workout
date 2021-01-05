@@ -42,11 +42,16 @@ const App = () => {
 		}	
 	}
 
-	//this function creates a mask for a proverb or grammar sentence
+	//this function creates a mask for a proverb or grammar sentence 
+	// (special characters and spaces won't be masked)
 	const createMask = str => {
 		let mask = ''
 		for(let char of str){
-			char === ' ' ? mask+=' ' : mask+='x'
+			if(char.match(/[0-9.:;()\s-]/)) {
+				mask+=char
+			} else {
+				char.match(/[A-Z]/) ? mask+='X' : mask+='x'
+			}
 		}
 		return mask
 	}

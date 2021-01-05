@@ -75,7 +75,7 @@ const WorkingArea = ({items, generate, context}) => {
 				<p>{(currentItem > -1) && (sentenceVisibility ? items[currentItem].sentence : revealedSentence)}</p>
 				<textarea onChange={compareText} ref={taRef} style = {{visibility: description ? 'hidden' : 'visible'}} placeholder='Type it here'></textarea>
 				{context == 'grammar'  && <p style = {{visibility: description ? 'visible' : 'hidden'}}>{currentItem == -1 ? '' : items[currentItem].description}</p>}
-				{(context == 'grammar' && currentItem > -1)  && <button onClick={() => setDescription(!description)}>{description ? <i className="fas fa-keyboard" /> : <i className="fas fa-info" />}</button>}
+				{(context == 'grammar' && currentItem > -1)  && <button onClick={() => setDescription(!description)}>{description ? <i className="fas fa-keyboard" /> : <i className="fas fa-info-circle" />}</button>}
 			</div>
 			<div className='WorkingArea-navigation'>
 				<Button onClickMe={() => generate(context)}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
