@@ -1,35 +1,23 @@
 const express = require('express')
 const app = express()
 const axios = require('axios')
+const winston = require('winston')
+const {grabOneItem} = require('./utils/utils')
+require('./logging')() // handling and logging errors
 const grammarSentences = require('./data/grammar_audio.json')
 const proverbs = require('./data/proverbs.json')
-const googleDriveLinks = require('./data/googleDriveLinks.json')
 
-const grammarQty = grammarSentences.length
-const proverbsQty = proverbs.length
+
 
 //middleware
 app.use(express.static(__dirname + '/dist'))
 app.use(express.json())
 
-const findLink = file => {
-  //find the link to the audio file in googleDriveLinks
-  const item = googleDriveLinks.find(item => item.Filename === file)
-  return item ? item['Direct Link'] : ''
-}
+//calculate how many items are stored in each json file
+const grammarQty = grammarSentences.length
+const proverbsQty = proverbs.length
 
-const grabOneItem = (index, data) => {
-  const item = data[index]
-  // grab one file from the array of audio files, if there are no audio files in the array  
-  // (no audio files have been recorded yet) then send an empty string
-  const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
-  return {
-    sentence: item.proverb, 
-    description: item.description, // descripton will be undefined for proverbs
-    audioFileName,
-    audioFileUrl: findLink(audioFileName)
-  }
-}
+const port = process.env.PORT || 8080 // add port to config later
 
 app.get('/', (req, res) => {
   res.sendFile('index.html')
@@ -49,24 +37,19 @@ app.get('/getproverb', (req, res) => {
 })
 
 // a route for downloading audio files from Google Drive
-app.post('/audio', async (req, res) => {
-  // do we really need an async callback here?
-   try{    
-       //get the audio file from Google Drive as a stream
-       const audio = await axios({
-        url: req.body.url,
-        method: 'GET',
-        responseType: 'stream'
-       })
-       // set response headers
-       res.writeHead(200, {
-        'Content-Type': 'audio/aac'
-       })
-       // and pipe it directly to response
-       audio.data.pipe(res)
-   } catch(e){
-      res.status(500).send(e.message)
-   }
+app.post('/audio', async (req, res) => {  
+   //get the audio file from Google Drive as a stream
+   const audio = await axios({
+    url: req.body.url,
+    method: 'GET',
+    responseType: 'stream'
+   })
+   // set response headers
+   res.writeHead(200, {
+    'Content-Type': 'audio/aac'
+   })
+   // and pipe it directly to response
+   audio.data.pipe(res)
 })
 
 app.get('*', (req, res) => {
@@ -74,4 +57,7 @@ app.get('*', (req, res) => {
  	res.redirect('/')
 })
 
-app.listen(8080)
+//error handling middleware must be registered after all the other middlewares and routes
+  app.use(require('./middleware/error'))
+
+app.listen(port, () => winston.info(`Listening on port ${port} ...`))

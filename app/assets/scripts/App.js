@@ -47,7 +47,7 @@ const App = () => {
 	const createMask = str => {
 		let mask = ''
 		for(let char of str){
-			if(char.match(/[0-9.:;()\s-]/)) {
+			if(char.match(/[0-9.:;()!?\s-]/)) {
 				mask+=char
 			} else {
 				char.match(/[A-Z]/) ? mask+='X' : mask+='x'
