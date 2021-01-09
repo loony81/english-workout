@@ -11,6 +11,8 @@ const WorkingArea = ({items, generate, context}) => {
 	const [revealedSentence, setRevealedSentence] = useState('') // revealedSentence shows a correctly typed portion of a sentence
 	const [description, setDescription] = useState(false) // a flag to toggle between the textarea and the description section
 	const taRef = useRef() // to access textarea directly (we can't use getElementById from within React)
+	const audio = new Audio()
+	audio.volume = 1
 
 	// every time a new item is generated and added to the items array, we reset the currentItem index
 	// to point to the latest item
@@ -26,8 +28,14 @@ const WorkingArea = ({items, generate, context}) => {
 		taRef.current.value = '' // clear textarea when switching between items
 	}, [currentItem])
 
+	const getNext = () => {
+		audio.pause()//stop current audio playback when switching to the next item
+		generate(context)
+	}
+
 
 	const getPrevious = () => {
+		audio.pause()//stop current audio playback when switching to the previous item
 		setCurrentItem(currentItem - 1)
 	}
 
@@ -40,14 +48,11 @@ const WorkingArea = ({items, generate, context}) => {
 				if(!blob){
 					// if audio can't be found in indexedDB and fileUrl is not an empty string
 					// then try to play it direclty from Google Drive
-					const audio = await new Audio(fileUrl)
-					audio.volume = 1
-					audio.play()
+					audio.src = fileUrl
 				} else {
-					const audio = new Audio(URL.createObjectURL(blob))
-					audio.volume = 1
-					audio.play()
+					audio.src = URL.createObjectURL(blob)
 				}
+				await audio.play()
 			} catch(err) {
 				console.log(err.message)
 			}
@@ -78,7 +83,7 @@ const WorkingArea = ({items, generate, context}) => {
 				{(context == 'grammar' && currentItem > -1)  && <button onClick={() => setDescription(!description)}>{description ? <i className="fas fa-keyboard" /> : <i className="fas fa-info-circle" />}</button>}
 			</div>
 			<div className='WorkingArea-navigation'>
-				<Button onClickMe={() => generate(context)}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
+				<Button onClickMe={() => getNext()}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
 				<Button onClickMe={() => play()} disabled={currentItem < 0 ? true : false}>Play <br/><i className='fas fa-volume-up' /></Button>
 				<Button onClickMe={() => toggleVisibility()} disabled={currentItem < 0 ? true : false}>{sentenceVisibility ? 'Hide' : 'Show'} <br/>{sentenceVisibility ? <i className="fas fa-eye-slash" /> : <i className="fas fa-eye" />}</Button>
 				<Button onClickMe={() => getPrevious()} disabled={currentItem <= 0 ? true : false}>Previous <br/><i className='fas fa-chevron-circle-left' /></Button>
