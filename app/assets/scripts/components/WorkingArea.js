@@ -18,6 +18,8 @@ const WorkingArea = ({items, generate, context}) => {
 	// to point to the latest item
 	useEffect(() => {
 		setCurrentItem(items.length - 1)
+		setSentenceVisibility(false) // hide the sentence in case it is shown
+		setDescription(false) // hide the description in case it is shown
 	}, [items.length])
 
 
@@ -37,9 +39,11 @@ const WorkingArea = ({items, generate, context}) => {
 	const getPrevious = () => {
 		audio.pause()//stop current audio playback when switching to the previous item
 		setCurrentItem(currentItem - 1)
+		setSentenceVisibility(false) // hide the sentence in case it is shown
+		setDescription(false) // hide the description in case it is shown
 	}
 
-	async function play(){
+	async function playSound(){
 		const fileName = items[currentItem].audioFileName
 		const fileUrl = items[currentItem].audioFileUrl
 		if(fileUrl){
@@ -62,9 +66,19 @@ const WorkingArea = ({items, generate, context}) => {
 	// this event handler compares the text being typed in the textarea with the masked sentence
 	// and gradually reveals it if it is typed correctly
 	const compareText = e => {
-		 const l = e.target.value.length
-		if(items[currentItem].sentence.startsWith(e.target.value)) {
-			setRevealedSentence(e.target.value + items[currentItem].mask.slice(l))
+		const color = e.target.style.color
+		const text = e.target.value
+		const l = e.target.value.length
+		const item = items[currentItem]
+		if(item.sentence.startsWith(text)) {
+			setRevealedSentence(text + item.mask.slice(l))
+			if(color === 'red' || 'green') e.target.style.color = 'black'
+			if(item.sentence.length === l) {
+				e.target.style.color = 'green'
+				setSentenceVisibility(true)
+			}
+		} else {
+			e.target.style.color = 'red'
 		}
 	}
 
@@ -84,7 +98,7 @@ const WorkingArea = ({items, generate, context}) => {
 			</div>
 			<div className='WorkingArea-navigation'>
 				<Button onClickMe={() => getNext()}>Next <br/><i className='fas fa-chevron-circle-right' /></Button>
-				<Button onClickMe={() => play()} disabled={currentItem < 0 ? true : false}>Play <br/><i className='fas fa-volume-up' /></Button>
+				<Button onClickMe={() => playSound()} disabled={currentItem < 0 ? true : false}>Play <br/><i className='fas fa-volume-up' /></Button>
 				<Button onClickMe={() => toggleVisibility()} disabled={currentItem < 0 ? true : false}>{sentenceVisibility ? 'Hide' : 'Show'} <br/>{sentenceVisibility ? <i className="fas fa-eye-slash" /> : <i className="fas fa-eye" />}</Button>
 				<Button onClickMe={() => getPrevious()} disabled={currentItem <= 0 ? true : false}>Previous <br/><i className='fas fa-chevron-circle-left' /></Button>
 			</div>

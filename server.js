@@ -4,7 +4,7 @@ const axios = require('axios')
 const winston = require('winston')
 const {grabOneItem} = require('./utils/utils')
 require('./logging')() // handling and logging errors
-const grammarSentences = require('./data/grammar_audio.json')
+const grammarSentences = require('./data/grammar.json')
 const proverbs = require('./data/proverbs.json')
 
 

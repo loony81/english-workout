@@ -1,9 +1,9 @@
-const googleDriveLinks = require('../data/googleDriveLinks.json')
+const googleDriveLinks = require('../data/googleDriveLinksForGrammar.json')
 
 const findLink = file => {
 	//find the link to the audio file in googleDriveLinks
-	const item = googleDriveLinks.find(item => item.Filename === file)
-	return item ? item['Direct Link'] : ''
+	const item = googleDriveLinks.find(item => item.name === file)
+	return item ? item['link'] : ''
 }
 
 module.exports = {
