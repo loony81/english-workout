@@ -2,16 +2,15 @@ import React, {useState} from 'react'
 import {Link, NavLink} from 'react-router-dom'
 import './Navbar.css'
 
-const Navbar = () => {
+const Navbar = ({audio}) => {
 
 	const [click, setClick] = useState(false);
-	// const [button, setButton] = useState(true);
 	const handleClick = () => setClick(!click);
-	const closeMobileMenu = () => setClick(false)
-	// const showButton = () => {
-	// 	window.innerWidth <= 860 ? setButton(false) : setButton(true)
-	// }
-	// window.addEventListener('resize', showButton)
+	// const closeMobileMenu = () => setClick(false)
+	const closeMobileMenu = () => {
+		setClick(false)
+		audio.pause()//stop current audio playback when switching between pages
+	}
 
 	const navs = [
 		{path:'/', page: 'HOME'},

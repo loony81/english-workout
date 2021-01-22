@@ -2,7 +2,7 @@
 // my own styles
 import './App.css'
 // import React related modules
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import ReactDOM from 'react-dom'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 // import components
@@ -21,26 +21,70 @@ import localforage from 'localforage'
 if(module.hot) module.hot.accept() 
 
 
+
 const App = () => {
 	//state
 	const [grammarItems, setGrammarItems] = useState([])
 	const [proverbs, setProverbs] = useState([])
+	const [online, setOnline] = useState(true) // a flag to check if a user is currently online of offline
+	const [audio, setAudio] = useState(new Audio())
+	audio.volume = 1
+	
+	// this url is to check internet connection during development, for production change it to origin
+	// const url = new URL(window.location.origin)
+	const url = new URL('https://ipv4.icanhazip.com')
+	let interval
 
-	// this function gets the audio file related to the proverb or grammar sentence 
-	// and saves it in indexedDB for offline use
-	// due to the CORS issue we can't download audio files directly from Google Drive,
-	// so instead we make a request to our own server and make it download the audio file from Google Drive
-	// and send it back to us
-	async function getAudio(url, name){
-		console.log('inside getAudio()')
-		try {
-			const audioFile = await axios.post('/audio', {url}, {responseType: 'blob'})
-			// store audio file in indexedDB
-			await localforage.setItem(name, audioFile.data)
+
+	useEffect(() => {
+		window.addEventListener('offline', async e => {
+		   //check if there's no Internet connection before setting offline mode
+		   const result = await checkInternetConnection()
+		   if(!result && online) {
+		   	   setOnline(false)
+		   	   console.log('You are offline.')
+		   }
+		}, false)
+		window.addEventListener('online', async e => {
+		   // make sure a user is really connected to the Internet (not just to a network)
+			const result = await checkInternetConnection()	
+			if(result){
+				setOnline(true)
+			}	   
+		}, false)
+	}, [])
+
+
+	useEffect(() => {
+		if(!online){
+			interval = setInterval(async () => {
+				const result = await checkInternetConnection()	
+				console.log(result)
+				if(result){
+					setOnline(true)
+					clearInterval(interval)
+				}
+			}, 5000)
+		}
+	}, [online])
+
+
+	const checkInternetConnection = async () => {
+		console.log('inside checkInternetConnection()')
+		// random value to prevent cached responses
+	  	url.searchParams.set('rand', Date.now())
+		try {	
+			await axios.head(url.toString())
+			console.log('Connection to the Internet restored.')
+			return true
 		} catch(e) {
-			console.log(e.message)
-		}	
+			console.log('Trying to reconnect...')
+			return false
+		}
 	}
+
+
+
 
 	//this function creates a mask for a proverb or grammar sentence 
 	// (special characters and spaces won't be masked)
@@ -56,6 +100,13 @@ const App = () => {
 		return mask
 	}
 
+
+	// due to the CORS issue we can't download audio files directly from Google Drive,
+	// so instead we make a request to our own server and make it download the audio file from Google Drive
+	// and send it back to us
+
+	const getAudio = url => axios.post('/audio', {url}, {responseType: 'blob'})
+
 	//this function makes a request to the server, 
 	// gets a new proverb or grammar sentence and saves it in state
 	async function generate(context){
@@ -66,8 +117,14 @@ const App = () => {
 			const audioFileAlreadyInDB = await localforage.getItem(audioFileName)
 			console.log(audioFileAlreadyInDB)
 			console.log(audioFileUrl || 'there\'s no url for this audio')
-			// if there is no such file, download it from Google Drive
-			if(audioFileUrl && !audioFileAlreadyInDB) await getAudio(audioFileUrl, audioFileName)
+			// if there is no such file, download it from Google Drive and save it to db
+			if(audioFileUrl && !audioFileAlreadyInDB) {
+				//just return if can't download it from Google Drive 
+				const audioFile = await getAudio(audioFileUrl)
+				if(!audioFile) return
+				// store audio file in indexedDB for offline use
+				await localforage.setItem(audioFileName, audioFile.data)
+			}
 			//create a mask to hide the sentence, add it to the item as one of the properties
 			//could've added it on the serverside but there's no need to transfer extra data 
 			item.data.mask = createMask(item.data.sentence)
@@ -80,18 +137,19 @@ const App = () => {
 				setProverbs(newProverbs)
 			}
 		} catch(e) {
-			console.log(e.message)
+			console.log('Something wrong inside generate(): ' + e.message)
+			setOnline(false)
 		}	 
 	}
 
 	return (
 		<>
 			<Router>
-				<Navbar/>
+				<Navbar audio={audio} />
 				<Switch>
 					<Route path='/' exact><Home/></Route>
-					<Route path='/grammar'><Grammar generate={generate} items={grammarItems}/></Route>
-					<Route path='/proverbs'><Proverbs generate={generate} items={proverbs} /></Route>
+					<Route path='/grammar'><Grammar generate={generate} items={grammarItems} online={online} audio={audio} /></Route>
+					<Route path='/proverbs'><Proverbs generate={generate} items={proverbs} online={online} audio={audio} /></Route>
 					<Route path='/about'><About/></Route>
 				</Switch>
 				<Footer/>

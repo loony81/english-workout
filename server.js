@@ -37,6 +37,9 @@ app.get('/getproverb', (req, res) => {
 })
 
 // a route for downloading audio files from Google Drive
+// due to the CORS issue we can't download audio files directly from Google Drive,
+// so instead we make a request to our own server and make it download the audio file from Google Drive
+// and send it back to us
 app.post('/audio', async (req, res) => {  
    //get the audio file from Google Drive as a stream
    const audio = await axios({
