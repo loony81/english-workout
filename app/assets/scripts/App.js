@@ -145,7 +145,7 @@ const App = () => {
 	return (
 		<>
 			<Router>
-				<Navbar audio={audio} />
+				<Navbar audio={audio} online={online} />
 				<Switch>
 					<Route path='/' exact><Home/></Route>
 					<Route path='/grammar'><Grammar generate={generate} items={grammarItems} online={online} audio={audio} /></Route>

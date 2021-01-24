@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {Link, NavLink} from 'react-router-dom'
 import './Navbar.css'
 
-const Navbar = ({audio}) => {
+const Navbar = ({audio, online}) => {
 
 	const [click, setClick] = useState(false);
 	const handleClick = () => setClick(!click);
@@ -25,7 +25,7 @@ const Navbar = ({audio}) => {
 			<div className='Navbar-container'>
 				<Link to='/' className='Navbar-logo' onClick={closeMobileMenu}>
 					<img src="assets/images/dumbbell.svg" />&nbsp;ENGLISH WORKOUT 
-				</Link>	
+				</Link>		
 				<ul className={click ? 'Navbar-menu active' : 'Navbar-menu'}>
 					{navs.map((item,i) => (
 			        	<li key={i} className='Navbar-item'><NavLink to={item.path} exact className='Navbar-link' activeClassName='Navbar-link-active' onClick={closeMobileMenu}>{item.page}</NavLink></li>

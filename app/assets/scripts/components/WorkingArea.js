@@ -48,7 +48,6 @@ const WorkingArea = ({items, generate, context, online, audio}) => {
 		// in case a user is back online but the loading animation is still in progress, then remove it
 		if(online && loading){
 			setLoading(false)
-			// clearInterval(animation)
 			items.length > 0 ? pRef.current.textContent = items[currentItem].mask : pRef.current.textContent = ''
 		}
 	}, [online])
@@ -153,8 +152,7 @@ const WorkingArea = ({items, generate, context, online, audio}) => {
 
 	return (
 		<div className='WorkingArea'>
-			<h3>This is the {context} page!</h3>
-			{!online  && <p>You are currently offline.</p>}
+			<h5 style = {{visibility: online ? 'hidden' : 'visible'}}>You are currently offline. Please check your internet connection.</h5>
 			<div className='WorkingArea-show'>
 				<p ref={pRef}>{(currentItem > -1) && (sentenceVisibility ? items[currentItem].sentence : revealedSentence)}</p>
 				<textarea onChange={compareText} ref={taRef} style = {{visibility: description ? 'hidden' : 'visible'}} placeholder='Type it here'></textarea>

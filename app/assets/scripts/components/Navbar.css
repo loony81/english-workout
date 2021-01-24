@@ -33,6 +33,7 @@
   transform: rotateZ(-45deg);
 }
 
+
 .Navbar-menu{
 	display: flex;
 	list-style: none;
@@ -70,22 +71,26 @@
 
 @media screen and (max-width: 860px) {
 	.Navbar-container {
-	  height: 60px;
+	  height: 50px;
 	}
 
 	.Navbar-logo {
-	  font-size: 1.5rem;
+	  font-size: 1rem;
 	}
 	.Navbar-logo img{
-	width: 2rem;
-	margin-left: .8rem;
-}
+  	width: 1.2rem;
+  	margin-left: .6rem;
+  }
+  .Navbar-online img{
+    width: 1.2rem;
+    padding: .5rem 0 1.2rem 0
+  }
    .Navbar-menu {
     flex-direction: column;
     width: 100%;
-    height: 90vh;
+    height: 92vh;
     position: absolute;
-    top: 60px;
+    top: 50px;
     left: -100%;
     /*transition: all 0.5s ease;*/
   }
@@ -112,7 +117,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    transform: translate(-100%, 30%);
+    transform: translate(-100%, 20%);
     font-size: 1.8rem;
     cursor: pointer;
   }
