@@ -112,6 +112,7 @@ const WorkingArea = ({items, generate, context, online, audio}) => {
 						// if audio can't be found in indexedDB and fileUrl is not an empty string
 						// then try to play it direclty from Google Drive
 						audio.src = fileUrl
+						console.log('playing from Google Drive')
 					} else {
 						audio.src = URL.createObjectURL(blob)
 					}

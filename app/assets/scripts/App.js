@@ -21,7 +21,6 @@ import localforage from 'localforage'
 if(module.hot) module.hot.accept() 
 
 
-
 const App = () => {
 	//state
 	const [grammarItems, setGrammarItems] = useState([])
@@ -31,8 +30,8 @@ const App = () => {
 	audio.volume = 1
 	
 	// this url is to check internet connection during development, for production change it to origin
-	// const url = new URL(window.location.origin)
-	const url = new URL('https://ipv4.icanhazip.com')
+	// const url = new URL('https://ipv4.icanhazip.com')
+	const url = new URL(window.location.origin)
 	let interval
 
 
@@ -42,7 +41,6 @@ const App = () => {
 		   const result = await checkInternetConnection()
 		   if(!result && online) {
 		   	   setOnline(false)
-		   	   console.log('You are offline.')
 		   }
 		}, false)
 		window.addEventListener('online', async e => {
@@ -70,7 +68,6 @@ const App = () => {
 
 
 	const checkInternetConnection = async () => {
-		console.log('inside checkInternetConnection()')
 		// random value to prevent cached responses
 	  	url.searchParams.set('rand', Date.now())
 		try {	
@@ -82,8 +79,6 @@ const App = () => {
 			return false
 		}
 	}
-
-
 
 
 	//this function creates a mask for a proverb or grammar sentence 
@@ -104,6 +99,7 @@ const App = () => {
 	// due to the CORS issue we can't download audio files directly from Google Drive,
 	// so instead we make a request to our own server and make it download the audio file from Google Drive
 	// and send it back to us
+	// 26.01.2021 note: after adding the helmet package on the server side, it is now possible to load audio directly from Google Drive
 
 	const getAudio = url => axios.post('/audio', {url}, {responseType: 'blob'})
 
@@ -112,15 +108,16 @@ const App = () => {
 	async function generate(context){
 		try {
 			const item = await axios.get('/get'+context)
-			const {audioFileUrl, audioFileName} = item.data
+			let {audioFileUrl, audioFileName} = item.data
+			audioFileName = context + '/' + audioFileName//add a prefix to a name to prevent name collisions inside indexedDB
+			item.data.audioFileName = audioFileName
 			//check if there is alreay an audio file with this name in indexedDB
 			const audioFileAlreadyInDB = await localforage.getItem(audioFileName)
-			console.log(audioFileAlreadyInDB)
-			console.log(audioFileUrl || 'there\'s no url for this audio')
+			console.log(audioFileUrl || 'there\'s no audio for this item yet')
 			// if there is no such file, download it from Google Drive and save it to db
 			if(audioFileUrl && !audioFileAlreadyInDB) {
-				//just return if can't download it from Google Drive 
 				const audioFile = await getAudio(audioFileUrl)
+				//just return if can't download it from Google Drive 
 				if(!audioFile) return
 				// store audio file in indexedDB for offline use
 				await localforage.setItem(audioFileName, audioFile.data)
@@ -138,7 +135,7 @@ const App = () => {
 			}
 		} catch(e) {
 			console.log('Something wrong inside generate(): ' + e.message)
-			setOnline(false)
+			if(e.isAxiosError) setOnline(false)
 		}	 
 	}
 

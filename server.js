@@ -1,66 +1,39 @@
 const express = require('express')
 const app = express()
-const axios = require('axios')
-const winston = require('winston')
-const {grabOneItem} = require('./utils/utils')
+const winston = require('winston') // for logging
+const helmet = require('helmet') // for security
+const config = require('config')
 require('./logging')() // handling and logging errors
-const grammarSentences = require('./data/grammar.json')
-const proverbs = require('./data/proverbs.json')
-
-
+const PORT = config.get('port')
 
 //middleware
+app.use(helmet())
+app.use(
+  helmet.contentSecurityPolicy({
+    directives: {
+      defaultSrc: ["'self'", "https://ka-f.fontawesome.com"],
+      scriptSrc: ["'self'", "https://kit.fontawesome.com/72a7ac7789.js"],
+      styleSrc: ["'self'", "'unsafe-inline'", "https://fonts.googleapis.com"],
+      fontSrc: ["https://fonts.googleapis.com", "https://fonts.gstatic.com", "https://ka-f.fontawesome.com"],
+      // adding an asterisk allows to load media from any resource, so we don't need to use proxy route anymore
+      mediaSrc: ["*", "blob:"] // we need to add blob: to allow loading audio files from indexedDB
+    }
+  })
+)
 app.use(express.static(__dirname + '/dist'))
 app.use(express.json())
 
-//calculate how many items are stored in each json file
-const grammarQty = grammarSentences.length
-const proverbsQty = proverbs.length
 
-const port = process.env.PORT || 8080 // add port to config later
-
+//routes
 app.get('/', (req, res) => {
   res.sendFile('index.html')
 })
-
-app.get('/getgrammar', (req, res) => {
-	const index = Math.floor(Math.random() * grammarQty)
-  const dataToSend = grabOneItem(index, grammarSentences)
-  res.send(dataToSend)
-})
-
-app.get('/getproverb', (req, res) => {
-  	const index = Math.floor(Math.random() * proverbsQty)
-    const {sentence, audioFileName, audioFileUrl} = grabOneItem(index, proverbs) // select everything except description
-    const dataToSend = {sentence, audioFileName, audioFileUrl}
-    res.send(dataToSend)
-})
-
-// a route for downloading audio files from Google Drive
-// due to the CORS issue we can't download audio files directly from Google Drive,
-// so instead we make a request to our own server and make it download the audio file from Google Drive
-// and send it back to us
-app.post('/audio', async (req, res) => {  
-   //get the audio file from Google Drive as a stream
-   const audio = await axios({
-    url: req.body.url,
-    method: 'GET',
-    responseType: 'stream'
-   })
-   // set response headers
-   res.writeHead(200, {
-    'Content-Type': 'audio/aac'
-   })
-   // and pipe it directly to response
-   audio.data.pipe(res)
-})
-
+app.use(require('./routes/routes'))
 app.get('*', (req, res) => {
-  // Does index.html get resent every time a request hits this route?
  	res.redirect('/')
 })
 
 //error handling middleware must be registered after all the other middlewares and routes
-  app.use(require('./middleware/error'))
+app.use(require('./middleware/error'))
 
-app.listen(port, () => winston.info(`Listening on port ${port} ...`))
+app.listen(PORT, () => winston.info(`Listening on port ${PORT} ...`))
