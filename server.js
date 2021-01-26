@@ -4,7 +4,7 @@ const winston = require('winston') // for logging
 const helmet = require('helmet') // for security
 const config = require('config')
 require('./logging')() // handling and logging errors
-const PORT = config.get('port')
+const PORT = process.env.PORT || config.get('port')
 
 //middleware
 app.use(helmet())

@@ -11,7 +11,6 @@
 *.sass-cache
 node_modules/
 .tmp/
-dist/
 # OS or Editor folders
 .DS_Store
 Thumbs.db
@@ -28,4 +27,4 @@ nbproject
 _notes
 dwsync.xml
 todo.txt
-data/
+app/
