@@ -441,7 +441,7 @@
   "sounds": [
    "thehilton.aac"
   ], 
-  "description": "These sentences demonstrate that the definite article is used with the names of hotels, but not when they are named after their owners"
+  "description": "These sentences demonstrate that the definite article is used with the names of hotels (and also pubs and restaurants), but not when they are named after their owners. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here"
  }, 
  {
   "proverb": "At the Prancing Pony, an inn in the village of Bree, Frodo received a delayed letter from Gandalf. My sister often stays at Uncle Tim's in Detroit.", 
@@ -449,7 +449,7 @@
    "theprancingpony.aac", 
    "theprancingpony1.aac"
   ], 
-  "description": "These sentences demonstrate that the definite article is used with pubs and restaurants, but not when they are named after their owners"
+  "description": "These sentences demonstrate that the definite article is used with pubs, restaurants and hotels also, but not when they are named after their owners. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here"
  }, 
  {
   "proverb": "He who rides a tiger can never get off.", 
@@ -1024,7 +1024,7 @@
   "sounds": [
    "bread.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with the names of shops"
+  "description": "This sentence demonstrates the use of the definite article with the names of shops. And it is a common practice to omit the following words: shop, bakery, grocery, pharmacy, etc especially if a place is named after someone. For example: Smith's Food & Drug or just Smith's, Nathan's Pharmacy or just Nathan's, Nathan's Bakery, etc"
  }, 
  {
   "proverb": "They reached King's Cross at half past ten.", 
@@ -1123,14 +1123,14 @@
   "sounds": [
    "tomorrow.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use the definite article before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
+  "description": "This sentence demonstrates that we do not use any articles (definite or indefinite) before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
  }, 
  {
   "proverb": "Yesterday was our anniversary.", 
   "sounds": [
    "yesterday.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use the definite article before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
+  "description": "This sentence demonstrates that we do not use any articles (definite or indefinite) before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
  }, 
  {
   "proverb": "We rarely get snow in winter. We rarely get snow in the winter. Both these sentences are correct.", 
@@ -1807,14 +1807,14 @@
    "wearing.aac", 
    "ring.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry and makeup), and we use it in the continuous form when we want to describe the action of wearing something, because it is something that is taking place over time or was taking place over time: 'She was wearing...'. The simple form is usually used to express a habitual action. Compare: 'The girl is wearing a black dress' means she is wearing it at the moment, 'The girl wears a black dress every time she goes to church' means on a regular basis but not necessarily at the moment. It also demonstrates when to use the preposition 'on' (when something is attached to something else)"
+  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, makeup and perfume), and we use it in the continuous form when we want to describe the action of wearing something, because it is something that is taking place over time or was taking place over time: 'She was wearing...'. The simple form is usually used to express a habitual action. Compare: 'The girl is wearing a black dress' means she is wearing it at the moment, 'The girl wears a black dress every time she goes to church' means on a regular basis but not necessarily at the moment. It also demonstrates when to use the preposition 'on' (when something is attached to something else)"
  }, 
  {
   "proverb": "I used to wear too much makeup, but not anymore.", 
   "sounds": [
    "wear.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry and makeup)"
+  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, makeup and perfume)"
  }, 
  {
   "proverb": "She helped me to carry my suitcases.", 
@@ -1863,7 +1863,7 @@
   "sounds": [
    "aunt.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes etc"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes etc. We often say: I am at John's or she is at her aunt's (the implication is John's house or aunt's house)"
  }, 
  {
   "proverb": "My friend works at the hospital downtown.", 
@@ -3086,7 +3086,7 @@
   "sounds": [
    "deserve.aac"
   ], 
-  "description": "'deserve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say '... they are deserving'. But it can be used with 'ing' form as an adjective"
+  "description": "'deserve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say '... they are deserving'. But it can be used with 'ing' form as an adjective - достойный, заслуживающий"
  },
  {
   "proverb": "You can do as you please. It pleases me to know that you liked the gift.", 

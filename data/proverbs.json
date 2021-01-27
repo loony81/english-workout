@@ -2699,7 +2699,8 @@
    {
       "proverb":"An empty barrel makes the most noise",
       "sounds":[
-         
+         "barrel.aac",
+         "barrel1.aac"
       ]
    },
    {
@@ -2717,19 +2718,21 @@
    {
       "proverb":"An enemy will agree, but a friend will argue",
       "sounds":[
-         
+         "argue2.aac",
+         "argue3.aac"
       ]
    },
    {
       "proverb":"An Englishman's home is his castle",
       "sounds":[
-         
+         "castle2.aac",
+         "castle3.aac"
       ]
    },
    {
       "proverb":"An eye for an eye, a tooth for a tooth (Retaliation or punishment should take the same form as the original offense or crime)",
       "sounds":[
-         
+         "tooth.aac"
       ]
    },
    {
@@ -2793,7 +2796,8 @@
    {
       "proverb":"An imaginary ailment is worse than a disease",
       "sounds":[
-         
+         "ailment.aac",
+         "ailment1.aac"
       ]
    },
    {
@@ -2840,9 +2844,10 @@
       ]
    },
    {
-      "proverb":"An open door may tempt a saint (It is best not to put temptation in anybody's way—even the most honest and upright person might find it hard to resist)",
+      "proverb":"An open door may tempt a saint (It is best not to put temptation in anybody's way, even the most honest and upright person might find it hard to resist)",
       "sounds":[
-         
+         "saint.aac",
+         "saint1.aac"
       ]
    },
    {
@@ -2868,7 +2873,8 @@
    {
       "proverb":"An ounce of prevention is worth a pound of cure (It often takes a lot of effort to put right something that could have been prevented with a little effort)",
       "sounds":[
-         
+         "ounce.aac",
+         "ounce1.aac"
       ]
    },
    {
@@ -2884,9 +2890,9 @@
       ]
    },
    {
-      "proverb":"And that's what this is all about",
+      "proverb":"That's what this is all about!",
       "sounds":[
-         
+         "allabout.aac"
       ]
    },
    {
@@ -11808,7 +11814,8 @@
    {
       "proverb":"It is always a strength to know the weaknesses of your friends",
       "sounds":[
-         "Audio recording 2019-02-18 12-13-04.aac"
+         "Audio recording 2019-02-18 12-13-04.aac",
+         "weaknesses.aac"
       ]
    },
    {
