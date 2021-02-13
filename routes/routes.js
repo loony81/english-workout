@@ -3,11 +3,13 @@ const router = express.Router()
 const axios = require('axios')
 const grammarSentences = require('../data/grammar.json')
 const proverbs = require('../data/proverbs.json')
+const translateSentences = require('../data/translate.json')
 const googleDriveLinksForGrammar = require('../data/googleDriveLinksForGrammar.json')
 const googleDriveLinksForProverbs = require('../data/googleDriveLinksForProverbs.json')
 //calculate how many items are stored in each json file
 const grammarQty = grammarSentences.length
 const proverbsQty = proverbs.length
+const translateQty = translateSentences.length
 
 
 const findLink = (file, googleDriveLinks) => {
@@ -18,6 +20,13 @@ const findLink = (file, googleDriveLinks) => {
 
 const grabOneItem = (index, data, googleDriveLinks) => {
 	const item = data[index]
+  // if googleDriveLinks is not provided it means that we don't need an audio file (this is for translation)
+  if(!googleDriveLinks){
+    return {
+      sentence: item.proverb, 
+      description: item.description
+    }
+  }
 	// grab one file from the array of audio files, if there are no audio files in the array  
 	// (no audio files have been recorded yet) then send an empty string
 	const audioFileName = item.sounds[Math.floor(Math.random() * item.sounds.length)] || ''
@@ -41,6 +50,12 @@ router.get('/getproverb', (req, res) => {
     const {sentence, audioFileName, audioFileUrl} = grabOneItem(index, proverbs, googleDriveLinksForProverbs) // select everything except description
     const dataToSend = {sentence, audioFileName, audioFileUrl}
     res.send(dataToSend)
+})
+
+router.get('/gettranslate', (req, res) => {
+  const index = Math.floor(Math.random() * translateQty)
+  const dataToSend = grabOneItem(index, translateSentences)
+  res.send(dataToSend)
 })
 
 // a route for downloading audio files from Google Drive

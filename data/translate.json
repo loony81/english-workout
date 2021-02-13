@@ -1,0 +1,482 @@
+[
+ {
+  "description": "Как ты себя чувствуешь?",  
+  "proverb": "How are you feeling?"
+ },
+ {
+  "description": "Сделайте глубокий вдох",  
+  "proverb": "Take a deep breath"
+ },
+ {
+  "description": "Я в пути (я уже в пути)",  
+  "proverb": "I am on my way"
+ },
+ {
+  "description": "Я не виню тебя",  
+  "proverb": "I don't blame you"
+ },
+ {
+  "description": "Где ты был все это время?",  
+  "proverb": "Where have you been all this time?"
+ },
+ {
+  "description": "О чем ты говоришь?",  
+  "proverb": "What are you talking about?"
+ },
+ {
+  "description": "Как поживаешь? (Как складывались дела последнее время?)",  
+  "proverb": "How've you been?"
+ },
+ {
+  "description": "Ты когда-нибудь был за границей?",  
+  "proverb": "Have you been abroad?"
+ },
+ {
+  "description": "Тебе стоит попробовать",  
+  "proverb": "You should give it a try"
+ },
+ {
+  "description": "На твоем месте я бы этого не делал!",  
+  "proverb": "I wouldn't do that if I were you!"
+ },
+ {
+  "description": "Зря я это сказал!",  
+  "proverb": "I shouldn't have said that!"
+ },
+ {
+  "description": "Тебе следовало послушаться меня!",  
+  "proverb": "You should've listened to me!"
+ },
+ {
+  "description": "Пошли на пляж!",  
+  "proverb": "Let's go to the beach!"
+ },
+ {
+  "description": "Ты нарочно это сделал, не так ли?",  
+  "proverb": "You did it on purpose, didn't you?"
+ },
+ {
+  "description": "Я взял твою книгу по ошибке",  
+  "proverb": "I took your book by mistake"
+ },
+ {
+  "description": "По-моёму, тебе пора идти спать",  
+  "proverb": "I think it's time you went to bed"
+ },
+ {
+  "description": "Что случилось?",  
+  "proverb": "What happened?"
+ },
+ {
+  "description": "Может быть тебе самое время пойти домой.",  
+  "proverb": "Maybe it's time you went home."
+ },
+ {
+  "description": "Он находится под арестом сейчас",  
+  "proverb": "He's under arrest now"
+ },
+ {
+  "description": "Она принимает душ",  
+  "proverb": "She's taking a shower"
+ },
+ {
+  "description": "Я обедаю. Можешь перезвонить позже?",  
+  "proverb": "I am having dinner. Can you call back later?"
+ },
+ {
+  "description": "На чем мы остановились?",  
+  "proverb": "Where were we?"
+ },
+ {
+  "description": "Не заморачивайся слишком на этом",  
+  "proverb": "Don't get too hung up on it"
+ },
+ {
+  "description": "Удостоверся что это работает!",  
+  "proverb": "Make sure it works!"
+ },
+ {
+  "description": "Я вам не мешаю?",  
+  "proverb": "Am I bothering you?"
+ },
+ {
+  "description": "У меня проблемы с Интернетом (я не могу подключится к Интернету)",  
+  "proverb": "I'm having trouble connecting to the Internet"
+ },
+ {
+  "description": "Не говори им куда ты идешь",  
+  "proverb": "Don't tell them where you are going"
+ },
+ {
+  "description": "Скажи мне где именно он живет",  
+  "proverb": "Tell me where exactly he lives"
+ },
+ {
+  "description": "Когда я был ребенком, это была моя любимая книга",  
+  "proverb": "When I was a child, it was my favorite book"
+ },
+ {
+  "description": "Я не знаю кому верить",  
+  "proverb": "I don't know whom to believe"
+ },
+ {
+  "description": "Мы встретились на вечеринке",  
+  "proverb": "We met at a party"
+ },
+ {
+  "description": "Простите, мы с вами раньше не встречались?",  
+  "proverb": "I'm sorry, have we met before?"
+ },
+ {
+  "description": "Ты должен жить по средствам",  
+  "proverb": "You should live within your means"
+ },
+ {
+  "description": "Прийти к истине (установить истину)",  
+  "proverb": "To arrive at the truth"
+ },
+ {
+  "description": "Я переел сладкого (съел чересчур много сахара)",  
+  "proverb": "I ate too much sugar"
+ },
+ {
+  "description": "Давайте завтракать!",  
+  "proverb": "Let's have breakfast!"
+ },
+ {
+  "description": "Я сыт по горло!",  
+  "proverb": "I'm fed up!"
+ },
+ {
+  "description": "Все, с меня хватит!",  
+  "proverb": "I've had enough!"
+ },
+ {
+  "description": "Она стала его женой задолго до того как он стал моим другом",  
+  "proverb": "She had become his wife long before he became my friend"
+ },
+ {
+  "description": "Она пришла раньше меня (Она пришла до того, как я пришел)",  
+  "proverb": "She had come before I came"
+ },
+ {
+  "description": "Где ты был прошлой ночью?",  
+  "proverb": "Where were you last night?"
+ },
+ {
+  "description": "Чем ты думал когда подписывал соглашение?",  
+  "proverb": "What were you thinking signing the agreement?"
+ },
+ {
+  "description": "Чем ты думал, когда дал ему денег?",  
+  "proverb": "What were you thinking giving him money?"
+ },
+ {
+  "description": "Выслушай меня!",  
+  "proverb": "Hear me out!"
+ },
+ {
+  "description": "Чтобы бы ты сделал, если бы ты был на моем месте?",  
+  "proverb": "What would you have done if you had been in my place?"
+ },
+ {
+  "description": "Угадай что?",  
+  "proverb": "Guess what?"
+ },
+ {
+  "description": "Я думал о своей сестре, когда я получил сообщение от нее",  
+  "proverb": "I was thinking about my sister, when I got a message from her"
+ },
+ {
+  "description": "Когда я пришел, они смотрели новости",  
+  "proverb": "When I came, they were watching the news"
+ },
+ {
+  "description": "Мой дом мостроен из дерева",  
+  "proverb": "My house is built of wood"
+ },
+ {
+  "description": "Мне следовало догадаться что вы будете здесь, профессор МакГонагалл",  
+  "proverb": "I should've known that you would be here, Professor McGonagall"
+ },
+ {
+  "description": "Я не могу вынести эту боль",  
+  "proverb": "I cannot endure this pain"
+ },
+ {
+  "description": "Не отставай!",  
+  "proverb": "Keep up!"
+ },
+ {
+  "description": "Мне следовало догадаться (мне следовало знать)",  
+  "proverb": "I should've known"
+ },
+ {
+  "description": "Я живу у озера",  
+  "proverb": "I live by the lake"
+ },
+ {
+  "description": "Я что-то сделал не так?",  
+  "proverb": "Did I do something wrong?"
+ },
+ {
+  "description": "Держи это при себе (не болтай об этом)",  
+  "proverb": "Keep it to yourself"
+ },
+ {
+  "description": "Я путешествую на Север",  
+  "proverb": "I'm traveling north"
+ },
+ {
+  "description": "Я стараюсь избегать споров",  
+  "proverb": "I try to avoid arguing"
+ },
+ {
+  "description": "Мне сказали ждать здесь",  
+  "proverb": "I was told to wait here"
+ },
+ {
+  "description": "Это самый скучный фильм который я когда-либо видел",  
+  "proverb": "This is the most boring movie I've ever seen"
+ },
+ {
+  "description": "Вам не положено здесь находиться",  
+  "proverb": "You're not supposed to be here"
+ },
+ {
+  "description": "И что мне теперь с этим делать?",  
+  "proverb": "And what am I supposed to do with it?"
+ },
+ {
+  "description": "Здесь запрещено курить (Курение запрещено)",  
+  "proverb": "Smoking is not allowed here"
+ },
+ {
+  "description": "У нее нет чувства собственного достоинства (У нее нет самоуважения)",  
+  "proverb": "She has no self-respect"
+ },
+ {
+  "description": "Что я наделал?",  
+  "proverb": "What have I done?"
+ },
+ {
+  "description": "По какому адресу он живет?",  
+  "proverb": "At what address does he live?"
+ },
+ {
+  "description": "Не сердись на меня! (Не злись на меня!)",
+  "proverb": "Don't be mad at me!"
+ },
+ {
+  "description": "Мне нужно переодеться",
+  "proverb": "I need to change"
+ },
+ {
+  "description": "Вы доверяете друг другу?",
+  "proverb": "Do you trust each other?"
+ },
+ {
+  "description": "Тебе удалось хоть немного поспать прошлой ночью?",
+  "proverb": "Did you get any sleep last night?"
+ },
+ {
+  "description": "Обо мне не парься!",
+  "proverb": "Don't sweat about me!"
+ },
+ {
+  "description": "Не парься!",
+  "proverb": "Don't sweat it!"
+ },
+ {
+  "description": "Он ждет у машины",
+  "proverb": "He's waiting by the car"
+ },
+ {
+  "description": "Он сидит за столом",
+  "proverb": "He sits at a table"
+ },
+ {
+  "description": "Холодает",
+  "proverb": "It is getting cold"
+ },
+ {
+  "description": "Тому есть причина",
+  "proverb": "There is a reason for that"
+ },
+  {
+  "description": "Есть много способов это сделать",
+  "proverb": "There are many ways to do it"
+ },
+ {
+  "description": "Он заставил меня это сделать",
+  "proverb": "He made me do it"
+ },
+  {
+  "description": "Никуда не уходи! (Будь на месте!)",
+  "proverb": "Stay put!"
+ },
+ {
+  "description": "Я спешу",
+  "proverb": "I'm in a hurry"
+ },
+  {
+  "description": "Она покинула комнату в спешке",
+  "proverb": "She left the room in a hurry"
+ },
+  {
+  "description": "Мне нужна помощь",
+  "proverb": "I need help"
+ },
+ {
+  "description": "Успокойся!",
+  "proverb": "Сalm down!"
+ },
+  {
+  "description": "Зацени это!",
+  "proverb": "Check this out!"
+ },
+ {
+  "description": "Сколько раз я тебе говорил?",
+  "proverb": "How many times did I tell you?"
+ },
+  {
+  "description": "Я сыт по горло твоими жалобами",
+  "proverb": " I'm fed up with your complaints"
+ },
+ {
+  "description": "Не облажайся (не напортачь) в этот раз",
+  "proverb": "Don't mess it up this time"
+ },
+ {
+  "description": "Не расстраивайся по пустякам",
+  "proverb": "Don't get upset over little things"
+ },
+ {
+  "description": "Не расстраивайся и-за этого",
+  "proverb": "Don't get upset over it"
+ },
+ {
+  "description": "Нет оснований сомневаться",
+  "proverb": "There is no reason to doubt"
+ },
+ {
+  "description": "На улице холодно и темно",
+  "proverb": "It is cold and dark outside"
+ },
+ {
+  "description": "Вчера шел снег?",
+  "proverb": "Did it snow yesterday?"
+ },
+ {
+  "description": "Это отстой!",
+  "proverb": "It sucks!"
+ },
+ {
+  "description": "Это кажется сложным поначалу, но ты вскоре разберешся в этом",
+  "proverb": "It seems difficult at first, but you'll soon get the hang of it"
+ },
+ {
+  "description": "Я собираюсь завтракать",
+  "proverb": "I'm going to have breakfast"
+ },
+ {
+  "description": "Тебе следует немного отдохнуть",
+  "proverb": "You should get some rest"
+ },
+ {
+  "description": "Ты хорошо провел время на вечеринке?",
+  "proverb": "Did you have a good time at the party?"
+ },
+ {
+  "description": "Что ты собираешся делать на выходных?",
+  "proverb": "What are you going to do on the weekend?"
+ },
+ {
+  "description": "Мне приснился странный сон прошлой ночью",
+  "proverb": "I had a strange dream last night"
+ },
+ {
+  "description": "Показывай дорогу!",
+  "proverb": "Lead the way!"
+ },
+ {
+  "description": "Сколько у нас осталось еды? (Какая еда у нас ещё осталась?)",
+  "proverb": "What food have we got left?"
+ },
+ {
+  "description": "Не будьте долго на солнце",
+  "proverb": "Don't stay in the sun too long"
+ },
+ {
+  "description": "Он через многое прошел",
+  "proverb": "He's been through a lot"
+ },
+ {
+  "description": "Что сегодня вечером по телевизору?",
+  "proverb": "What's on TV tonight?"
+ },
+ {
+  "description": "Вскоре после этого он скончался",
+  "proverb": "He died soon afterwards"
+ },
+ {
+  "description": "Ты когда-нибудь пил водку?",
+  "proverb": "Have you ever drunk vodka?"
+ },
+ {
+  "description": "Мы никогда раньше этого не делали",
+  "proverb": "We have never done it before"
+ },
+ {
+  "description": "У меня всегда было много друзей",
+  "proverb": "I have always had many friends"
+ },
+ {
+  "description": "Кто это сделал?",
+  "proverb": "Who did that?"
+ },
+ {
+  "description": "Откуда у тебя это? (Кто дал тебе это?)",
+  "proverb": "Who gave you that?"
+ },
+ {
+  "description": "Почему так долго?",
+  "proverb": "What took you so long?"
+ },
+ {
+  "description": "Кто это сказал?",
+  "proverb": "Who said that?"
+ },
+ {
+  "description": "Всем плевать (Кого это волнует?)",
+  "proverb": "Who cares?"
+ },
+ {
+  "description": "Кому нужна помощь?",
+  "proverb": "Who needs help?"
+ },
+ {
+  "description": "У нас мало времени",
+  "proverb": "We are running out of time"
+ },
+ {
+  "description": "Ходят слухи что ...",
+  "proverb": "It is rumored that ..."
+ },
+ {
+  "description": "Кажется, среди нас есть предатель",
+  "proverb": "It seems there is a traitor among us"
+ },
+ {
+  "description": "Я не видел ее уже много лет",
+  "proverb": "I haven't seen her in years"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ }
+]

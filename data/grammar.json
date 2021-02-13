@@ -4,7 +4,7 @@
   "sounds": [
    "andes.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with mountain ranges"
+  "description": "This sentence demonstrates the use of the definite article with mountain ranges and continents"
  }, 
  {
   "proverb": "I lived and worked in Australia for a whole year. The last three months were the best because I got to travel around the country!", 
@@ -32,7 +32,7 @@
   "sounds": [
    "theradio.aac"
   ], 
-  "description": "This sentence demonstrates when to use the definite article (we always use the definite article with 'radio')"
+  "description": "This sentence demonstrates when to use the definite article. We always use 'the' definite article with 'radio': listen to the radio, hear on the radio, it's on the radio"
  }, 
  {
   "proverb": "Please, read the text on page 15.", 
@@ -49,7 +49,7 @@
   "description": "This sentence demonstrates when to use last or the last"
  }, 
  {
-  "proverb": "Our children go to school by bus", 
+  "proverb": "Our children go to school by bus.", 
   "sounds": [
    "bybus.aac"
   ], 
@@ -109,14 +109,14 @@
   "sounds": [
    "lamp.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific"
+  "description": "This sentence demonstrates the use of the definite article when talking about something specific. The second time we talk about the same thing in a phrase, we have to use 'the' with it"
  }, 
  {
   "proverb": "Next month will be busy.", 
   "sounds": [
    "next2.aac"
   ], 
-  "description": "This sentence demonstrates when to use next or the next"
+  "description": "This sentence demonstrates when to use next or the next."
  }, 
  {
   "proverb": "I have a doctor's appointment next week.", 
@@ -214,21 +214,21 @@
   "sounds": [
    "most3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use most without the when we want to express preference."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the when we want to express preference."
  }, 
  {
   "proverb": "What matters most to you?", 
   "sounds": [
    "most4.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use most without the when we want to express preference."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference."
  }, 
  {
   "proverb": "The kids loved the fair, but they enjoyed the bumper cars most of all.", 
   "sounds": [
    "most5.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use most without the when we want to express preference."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference."
  }, 
  {
   "proverb": "He is the most famous actor I know.", 
@@ -272,21 +272,21 @@
    "philippines1.aac", 
    "philippines2.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use 'the' with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands"
  }, 
  {
   "proverb": "The Republic of Ireland is in the European Union.", 
   "sounds": [
    "therepublic.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands"
  }, 
  {
   "proverb": "We're going on vacation to the Dominican Republic.", 
   "sounds": [
    "dominican.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands"
  }, 
  {
   "proverb": "We took a trip down the Nile.", 
@@ -401,11 +401,11 @@
   "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something."
  }, 
  {
-  "proverb": "I'm travelling North.", 
+  "proverb": "I'm traveling north.", 
   "sounds": [
    "north.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when we refer to West, East, North or South as directions"
+  "description": "This sentence demonstrates the use of the definite article when we refer to West, East, North or South as directions. Also, 'traveling' is the preferred spelling in American English, in British English the preferred spelling is 'travelling'"
  }, 
  {
   "proverb": "The Nile is the longest river in Africa. It flows north from Lake Victoria to the Mediterranean Sea.", 
@@ -427,7 +427,7 @@
   "sounds": [
    "themillers.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with family names in the plural form"
+  "description": "This sentence demonstrates the use of the definite article with family names in the plural form. It also demonstrates when to use 'last' or 'the last'"
  }, 
  {
   "proverb": "She works for the New York Times.", 
@@ -568,14 +568,14 @@
   "sounds": [
    "guitar.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article with musical instrument"
+  "description": "These sentences demonstrate the use of the definite article with musical instrument. We use 'the' when we're talking about actually playing an instrument (the ability to play)."
  }, 
  {
   "proverb": "I'm learning to play the piano. We bought a new piano.", 
   "sounds": [
    "piano.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article with musical instrument"
+  "description": "These sentences demonstrate the use of the definite article with musical instrument. We use 'the' when we're talking about actually playing an instrument (the ability to play)."
  }, 
  {
   "proverb": "The dollar is a strong currency.", 
@@ -666,7 +666,7 @@
   "sounds": [
    "themeek.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society: the meek, the poor, the rich, the blind, etc. Aslo, we don't use 'the' with planet names because they are proper nouns, but with Earth we can say 'the Earth' or 'the earth'."
  }, 
  {
   "proverb": "The dead outnumber the living.", 
@@ -744,21 +744,21 @@
   "sounds": [
    "thecountry.aac"
   ], 
-  "description": "This sentence demonstrates that we always say 'the country' when we mean a rural area (сельская местность в целом). It also demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces"
+  "description": "This sentence demonstrates that we always say 'the country' when we mean a rural area (сельская местность в широком смысле). It also demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces"
  }, 
  {
   "proverb": "John lives in a small town in the country.", 
   "sounds": [
    "thecountry1.aac"
   ], 
-  "description": "This sentence demonstrates that we always say 'the country' when we mean a rural area in general (сельская местность в целом). It also demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces"
+  "description": "This sentence demonstrates that we always say 'the country' when we mean a rural area in general (сельская местность в широком смысле). It also demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces"
  }, 
  {
   "proverb": "I've never been to the mountains. They usually spend their holidays in the mountains.", 
   "sounds": [
    "themountains.aac"
   ], 
-  "description": "These sentences demonstrate a set expression 'to/in the mountains' (горная местность, горы в широком смысле). It also demonstrates how to use the prepositions of place. We use the preposition 'in' with enclosed spaces"
+  "description": "When we talk about mountains in broad terms (горная местность, горы в широком смысле), we say 'the mountains'. Similar examples: I've never been to the sea (Я никогда не был на море), I prefer to live in the country instead of a town (Я предпочитаю жить в сельской местности чем в городе). These are set expressions"
  }, 
  {
   "proverb": "Because of rain, we couldn't go to the beach.", 
@@ -1186,63 +1186,63 @@
   "sounds": [
    "breakfast.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "What did you have for breakfast?", 
   "sounds": [
    "breakfast1.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "I ate way too much at dinner.", 
   "sounds": [
    "dinner.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "I ate my dinner with a fork.", 
   "sounds": [
    "dinner1.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "Would you like to have dinner with me?", 
   "sounds": [
    "dinner2.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "I can't talk now, I'm having dinner. Can you call back later?", 
   "sounds": [
    "dinner3.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal.Also, the verb 'have' is used in the continuous form here and means 'experiencing' or 'taking', although it is mostly used as a stative verb."
  }, 
  {
   "proverb": "We organized a dinner for Dad's birthday.", 
   "sounds": [
    "dinner4.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "We didn't like the dinner.", 
   "sounds": [
    "dinner5.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "I am not hungry right now. I had a big breakfast.", 
   "sounds": [
    "breakfast2.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with meals (breakfast/lunch/dinner). We do not usually use 'the' with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "I've never tried Korean food.", 
@@ -1257,7 +1257,14 @@
    "platform2.aac"
   ], 
   "description": "This sentence demonstrates that we do not use the definite article with following constructs: noun + number (page 6, platform 9, room 5)"
- }, 
+ },
+  {
+  "proverb": "Excuse me sir, can you tell me where I might find platform 9 3/4? ", 
+  "sounds": [
+   "platform3.aac"
+  ], 
+  "description": "This sentence demonstrates that we do not use the definite article with following constructs: noun + number (page 6, platform 9, room 5)"
+ },
  {
   "proverb": "My English class is in room 6 on the first floor.", 
   "sounds": [
@@ -1277,21 +1284,21 @@
   "sounds": [
    "mortal.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use the definite article when a common noun is used in its widest sense"
+  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
  }, 
  {
   "proverb": "What kind of bird is it?", 
   "sounds": [
    "bird.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use the definite article when a common noun is used in its widest sense"
+  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
  }, 
  {
   "proverb": "Man is the only animal that cooks food.", 
   "sounds": [
    "man.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use the definite article when a common noun is used in its widest sense"
+  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
  }, 
  {
   "proverb": "There aren't many people who have read this novel to the end.", 
@@ -1305,7 +1312,7 @@
   "sounds": [
    "fewerpeople.aac"
   ], 
-  "description": "This sentence demonstrates what determiners and quantifiers must be used with countable and uncountable nouns"
+  "description": "This sentence demonstrates what determiners and quantifiers must be used with countable and uncountable nouns. Also we use the following expression 'used to + infinitive' when we talk about habits or repeated actions in the past which we don't do anymore in the present. In this example it is not followed directly by an infinitive but the effect is the same"
  }, 
  {
   "proverb": "There were few people on the beach because it was raining.", 
@@ -1315,7 +1322,7 @@
   "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
  }, 
  {
-  "proverb": "I have a number of things I want to talk to you about.", 
+  "proverb": "I have a number of things I want to talk to you about. He has a good job and makes a large amount of money.", 
   "sounds": [
    "numberof.aac"
   ], 
@@ -1340,7 +1347,7 @@
   "sounds": [
    "toomuch.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'too much' and 'too many'. We use 'too much' and 'too many' in negative sentences, when we want to express that we don't like something"
+  "description": "This sentence demonstrates when to use 'too much' and 'too many'. We use 'too much' with uncout and 'too many' with count nouns in negative sentences, when we want to express that we don't like something"
  }, 
  {
   "proverb": "I've got a little money saved, I think I'll buy a new bike.", 
@@ -1362,18 +1369,11 @@
    "littletime.aac"
   ], 
   "description": "These sentences demonstrate which determiners and quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
- }, 
+ },
  {
-  "proverb": "He has a good job and makes a large amount of money.", 
+  "proverb": "I have a number of things I want to talk to you about. The amount of time it took to finish the job was very frustrating.", 
   "sounds": [
    "amountof.aac"
-  ], 
-  "description": "This sentence demonstrates when to use 'number of' and when to use 'amount of' with count/uncount nouns"
- }, 
- {
-  "proverb": "The amount of time it took to finish the job was very frustrating.", 
-  "sounds": [
-   "amountof1.aac"
   ], 
   "description": "This sentence demonstrates when to use 'number of' and when to use 'amount of' with count/uncount nouns"
  }, 
@@ -1396,14 +1396,14 @@
   "sounds": [
    "fruit.aac"
   ], 
-  "description": "This sentence demonstrates that we can use 'a lot of' with both count and uncount nouns"
+  "description": "This sentence demonstrates that we can use 'a lot of' with both count and uncount nouns. 'fruit' is usually uncountable."
  }, 
  {
   "proverb": "Oh God, there's too many people!", 
   "sounds": [
    "toomany.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'too much' and 'too many'. We use 'too much' and 'too many' in negative sentences, when we want to express that we don't like something"
+  "description": "This sentence demonstrates when to use 'too much' and 'too many'. We use 'too much' with uncout and 'too many' with count nouns in negative sentences, when we want to express that we don't like something"
  }, 
  {
   "proverb": "I drank too much coffee, and now I feel sick. I drank a lot of beer, and now I feel good.", 
@@ -1445,7 +1445,7 @@
   "sounds": [
    "wood.aac"
   ], 
-  "description": "These sentences demonstrate that the noun 'wood' can be both count and non-count"
+  "description": "These two sentences demonstrate that the noun 'wood' can be both count and non-count. 'Dinner' is also a non-count noun."
  }, 
  {
   "proverb": "All Sam's children have long, fair hair. Excuse me, waiter, but there's a hair in my soup.", 
@@ -1473,7 +1473,7 @@
   "sounds": [
    "ridden.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'ride'. We ride something if we are on top of it (ride a bicycle, horse, bike, etc)"
+  "description": "This sentence demonstrates when to use the verb 'ride'. We ride something if we are on top of it (верхом): ride a bicycle, horse, bike, tiger, etc"
  }, 
  {
   "proverb": "The West End is easy to reach by Tube.", 
@@ -1494,77 +1494,77 @@
   "sounds": [
    "today.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions before Today, Tomorrow or Yesterday"
+  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions before Today, Tomorrow or Yesterday because these are uncountable nouns"
  }, 
  {
   "proverb": "The air is so clean at sunrise.", 
   "sounds": [
    "atsunrise.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time"
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dawn, at dinner, at lunchtime, at bedtime)."
  }, 
  {
   "proverb": "I'll be asleep at midnight!", 
   "sounds": [
    "atmidnight.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at noon, at midnight, at dinner, etc). 'at night' is an exception and needs to be memorized."
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dinner, etc). 'at night' is an exception and needs to be memorized."
  }, 
  {
   "proverb": "I'll be there at dawn.", 
   "sounds": [
    "atdawn.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time"
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dawn, at dinner, at lunchtime, at bedtime)."
  }, 
  {
   "proverb": "I'll go shopping at lunchtime.", 
   "sounds": [
    "atlunchtime.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast' when we mean the time, not the meal - за обедом, за ужином)"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином)"
  }, 
  {
   "proverb": "I ate too much at dinner.", 
   "sounds": [
    "atdinner.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast' when we mean the time, not the meal - за обедом, за ужином)"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином)"
  }, 
  {
   "proverb": "At breakfast, he didn't say a word, just read his newspaper.", 
   "sounds": [
    "atbreakfast.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast' when we mean the time, not the meal - за обедом, за ужином)"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином)"
  }, 
  {
   "proverb": "I read my daughter a story at bedtime.", 
   "sounds": [
    "atbedtime.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time."
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dawn, at dinner, at lunchtime, at bedtime)."
  }, 
  {
   "proverb": "He wrote this book at the age of twenty.", 
   "sounds": [
    "attheage.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time."
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times within one day (twenty-four hours to be precise): at 3pm, at midnight, at dawn, at dinner, at lunchtime, at bedtime, etc. But 'at' is also often used when talking about someone's age. It is most often used when talking about the past, and sometimes the future: I started driving at 16(I started driving when I was 16), I will be a millionaire at 40"
  }, 
  {
   "proverb": "He doesn't like driving at night.", 
   "sounds": [
    "atnight.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time."
+  "description": "The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dinner, etc). 'at night' is an exception and needs to be memorized."
  }, 
  {
   "proverb": "We went for a walk along the beach at twilight.", 
   "sounds": [
    "attwilight.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time."
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dawn, at dinner, at lunchtime, at bedtime)."
  }, 
  {
   "proverb": "We are visiting friends and relatives at Christmas. We'll be opening our gifts on Christmas Day.", 
@@ -1643,7 +1643,7 @@
   "sounds": [
    "themiddleages1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We use the preposition 'in' with months, seasons, years, centuries and other long periods"
+  "description": "This sentence demonstrates how to use prepositions of time. We use the preposition 'in' with months, seasons, years, centuries and other long periods. We also need to use the definite article when talking about centuries, decades and historic periods"
  }, 
  {
   "proverb": "It's too hot to go out in the middle of the day.", 
@@ -1687,6 +1687,13 @@
    "goneaway.aac"
   ], 
   "description": "This sentence demonstrates how to use prepositions of time. We use the following construct 'in + <period of time>' when we need to explain when something will happen in the future: in a day, in two weeks, in a month, etc"
+ }, 
+  {
+  "proverb": "We have class in two hours.", 
+  "sounds": [
+   "class.aac"
+  ], 
+  "description": "This sentence demonstrates how to use prepositions of time. We use the following construct 'in + <period of time>' when we need to explain when something will happen in the future: in a day, in two weeks, in a month, etc. It also demonstrates that the noun 'class' has two meanings: a period of time in which students are taught something, or a group of students who are taught together. In this example class means a period of time."
  }, 
  {
   "proverb": "I woke up early in the morning. I'm going to the library in the evening. Does she sleep in the afternoon?", 
@@ -1941,7 +1948,7 @@
   "sounds": [
    "attheendof.aac"
   ], 
-  "description": "This sentence explains how to use prepositions of place. We always say 'at the end of', 'at the center of' or 'at the beginning of'"
+  "description": "This sentence explains how to use prepositions of place. We always say 'at the end of', 'at the center of', 'at the beginning of', 'at the back of', etc"
  }, 
  {
   "proverb": "He was crying at the back of the classroom.", 
@@ -1999,7 +2006,7 @@
   "sounds": [
    "onpage1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc)"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). But remember that when we talk about a whole book we need to use the preposition 'in'. When we talk about information represented on paper, we say 'in a book, newspaper, magazine, letter', but 'on a page'"
  }, 
  {
   "proverb": "She said she wouldn't marry him if he were the last man on Earth.", 
@@ -2013,7 +2020,7 @@
   "sounds": [
    "onearth1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc)"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). It also demonstrates when to use the preposition 'over'"
  }, 
  {
   "proverb": "The first man walked on the Moon in 1969.", 
@@ -2077,7 +2084,7 @@
   "sounds": [
    "ontheriver.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place when talking about bodies of water"
+  "description": "These sentences demonstrate how to use prepositions of place when talking about bodies of water. The preposition 'on' is used when something is located on the shore of that body of water. Other examples: I have a beautiful house on the sea."
  }, 
  {
   "proverb": "I shouldn't have said that!", 
@@ -2140,7 +2147,7 @@
   "sounds": [
    "phone1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because an electronic device has a flat surface"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because an electronic device has a flat surface. It also demonstrates that  We use 'too much' with uncout and 'too many' with count nouns in negative sentences, when we want to express that we don't like something"
  }, 
  {
   "proverb": "My favorite show is on TV. What's on TV tonight? Have you ever been on TV?", 
@@ -2169,7 +2176,7 @@
    "youtube.aac",
    "youtube1.aac"
   ], 
-  "description": "This example demonstrates how to use prepositions of place and also when to use the definite article. We use the preposition 'on' with the Internet / websites (but not with email). And we do not use the definite article with the names of companies, brands, websites (these are considered proper nouns)"
+  "description": "This example demonstrates how to use prepositions of place and also when to use the definite article. We use the preposition 'on' with the Internet / websites (but not with email). And we do not use the definite article with the names of companies, brands, websites (these are considered proper nouns). It also demonstrates that we use the modal verb 'must' for logical conclusion or strong deduction (должно быть) where we are 90% certain of something"
  }, 
  {
   "proverb": "She has many friends on Facebook.", 
@@ -2183,21 +2190,21 @@
   "sounds": [
    "board.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. In the first sentence 'board' means a blackboard and it is a flat surface, that's why we use the preposition 'on'. In the last two sentences 'board' means a group of people where members are elected or hired (and can also be thought of as a flat surface)."
+  "description": "These sentences demonstrate how to use prepositions of place. In the first sentence 'board' means a blackboard and it is a flat surface, that's why we use the preposition 'on'. In the second sentence 'board' means a high-level group of people where members are elected or hired (and can be thought of as some kind of platform). The last sentence is used literally when welcoming someone to board a public vehicle, which is also considered a platform: plane, train, ship, or bus, etc, or figuratively when welcoming a new member of a team"
  }, 
  {
   "proverb": "She has served on the committee for the last fifteen years.", 
   "sounds": [
    "committee.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with high-level groups of people where members are often elected (board, committee, jury, council, etc)"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with high-level groups of people where members are often elected (board, committee, jury, council, etc). Think of it as some kind of a platform."
  },
  {
   "proverb": "She was selected to sit on a jury.", 
   "sounds": [
    "jury.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with high-level groups of people where members are often elected (board, committee, jury, council, etc)"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with high-level groups of people where members are often elected (board, committee, jury, council, etc). Think of it as some kind of a platform."
  }, 
  {
   "proverb": "The dump was so full that it had to refuse more refuse.", 
@@ -2379,7 +2386,7 @@
   "sounds": [
    "regolisa.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the mountains' is a set expression which means 'в горах, в горной местности'."
+  "description": "When we talk about mountains in broad terms (горная местность, горы в широком смысле), we say 'the mountains'. Similar examples: I've never been to the sea (Я никогда не был на море), I prefer to live in the country instead of a town (Я предпочитаю жить в сельской местности чем в городе). These are set expressions"
  },
  {
   "proverb": "Would you prefer to live in the country instead of a town?", 
@@ -2526,7 +2533,7 @@
   "sounds": [
    "sugar.aac", "sugar1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. Use the preposition 'in' with liquids and other substances to show what they contain. It also demonstrates when to use 'too much'. We use 'too much' in negative sentences, when we want to express that we don't like something."
+  "description": "This sentence demonstrates how to use prepositions of place. Use the preposition 'in' with liquids and other substances to show what they contain. It also demonstrates when to use 'too much'. We use 'too much' with uncountable nouns in negative sentences, when we want to express that we don't like something."
  },
  {
   "proverb": "He lives in a tiny cottage in the middle of nowhere.", 
@@ -2540,7 +2547,7 @@
   "sounds": [
    "bathing.aac"
   ], 
-  "description": "his sentence demonstrates how to use prepositions of place. We always say 'in the middle' of something"
+  "description": "This sentence demonstrates how to use prepositions of place. We always say 'in the middle' of something"
  },
  {
   "proverb": "He's waiting by the car.", 
@@ -2568,35 +2575,35 @@
   "sounds": [
    "zero.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "She's below average intelligence.", 
   "sounds": [
    "average.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "Tom is below Jane in the rankings.", 
   "sounds": [
    "rankings.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "We're at 150 feet below sea level.", 
   "sounds": [
    "sealevel.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "The Dead Sea lies below sea level.", 
   "sounds": [
    "deadsea.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. It also demonstrates when to use the definite article"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. It also demonstrates that we need to use the definite article with the names of the follwoing bodies of water: rivers, seas, oceans, canals and gulfs, but not with lakes and waterfalls"
  },
  {
   "proverb": "She's above average intelligence.", 
@@ -2743,77 +2750,77 @@
   "sounds": [
    "party.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "I get scared when I drive over 100 kilometers an hour.", 
   "sounds": [
    "scared.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "Put a hand over your mouth when you cough.", 
   "sounds": [
    "mouth.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "Standing between the two adults was a small child.", 
   "sounds": [
    "adults.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между). The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди)"
  },
  {
   "proverb": "On the train I was sitting between two very large men.", 
   "sounds": [
    "between.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified. It is also demonstrates when to use the preposition 'on' when talking about transport"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между). The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди). It also demonstrates when to use the preposition 'on' when talking about transport"
  },
  {
   "proverb": "There are many differences between English and Arabic.", 
   "sounds": [
    "arabic.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между). The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди)"
  },
  {
   "proverb": "There is a trade agreement between Mexico, Canada and the US. Trade agreements exist among countries.", 
   "sounds": [
    "agreement.aac", "agreement1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct. The first sentence also demonstrates when to use the definite article with country names"
+  "description": "These sentences demonstrate how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между). The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди). The first sentence also demonstrates when to use the definite article with country names"
  },
  {
   "proverb": "Among the books, I saw an old photo. I walked among the trees. There is a traitor among us.", 
   "sounds": [
    "among.aac", "among1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified."
+  "description": "These sentences demonstrate how to use prepositions of place. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди). The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между)."
  },
  {
   "proverb": "The donations were distributed among the charities.", 
   "sounds": [
    "donations.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди). The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между)."
  },
  {
   "proverb": "If you walk between those two trees at exactly midnight, a secret gate to another world will open. When you walk among the trees at night, the moonlight looks lovely in your hair.", 
   "sounds": [
    "midnight.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place and time. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified. The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at noon, at midnight, at dinner, etc). 'at night' is an exception that needs to be memorized."
+  "description": "These sentences demonstrate how to use prepositions of place and time. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между). The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди). The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at noon, at midnight, at dinner, etc). 'at night' is an exception that needs to be memorized."
  },
  {
   "proverb": "- May I be excused?\n- No, you may not.", 
   "sounds": [
    "excused.aac"
   ], 
-  "description": "This sentence demonstrates when and how to use the modal verb 'may'. In this example it is used to request and give permission"
+  "description": "This sentence demonstrates when and how to use the modal verb 'may'. In this example it is used to ask for permission and grant permission. (we can also use 'can' and 'could' to ask for permission, but 'may' is the most polite modal verb to use with permissions)"
  },
  {
   "proverb": "We drove to the airport. We arrived at the airport.", 
@@ -3233,7 +3240,7 @@
   "sounds": [
    "be.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is mostly used as a stative verb to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state (only now, not usually). 'He is funny' - он веселый (всегда), 'He is being funny' - он шутит, он прикалывается (в данный момент), 'You are silly' - ты глуп, 'You are being silly' - Ты ведешь себя глупо (в данный момент)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is usually a stative verb and it is used to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state, i.e. behaving or acting (only now, not usually). 'He is funny' (it's part of his personality) - он веселый (всегда), 'He is being funny'(he is temporarily behaving this way) - он шутит, он прикалывается (в данный момент), 'You are silly' (it's part of your personality) - ты глуп, 'You are being silly' (you are temporarily behaving this way) - Ты ведешь себя глупо (в данный момент)"
  },
  {
   "proverb": "I don't believe you. He believes in God.", 
@@ -3366,7 +3373,7 @@
   "sounds": [
    "deny.aac"
   ], 
-  "description": "The verb 'deny' is a stative verb when it means to say that something is not true - отрицать, or to refuse to give something to someone - отказывать (This government denies its citizens basic freedoms). But when it means to deprive oneself (of something) - лишать себя чего-то, it is a dynamic verb and can have both continuous and simple forms. It also demonstrates that if the verb 'deny' is followed by another verb (first sentence) it must be a gerund"
+  "description": "The verb 'deny' is a stative verb when it means to say that something is not true - отрицать, or to refuse to give something to someone - отказывать (This government denies its citizens basic freedoms). But when it means to deprive oneself (of something) - лишать себя чего-то, it is a dynamic verb and can have both continuous and simple forms. It also demonstrates that if the verb 'deny' is followed by another verb (first sentence), this another verb must be a gerund"
  },
  {
   "proverb": "I have a car. I've had this car since 2006. I'm having problems with my car today.", 
@@ -3457,7 +3464,7 @@
   "sounds": [
    "involve.aac", "involve1.aac"
   ], 
-  "description": "'involve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form."
+  "description": "'involve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. The second sentence also shows that the verb 'involve' is always followed by a gerund."
  },
  {
   "proverb": "And I'd just like to say that if it hadn't been for you, Harry and Ron and Hermione, of course… I would still be you know where… so I'd just like to say thanks.", 
@@ -3520,7 +3527,7 @@
   "sounds": [
    "fear.aac", "fear1.aac"
   ], 
-  "description": "'fear' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form."
+  "description": "'fear' is a stative verb. Stative verbs are not normally used in the continuous form. The last sentence also demonstrates that when we talk about preference we use 'most' without 'the' (больше всего, в большей степени): I like this one most. What matters most to you? What do you fear most?"
  },
  {
   "proverb": "How much does it cost? Drinking and driving costs lives.", 
@@ -3556,5 +3563,430 @@
    "wear2.aac"
   ], 
   "description": "'is wearing' usually means that the person is wearing that thing currently, whereas 'wears' usually refers to a pattern of behavior. The sentence 'Julia wears jeans' means that wearing jeans is something that Julia does (sometimes, all the time, etc.). That can be made more specific, as in 'Julia wears jeans a lot' meaning that wearing jeans is something that Julia does often."
+ },
+ {
+  "proverb": "Most people abhor cleaning their toilets.", 
+  "sounds": [
+   "abhor.aac",
+   "abhor1.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'abhor' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'cleaning' is the object of 'abhor'"
+ },
+ {
+  "proverb": "The boy acknowledged having lied.", 
+  "sounds": [
+   "acknowledge.aac",
+   "acknowledge1.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'acknowledge' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'having' is the object of 'acknowledge'"
+ },
+ {
+  "proverb": "She admitted making a mistake.", 
+  "sounds": [
+   "admit.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'admit' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'making' is the object of 'admit'"
+ },
+ {
+  "proverb": "I anticipate visiting New York next month.", 
+  "sounds": [
+   "anticipate.aac",
+   "anticipate1.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'anticipate' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'visiting' is the object of 'anticipate'. This sentence also demonstrates when to use 'next' or 'the next'"
+ },
+ {
+  "proverb": "You have performed extraordinary magic with this wand, my Lord, in the last few hours alone.", 
+  "sounds": [
+   "magic.aac",
+   "magic1.aac"
+  ], 
+  "description": "This sentence demonstrates when to use 'last' or 'the last'"
+ },
+ {
+  "proverb": "I need to get into Gringotts. Into one of the vaults.", 
+  "sounds": [
+   "vaults.aac"
+  ], 
+  "description": "This sentence demonstrates the use of the definite article with the names of banks"
+ },
+ {
+  "proverb": "Professor Minerva McGonagall:\n- Why is it, whenever something happens, it is always you three?\nRon Weasley:\n- Believe me, Professor, I've been asking myself the same question for six years.", 
+  "sounds": [
+   "question.aac"
+  ], 
+  "description": "We use the Present Perfect Continuous for something that started in the past and still continues in the present"
+ },
+ {
+  "proverb":"- I guess I don't remember meeting you!\n- Well, it's probably because we've never met.",
+  "sounds":[
+     "Audio recording 2020-07-16 12-45-26.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'remember' can be followed by either a gerund or an infinitive with a change in meaning: 'remember meeting' and 'remember to meet' have two distinct meanings."
+ },
+ {
+  "proverb": "I don't appreciate being ignored.", 
+  "sounds": [
+   "appreciate1.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'appreciate' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'being' is the object of 'appreciate'. And don't forget that 'appreciate' is also a stative verb."
+ },
+ {
+  "proverb": "She avoids dating men over 30.", 
+  "sounds": [
+   "avoid.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'avoid' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'dating' is the object of 'avoid'. Also when we want to say that someone is older or younger than a certain age, we use the prepositions 'over' and 'under'"
+ },
+ {
+  "proverb": "I try to avoid arguing.", 
+  "sounds": [
+   "avoid1.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'avoid' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'arguing' is the object of 'avoid'."
+ },
+ {
+  "proverb": "That rule is worth remembering. That's a friend worth having. This movie is worth seeing again.", 
+  "sounds": [
+   "worth.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation 'be worth - заслуживать, стоить' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
+ },
+ {
+  "proverb": "I will help you bear this burden, Frodo Baggins, as long as it is yours to bear.", 
+  "sounds": [
+   "bear1.aac"
+  ], 
+  "description": "This sentence demonstrates when to use the verb 'bear' (нести груз, нести тяжесть, нести на себе, вынести, вынашивать, терпеть)"
+ },
+ {
+  "proverb": "I should've known that you would be here, Professor McGonagall.", 
+  "sounds": [
+   "Audio recording 2021-02-05 10-47-01"
+  ], 
+  "description": "This sentence demonstrates how to use the modal verb 'should' when expressing hindsight advice or regrets"
+ },
+ {
+  "proverb": "And some things that should not have been forgotten were lost.", 
+  "sounds": [
+   "Audio recording 2021-02-05 10-50-21.aac",
+   "Audio recording 2021-02-05 10-52-12.aac"
+  ], 
+  "description": "This sentence demonstrates how to use the modal verb 'should' when expressing hindsight advice or regrets"
+ },
+ {
+  "proverb": "And you're lucky to be here, too. A few more hours and you would have been beyond our aid.", 
+  "sounds": [
+   "beyond.aac"
+  ], 
+  "description": "This is an example of third conditonal sentence (????????????????) We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past."
+ },
+ {
+  "proverb": "I can't help being a perfectionist! I can't help thinking about the future. I can't help smiling when I see her.", 
+  "sounds": [
+   "Audio recording 2021-02-05 11-37-09.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation can't help which means 'to not be able to control or stop something' (не могу ничего с этим поделать),' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
+ },
+ {
+  "proverb": "We'll celebrate working together for over 50 years. He celebrated getting a job.", 
+  "sounds": [
+   "Audio recording 2021-02-05 11-49-51.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'celebrate' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'getting' and 'working' are the objects of 'celebrate'."
+ },
+ {
+  "proverb": "We're considering selling the house.", 
+  "sounds": [
+   "Audio recording 2021-02-05 12-03-56.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'consider' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'selling' is the object of 'consider'."
+ },
+  {
+  "proverb": "We considered leaving early.", 
+  "sounds": [
+   "consider.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'consider' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'leaving' is the object of 'consider'."
+ },
+ {
+  "proverb": "The lawyer defended her making such statements.", 
+  "sounds": [
+   "Audio recording 2021-02-05 12-27-41.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'defend' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'making' is the object of 'defend'"
+ },
+ {
+  "proverb": "She delayed doing her homework.", 
+  "sounds": [
+   "Audio recording 2021-02-05 12-38-37.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'delay' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'doing' is the object of 'delay'"
+ },
+ {
+  "proverb": "I detest having to get up when it's still dark outside.", 
+  "sounds": [
+   "Audio recording 2021-02-05 13-03-27.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'detest' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'having' is the object of 'detest'"
+ },
+ {
+  "proverb": "We discussed going out. We discussed taking a bus.", 
+  "sounds": [
+   "discuss.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'discuss' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'going' and 'taking' are the objects of 'discuss'"
+ },
+ {
+  "proverb": "By drinking his blood you've been turned into a vampire.", 
+  "sounds": [
+   "Audio recording 2020-08-07 11-40-57.aac"
+  ], 
+  "description": "'turn into' is a phrasal verb which means to change or develop from one thing to another - превращать, превращаться"
+ },
+ {
+  "proverb": "The page you were looking for doesn't exist. You may have mistyped the address, or the page may have moved. If you are the application owner check the logs for more information.", 
+  "sounds": [
+   "Audio recording 2019-05-13 11-00-11.aac"
+  ], 
+  "description": "We use the modal verb 'may+have+p.p' to make guesses about the past. 'might' and 'could' can also be used to show a possibility in the past: You might/could/may have mistyped the address."
+ },
+ {
+  "proverb": "We make for the Gap of Rohan. We should never have come here.", 
+  "sounds": [
+   "Audio recording 2021-02-07 02-23-26.aac"
+  ], 
+  "description": "This sentence demonstrates how to use the modal verb 'should' when expressing hindsight advice or regrets"
+ },
+ {
+  "proverb": "I really dislike being interrupted. She dislikes watching TV.", 
+  "sounds": [
+   "dislike.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'dislike' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'being' and 'watching' are the objects of 'dislike'. Notice that the verb 'like' can be followed by either an infinitive or a gerund"
+ },
+ {
+  "proverb": "They dispute stealing the merchandise.", 
+  "sounds": [
+   "dispute.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'dispute' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'stealing' is the object of 'dispute' - они оспаривают кражу"
+ },
+ {
+  "proverb": "I always dread speaking in front of people. I'm dreading having to meet his parents.", 
+  "sounds": [
+   "dread.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'dread' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' and 'having' are the objects of 'dread'."
+ },
+ {
+  "proverb": "We endured listening to him for three hours.", 
+  "sounds": [
+   "endure.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'endure' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'listening' is the object of 'endure' - Мы терпели его три часа (дословно: Мы терпели слушание три часа)"
+ },
+ {
+  "proverb": "We enjoy hiking. She really enjoys taking pictures of sunsets.", 
+  "sounds": [
+   "enjoy.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'enjoy' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'hiking' and 'taking' are the objects of 'enjoy'."
+ },
+ {
+  "proverb": "I barely escaped getting caught this time. He escaped dying a slow and painful death.", 
+  "sounds": [
+   "escape.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'escape' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'getting' and 'dying' are the objects of 'escape'."
+ },
+ {
+  "proverb": "He'll explain purchasing online next week.", 
+  "sounds": [
+   "explain.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'explain' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'purchasing' is the object of 'explain' - он объяснит покупки онлайн (как покупать онлайн) на следующей неделе. It also demonstrates when to use 'next' or 'the next'."
+ },
+ {
+  "proverb": "I fear flying in airplanes. I feared entering the room.", 
+  "sounds": [
+   "fear2.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'fear' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'flying' and 'entering' are the objects of 'fear'."
+ },
+ {
+  "proverb": "I feel like traveling. Do you feel like going to the theater?", 
+  "sounds": [
+   "feellike.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The collocation 'feel like - быть склонным к чему-либо, хотеть сделать что-либо' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
+ },
+ {
+  "proverb": "She finished writing the letter. We've finished preparing for the meeting.", 
+  "sounds": [
+   "finish.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'finish' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'writing' and 'preparing' are the objects of 'finish'."
+ },
+ {
+  "proverb": "You are getting on my nerves. His singing is getting on my nerves.", 
+  "sounds": [
+   "Audio recording 2019-11-23 10-46-02.aac"
+  ], 
+  "description": "to get on one's nerves - действовать на нервы. You're beginning to get on my nerves - ты начинаешь действовать мне на нервы. He keeps getting on my nerves - Он продолжает действовать мне на нервы"
+ },
+ {
+  "proverb": "I gave up smoking two years ago. I will never give up trying to find him.", 
+  "sounds": [
+   "giveup.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The phrasal verb 'give up', which means to stop or quit, is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'smoking' and 'trying' are the objects of 'give up'."
+ },
+ {
+  "proverb": "They were forced to give in to the enemy. He has tried to give up smoking twice but hasn't succeeded.", 
+  "sounds": [
+   "givein.aac"
+  ], 
+  "description": "These two sentences demonstrate the difference between two phrasal verbs 'give in' - уступать, сдаваться противнику, поддаться на уговоры, and 'give up' - бросать вредную привычку, бросать пытаться чего-либо достичь потому что это сложно, бросать какую-то деятельность если она не приносит желаемый результат, бросать пытаться что-либо угадать, и т.п."
+ },
+ {
+  "proverb": "Our kids kept begging us to take them to the beach, and finally we gave in. After ten minutes trying to get the answer I gave up.", 
+  "sounds": [
+   "givein1.aac"
+  ], 
+  "description": "These two sentences demonstrate the difference between two phrasal verbs 'give in' - уступать, сдаваться противнику, поддаться на уговоры, and 'give up' - бросать вредную привычку, бросать пытаться чего-либо достичь потому что это сложно, бросать какую-то деятельность если она не приносит желаемый результат, бросать пытаться что-либо угадать, и т.п. And also don't forget that certain verbs, such as 'keep', are always followed by a gerund. Most prepositions are also followed by a gerund: after, in, before, without, with, for, about, get used to, etc"
+ },
+ {
+  "proverb": "Forgive me for being late. I can't forgive him for getting killed.", 
+  "sounds": [
+   "forgive.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The rule is to use a gerund after another verb when the second verb acts as the object of the first verb, 'being' and 'getting' are objects of 'forgive'. The verb 'forgive' is usually followed by an object + the gerund or 'for' + an object + the gerund. It can also be followed by a possessive adjective + the gerund: Forgive my being late. Forgive my saying so, but ... This rule also applies to 'excuse' and 'pardon'. Helps to remember: the preposition 'for' is always followed by a gerund"
+ },
+ {
+  "proverb": "I go shopping every evening. I've gone camping five times this summer.", 
+  "sounds": [
+   "go.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive, bare infinitive or gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'shopping' and 'camping' are the objects of 'go'. 'go something' is often used to describe leisure activities that we do in our free time or do for fun: go running, go swimming, go hiking, go fishing, go kayaking, go berry picking, etc"
+ },
+ {
+  "proverb": "It's hard for me to imagine having children. Imagine spending all that money on a coat!", 
+  "sounds": [
+   "imagine1.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'imagine' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'having' and 'spending' are the objects of 'imagine'."
+ },
+ {
+  "proverb": "The job involves working in teams. Leadership involves setting an example that others want to follow.", 
+  "sounds": [
+   "involve2.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'involve' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'working' and 'setting' are the objects of 'involve'."
+ },
+ {
+  "proverb": "I think we might have made a mistake leaving the Shire, Pippin.", 
+  "sounds": [
+   "Audio recording 2021-02-11 02-16-11.aac"
+  ], 
+  "description": "We use the modal verb 'might+have+p.p' to make guesses about the past. 'may' and 'could' can also be used to show a possibility in the past: We might/could/may have made a mistake..."
+ },
+ {
+  "proverb": "He keeps complaining about his girlfriend. They kept on trying until they succeeded.", 
+  "sounds": [
+   "keep.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'keep/keep on' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'complaining' and 'trying' are the objects of 'keep'."
+ },
+ {
+  "proverb": "They mentioned buying a new car last week. He mentioned having dogs.",
+  "sounds": [
+   "mention.aac", "mention1.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'mention' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'buying' and 'having' are the objects of 'mention'."
+ },
+ {
+  "proverb": "I don't mind smoking. Do you mind moving your car?",
+  "sounds": [
+   "mind1.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'mind' (to object - возражать) is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'smoking' and 'helping' are the objects of 'mind'. And don't forget that 'mind' is also a stative verb."
+ },
+ {
+  "proverb": "Would you mind helping me? Would you mind speaking up a bit? I wouldn't mind having a drink.",
+  "sounds": [
+   "wouldmind.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The phrase 'would mind / wouldn't mind' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'helping', 'speaking' and 'having' are the objects of 'would mind'."
+ },
+ {
+  "proverb": "I miss hanging out with my friends. I miss being single.",
+  "sounds": [
+   "miss.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'miss' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'hanging' and 'being' are the objects of 'miss'."
+ },
+ {
+  "proverb": "We postponed traveling to Chicago for a week.",
+  "sounds": [
+   "postpone.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'postpone' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'traveling' is the object of 'postpone'."
+ },
+ {
+  "proverb": "I practice playing the piano every day.",
+  "sounds": [
+   "practice.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'practice' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'playing' is the object of 'practice'."
+ },
+ {
+  "proverb": "His disability prevents him from driving. They tried to prevent me leaving.",
+  "sounds": [
+   "prevent.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'prevent (from)' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'driving' and 'leaving' are the objects of 'prevent'."
+ },
+ {
+  "proverb": "What happened?",
+  "sounds": [
+   "Audio recording 2021-02-13 13-09-01.aac"
+  ],
+  "description": "This is an example of subject questions"
+ },
+ {
+  "proverb": "What took you so long?",
+  "sounds": [
+   "Audio recording 2021-02-13 13-12-45.aac"
+  ],
+  "description": "This is an example of subject questions"
+ },
+ {
+  "proverb": "Who said that? Who did that? Guess what?",
+  "sounds": [
+   "Audio recording 2021-02-13 13-18-42.aac"
+  ],
+  "description": "These are all examples of subject questions"
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
  }
 ]

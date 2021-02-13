@@ -625,7 +625,8 @@
    {
       "proverb":"A fat kitchen makes a lean will",
       "sounds":[
-         "lean.aac"
+         "lean.aac",
+         "lean1.aac"
       ]
    },
    {
@@ -2937,13 +2938,8 @@
    {
       "proverb":"Any effort will be greatly appreciated",
       "sounds":[
-         
-      ]
-   },
-   {
-      "proverb":"Any fool can be honest,\nfor it is only what he knows.\nA wise man is aware of\nwhen to share the truth.",
-      "sounds":[
-         
+         "appreciated.aac",
+         "appreciated1.aac"
       ]
    },
    {
@@ -2997,7 +2993,7 @@
    {
       "proverb":"April showers bring May flowers (Something unpleasant often leads to something more desirable)",
       "sounds":[
-         
+         "flowers.aac"
       ]
    },
    {
@@ -3027,13 +3023,15 @@
    {
       "proverb":"Are you kidding me?",
       "sounds":[
-         
+         "kidding.aac",
+         "kidding1.aac"
       ]
    },
    {
       "proverb":"Are you not ashamed of yourself?",
       "sounds":[
-         
+         "ashamed1.aac",
+         "ashamed2.aac"
       ]
    },
    {
@@ -3089,13 +3087,15 @@
    {
       "proverb":"As a man sows, so shall he reap",
       "sounds":[
-         
+         "sows.aac",
+         "sows1.aac"
       ]
    },
    {
       "proverb":"As a matter of fact ...",
       "sounds":[
-         
+         "fact.aac",
+         "fact1.aac"
       ]
    },
    {
@@ -3150,7 +3150,7 @@
    {
       "proverb":"As is the father, so is the son",
       "sounds":[
-         
+         "father.aac"
       ]
    },
    {
@@ -3162,13 +3162,15 @@
    {
       "proverb":"As is the workman, so is the work",
       "sounds":[
-         
+         "workman2.aac",
+         "workman3.aac"
       ]
    },
    {
       "proverb":"As like as an apple to an oyster",
       "sounds":[
-         
+         "oyster.aac",
+         "oyster1.aac"
       ]
    },
    {
@@ -3193,7 +3195,8 @@
    {
       "proverb":"As old as the hills",
       "sounds":[
-         
+         "hills1.aac",
+         "hills2.aac"
       ]
    },
    {
@@ -3211,7 +3214,7 @@
    {
       "proverb":"As snug as a bug in a rug",
       "sounds":[
-         
+         "snug.aac"
       ]
    },
    {
@@ -3229,13 +3232,14 @@
    {
       "proverb":"As the day lengthens, so the cold strengthens (The coldest part of the winter often occurs in the period following the shortest day)",
       "sounds":[
-         
+         "lengthens.aac",
+         "lengthens1.aac"
       ]
    },
    {
-      "proverb":"As the fool thinks, so the bell clinks",
+      "proverb":"As the fool thinks, so the bell clinks (A foolish person believes what he desires)",
       "sounds":[
-         
+         "clinks.aac"
       ]
    },
    {
@@ -3307,9 +3311,9 @@
       ]
    },
    {
-      "proverb":"As you bake, so shall you brew (The way you begin determines whether you will do badly or well)",
+      "proverb":"As you bake, so shall you brew (How you begin something determines how you will finish it)",
       "sounds":[
-         
+         "bake.aac"
       ]
    },
    {
@@ -3341,7 +3345,7 @@
    {
       "proverb":"Ask a silly question and you get a silly answer",
       "sounds":[
-         
+         "silly.aac"
       ]
    },
    {
@@ -3352,9 +3356,9 @@
       ]
    },
    {
-      "proverb":"Ask, and it shall be given to you; seek, and ye shall find; knock, and it shall be opened unto you",
+      "proverb":"Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened unto you",
       "sounds":[
-         
+         "knock.aac"
       ]
    },
    {
@@ -3386,13 +3390,14 @@
    {
       "proverb":"Ass loaded with gold climbs to the top of the castle",
       "sounds":[
-         
+         "climbs.aac",
+         "climbs1.aac"
       ]
    },
    {
-      "proverb":"At night all cats are gray",
+      "proverb":"At night all cats are gray (physical appearance is unimportant in the dark)",
       "sounds":[
-         
+         "gray.aac"
       ]
    },
    {
@@ -3408,9 +3413,10 @@
       ]
    },
    {
-      "proverb":"Attack is the best form of defence",
+      "proverb":"Attack is the best form of defense",
       "sounds":[
-         
+         "defense.aac",
+         "defense1.aac"
       ]
    },
    {
@@ -3422,7 +3428,8 @@
    {
       "proverb":"Avoidance is the only remedy (Sometimes the only solution to a problem is to avoid it in the first place)",
       "sounds":[
-         
+         "avoidance.aac",
+         "avoidance1.aac"
       ]
    },
    {
@@ -3498,7 +3505,8 @@
    {
       "proverb":"Be kind to your friends; if it weren't for them, you would be a total stranger",
       "sounds":[
-         
+         "stranger.aac",
+         "stranger1.aac"
       ]
    },
    {
@@ -3511,7 +3519,7 @@
    {
       "proverb":"Be not idle and you shall not be longing",
       "sounds":[
-         
+         "longing.aac"
       ]
    },
    {
@@ -3542,7 +3550,7 @@
    {
       "proverb":"Be the day weary or be the day long, at last it ringeth to evensong",
       "sounds":[
-         
+         "weary.aac"
       ]
    },
    {
@@ -3635,7 +3643,7 @@
    {
       "proverb":"Beauty will buy no beef",
       "sounds":[
-         
+         "beef.aac"
       ]
    },
    {
@@ -3667,7 +3675,7 @@
    {
       "proverb":"Before the morning is away praise not the glory of the day",
       "sounds":[
-         
+         "praise.aac"
       ]
    },
    {
@@ -3710,7 +3718,8 @@
    {
       "proverb":"Behind every great man there's a great woman (Successful men often owe their status or success to the support of a female partner or colleague)",
       "sounds":[
-         
+         "colleague.aac",
+         "colleague1.aac"
       ]
    },
    {
@@ -3729,7 +3738,8 @@
    {
       "proverb":"Believing has a core of unbelieving (Sometimes you need to start from a position of skepticism to arrive at the truth)",
       "sounds":[
-         
+         "unbelieving.aac",
+         "unbelieving1.aac"
       ]
    },
    {
@@ -3741,7 +3751,8 @@
    {
       "proverb":"Better a bed of wood than a bier of gold",
       "sounds":[
-         "Audio recording 2019-04-04 10-21-56.aac"
+         "Audio recording 2019-04-04 10-21-56.aac",
+         "Audio recording 2021-02-07 12-55-48.aac"
       ]
    },
    {
@@ -3753,7 +3764,8 @@
    {
       "proverb":"Better a dinner of herbs where love is than a stalled ox where hate is",
       "sounds":[
-         
+         "herbs.aac",
+         "herbs1.aac"
       ]
    },
    {
@@ -3765,7 +3777,8 @@
    {
       "proverb":"Better a good cow than a cow of a good kind (A person's character is of more importance than his or her family background)",
       "sounds":[
-         
+         "background.aac",
+         "background1.aac"
       ]
    },
    {
@@ -3777,7 +3790,8 @@
    {
       "proverb":"Better a lean peace than a fat victory",
       "sounds":[
-         
+         "victory1.aac",
+         "victory2.aac"
       ]
    },
    {
@@ -3789,13 +3803,14 @@
    {
       "proverb":"Better a thousand enemies outside the tent than one within",
       "sounds":[
-         
+         "within.aac"
       ]
    },
    {
       "proverb":"Better an egg today than a hen tomorrow",
       "sounds":[
-         
+         "egg.aac",
+         "egg1.aac"
       ]
    },
    {
@@ -3813,7 +3828,8 @@
    {
       "proverb":"Better be an old man's darling than a young man's slave",
       "sounds":[
-         
+         "darling.aac",
+         "darling1.aac"
       ]
    },
    {
@@ -3839,7 +3855,8 @@
    {
       "proverb":"Better be first in the village than second in Rome",
       "sounds":[
-         
+         "village.aac",
+         "village1.aac"
       ]
    },
    {
@@ -3870,13 +3887,15 @@
    {
       "proverb":"Better death than dishonor (People should be prepared to give up their lives to avoid dishonor)",
       "sounds":[
-         
+         "dishonor.aac",
+         "dishonor1.aac"
       ]
    },
    {
       "proverb":"Better deny at once than promise long",
       "sounds":[
-         
+         "Audio recording 2021-02-02 10-45-34.aac",
+         "Audio recording 2021-02-02 10-47-31.aac"
       ]
    },
    {
@@ -3895,7 +3914,7 @@
    {
       "proverb":"Better go to bed supperless than rise in debt",
       "sounds":[
-         
+         "Audio recording 2021-02-02 10-48-41.aac"
       ]
    },
    {
@@ -3944,7 +3963,7 @@
    {
       "proverb":"Better one house spoiled than two (It is a good thing for two bad people to become husband and wife and avoid trouble in two separate marriages)",
       "sounds":[
-         
+         "spoiled.aac"
       ]
    },
    {
@@ -3988,7 +4007,8 @@
    {
       "proverb":"Better some of the pudding than none of the pie",
       "sounds":[
-         
+         "Audio recording 2021-02-02 10-52-22.aac",
+         "Audio recording 2021-02-02 10-56-08.aac"
       ]
    },
    {
@@ -4000,7 +4020,8 @@
    {
       "proverb":"Better suffer a great evil than do a small one",
       "sounds":[
-         
+         "Audio recording 2021-02-02 10-57-41.aac",
+         "Audio recording 2021-02-02 11-02-00.aac"
       ]
    },
    {
@@ -4060,7 +4081,8 @@
    {
       "proverb":"Better to have loved and lost than never to have loved at all",
       "sounds":[
-         
+         "Audio recording 2021-02-02 11-04-37.aac",
+         "Audio recording 2021-02-02 11-05-58.aac"
       ]
    },
    {
@@ -4080,7 +4102,8 @@
    {
       "proverb":"Better to remain silent and be thought a fool than to speak and remove all doubt",
       "sounds":[
-         
+         "Audio recording 2021-02-02 11-15-36.aac",
+         "Audio recording 2021-02-02 11-17-48.aac"
       ]
    },
    {
@@ -4093,7 +4116,8 @@
    {
       "proverb":"Better to wear out than to rust out (It is better to be exhausted by hard work than to remain idle)",
       "sounds":[
-         
+         "Audio recording 2021-02-02 11-25-42.aac",
+         "Audio recording 2021-02-02 11-30-47.aac"
       ]
    },
    {
@@ -4141,7 +4165,8 @@
    {
       "proverb":"Between two stools one falls to the ground",
       "sounds":[
-         
+         "Audio recording 2021-02-02 11-35-11.aac",
+         "Audio recording 2021-02-02 11-38-47.aac"
       ]
    },
    {
@@ -4195,7 +4220,7 @@
    {
       "proverb":"Birds in their little nests agree (People who live or work together should try to do so in harmony)",
       "sounds":[
-         
+         "harmony.aac"
       ]
    },
    {
@@ -4257,7 +4282,8 @@
    {
       "proverb":"blessings brighten as they take their flight (People often fail to appreciate the good things that they have until they lose them)",
       "sounds":[
-         
+         "blessings.aac",
+         "blessings1.aac"
       ]
    },
    {
@@ -4330,9 +4356,10 @@
       ]
    },
    {
-      "proverb":"Both poverty and prosperity come from spending money—prosperity from spending it wisely",
+      "proverb":"Both poverty and prosperity come from spending money - prosperity from spending it wisely",
       "sounds":[
-         
+         "Audio recording 2021-02-03 12-27-59.aac",
+         "Audio recording 2021-02-03 12-29-03.aac"
       ]
    },
    {
@@ -4344,7 +4371,7 @@
    {
       "proverb":"Boys seldom make passes at girls who wear glasses (It is popularly believed that girls who wear glasses are less attractive to the opposite sex)",
       "sounds":[
-         
+         "attractive.aac"
       ]
    },
    {
@@ -4356,19 +4383,22 @@
    {
       "proverb":"Brave actions never wanted a trumpet",
       "sounds":[
-         
+         "Audio recording 2021-02-03 12-19-35.aac",
+         "Audio recording 2021-02-03 12-21-19.aac"
       ]
    },
    {
       "proverb":"Brave men lived before Agamemnon (People whose noble exploits are not recorded in history tend to be forgotten over the course of time)",
       "sounds":[
-         
+         "Audio recording 2021-02-06 12-59-12.aac",
+         "Audio recording 2021-02-06 13-00-40.aac"
       ]
    },
    {
       "proverb":"Bread always falls buttered side down (In any situation, the least desirable of two or more possible outcomes is the one that will occur)",
       "sounds":[
-         
+         "Audio recording 2021-02-03 12-33-23.aac",
+         "Audio recording 2021-02-03 12-36-00.aac"
       ]
    },
    {
@@ -4388,7 +4418,8 @@
    {
       "proverb":"Brevity is the soul of wit (When you make a speech, you are most likely to impress your listeners if you keep it as short as possible)",
       "sounds":[
-         
+         "Audio recording 2021-02-03 12-41-43.aac",
+         "Audio recording 2021-02-03 12-43-27.aac"
       ]
    },
    {
@@ -4426,7 +4457,8 @@
    {
       "proverb":"Business makes a man as well as tries him",
       "sounds":[
-         
+         "Audio recording 2021-02-03 13-05-46.aac",
+         "Audio recording 2021-02-03 13-06-15.aac"
       ]
    },
    {
@@ -4474,12 +4506,6 @@
       ]
    },
    {
-      "proverb":"By drinking his blood you've been turned into a vampire",
-      "sounds":[
-         "Audio recording 2020-08-07 11-40-57.aac"
-      ]
-   },
-   {
       "proverb":"By hook or by crook (By any means, legal or illegal)",
       "sounds":[
          "Audio recording 2020-03-01 11-49-40.aac"
@@ -4493,9 +4519,9 @@
       ]
    },
    {
-      "proverb":"By the street of \"By-and-by\" one arrives at the house of \"Never\"",
+      "proverb":"By the street of By-and-By, one arrives at the house of Never (If you keep putting off doing something, it will never get done)",
       "sounds":[
-         
+         "Audio recording 2021-02-03 13-14-09.aac"
       ]
    },
    {
@@ -4518,9 +4544,9 @@
       ]
    },
    {
-      "proverb":"Caesar's wife must be above suspicion (Those in positions of importance—and their associates—must have spotless reputations)",
+      "proverb":"Caesar's wife must be above suspicion (Those in positions of importance, and their associates, must have spotless reputations)",
       "sounds":[
-         
+         "Audio recording 2021-02-03 13-28-30.aac"
       ]
    },
    {
@@ -4548,12 +4574,6 @@
       "sounds":[
          "struck.aac",
          "struck1.aac"
-      ]
-   },
-   {
-      "proverb":"\"Calm down, son. Behave yourself.\"                                                                                                                            \"I've got the gun, son. I think it's you who should behave.\"                                                                                                  \"What? You want to see if I've got the minerals.\"",
-      "sounds":[
-         
       ]
    },
    {
@@ -4591,7 +4611,7 @@
    {
       "proverb":"Catch the bear before you sell his skin",
       "sounds":[
-         
+         "Audio recording 2021-02-03 13-36-04.aac"
       ]
    },
    {
@@ -4610,7 +4630,8 @@
    {
       "proverb":"Caution is the parent of safety (You must proceed with care, and take all the necessary precautions, if you want to avoid harm or injury)",
       "sounds":[
-         
+         "Audio recording 2021-02-06 12-09-48.aac",
+         "Audio recording 2021-02-06 12-11-31.aac"
       ]
    },
    {
@@ -4634,7 +4655,7 @@
    {
       "proverb":"Character is prosperity",
       "sounds":[
-         
+         "Audio recording 2021-02-03 13-55-17.aac"
       ]
    },
    {
@@ -4678,7 +4699,8 @@
    {
       "proverb":"Cheats never prosper",
       "sounds":[
-         
+         "Audio recording 2021-02-06 12-19-01.aac",
+         "Audio recording 2021-02-06 12-19-38.aac"
       ]
    },
    {
@@ -4831,13 +4853,8 @@
    {
       "proverb":"Coffee should be black as hell, strong as death, and sweet as love",
       "sounds":[
-         
-      ]
-   },
-   {
-      "proverb":"Coin a phrase",
-      "sounds":[
-         
+         "Audio recording 2021-02-04 12-38-31.aac",
+         "Audio recording 2021-02-04 12-41-16.aac"
       ]
    },
    {
@@ -4862,7 +4879,7 @@
    {
       "proverb":"Come on, Riddick, there's gotta be some part of you that wants to rejoin the human race!",
       "sounds":[
-         
+         "Audio recording 2021-02-04 12-54-31.aac"
       ]
    },
    {
@@ -4900,7 +4917,8 @@
    {
       "proverb":"Concord makes small things grow",
       "sounds":[
-         
+         "Audio recording 2021-02-04 13-05-00.aac",
+         "Audio recording 2021-02-04 13-04-34.aac"
       ]
    },
    {
@@ -4932,13 +4950,15 @@
    {
       "proverb":"Conform to the rules - следовать правилам",
       "sounds":[
-         
+         "Audio recording 2021-02-06 13-04-31.aac"
       ]
    },
    {
       "proverb":"Conscience does make cowards of us all (People troubled by their conscience often reveal their guilt by acting in a fearful manner)",
       "sounds":[
-         
+         "Audio recording 2021-02-06 11-55-44.aac",
+         "Audio recording 2021-02-06 11-59-47.aac",
+         "Audio recording 2021-02-06 12-01-56.aac"
       ]
    },
    {
@@ -4969,7 +4989,8 @@
    {
       "proverb":"Constant dripping wears away the stone",
       "sounds":[
-         
+         "Audio recording 2021-02-04 13-17-54.aac",
+         "Audio recording 2021-02-04 13-20-16.aac"
       ]
    },
    {
@@ -4996,7 +5017,8 @@
    {
       "proverb":"Councils of war never fight (When a number of people get together to discuss something important, they rarely decide on a drastic course of action)",
       "sounds":[
-         
+         "Audio recording 2021-02-06 13-33-43.aac",
+         "Audio recording 2021-02-06 13-34-48.aac"
       ]
    },
    {
@@ -5015,13 +5037,15 @@
    {
       "proverb":"Courage is resistance to fear, mastery of fear, not absence of fear. Mark Twain",
       "sounds":[
-         
+         "Audio recording 2021-02-06 11-44-19.aac",
+         "Audio recording 2021-02-06 11-51-24.aac"
       ]
    },
    {
       "proverb":"Courtesy costs nothing",
       "sounds":[
-         
+         "Audio recording 2021-02-06 11-28-38.aac",
+         "Audio recording 2021-02-06 11-29-17.aac"
       ]
    },
    {
@@ -5094,7 +5118,8 @@
    {
       "proverb":"Crows do not pick crow's eyes",
       "sounds":[
-         
+         "Audio recording 2021-02-06 11-31-53.aac",
+         "Audio recording 2021-02-06 11-35-41.aac"
       ]
    },
    {
@@ -5119,7 +5144,7 @@
    {
       "proverb":"Custom is a second nature",
       "sounds":[
-         
+         "Audio recording 2021-02-06 12-32-20.aac"
       ]
    },
    {
@@ -5205,7 +5230,8 @@
    {
       "proverb":"Death keeps no calendar (Death can strike at any time)",
       "sounds":[
-         
+         "calendar.aac",
+         "Audio recording 2021-02-04 14-24-00.aac"
       ]
    },
    {
@@ -5235,7 +5261,8 @@
    {
       "proverb":"Deeds are fruits, words are but leaves (Mere words have no value unless they are followed by positive action)",
       "sounds":[
-         
+         "fruits.aac",
+         "Audio recording 2021-02-06 13-25-03.aac"
       ]
    },
    {
@@ -5266,7 +5293,8 @@
    {
       "proverb":"Deny self for self's sake (Self-denial and unselfishness can be beneficial to the body and soul)",
       "sounds":[
-         
+         "Audio recording 2021-02-04 13-27-00.aac",
+         "Audio recording 2021-02-04 13-33-48.aac"
       ]
    },
    {
@@ -5310,13 +5338,8 @@
    {
       "proverb":"Diamond cuts diamond (The only match for a very sharp-witted or cunning person is somebody of equally sharp wit or great cunning)",
       "sounds":[
-         
-      ]
-   },
-   {
-      "proverb":"Did I do something to anger you?\nNot yet.\nIf I do, please keep it to yourself.",
-      "sounds":[
-         
+         "diamond.aac",
+         "Audio recording 2021-02-04 13-45-21.aac"
       ]
    },
    {
@@ -5347,19 +5370,21 @@
    {
       "proverb":"Different strokes for different folks (Different people have different habits, methods, and tastes)",
       "sounds":[
-         
+         "Audio recording 2021-02-04 14-10-46.aac",
+         "Audio recording 2021-02-04 14-11-41.aac"
       ]
    },
    {
       "proverb":"Dig the well before you are thirsty (Do not wait until it is too late to prepare for future necessities)",
       "sounds":[
-         
+         "Audio recording 2021-02-06 12-26-44.aac"
       ]
    },
    {
       "proverb":"Diligence is the mother of success (Those who work hardest are most likely to enjoy good fortune)",
       "sounds":[
-         
+         "diligence.aac",
+         "Audio recording 2021-02-06 13-11-30.aac"
       ]
    },
    {
@@ -5497,7 +5522,8 @@
    {
       "proverb":"Dogs bark as they are bred",
       "sounds":[
-         
+         "Audio recording 2021-02-07 11-36-31.aac",
+         "Audio recording 2021-02-07 11-37-24.aac"
       ]
    },
    {
@@ -5509,7 +5535,8 @@
    {
       "proverb":"Dogs that put up many hares kill none",
       "sounds":[
-         
+         "Audio recording 2021-02-07 11-41-19.aac",
+         "Audio recording 2021-02-07 11-42-10.aac"
       ]
    },
    {
@@ -5534,7 +5561,7 @@
    {
       "proverb":"Don't be mad at me!",
       "sounds":[
-         
+         "Audio recording 2021-02-07 11-58-26.aac"
       ]
    },
    {
@@ -5589,7 +5616,7 @@
    {
       "proverb":"Don't cast your pearls before swine (It is pointless to waste fine or beautiful things on people who are incapable of appreciating them)",
       "sounds":[
-         
+         "swine.aac"
       ]
    },
    {
@@ -5651,7 +5678,8 @@
    {
       "proverb":"Don't dwell on who let you down. Cherish those who hold you up!",
       "sounds":[
-         
+         "Audio recording 2021-02-07 12-07-15.aac",
+         "Audio recording 2021-02-07 12-08-03.aac"
       ]
    },
    {
@@ -5703,7 +5731,8 @@
    {
       "proverb":"Don't go near the water until you learn how to swim (Do not put yourself in a difficult or dangerous situation until you are capable of handling it)",
       "sounds":[
-         
+         "Audio recording 2021-02-07 12-15-33.aac",
+         "Audio recording 2021-02-07 12-18-35.aac"
       ]
    },
    {
@@ -5826,7 +5855,7 @@
    {
       "proverb":"Don't overload gratitude; if you do, she'll kick (When people are grateful to you, do not take excessive advantage of the situation, because any sense of obligation has its limits)",
       "sounds":[
-         
+         "grateful.aac"
       ]
    },
    {
@@ -5838,7 +5867,7 @@
    {
       "proverb":"Don't play stupid with me! We both know what's going on!",
       "sounds":[
-         
+         "Audio recording 2021-02-07 12-37-09.aac"
       ]
    },
    {
@@ -5850,7 +5879,7 @@
    {
       "proverb":"Don't play with fire",
       "sounds":[
-         
+         "Audio recording 2021-02-07 12-40-12.aac"
       ]
    },
    {
@@ -5905,9 +5934,10 @@
       ]
    },
    {
-      "proverb":"Don't rush the cattle",
+      "proverb":"Don't rush the cattle!",
       "sounds":[
-         
+         "Audio recording 2021-02-09 12-19-37.aac",
+         "Audio recording 2021-02-09 12-31-30.aac"
       ]
    },
    {
@@ -5950,7 +5980,7 @@
    {
       "proverb":"Don't shout until you are out of the woods (Avoid any show of triumph or relief until you are sure that a period of difficulty or danger is over)",
       "sounds":[
-         
+         "shout.aac"
       ]
    },
    {
@@ -5963,7 +5993,7 @@
    {
       "proverb":"Don't spoil the ship for half a penny's worth of tar (Do not make petty economies that will adversely affect the final result of something if you have already put a lot of effort into it)",
       "sounds":[
-         
+         "petty.aac"
       ]
    },
    {
@@ -5991,9 +6021,9 @@
       ]
    },
    {
-      "proverb":"Don't Talk Bollocks!",
+      "proverb":"Don't talk bollocks!",
       "sounds":[
-         
+         "Audio recording 2021-02-09 11-31-28.aac"
       ]
    },
    {
@@ -6011,13 +6041,14 @@
    {
       "proverb":"Don't teach your grandmother to suck eggs (Do not presume to give advice or instruction to those who are older and more experienced than you)",
       "sounds":[
-         
+         "Audio recording 2021-02-09 11-11-27.aac"
       ]
    },
    {
       "proverb":"Don't tear down a wall unless you are sure why it was put up",
       "sounds":[
-         
+         "Audio recording 2021-02-09 11-02-48.aac",
+         "Audio recording 2021-02-09 11-03-18.aac"
       ]
    },
    {
@@ -6060,7 +6091,8 @@
    {
       "proverb":"Don't throw out the baby with the bathwater (Do not take the drastic step of abolishing or discarding something in its entirety when only part of it is unacceptable)",
       "sounds":[
-         
+         "bathwater.aac",
+         "Audio recording 2021-02-09 12-05-26.aac"
       ]
    },
    {
@@ -6116,7 +6148,7 @@
    {
       "proverb":"Don't you sweat about me. I'm okay.",
       "sounds":[
-         
+         "Audio recording 2021-02-09 10-54-29.aac"
       ]
    },
    {
@@ -6128,7 +6160,8 @@
    {
       "proverb":"Draw not your bow till your arrow is fixed",
       "sounds":[
-         
+         "Audio recording 2021-02-09 10-49-43.aac",
+         "Audio recording 2021-02-09 10-51-59.aac"
       ]
    },
    {
@@ -6180,7 +6213,7 @@
    {
       "proverb":"Drive the nail that will go",
       "sounds":[
-         
+         "Audio recording 2021-02-09 10-42-24.aac"
       ]
    },
    {
@@ -6227,7 +6260,8 @@
    {
       "proverb":"Dry feet, warm head bring safe to bed",
       "sounds":[
-         
+         "Audio recording 2021-02-09 11-23-37.aac",
+         "Audio recording 2021-02-09 11-25-06.aac"
       ]
    },
    {
@@ -6245,7 +6279,8 @@
    {
       "proverb":"Each stain comes to sight on a horse that is white",
       "sounds":[
-         
+         "Audio recording 2021-02-09 11-49-12.aac",
+         "Audio recording 2021-02-09 11-49-40.aac"
       ]
    },
    {
@@ -6294,7 +6329,8 @@
    {
       "proverb":"Easy come easy go (Things that are easily acquired, especially money, are just as easily lost or spent)",
       "sounds":[
-         
+         "Audio recording 2021-02-09 11-52-14.aac",
+         "Audio recording 2021-02-09 11-53-32.aac"
       ]
    },
    {
@@ -6363,19 +6399,13 @@
    {
       "proverb":"Empty vessel gives a greater sound than a full barrel (Foolish people are the most talkative)",
       "sounds":[
-         
-      ]
-   },
-   {
-      "proverb":"Enough! I will have order!",
-      "sounds":[
-         
+         "Audio recording 2021-02-09 12-14-31.aac"
       ]
    },
    {
       "proverb":"Enough is as good as a feast",
       "sounds":[
-         
+         "Audio recording 2021-02-12 10-29-14.aac"
       ]
    },
    {
@@ -6393,13 +6423,15 @@
    {
       "proverb":"Envy shoots at others and wounds herself",
       "sounds":[
-         
+         "Audio recording 2021-02-12 10-25-30.aac",
+         "Audio recording 2021-02-12 10-27-13.aac"
       ]
    },
    {
       "proverb":"Equality begins in the grave (Only in death are all people truly equal)",
       "sounds":[
-         
+         "Audio recording 2021-02-12 10-33-11.aac",
+         "Audio recording 2021-02-12 10-34-22.aac"
       ]
    },
    {
@@ -6411,7 +6443,8 @@
    {
       "proverb":"Eternity makes room for a salty cucumber",
       "sounds":[
-         
+         "Audio recording 2021-02-12 10-41-09.aac",
+         "Audio recording 2021-02-12 10-45-33.aac"
       ]
    },
    {
@@ -6423,7 +6456,8 @@
    {
       "proverb":"Even a small star shines in the dark",
       "sounds":[
-         
+         "Audio recording 2021-02-12 10-46-23.aac",
+         "Audio recording 2021-02-12 10-46-57.aac"
       ]
    },
    {
@@ -6433,15 +6467,16 @@
       ]
    },
    {
-      "proverb":"Even Homer sometimes nods",
+      "proverb":"Even Homer sometimes nods (Even the most gifted person occasionally makes mistakes)",
       "sounds":[
-         
+         "Audio recording 2021-02-12 11-00-10.aac"
       ]
    },
    {
       "proverb":"Even if the elephant is thin he is still the lord of the jungle",
       "sounds":[
-         
+         "Audio recording 2021-02-12 11-03-23.aac",
+         "Audio recording 2021-02-12 11-05-40.aac"
       ]
    },
    {
@@ -6503,7 +6538,8 @@
    {
       "proverb":"Every beast roars in its own den",
       "sounds":[
-         
+         "Audio recording 2021-02-12 11-33-16.aac",
+         "Audio recording 2021-02-12 11-35-03.aac"
       ]
    },
    {
@@ -6515,7 +6551,8 @@
    {
       "proverb":"Every book must be chewed to get out its juice",
       "sounds":[
-         
+         "Audio recording 2021-02-12 11-38-22.aac",
+         "Audio recording 2021-02-12 11-39-29.aac"
       ]
    },
    {
@@ -6540,7 +6577,7 @@
    {
       "proverb":"Every cock will crow upon his own dunghill (People are always at their bravest or most self-assured when they are on their own home territory)",
       "sounds":[
-         
+         "Audio recording 2021-02-12 11-54-05.aac"
       ]
    },
    {
@@ -6552,7 +6589,7 @@
    {
       "proverb":"Every country has its own customs",
       "sounds":[
-         
+         "Audio recording 2021-02-12 12-05-38.aac"
       ]
    },
    {
@@ -6589,7 +6626,7 @@
    {
       "proverb":"Every dog is valiant at his own door",
       "sounds":[
-         
+         "Audio recording 2021-02-12 12-25-26.aac"
       ]
    },
    {
@@ -6666,7 +6703,8 @@
    {
       "proverb":"Every land has its own law (Each nation, region, class, or profession has its own rules and customs, which must be respected by outsiders)",
       "sounds":[
-         
+         "Audio recording 2021-02-12 12-06-41.aac",
+         "Audio recording 2021-02-12 12-09-01.aac"
       ]
    },
    {
@@ -6685,7 +6723,7 @@
    {
       "proverb":"Every man for himself and God for us all (At times of crisis or great danger, each must take responsibility for his or her own personal survival and hope for divine protection for everybody)",
       "sounds":[
-         
+         "Audio recording 2021-02-12 12-32-16.aac"
       ]
    },
    {
@@ -10248,12 +10286,6 @@
       ]
    },
    {
-      "proverb":"\"I guess I don't remember meeting you!\"\n\"Well, it's probably because we've never met\".",
-      "sounds":[
-         "Audio recording 2020-07-16 12-45-26.aac"
-      ]
-   },
-   {
       "proverb":"I have a reputation to maintain",
       "sounds":[
          
@@ -10769,7 +10801,8 @@
    {
       "proverb":"Idleness is the mother of all evil (A lack of useful things to do is the cause of much crime and wrongdoing)",
       "sounds":[
-         "Audio recording 2019-03-04 11-59-16.aac"
+         "Audio recording 2019-03-04 11-59-16.aac",
+         "idleness.aac"
       ]
    },
    {
@@ -11961,7 +11994,7 @@
       ]
    },
    {
-      "proverb":"It is the quality of one's convictions that determine his success, not the number of followers",
+      "proverb":"It is the quality of one's convictions that determines success, not the number of followers",
       "sounds":[
          "Audio recording 2019-03-19 10-00-56.aac"
       ]
@@ -16422,7 +16455,7 @@
       ]
    },
    {
-      "proverb":"People wait all week for friday, all year for summer, all life for happiness",
+      "proverb":"People wait all week for Friday, all year for summer, all life for happiness",
       "sounds":[
          "summer.aac",
          "summer1.aac"
@@ -19507,12 +19540,6 @@
       ]
    },
    {
-      "proverb":"The page you were looking for doesn't exist. You may have mistyped the address, or the page may have moved. If you are the application owner check the logs for more information.",
-      "sounds":[
-         "Audio recording 2019-05-13 11-00-11.aac"
-      ]
-   },
-   {
       "proverb":"The pen is mightier than the sword (Writing can be more effective or persuasive than violence or aggression)",
       "sounds":[
          
@@ -20784,7 +20811,7 @@
       ]
    },
    {
-      "proverb":"Think positive, Frank!\nYou be positive, I'll be realistic.",
+      "proverb":"- Think positive, Frank!\n- You be positive, I'll be realistic.",
       "sounds":[
          "Audio recording 2020-08-21 11-08-55.aac"
       ]
@@ -21350,12 +21377,6 @@
       "sounds":[
          "Audio recording 2020-07-11 12-19-24.aac",
          "Audio recording 2020-07-11 12-20-26.aac"
-      ]
-   },
-   {
-      "proverb":"to get on one's nerves - действовать на нервы\nYou are getting on my nerves - ты действуешь мне на нервы\nYou're beginning to get on my nerves - ты начинаешь действовать мне на нервы\nHis singing is getting on my nerves - его пение действует мне на нервы\n\nA: How is your new roommate?\nB: He keeps getting on my nerves.\nA: Why? What is he doing?\nB: He's always having parties, being messy, eating my food.",
-      "sounds":[
-         "Audio recording 2019-11-23 10-46-02.aac"
       ]
    },
    {
@@ -24167,7 +24188,7 @@
       ]
    },
    {
-      "proverb":"You gotta be fucking kidding me",
+      "proverb":"You gotta be fucking kidding me!",
       "sounds":[
          "Audio recording 2019-11-26 11-24-49.aac"
       ]
@@ -24577,12 +24598,6 @@
       "proverb":"How does an Arab get his wife pregnant? She gets naked and lies down on the bed. He jerks off on the wall, and they let the flies do the rest.",
       "sounds":[
          "Audio recording 2020-06-19 13-25-48.aac"
-      ]
-   },
-   {
-      "proverb":"Professor Minerva McGonagall:\nWhy is it, whenever something happens, it is always you three?\nRon Weasley:\nBelieve me, Professor, I've been asking myself the same question for six years.",
-      "sounds":[
-         
       ]
    }
 ]
