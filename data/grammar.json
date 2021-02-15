@@ -1305,7 +1305,7 @@
   "sounds": [
    "manypeople.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns"
+  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns. We tend to use 'many' and 'much' in questions and negatives, and use 'lots of' or 'a lot of' in affirmative statements."
  }, 
  {
   "proverb": "Fewer people smoke these days than used to.", 
@@ -3967,6 +3967,90 @@
    "Audio recording 2021-02-13 13-18-42.aac"
   ],
   "description": "These are all examples of subject questions"
+ },
+ {
+  "proverb": "I have been on vacation for two days. I was on vacation for two days.",
+  "sounds": [
+   "Audio recording 2021-02-14 19-14-28.aac"
+  ],
+  "description": "The first sentence means that you are still on vacation (Я в отпуске уже два дня). The Present Perfect Continuous can't be used here because 'be' is a stative verb in this context. It can also mean that you have recently returned from your vacation and there is some connection to the present (Я только что вернулся с двухдневнего отпуска). The second sentence has no connection to the present and the vacation took place in the past. Note that 'the past' can be recent, like a few days ago. For example: 'I missed the meeting last week because I was on vacation for two days.'"
+ },
+ {
+  "proverb": "Tom recalled using his credit card at the store. He does not recollect seeing her at the party.",
+  "sounds": [
+   "Audio recording 2021-02-15 11-47-01.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verbs 'recall' and 'recollect' are always followed by gerunds. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
+ },
+ {
+  "proverb": "The plumber recommended buying a new water heater. I highly recommend taking some precautions.",
+  "sounds": [
+   "recommend.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'recommend' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'buying' and 'taking' are the objects of 'recommend'."
+ },
+ {
+  "proverb": "She resents being told what to do. He resents having to work so hard.",
+  "sounds": [
+   "resent.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resent' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'being' and 'having' are the objects of 'resent'."
+ },
+ {
+  "proverb": "She couldn't resist laughing at him in those clothes. He couldn't resist eating the cake.",
+  "sounds": [
+   "resist.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resist' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'laughing' and 'eating' are the objects of 'resist'."
+ },
+ {
+  "proverb": "We resumed speaking about the problem at the meeting.",
+  "sounds": [
+   "resume.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resume - возобновлять, продолжать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' is the object of 'resume'."
+ },
+ {
+  "proverb": "He risked being caught. She risks losing her job.",
+  "sounds": [
+   "risk.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'risk' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'being' and 'losing' are the objects of 'risk'."
+ },
+ {
+  "proverb": "He suggested staying at the Grand Hotel. I suggest reading more English short stories.",
+  "sounds": [
+   "suggest.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'suggest' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'staying' and 'reading' are the objects of 'suggest'."
+ },
+ {
+  "proverb": "I won't tolerate lying. We can't tolerate being screamed at.",
+  "sounds": [
+   "tolerate.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'tolerate' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'lying' and 'being' are the objects of 'tolerate'."
+ },
+ {
+  "proverb": "He couldn't understand her leaving so suddenly. I understand being jealous, but you tried to kill me.",
+  "sounds": [
+   "understand1.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'understand' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'leaving' and 'being' are the objects of 'understand'. And don't forget that 'understand' is also a stative verb."
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
  },
  {
   "proverb": "",
