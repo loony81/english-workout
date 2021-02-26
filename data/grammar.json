@@ -307,7 +307,7 @@
   "sounds": [
    "thedanube.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with rivers"
+  "description": "This sentence demonstrates the use of the definite article with rivers, and also when to use the possessive case"
  }, 
  {
   "proverb": "We flew over the Atlantic.", 
@@ -456,7 +456,7 @@
   "sounds": [
    "ride.aac"
   ], 
-  "description": "This sentence demonstrates that we can ride something if we are on top of it (ride a bicycle, horse, bike, etc)"
+  "description": "This sentence demonstrates that we can ride something if we are on top of it (ride a bicycle, horse, bike, etc). It also demonstrates that we use the transportation prepositions 'on' and 'off' when we ride something: 'get on', 'get off'. These prepositions are also used with means of transport which are considered a platform (bus, train, ship, etc)"
  }, 
  {
   "proverb": "She was at the cinema at the moment the crime was committed.", 
@@ -772,14 +772,14 @@
   "sounds": [
    "thebeach1.aac"
   ], 
-  "description": "This sentence demonstrates a set expression 'on the beach' which means the sand"
+  "description": "This sentence demonstrates a set expression 'on the beach' which means the sand. 'At the beach' is a little more general, if you say 'I spent the entire day at the beach' it means that you could have been in the water, or at a shop near the beach buying ice cream, or even on vacation in a beach town. 'on the beach' means you were actually sitting, walking or lying on the sand."
  }, 
  {
   "proverb": "We had a good time at the beach yesterday.", 
   "sounds": [
    "thebeach2.aac"
   ], 
-  "description": "This sentence demonstrates a set expression 'at the beach' which means the place"
+  "description": "This sentence demonstrates the difference between 'at the beach' and 'on the beach'. 'On the beach' means you are literally on the sand near the water. 'At the beach' is more general and could mean you're literally on the sand, or in the water, or it could mean you're visiting a beach town."
  }, 
  {
   "proverb": "The boy is afraid to go to bed in the dark.", 
@@ -1592,7 +1592,7 @@
   "sounds": [
    "partsofday.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. We use the preposition 'on' with parts of the day"
+  "description": "These sentences demonstrate how to use prepositions of time. We use the preposition 'on' with days and dates, but also with parts of a day"
  }, 
  {
   "proverb": "I'm going to go shopping on the weekend. What are you doing on the weekend? What did you do on the weekend?", 
@@ -1814,14 +1814,14 @@
    "wearing.aac", 
    "ring.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, makeup and perfume), and we use it in the continuous form when we want to describe the action of wearing something, because it is something that is taking place over time or was taking place over time: 'She was wearing...'. The simple form is usually used to express a habitual action. Compare: 'The girl is wearing a black dress' means she is wearing it at the moment, 'The girl wears a black dress every time she goes to church' means on a regular basis but not necessarily at the moment. It also demonstrates when to use the preposition 'on' (when something is attached to something else)"
+  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, glasses, makeup and perfume), and we use it in the continuous form when we want to describe the action of wearing something, because it is something that is taking place over time or was taking place over time: 'She was wearing...'. The simple form is usually used to express a habitual action. Compare: 'The girl is wearing a black dress' means she is wearing it at the moment, 'The girl wears a black dress every time she goes to church' means on a regular basis but not necessarily at the moment. It also demonstrates when to use the preposition 'on' (when something is attached to something else)"
  }, 
  {
   "proverb": "I used to wear too much makeup, but not anymore.", 
   "sounds": [
    "wear.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, makeup and perfume)"
+  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, glasses, makeup and perfume)"
  }, 
  {
   "proverb": "She helped me to carry my suitcases.", 
@@ -2281,7 +2281,7 @@
   "sounds": [
    "horse.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if you're on top of it"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it"
  }, 
  {
   "proverb": "You get on a train, bus, or subway to begin your trip.", 
@@ -2302,7 +2302,7 @@
   "sounds": [
    "horse1.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if you're on top of it"
+  "description": "These expressions demonstrate how to use transportation prepositions. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it"
  },
  {
   "proverb": "These pots are on sale for $20.", 
@@ -2393,7 +2393,7 @@
   "sounds": [
    "inthecountry.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'."
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'. Also notice that 'prefer' is a stative verb."
  },
  {
   "proverb": "Don't keep this medicine in the sun.", 
@@ -2557,7 +2557,7 @@
   "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' is used to mean next to something or beside (он ждет у машины)"
  },
  {
-  "proverb": "Put your beg by the door and sit down.", 
+  "proverb": "Put your bag by the door and sit down.", 
   "sounds": [
    "bythedoor.aac"
   ], 
@@ -2575,35 +2575,35 @@
   "sounds": [
    "zero.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "She's below average intelligence.", 
   "sounds": [
    "average.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "Tom is below Jane in the rankings.", 
   "sounds": [
    "rankings.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "We're at 150 feet below sea level.", 
   "sounds": [
    "sealevel.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "The Dead Sea lies below sea level.", 
   "sounds": [
    "deadsea.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not directly under. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. It also demonstrates that we need to use the definite article with the names of the follwoing bodies of water: rivers, seas, oceans, canals and gulfs, but not with lakes and waterfalls"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. It also demonstrates that we need to use the definite article with the names of the follwoing bodies of water: rivers, seas, oceans, canals and gulfs, but not with lakes and waterfalls"
  },
  {
   "proverb": "She's above average intelligence.", 
@@ -2795,7 +2795,7 @@
   "description": "These sentences demonstrate how to use prepositions of place. The preposition 'between' is used when talking about two items, or sometimes 3+ items when the quantity is specified (между). The preposition 'among' is used when talking about 3+ items and the quantity is not specified or distinct (среди). The first sentence also demonstrates when to use the definite article with country names"
  },
  {
-  "proverb": "Among the books, I saw an old photo. I walked among the trees. There is a traitor among us.", 
+  "proverb": "Among the books I saw an old photo. I walked among the trees. There is a traitor among us.", 
   "sounds": [
    "among.aac", "among1.aac"
   ], 
@@ -3313,7 +3313,7 @@
   "description": "'suppose' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. By the way, 'recognize' is also a state verb"
  },
  {
-  "proverb": "I recognized her immediately. We didn't recognize you, without your beard.", 
+  "proverb": "I recognized her immediately. We didn't recognize you without your beard.", 
   "sounds": [
    "recognize.aac"
   ], 
@@ -3359,7 +3359,7 @@
   "sounds": [
    "stupid.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is mostly used as a stative verb to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state (only now, not usually). 'you are stupid' = you are always stupid, it's part of your personality, 'you are being stupid' = only now, not usually"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is mostly used as a stative verb to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state (only now, not usually). 'you are stupid' = you are always stupid, it's part of your personality (Ты глуп), 'you are being stupid' = only now, not usually (Ты ведешь себя глупо)"
  },
  {
   "proverb": "It doesn't matter what you think. The only thing that really matters in life are your relationships to other people.", 
@@ -3581,11 +3581,11 @@
   "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'acknowledge' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'having' is the object of 'acknowledge'"
  },
  {
-  "proverb": "She admitted making a mistake.", 
+  "proverb": "She admitted to making a mistake.", 
   "sounds": [
    "admit.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'admit' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'making' is the object of 'admit'"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). Normally, after the word 'to' we use the base form of the verb, but there are some exceptions. Two such exceptions are the words 'confess' or 'admit' to doing something. In this sentence, the word 'making' is a gerund and it acts as the object of 'admitted to'. To better understand: the preposition 'to' is part of 'admit to', it does not belong to 'make'. There are some other verbs that follow this pattern: 'devoted', 'dedicated' and 'committed' to doing something, and also 'opposed' or 'object' to doing something."
  },
  {
   "proverb": "I anticipate visiting New York next month.", 
@@ -3662,7 +3662,7 @@
  {
   "proverb": "I should've known that you would be here, Professor McGonagall.", 
   "sounds": [
-   "Audio recording 2021-02-05 10-47-01"
+   "Audio recording 2021-02-05 10-47-01.aac"
   ], 
   "description": "This sentence demonstrates how to use the modal verb 'should' when expressing hindsight advice or regrets"
  },
@@ -3693,7 +3693,7 @@
   "sounds": [
    "Audio recording 2021-02-05 11-49-51.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'celebrate' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'getting' and 'working' are the objects of 'celebrate'."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'celebrate' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'getting' and 'working' are the objects of 'celebrate': мы будем праздновать годовщину совместной работы, он праздновал получение работы"
  },
  {
   "proverb": "We're considering selling the house.", 
@@ -4039,25 +4039,186 @@
   "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'understand' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'leaving' and 'being' are the objects of 'understand'. And don't forget that 'understand' is also a stative verb."
  },
  {
-  "proverb": "",
+  "proverb": "How long have you worked here? How long have you been working here?",
   "sounds": [
-   ""
+   "Audio recording 2021-02-16 01-14-58.aac"
   ],
-  "description": ""
+  "description": "These two senteces mean the same and can be used interchangeably."
  },
  {
-  "proverb": "",
+  "proverb": "Remember to lock the door! I remember locking the door.",
   "sounds": [
-   ""
+   "remember1.aac"
   ],
-  "description": ""
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'remember' + an infinitive is used for something that you need or needed to do, that has or had to be done, often used when giving advice or an instruction. When 'remember' is followed by a gerund it means you remember something you have done in the past (you have a memory of the action)."
  },
  {
-  "proverb": "",
+  "proverb": "She remembered to visit her grandmother. She remembered visiting her grandmother.",
   "sounds": [
-   ""
+   "remember2.aac"
   ],
-  "description": ""
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'remember' + an infinitive is used for something that you need or needed to do, that has or had to be done, often used when giving advice or an instruction. When 'remember' is followed by a gerund it means you remember something you have done in the past (you have a memory of the action). The first sentence means that she didn't forget to visit, the second sentence means she had memories of this time"
+ },
+ {
+  "proverb": "I forgot to meet him. I forgot meeting him.",
+  "sounds": [
+   "forget.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Often used when giving advice or an instruction: 'Don't forget to ...  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
+ },
+ {
+  "proverb": "He forgot to open the window. He forgot opening the window.",
+  "sounds": [
+   "forget1.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Often used when giving advice or an instruction: 'Don't forget to ...  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
+ },
+ {
+  "proverb": "Don't forget to pick me up from the airport at 4 pm. I'll never forget traveling across Europe.",
+  "sounds": [
+   "forget2.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Often used when giving advice or an instruction: 'Don't forget to ...  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
+ },
+ {
+  "proverb": "Don't forget to watch the news tonight! I'll never forget watching my first horror movie!",
+  "sounds": [
+   "forget3.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Often used when giving advice or an instruction: 'Don't forget to ...  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
+ },
+ {
+  "proverb": "By the time she finds out, it'll be too late",
+  "sounds": [
+   "toolate1.aac"
+  ],
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition 'by' is used to indicate the end time of an activity, meaning 'no later than'. 'by the time' is a prepostional phrase that can be used for a past, present or a future action and it means 'at some point before - К тому времени как'. 'By the time' is followed by a clause with a relative time that specifies an end or completion time."
+ },
+ {
+  "proverb": "I stopped to smoke. I stopped smoking.",
+  "sounds": [
+   "stop.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'stop' + to + infinitive is used to indicate that someone stops doing something in order to do something else: 'Он остановился покурить'. 'stop' + gerund is used to indicate that an action or event is no longer continuing: 'Я бросил курить'. Also used when giving advice or an instruction: 'Stop making this noise at once!'"
+ },
+ {
+  "proverb": "He decided to stop to drink because he was thirsty. He needs to stop drinking as he is an alcoholic.",
+  "sounds": [
+   "stop1.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'stop' + to + infinitive is used to indicate that someone stops doing something in order to do something else: 'Он решил остановиться чтобы попить воды'. 'stop' + gerund is used to indicate that an action or event is no longer continuing: 'Ему нужно бросить пить'. Also used when giving advice or an instruction: 'Stop making this noise at once!'"
+ },
+ {
+  "proverb": "I stopped to talk. I stopped talking.",
+  "sounds": [
+   "stop2.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'stop' + to + infinitive is used to indicate that someone stops doing something in order to do something else: 'Я остановился поговорить.' 'stop' + gerund is used to indicate that an action or event is no longer continuing: 'Я замолчал'. Also used when giving advice or an instruction: 'Stop making this noise at once!'"
+ },
+ {
+  "proverb": "I tried to open the window, but it was too heavy. The room was hot and I tried opening the window.",
+  "sounds": [
+   "try.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я попытался открыть окно. 'try + gerund' means to experiment with different options to see if something works, or giving advice: В комнате было жарко и я попробовал открыть окно (я открыл окно чтобы проветрить комнату)"
+ },
+ {
+  "proverb": "I'm trying to learn Japanese but it's very difficult. Try studying with someone who speaks the language.",
+  "sounds": [
+   "try1.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытаюсь изучать Японский. 'try + gerund' means to experiment with different options to see if something works, or giving advice: Попробуй учиться с носителем языка"
+ },
+ {
+  "proverb": "I tried to watch the movie but there was too much noise going on. I couldn't get to sleep so I tried watching the movie.",
+  "sounds": [
+   "try2.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытался посмотреть фильм, но ... 'try + gerund' means to experiment with different options to see if something works, or giving advice: Я не мог заснуть, поэтому попробовал посмотреть фильм."
+ },
+ {
+  "proverb": "I regret telling you that I was seeing someone else. I regret to tell you that your grandmother has died.",
+  "sounds": [
+   "regret.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + to + infinitive' is used in formal expressions to apologise for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. Also notice that the verb 'see', which is usually a stative verb, is used in the continuous form here. 'see' as an action verb means to have a relationship with someone"
+ },
+ {
+  "proverb": "I regret to inform you that you have failed the exam. I regret not telling you the truth.",
+  "sounds": [
+   "regret1.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + to + infinitive' is used in formal expressions to apologise for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... 'regret + gerund' describes a past action which you feel bad about: Я сожалею (жалею), что не сказал вам правду."
+ },
+ {
+  "proverb": "She quit to work here. She quit working here.",
+  "sounds": [
+   "quit.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The first sentence means she left her last job in order to work here. The second sentence means she quit her job here, she doesn't work here anymore"
+ },
+ {
+  "proverb": "Dave needs to improve his French. My French needs improving.",
+  "sounds": [
+   "need1.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The verb 'need' is usually used with an infinitive or an object + an infinitive: Дейву нужно ... When 'need' is used with a gerund, it takes on a passive meaning: Мой французский нуждается... Also notice that 'need' is a stative verb."
+ },
+ {
+  "proverb": "I need to fix my car. My car needs fixing.",
+  "sounds": [
+   "need2.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The verb 'need' is usually used with an infinitive or an object + an infinitive: Мне нужно починить... When 'need' is used with a gerund, it takes on a passive meaning: Моя машина нуждается ... We can also say: My car needs to be fixed. Also notice that 'need' is a stative verb."
+ },
+ {
+  "proverb": "He is polite. He is being polite.",
+  "sounds": [
+   "polite.aac"
+  ],
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is usually a stative verb and it is used to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state, i.e. behaving or acting (only now, not usually). 'He is polite' means it is in his nature to be polite - он вежлив (всегда), 'He is being polite' means that he is temporarily behaving this way - он пытается быть вежливым (в данный момент)"
+ },
+ {
+  "proverb": "After making dinner, I went on to set the table. We can't go on living like this.",
+  "sounds": [
+   "goon.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The phrasal verb 'go on + to + infinitive' means to do the next action (change the activity): После того как я приготовил ужин, я начал накрывать на стол. 'go on + gerund' means to continue with the action in the gerund: Мы не можем так дальше жить."
+ },
+ {
+  "proverb": "After introducing her proposal, she went on to speak about the benefits for the company. He went on speaking for two hours.",
+  "sounds": [
+   "goon1.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The phrasal verb 'go on + to + infinitive' means to do the next action (change the activity): Представив свое предложение, она перешла к разговору (к обсуждению) о преимуществах для компании. 'go on + gerund' means to continue with the action in the gerund: Он продолжал говорить (выступать) два часа."
+ },
+ {
+  "proverb": "Go on to read the text. Go on reading the text.",
+  "sounds": [
+   "goon2.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The phrasal verb 'go on + to + infinitive' means to do the next action (change the activity):  Начни читать текст (Перейди на прочтение текста). 'go on + gerund' means to continue with the action in the gerund: Продолжай читать текст."
+ },
+ {
+  "proverb": "He confessed to stealing the money.",
+  "sounds": [
+   "confess.aac"
+  ],
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). Normally, after the word 'to' we use the base form of the verb, but there are some exceptions. Two such exceptions are the words 'confess' or 'admit' to doing something. In this sentence, the word 'stealing' is a gerund and it acts as the object of 'confessed to'. We could also say: 'He confessed to the crime'. We always confess to something. There are some other verbs that follow this pattern: 'devoted', 'dedicated' and 'committed' to doing something, and also 'opposed' or 'object' to doing something."
+ },
+ {
+  "proverb": "She came running across the field. My dog always comes bounding out of the car. All the feelings I once had came rushing back.",
+  "sounds": [
+   "come.aac"
+  ],
+  "description": "'come' can be followed by either an infinitive or a gerund. 'come + gerund' is like other verbs of movement followed by a gerund. It means that the subject is doing something as they move."
+ },
+ {
+  "proverb": "How long have you been awake?",
+  "sounds": [
+   "awake.aac"
+  ],
+  "description": "We use the present perfect continuous with action verbs (dynamic verbs) to talk about situations that started in the past and have not finished or have just finished. But we can only use the present perfect simple with stative verbs, even though the situation is not finished. Similar examples: How long have you known each other?. How long have you had your car?"
  },
  {
   "proverb": "",

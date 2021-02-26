@@ -20,7 +20,7 @@
   "proverb": "Where have you been all this time?"
  },
  {
-  "description": "О чем ты говоришь?",  
+  "description": "Ты о чем? (О чем ты говоришь?)",  
   "proverb": "What are you talking about?"
  },
  {
@@ -224,7 +224,7 @@
   "proverb": "Keep it to yourself"
  },
  {
-  "description": "Я путешествую на Север",  
+  "description": "Я путешествую на Север (в северном направлении)",  
   "proverb": "I'm traveling north"
  },
  {
@@ -329,7 +329,7 @@
  },
  {
   "description": "Успокойся!",
-  "proverb": "Сalm down!"
+  "proverb": "Calm down!"
  },
   {
   "description": "Зацени это!",
@@ -396,7 +396,7 @@
   "proverb": "I had a strange dream last night"
  },
  {
-  "description": "Показывай дорогу!",
+  "description": "Показывай дорогу! (Веди!)",
   "proverb": "Lead the way!"
  },
  {
@@ -473,7 +473,7 @@
  },
  {
   "description": "К этому надо немного привыкнуть",
-  "proverb": "It just takes a little getting use to"
+  "proverb": "It just takes a little getting used to"
  },
  {
   "description": "Это тебя не касается",
@@ -490,6 +490,298 @@
  {
   "description": "Я не потерплю лжи!",
   "proverb": "I won't tolerate lying!"
+ },
+ {
+  "description": "Если коротко (короче говоря)",
+  "proverb": "Long story short"
+ },
+ {
+  "description": "Я звоню в полицию (я собираюсь звонить в полицию)",
+  "proverb": "I'm going to call the police"
+ },
+ {
+  "description": "С того времени они друг друга не видели",
+  "proverb": "They haven't seen each other since that time"
+ },
+ {
+  "description": "Я не видел ее с прошлой недели",
+  "proverb": "I haven't seen her since last week"
+ },
+ {
+  "description": "Дождя не было с весны",
+  "proverb": "I has not rained since spring"
+ },
+ {
+  "description": "Как долго вы здесь работаете?",
+  "proverb": "How long have you worked here?"
+ },
+ {
+  "description": "Как давно вы знакомы?",
+  "proverb": "How long have you known each other?"
+ },
+ {
+  "description": "Я тут подумал, что если ...",
+  "proverb": "I've been thinking, what if ..."
+ },
+ {
+  "description": "У нас закончилось топливо (бензин)",
+  "proverb": "We've run out of gas"
+ },
+ {
+  "description": "Намеренно или случайно",
+  "proverb": "On purpose or by accident"
+ },
+ {
+  "description": "Я всегда оплачивал свои счета вовремя",
+  "proverb": "I have always paid my bills on time"
+ },
+ {
+  "description": "Они много работают, но зарабатывают очень мало",
+  "proverb": "They work a lot but earn very little"
+ },
+ {
+  "description": "Это стоит двадцать долларов",
+  "proverb": "It costs twenty dollars"
+ },
+ {
+  "description": "Сколько это стоит?",
+  "proverb": "How much does it cost?"
+ },
+ {
+  "description": "Мы заплатим долларами",
+  "proverb": "We will pay in dollars"
+ },
+ {
+  "description": "Кто платит,",
+  "proverb": "Who pays?"
+ },
+ {
+  "description": "Ты ведешь себя глупо",
+  "proverb": "You are being stupid"
+ },
+ {
+  "description": "Это немного ошеломляюще на первый взгляд",
+  "proverb": "It's a little overwhelming at first glance"
+ },
+ {
+  "description": "На первый взгляд",
+  "proverb": "At first glance"
+ },
+ {
+  "description": "У меня нет никаких сбережений",
+  "proverb": "I don't have any savings"
+ },
+ {
+  "description": "Я бы не справился без тебя (Я бы не смог сделать это без тебя)",
+  "proverb": "I couldn't have done this without you"
+ },
+ {
+  "description": "Ты, должно быть, прикалываешься надо мной",
+  "proverb": "You gotta be kidding me"
+ },
+ {
+  "description": "Ты ничего обо мне не знаешь",
+  "proverb": "You know nothing about me"
+ },
+ {
+  "description": "Что бы ты хотел на ужин?",
+  "proverb": "What would you like for dinner?"
+ },
+ {
+  "description": "В котором часу ужин?",
+  "proverb": "What time is dinner?"
+ },
+ {
+  "description": "Ты когда-нибудь был за границей?",
+  "proverb": "Have you been abroad?"
+ },
+ {
+  "description": "Мой старший брат играет в футбол очень хорошо",
+  "proverb": "My older brother plays soccer really well"
+ },
+ {
+  "description": "Ты занимаешься спортом?",
+  "proverb": "Do you play sports?"
+ },
+ {
+  "description": "Ты занимаешься каким-нибудь спортом?",
+  "proverb": "Do you play any sports?"
+ },
+ {
+  "description": "Я иногда играю в шахматы",
+  "proverb": "I sometimes play chess"
+ },
+ {
+  "description": "Пошли со мной, будет весело",
+  "proverb": "Come with me, it'll be fun"
+ },
+ {
+  "description": "Хочешь пойти со мной на пляж?",
+  "proverb": "Would you like to go to the beach with me?"
+ },
+ {
+  "description": "Эту книгу стоит прочитать (Эта книга стоит прочтения)",
+  "proverb": "This book is worth reading"
+ },
+ {
+  "description": "Пожалуйста замолчи!",
+  "proverb": "Please, stop talking!"
+ },
+ {
+  "description": "Тебе следует избегать задавать слишком много вопросов",
+  "proverb": "You should avoid asking too many questions"
+ },
+ {
+  "description": "У меня есть счет в том банке",
+  "proverb": "I have an account at that bank"
+ },
+ {
+  "description": "У меня есть счет в ПриватБанке",
+  "proverb": "I have an account at PrivatBank"
+ },
+ {
+  "description": "Это стоило ему жизни",
+  "proverb": "It cost him his life"
+ },
+ {
+  "description": "Это стоило им больших денег",
+  "proverb": "It cost them a lot of money"
+ },
+ {
+  "description": "Я не хотел тебя обидеть",
+  "proverb": "I didn't mean to hurt you"
+ },
+ {
+  "description": "Что ты хочешь этим сказать?",
+  "proverb": "What do you mean by that?"
+ },
+ {
+  "description": "Я просто пытался быть вежливым",
+  "proverb": "I was just being polite"
+ },
+ {
+  "description": " Вдвое больше",
+  "proverb": "Twice as much"
+ },
+ {
+  "description": "Мы знаем друг друга тридцать лет",
+  "proverb": "We have known each other for thirty years"
+ },
+ {
+  "description": "Я пожертвую все свои деньги",
+  "proverb": "I will donate all my money"
+ },
+ {
+  "description": "Его бывшая жена еле-еле говорит по-русски",
+  "proverb": "His ex-wife barely speaks Russian"
+ },
+ {
+  "description": "Ни моя жена, ни мои родители не верят мне",
+  "proverb": "Neither my wife nor my parents believe me"
+ },
+ {
+  "description": "Она уже замужем за другим мужчиной",
+  "proverb": "She is already married to another man"
+ },
+ {
+  "description": "Ты мой должник (Ты мне должен)",
+  "proverb": "You owe me one"
+ },
+ {
+  "description": "Ты скучал по мне?",
+  "proverb": "Did you miss me?"
+ },
+ {
+  "description": "Как долго она в таком состоянии? (Как давно она находится в таком состоянии?)",
+  "proverb": "How long has she been like this?"
+ },
+ {
+  "description": "Что ты ел на завтрак?",
+  "proverb": "What did you have for breakfast?"
+ },
+ {
+  "description": "в среднем",
+  "proverb": "on the average"
+ },
+ {
+  "description": "Было уже за полночь, к тому времени как мы прибыли (приехали)",
+  "proverb": "It was past midnight by the time we arrived"
+ },
+ {
+  "description": "Попробуй! (Попытайся!)",
+  "proverb": "Give it a shot!"
+ },
+ {
+  "description": "Оставайтесь на связи!",
+  "proverb": "Stay tuned!"
+ },
+ {
+  "description": "Сколько раз я должен это говорить?",
+  "proverb": "How many times do I have to say it?"
+ },
+ {
+  "description": "у меня есть идея",
+  "proverb": "I have an idea"
+ },
+ {
+  "description": "Мне плевать!",
+  "proverb": "I don't give a damn!"
+ },
+ {
+  "description": "Забери меня домой",
+  "proverb": "Take me home"
+ },
+ {
+  "description": "Я имею многолетний опыт работы переводчиком",
+  "proverb": "I have many years of experience as a translator"
+ },
+ {
+  "description": "Мне надо идти (Мне пора)",
+  "proverb": "I gotta go"
+ },
+ {
+  "description": "Я чуть не обосрался",
+  "proverb": "I almost shit myself"
+ },
+ {
+  "description": "Я чуть не наложил в штаны",
+  "proverb": "I almost shit my pants"
+ },
+ {
+  "description": "Ты напугал меня до смерти (Ты напугал меня до усрачки)",
+  "proverb": "You scared the shit out of me"
+ },
+ {
+  "description": "Это честь для меня (Почту за честь)",
+  "proverb": "I'd be honored!"
+ },
+ {
+  "description": "Поправляйся скорее!",
+  "proverb": "Get well soon!"
+ },
+ {
+  "description": "Мне весело (Я развлекаюсь)",
+  "proverb": "I'm having fun!"
+ },
+ {
+  "description": "Я позабочусь об этом",
+  "proverb": "I'll have it taken care of"
+ },
+ {
+  "description": "Я не сплю (сейчас)",
+  "proverb": "I am not sleeping"
+ },
+ {
+  "description": "Давай встретимся в полночь",
+  "proverb": "Let's meet at midnight"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",
