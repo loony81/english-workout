@@ -29,7 +29,7 @@
  },
  {
   "description": "Ты когда-нибудь был за границей?",  
-  "proverb": "Have you been abroad?"
+  "proverb": "Have you ever been abroad?"
  },
  {
   "description": "Тебе стоит попробовать",  
@@ -68,8 +68,8 @@
   "proverb": "What happened?"
  },
  {
-  "description": "Может быть тебе самое время пойти домой.",  
-  "proverb": "Maybe it's time you went home."
+  "description": "Может быть тебе самое время пойти домой",  
+  "proverb": "Maybe it's time you went home"
  },
  {
   "description": "Он находится под арестом сейчас",  
@@ -316,7 +316,7 @@
   "proverb": "Stay put!"
  },
  {
-  "description": "Я спешу",
+  "description": "Я спешу (Я в спешке)",
   "proverb": "I'm in a hurry"
  },
   {
@@ -472,11 +472,11 @@
   "proverb": "I haven't seen her in years"
  },
  {
-  "description": "К этому надо немного привыкнуть",
+  "description": "К этому надо немного привыкнуть (это требует привыкания)",
   "proverb": "It just takes a little getting used to"
  },
  {
-  "description": "Это тебя не касается",
+  "description": "Это не имеет к тебе никакого отношения",
   "proverb": "This has nothing to do with you"
  },
  {
@@ -509,7 +509,7 @@
  },
  {
   "description": "Дождя не было с весны",
-  "proverb": "I has not rained since spring"
+  "proverb": "It has not rained since spring"
  },
  {
   "description": "Как долго вы здесь работаете?",
@@ -616,7 +616,7 @@
   "proverb": "Come with me, it'll be fun"
  },
  {
-  "description": "Хочешь пойти со мной на пляж?",
+  "description": "Не хотел бы ты пойти со мной на пляж?",
   "proverb": "Would you like to go to the beach with me?"
  },
  {
@@ -648,7 +648,7 @@
   "proverb": "It cost them a lot of money"
  },
  {
-  "description": "Я не хотел тебя обидеть",
+  "description": "Я не хотел тебя обидеть (Я не немеревался тебя обидеть/причинить тебе боль)",
   "proverb": "I didn't mean to hurt you"
  },
  {
@@ -712,8 +712,12 @@
   "proverb": "Give it a shot!"
  },
  {
-  "description": "Оставайтесь на связи!",
+  "description": "Оставайтесь на связи! (Не переключайтесь!)",
   "proverb": "Stay tuned!"
+ },
+ {
+  "description": "Оставайтесь на связи! (Поддерживайте связь)",
+  "proverb": "Stay in touch!"
  },
  {
   "description": "Сколько раз я должен это говорить?",
@@ -776,28 +780,312 @@
   "proverb": "Let's meet at midnight"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Музей находится в конце улицы",
+  "proverb": "The museum is at the end of the street"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Когда мы были детьми, мы ходили в одну и ту же школу",
+  "proverb": "When we were children, we went to the same school"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Подвинься чуть влево, пожалуйста",
+  "proverb": "Move a little to the left, please"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Я что-то упустил?",
+  "proverb": "Did I miss something?"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Я буду там через час",
+  "proverb": "I'll be there in an hour"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "У меня неплохо получается (Я становлюсь всё лучше и лучше в этом деле)",
+  "proverb": "I'm getting good at it!"
+ },
+ {
+  "description": "Мне нужно больше времени (Мне понадобится больше времени)",
+  "proverb": "I'm gonna need more time"
+ },
+ {
+  "description": "Бывало и лучше",
+  "proverb": "I've been better"
+ },
+ {
+  "description": "Какие планы на выходные? (Что ты собираешся делать на выходных?)",
+  "proverb": "What are you doing on the weekend?"
+ },
+ {
+  "description": "Он ушел несколько минут назад",
+  "proverb": "He left a few minutes ago"
+ },
+ {
+  "description": "Помоги мне (Дай мне)",
+  "proverb": "Give me a hand!"
+ },
+ {
+  "description": "Дай мне это (Передай мне это)",
+  "proverb": "Hand it over"
+ },
+ {
+  "description": "Не стесняйся, ты среди друзей",
+  "proverb": "Don't be shy, you're among friends"
+ },
+ {
+  "description": "Сегодня я работаю до 5",
+  "proverb": "I work until 5 today"
+ },
+ {
+  "description": "Сколько с меня? (Сколько я вам должен?)",
+  "proverb": "How much do I owe you?"
+ },
+ {
+  "description": "Ты должен передо мной извиниться",
+  "proverb": "You owe me an apology"
+ },
+ {
+  "description": "У меня завтра очень важный экзамен",
+  "proverb": "I have a really important exam tomorrow"
+ },
+ {
+  "description": "Все то время и деньги, которые мы затратили, не окупились",
+  "proverb": "All the time and money that we had spent, didn't pay off"
+ },
+ {
+  "description": "Согласно правилам",
+  "proverb": "According to the rules"
+ },
+ {
+  "description": "Я помогу тебе с твоим домашним заданием после ужина",
+  "proverb": "I will help you with your homework after dinner"
+ },
+ {
+  "description": "Я бегаю по полчаса каждое утро",
+  "proverb": "I run for half an hour every morning"
+ },
+ {
+  "description": "Она пьет кофе без сахара",
+  "proverb": "She drinks coffee without sugar"
+ },
+ {
+  "description": "Я так не считаю (Я так не думаю)",
+  "proverb": "I don't think so"
+ },
+ {
+  "description": "Само собой разумеется",
+  "proverb": "It goes without saying"
+ },
+ {
+  "description": "Я не очень хорош в спорте (Я не очень хорош в занятии спортом)",
+  "proverb": "I'm not very good at playing sports"
+ },
+ {
+  "description": "Тебе следует избегать разговоров с незнакомцами",
+  "proverb": "You should avoid talking to strangers"
+ },
+ {
+  "description": "Путешествие по миру всегда было моей мечтой",
+  "proverb": "Traveling around the world has always been my dream"
+ },
+ {
+  "description": "Она предложила мне помочь",
+  "proverb": "She offered to help me"
+ },
+ {
+  "description": "Ты закончил красить дом?",
+  "proverb": "Have you finished painting the house?"
+ },
+ {
+  "description": "Мой брат пытается бросить курить",
+  "proverb": "My brother is trying to quit smoking"
+ },
+ {
+  "description": "Погода была хорошая, поэтому я предложил прогуляться",
+  "proverb": "The weather was nice, so I suggested going for a walk"
+ },
+ {
+  "description": "Становится поздно",
+  "proverb": "It's getting late"
+ },
+ {
+  "description": "Я не против (Я не возражаю)",
+  "proverb": "I don't mind"
+ },
+ {
+  "description": "На улице идет дождь",
+  "proverb": "It is raining outside"
+ },
+ {
+  "description": "Прошел год с тех пор, как ты ушел",
+  "proverb": "It's been a year since you left"
+ },
+ {
+  "description": "Уже год прошел с тех пор как мы встретились",
+  "proverb": "it's been a year since we met"
+ },
+ {
+  "description": "Что это изменит? (Какая разница?)",
+  "proverb": "What difference is it gonna make?"
+ },
+ {
+  "description": "Мы должны двигаться на север (в северном направлении)",
+  "proverb": "We have to head north"
+ },
+ {
+  "description": "Не ложись слишком поздно (Не засиживайся допоздна)",
+  "proverb": "Don't stay up too late"
+ },
+ {
+  "description": "Просто признайся в этом!",
+  "proverb": "Just own up to it!"
+ },
+ {
+  "description": "Давайте поиграем в волейбол!",
+  "proverb": "Let's play volleyball!"
+ },
+ {
+  "description": "Я добираюсь на автобусе с работы домой",
+  "proverb": "I take a bus from work to home"
+ },
+ {
+  "description": "Оттуда сядьте на автобус до Мадрида",
+  "proverb": "From there, take a bus to Madrid"
+ },
+ {
+  "description": "Вы можете добраться туда только на самолете (по воздуху)",
+  "proverb": "You can only get there by air"
+ },
+ {
+  "description": "У меня такая же проблема",
+  "proverb": "I'm having the same issue"
+ },
+ {
+  "description": "Кто-нибудь знает, где ближайший бар?",
+  "proverb": "Does anyone know where the nearest bar is?"
+ },
+ {
+  "description": "Кто-нибудь знает, где ближайшая автобусная остановка?",
+  "proverb": "Does anybody know where the nearest bus stop is?"
+ },
+  {
+  "description": "Кто-нибудь знает, как пользоваться пистолетом?",
+  "proverb": "Does anybody know how to use a gun?"
+ },
+ {
+  "description": "Я должен сделать это сам",
+  "proverb": "I gotta do this on my own"
+ },
+ {
+  "description": "Теперь твоя очередь",
+  "proverb": "Now it is your turn"
+ },
+  {
+  "description": "Давайте подведем итог!",
+  "proverb": "Let's wrap it up!"
+ },
+ {
+  "description": "Сколько денег ты заработал в прошлом году?",
+  "proverb": "How much money did you make last year?"
+ },
+ {
+  "description": "Сколько денег ты заработал в этом году?",
+  "proverb": "How much money have you made this year?"
+ },
+ {
+  "description": "Вам нужна помощь?",
+  "proverb": "Do you need help?"
+ },
+ {
+  "description": "Как часто вы играете в игры со своими детьми?",
+  "proverb": "How often do you play games with your children?"
+ },
+ {
+  "description": "Ты хорошо делаешь свою работу",
+  "proverb": "You are good at your job"
+ },
+ {
+  "description": "Сколько стран приняли участие в Первой мировой войне?",
+  "proverb": "How many countries took part in Word War I?"
+ },
+ {
+  "description": "Как ты себя чувствуешь сегодня?",
+  "proverb": "How are you feeling today?"
+ },
+ {
+  "description": "Как здоровье твоего дедушки?",
+  "proverb": "How is your grandfather's health?"
+ },
+ {
+  "description": "Это тебя не касается",
+  "proverb": "It doesn't concern you"
+ },
+ {
+  "description": "Сколько денег у нас осталось?",
+  "proverb": "How much money have we got left?"
+ },
+ {
+  "description": "Тебе следует немного поспать",
+  "proverb": "You should get some sleep"
+ },
+ {
+  "description": "Я ничего не имею против него",
+  "proverb": "I have nothing against him"
+ },
+ {
+  "description": "Он достал свой телефон и позвонил кому-то",
+  "proverb": "He took out his phone and called someone"
+ },
+ {
+  "description": "Я выясню кто это сделал",
+  "proverb": "I will find out who did this"
+ },
+ {
+  "description": "Посмотри вокруг себя! Ты что-нибудь видишь?",
+  "proverb": "Look around you! Do you see any anything?"
+ },
+ {
+  "description": "Можно вас побеспокоить? (Можно отвлечь вас на минутку?)",
+  "proverb": "May I bother you for a moment?"
+ },
+ {
+  "description": "Я никогда так не был напуган за всю свою жизнь",
+  "proverb": "I've never been so scared in my entire life"
+ },
+ {
+  "description": "Мы едем в отпуск (Мы собираемся в отпуск)",
+  "proverb": "We're going on vacation"
+ },
+ {
+  "description": "Поезд прибывает без четверти девять",
+  "proverb": "The train arrives at a quarter to nine"
+ },
+ {
+  "description": "Без пятнадцати девять",
+  "proverb": "A quarter to nine"
+ },
+ {
+  "description": "Сними свою шляпу",
+  "proverb": "Take off your hat"
+ },
+ {
+  "description": "Я вернусь послезавтра",
+  "proverb": "I'll be back the day after tomorrow"
+ },
+ {
+  "description": "Я не собираюсь работать весь день без обеда",
+  "proverb": "I'm not going to work all day without lunch"
+ },
+ {
+  "description": "Многие животные спят зимой (в течение зимы)",
+  "proverb": "Many animals sleep during winter"
+ },
+ {
+  "description": "Сегодня она встала раньше чтобы прийти вовремя",
+  "proverb": "She got up earlier today to come on time"
+ },
+ {
+  "description": "Я шёл вдоль улицы",
+  "proverb": "I was walking along the street"
  },
  {
   "description": "",

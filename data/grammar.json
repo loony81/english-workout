@@ -214,21 +214,21 @@
   "sounds": [
    "most3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the when we want to express preference."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the when we want to express preference. Notice that here 'most' is an adverb (like most), so the rule about needing 'the' with superlatives does not apply here"
  }, 
  {
   "proverb": "What matters most to you?", 
   "sounds": [
    "most4.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (matters most), so the rule about needing 'the' with superlatives does not apply here"
  }, 
  {
   "proverb": "The kids loved the fair, but they enjoyed the bumper cars most of all.", 
   "sounds": [
    "most5.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (enjoyed most), so the rule about needing 'the' with superlatives does not apply here"
  }, 
  {
   "proverb": "He is the most famous actor I know.", 
@@ -242,14 +242,14 @@
   "sounds": [
    "themost2.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' when it is part of a superlative adjective that consists of more than 2 syllables, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' when it is part of a superlative adjective that consists of more than 2 syllables, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
  }, 
  {
   "proverb": "Which of you earns the most money?", 
   "sounds": [
    "themost3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' when it is part of a superlative adjective that consists of more than 2 syllables, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' when it is part of a superlative adjective that consists of more than 2 syllables, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
  }, 
  {
   "proverb": "advantage but advantageous", 
@@ -652,7 +652,7 @@
   "sounds": [
    "french.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article when talking about nations"
+  "description": "These sentences demonstrate the use of the definite article when talking about nations. In the first sentence we're talking about the whole nation. In the second sentence we're talking about a group of people of a certain nationality (на нас напало несколько французов, а не вся французская нация). And in the third sentece we're talking about one person of a certain nationality (на нас напал один францус)"
  }, 
  {
   "proverb": "The rich are getting richer and the poor are getting poorer.", 
@@ -730,7 +730,7 @@
   "sounds": [
    "theradio1.aac"
   ], 
-  "description": "This sentence demonstrates the use the definite article (we always use the definite article with 'radio')"
+  "description": "This sentence demonstrates the use of the definite article (we always use the definite article with 'radio')"
  }, 
  {
   "proverb": "The police are coming, we must go! The police are working on the case. The police have left the crime scene.", 
@@ -779,7 +779,7 @@
   "sounds": [
    "thebeach2.aac"
   ], 
-  "description": "This sentence demonstrates the difference between 'at the beach' and 'on the beach'. 'On the beach' means you are literally on the sand near the water. 'At the beach' is more general and could mean you're literally on the sand, or in the water, or it could mean you're visiting a beach town."
+  "description": "This sentence demonstrates the difference between 'at the beach' and 'on the beach'. 'On the beach' means you are literally on the sand near the water. 'At the beach' is more general and could mean you're literally on the sand, or in the water, or it could mean you're visiting a beach town. To better understand: We had a good time at the beach yesterday, we swam, played volleyball and then had a couple of beers at a nearby pub"
  }, 
  {
   "proverb": "The boy is afraid to go to bed in the dark.", 
@@ -1131,6 +1131,13 @@
    "yesterday.aac"
   ], 
   "description": "This sentence demonstrates that we do not use any articles (definite or indefinite) before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
+ },
+ {
+  "proverb": "Today is yesterday's tomorrow", 
+  "sounds": [
+   "Ax5o7oO8.aac"
+  ], 
+  "description": "This sentence demonstrates that we do not use any articles (definite or indefinite) before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
  }, 
  {
   "proverb": "We rarely get snow in winter. We rarely get snow in the winter. Both these sentences are correct.", 
@@ -1172,7 +1179,7 @@
   "sounds": [
    "geography.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with subjects taught in school: Math, Geography, Business, History, Science (proper nouns)"
+  "description": "This sentence demonstrates the use of the definite article with subjects taught in school: Math, Geography, Business, History, Science (proper nouns). It also demonstrates the difference between 'best' and 'the best'. Here 'best' is an adverb, not an adjective, so the rule about needing the with superlatives does not apply here. 'best' and 'the best' as adverbs are both acceptable, but 'I like something best' is much more frequent than 'I like something the best'. Also notice that we say 'in school' when someone is a student studying at a school (or university), but not necessarily inside the school building at the moment."
  }, 
  {
   "proverb": "Tom is really good at math.", 
@@ -1207,7 +1214,7 @@
   "sounds": [
    "dinner1.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. 'I ate dinner with a fork' is more appropriate to demonstrate this rule"
  }, 
  {
   "proverb": "Would you like to have dinner with me?", 
@@ -1249,7 +1256,7 @@
   "sounds": [
    "food.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use 'the' with nationl cuisines"
+  "description": "This sentence demonstrates that we do not use 'the' with national cuisines"
  }, 
  {
   "proverb": "The train to Paris leaves from platform 2.", 
@@ -1473,7 +1480,7 @@
   "sounds": [
    "ridden.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'ride'. We ride something if we are on top of it (верхом): ride a bicycle, horse, bike, tiger, etc"
+  "description": "This sentence demonstrates when to use the verb 'ride'. We ride something if we are on top of it (верхом): ride a bicycle, horse, bike, tiger, etc. Also note that 'mean' is a stative verb"
  }, 
  {
   "proverb": "The West End is easy to reach by Tube.", 
@@ -1750,7 +1757,7 @@
   "sounds": [
    "allday.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions with certain words such as 'all day/tonight/next/this/last/every/recently/etc'"
+  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions with certain words, specifically 'all': all day, all night, all morning, all year, etc"
  }, 
  {
   "proverb": "The train leaves tomorrow morning. I have a test tomorrow morning.", 
@@ -1792,14 +1799,14 @@
   "sounds": [
    "thefollowing.aac"
   ], 
-  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)' we mean 'next' (на следующий). In the second sentence 'following' means 'after'"
+  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)' we mean 'next' (на следующий, в следующем). In the second sentence 'following' means 'after' (после, последовавший за)"
  }, 
  {
   "proverb": "They arranged to have dinner the following month. Following the dinner, there will be a dance.", 
   "sounds": [
    "thefollowing1.aac"
   ], 
-  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)' we mean 'next' (на следующий). In the second sentence 'following' means 'after'"
+  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)' we mean 'next' (на следующий, в следующем). In the second sentence 'following' means 'after' (после, последовавший за)"
  }, 
  {
   "proverb": "Wear a sweater but carry a gun", 
@@ -2027,7 +2034,7 @@
   "sounds": [
    "onthemoon.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc)"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). And we always say 'the Moon' or 'the moon' when talking about the moon that revolves around the Earth because it is our only satellite. But with other planets, for example Jupiter or Saturn, which have multiple moons, one particular satellite can be called a moon."
  }, 
  {
   "proverb": "I grew up on a farm in Manitoba. The straw may be burned on the farm to provide heat or electricity.", 
@@ -2393,7 +2400,7 @@
   "sounds": [
    "inthecountry.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'. Also notice that 'prefer' is a stative verb."
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'. And we normally use a gerund after 'like', 'love', 'hate', 'prefer', but we use 'to + infinitive' after would like, would love, would hate, would prefer. Also notice that 'like', 'love', 'hate' and 'prefer' are stative verbs"
  },
  {
   "proverb": "Don't keep this medicine in the sun.", 
@@ -2746,7 +2753,7 @@
   "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when something covers something, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
-  "proverb": "Over 100 people came to the party.", 
+  "proverb": "Over one hundred people came to the party.", 
   "sounds": [
    "party.aac"
   ], 
@@ -3054,6 +3061,13 @@
   "description": "This is an example of third conditonal sentence. We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past."
  },
  {
+  "proverb": "What would you have done if you had been in my place?", 
+  "sounds": [
+   "would1.aac"
+  ], 
+  "description": "This is an example of third conditonal sentence. We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past."
+ },
+ {
   "proverb": "I love chocolate. I hate spinach, but I like most other vegetables. I dislike paperwork. What do you want to eat? I want some chocolate.", 
   "sounds": [
    "chocolate.aac"
@@ -3093,7 +3107,7 @@
   "sounds": [
    "deserve.aac"
   ], 
-  "description": "'deserve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say '... they are deserving'. But it can be used with 'ing' form as an adjective - достойный, заслуживающий"
+  "description": "'deserve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I hope they get the punishment they are deserving'. But it can be used with 'ing' form as an adjective - достойный, заслуживающий"
  },
  {
   "proverb": "You can do as you please. It pleases me to know that you liked the gift.", 
@@ -3254,7 +3268,7 @@
   "sounds": [
    "understand.aac"
   ], 
-  "description": "'understand' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I am not understanding ...'"
+  "description": "'understand' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I am not understanding ...'. By the way, 'mean' is also a stative verb"
  },
  {
   "proverb": "I imagine they'll be here quite soon.", 
@@ -3861,7 +3875,7 @@
   "sounds": [
    "forgive.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The rule is to use a gerund after another verb when the second verb acts as the object of the first verb, 'being' and 'getting' are objects of 'forgive'. The verb 'forgive' is usually followed by an object + the gerund or 'for' + an object + the gerund. It can also be followed by a possessive adjective + the gerund: Forgive my being late. Forgive my saying so, but ... This rule also applies to 'excuse' and 'pardon'. Helps to remember: the preposition 'for' is always followed by a gerund"
+  "description": "The verb 'forgive' is usually followed by an object + the gerund or 'for' + an object + the gerund. It can also be followed by a possessive adjective + the gerund: Forgive my being late. Forgive my saying so, but ... This rule also applies to 'excuse' and 'pardon'. Helps to remember: the preposition 'for' is always followed by a gerund"
  },
  {
   "proverb": "I go shopping every evening. I've gone camping five times this summer.", 
@@ -4219,6 +4233,48 @@
    "awake.aac"
   ],
   "description": "We use the present perfect continuous with action verbs (dynamic verbs) to talk about situations that started in the past and have not finished or have just finished. But we can only use the present perfect simple with stative verbs, even though the situation is not finished. Similar examples: How long have you known each other?. How long have you had your car?"
+ },
+ {
+  "proverb": "I'm not allowed to bet, but if I could I'd bet on you!",
+  "sounds": [
+   "bet.aac"
+  ],
+  "description": "This is an example of the second conditional. Second conditional is used in situations/actions in the present or future which are not likely to happen or are imaginary, hypothetical or impossible"
+ },
+ {
+  "proverb": "I've been to New York, but I've never seen the Statue of Liberty up close.",
+  "sounds": [
+   "statue.aac"
+  ],
+  "description": "This sentence demonstrates the use of the definite article with famous landmarks and also when to use the present perfect tense"
+ },
+ {
+  "proverb": "If God had meant us to fly he'd have given us wings",
+  "sounds": [
+   "fly.aac"
+  ],
+  "description": "This is an example of third conditonal sentence. We use third conditional to imagine a different past."
+ },
+ {
+  "proverb": "It's time you went home. It's time you went to bed.",
+  "sounds": [
+   "subjunctive.aac"
+  ],
+  "description": "These sentences use the subjunctive mood (сослагательное наклонение). The past subjunctive form is the more commonly used subjunctive form after the phrase 'It's (high) time for something'"
+ },
+ {
+  "proverb": "Let me know when you are done being an asshole.",
+  "sounds": [
+   "asshole.aac"
+  ],
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is usually a stative verb and it is used to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state, i.e. behaving or acting (only now, not usually). 'You are an asshole' (it's part of your personality) - Ты мудак (всегда), 'You are being an asshole'(you are temporarily behaving this way) - ты  ведешь себя как мудак (в данный момент)"
+ },
+ {
+  "proverb": "May I bother you for a moment?",
+  "sounds": [
+   "may.aac"
+  ],
+  "description": "The modal verb 'may' is used to ask for permission, grant or not grant permission (we can also use 'can' and 'could to ask for permission, but 'may is the most polite modal verb to use with permissions)"
  },
  {
   "proverb": "",
