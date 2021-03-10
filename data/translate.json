@@ -80,7 +80,7 @@
   "proverb": "She's taking a shower"
  },
  {
-  "description": "Я обедаю. Можешь перезвонить позже?",  
+  "description": "Я ужинаю. Можешь перезвонить позже?",  
   "proverb": "I am having dinner. Can you call back later?"
  },
  {
@@ -1088,6 +1088,26 @@
   "proverb": "I was walking along the street"
  },
  {
+  "description": "Ловлю на слове (Ловлю тебя на слове)",
+  "proverb": "I'll hold you to that"
+ },
+  {
+  "description": "Кто надоумил тебя на это? (Кто тебя на это подбил?)",
+  "proverb": "Who put you up to it?"
+ },
+  {
+  "description": "Мы выступаем (уходим) на рассвете",
+  "proverb": "We leave at dawn"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+  {
+  "description": "",
+  "proverb": ""
+ },
+  {
   "description": "",
   "proverb": ""
  }
