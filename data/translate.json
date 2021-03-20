@@ -128,7 +128,7 @@
   "proverb": "I'm sorry, have we met before?"
  },
  {
-  "description": "Ты должен жить по средствам",  
+  "description": "Ты должен жить по средствам (Тебе следует жить по средствам)",  
   "proverb": "You should live within your means"
  },
  {
@@ -356,7 +356,7 @@
   "proverb": "Don't get upset over it"
  },
  {
-  "description": "Нет оснований сомневаться",
+  "description": "Нет оснований сомневаться (Нет причин сомневаться)",
   "proverb": "There is no reason to doubt"
  },
  {
@@ -744,7 +744,7 @@
   "proverb": "I gotta go"
  },
  {
-  "description": "Я чуть не обосрался",
+  "description": "Я чуть не обделался (Я чуть в штаны не наложил)",
   "proverb": "I almost shit myself"
  },
  {
@@ -921,7 +921,7 @@
  },
  {
   "description": "Уже год прошел с тех пор как мы встретились",
-  "proverb": "it's been a year since we met"
+  "proverb": "It's been a year since we met"
  },
  {
   "description": "Что это изменит? (Какая разница?)",
@@ -1091,24 +1091,336 @@
   "description": "Ловлю на слове (Ловлю тебя на слове)",
   "proverb": "I'll hold you to that"
  },
-  {
+ {
   "description": "Кто надоумил тебя на это? (Кто тебя на это подбил?)",
   "proverb": "Who put you up to it?"
  },
-  {
+ {
   "description": "Мы выступаем (уходим) на рассвете",
   "proverb": "We leave at dawn"
+ },
+ {
+  "description": "Я принёс (немного) мяса, давай приготовим обед",
+  "proverb": "I have brought some meat, let's make lunch"
+ },
+ {
+  "description": "Он попытался её забыть, но это не сработало",
+  "proverb": "He tried to forget her but it did not work"
+ },
+ {
+  "description": "Если у вас есть информация об этой женщине, пожалуйста, позвоните нам",
+  "proverb": "If you have information about this woman, please call us"
+ },
+ {
+  "description": "Минус 5 (о температуре)",
+  "proverb": "It's 5 below zero"
+ },
+ {
+  "description": "Обещаю скоро вернуться",
+  "proverb": "I promise to be back soon"
+ },
+ {
+  "description": "Температура 3 градуса выше нуля",
+  "proverb": "The temperature is 3 degrees above zero"
+ },
+ {
+  "description": "Все, что у меня есть, это пять долларов",
+  "proverb": "Five dollars is all that I have"
+ },
+ {
+  "description": "Что здесь происходит?",
+  "proverb": "What is going on here?"
+ },
+ {
+  "description": "Он не успеет (сможет, справиться, выживет)",
+  "proverb": "He's not gonna make it"
+ },
+ {
+  "description": "Я не нашел эту статью в Интернете",
+  "proverb": "I didn't find this article on the Internet"
+ },
+ {
+  "description": "Ты привыкнешь к этому",
+  "proverb": "You will get used to it"
+ },
+ {
+  "description": "Они держались за руки",
+  "proverb": "They held hands"
+ },
+ {
+  "description": "Откуда вы? (Откуда вы родом?)",
+  "proverb": "Where are you from?"
+ },
+ {
+  "description": "Она выросла с тех пор как я видел ее в последний раз",
+  "proverb": "She has grown up since I saw her last time"
+ },
+ {
+  "description": "Следуйте за мной!",
+  "proverb": "Follow me!"
+ },
+ {
+  "description": "Сейчас ровно десять минут четвертого",
+  "proverb": "It's exactly ten past three"
+ },
+ {
+  "description": "Я встречу тебя в половине шестого",
+  "proverb": "I'll meet you at half past five"
+ },
+ {
+  "description": "Не волнуйтесь, прямо впереди есть аптека",
+  "proverb": "Don't worry there is a pharmacy straight ahead"
+ },
+ {
+  "description": "Есть ли рядом автобусная остановка?",
+  "proverb": "Is there a bus stop nearby?"
+ },
+ {
+  "description": "Есть ли поблизости аптека?",
+  "proverb": "Is there a pharmacy nearby?"
+ },
+ {
+  "description": "Прямо (прямо вперед)",
+  "proverb": "Straight ahead"
+ },
+ {
+  "description": "Нет причин для беспокойства",
+  "proverb": "There is no reason to worry"
+ },
+ {
+  "description": "Я немного говорю по-английски",
+  "proverb": "I speak a little English"
+ },
+ {
+  "description": "Я был занят",
+  "proverb": "I've been busy"
+ },
+ {
+  "description": "У него не все дома (У него с головой не в порядке)",
+  "proverb": "He's not right in the head"
+ },
+ {
+  "description": "Она должна вернуться не позднее 10 часов",
+  "proverb": "She should be back by 10 at the latest"
+ },
+ {
+  "description": "Я вернусь не позднее 10",
+  "proverb": "I'll be back by 10 at the latest"
+ },
+ {
+  "description": "А в это время /А пока /А тем временем",
+  "proverb": "And in the meantime ..."
+ },
+ {
+  "description": "Что с тобой такое? / Что на тебя нашло?",
+  "proverb": "What's the matter with you?"
+ },
+ {
+  "description": "Я не привык к такому холоду / Я не привыкший к такому холоду",
+  "proverb": "I am not used to such cold"
+ },
+  {
+  "description": "Я не привык (привыкший) пить кофе без сахара",
+  "proverb": "I am not used to drinking coffee without sugar"
+ },
+ {
+  "description": "Нам нужно повернуть направо",
+  "proverb": "We need to turn right"
+ },
+ {
+  "description": "Ей почти шестьдесят",
+  "proverb": "She is almost sixty"
+ },
+  {
+  "description": "Мы не одни",
+  "proverb": "We are not alone"
+ },
+ {
+  "description": "Я сплю в своей собственной комнате",
+  "proverb": "I sleep in my own room"
+ },
+ {
+  "description": "Сколько стран в мире?",
+  "proverb": "How many countries are there in the world?"
+ },
+ {
+  "description": "Здоровье за деньги не купишь (Деньги не могут купить здоровье)",
+  "proverb": "Money can't buy health"
+ },
+ {
+  "description": "Где ты был в субботу ночью?",
+  "proverb": "Where were you on Saturday night?"
+ },
+ {
+  "description": "Я всегда прихожу вовремя",
+  "proverb": "I always come on time"
+ },
+ {
+  "description": "Мне нужно быть там в полдень",
+  "proverb": "I need to be there at noon"
+ },
+ {
+  "description": "Давай встретимся в полдень",
+  "proverb": "Let's meet at noon"
+ },
+ {
+  "description": "Встретимся там в полдень (Будь там в полдень)",
+  "proverb": "Meet me there at noon"
+ },
+  {
+  "description": "Она в опасности",
+  "proverb": "She is in danger"
+ },
+  {
+  "description": "Я купил фрукты (некоторое количество фруктов) на рынке",
+  "proverb": "I bought some fruit at the market"
+ },
+ {
+  "description": "Мой врач советует есть много фруктов",
+  "proverb": "My doctor advises eating a lot of fruit"
+ },
+  {
+  "description": "Он рассказал мне печальную историю",
+  "proverb": "He told me a sad story"
+ },
+ {
+  "description": "Ты знал об этом?",
+  "proverb": "Did you know about this?"
+ },
+ {
+  "description": "Я ждал этого всю свою жизнь",
+  "proverb": "I've been waiting for this my whole life"
+ },
+ {
+  "description": "Я влюблен",
+  "proverb": "I am in love"
+ },
+ {
+  "description": "Я готовлю завтрак (сейчас)",
+  "proverb": "I'm making breakfast"
+ },
+ {
+  "description": "Я пью кофе каждое утро",
+  "proverb": "I drink coffee every morning"
+ },
+ {
+  "description": "Я ем три раза в день",
+  "proverb": "I eat three times a day"
+ },
+ {
+  "description": "Угадай!",
+  "proverb": "Take a guess!"
+ },
+ {
+  "description": "Она говорит по-английски?",
+  "proverb": "Does she speak English?"
+ },
+ {
+  "description": "В доступе отказано",
+  "proverb": "Access denied"
+ },
+ {
+  "description": "Доступ разрешен",
+  "proverb": "Access granted"
+ },
+ {
+  "description": "мы не знаем с чем мы здесь имеем дело",
+  "proverb": "We don't know what we are dealing with here"
+ },
+ {
+  "description": "Это приказ",
+  "proverb": "That's an order"
+ },
+ {
+  "description": "Я должен идти",
+  "proverb": "I have to go"
+ },
+ {
+  "description": "Не желаете ли еще чашечку чая?",
+  "proverb": "Would you like another cup of tea?"
+ },
+ {
+  "description": "Вчера мы играли в футбол на стадионе",
+  "proverb": "Yesterday we played football at the stadium"
+ },
+ {
+  "description": "Она убирала комнату в прошлые выходные",
+  "proverb": "She cleaned the room last weekend"
+ },
+ {
+  "description": "Мне нравится слушать музыку",
+  "proverb": "I like to listen to music"
+ },
+ {
+  "description": "Он изучал биологию в университете пять лет назад",
+  "proverb": "He studied biology at the university five years ago"
+ },
+ {
+  "description": "Я открыл дверь и вошел в комнату",
+  "proverb": "I opened the door and entered the room"
+ },
+ {
+  "description": "Дай подумать / Дай подумаю",
+  "proverb": "Let me see"
+ },
+ {
+  "description": "Я буду готов через 5 минут",
+  "proverb": "I'll be ready in 5 minutes"
+ },
+ {
+  "description": "Я все о тебе знаю (Я раскусил тебя)",
+  "proverb": "I have you figured out"
+ },
+ {
+  "description": "Автобус только что прибыл",
+  "proverb": "The bus has just arrived"
+ },
+ {
+  "description": "Однажды ты узнаешь правду",
+  "proverb": "You will know the truth some day"
+ },
+ {
+  "description": "Мы выезжаем / уходим / выходим через час",
+  "proverb": "we are leaving in an hour"
+ },
+ {
+  "description": "Ты идешь с нами?",
+  "proverb": "Are you coming with us?"
+ },
+ {
+  "description": "Ты читал эту статью?",
+  "proverb": "Have you read this article?"
+ },
+ {
+  "description": "Ваша зарплата будет выплачиваться наличными",
+  "proverb": "Your salary will be paid in cash"
  },
  {
   "description": "",
   "proverb": ""
  },
-  {
+ {
   "description": "",
   "proverb": ""
  },
-  {
+ {
   "description": "",
   "proverb": ""
- }
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
 ]

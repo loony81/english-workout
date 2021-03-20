@@ -74,28 +74,28 @@
   "sounds": [
    "life.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific. In these examples life is an uncount noun, but in the first example we are talking about life in general, and in the second example we are talking about the life of wise people, which is specific"
+  "description": "These sentences demonstrate the use of the definite article when talking about something specific. In these examples life is an uncount noun, but in the first example we are talking about life in general, and in the second example we are talking about the life of wise people, which is specific"
  }, 
  {
   "proverb": "Friendship is precious. The friendship of those two children is precious.", 
   "sounds": [
    "friendship.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific. In these examples friendship is an uncount noun, but in the first example we are talking about friendship in general, and in the second example we are talking about the friendship of two kids, which is specific"
+  "description": "These sentences demonstrate the use of the definite article when talking about something specific. In these examples friendship is an uncount noun, but in the first example we are talking about friendship in general, and in the second example we are talking about the friendship of two kids, which is specific"
  }, 
  {
   "proverb": "We need furniture. They decided to sell the furniture.", 
   "sounds": [
    "furniture.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific. It also demonstrates that 'furniture' is an uncountable noun"
+  "description": "These sentences demonstrate the use of the definite article when talking about something specific. It also demonstrates that 'furniture' is an uncountable noun"
  }, 
  {
   "proverb": "I want to make money. I want to make the money I need to pay my rent.", 
   "sounds": [
    "money.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific. It also demonstrates that 'money' is an uncountable noun"
+  "description": "These sentences demonstrate the use of the definite article when talking about something specific. It also demonstrates that 'money' is an uncountable noun"
  }, 
  {
   "proverb": "Snow is cold. The snow in this city is so white.", 
@@ -130,7 +130,7 @@
   "sounds": [
    "thelast2.aac"
   ], 
-  "description": "This sentence demonstrates when to use last or the last"
+  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the last 30 days"
  }, 
  {
   "proverb": "In the last two minutes, Paul has eaten four hot dogs.", 
@@ -420,7 +420,7 @@
    "thesmiths.aac", 
    "thesmiths1.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with family names in the plural form. Also the verb 'have' is used in the continuous form here and means 'experiencing' or 'taking', although it is mostly used as a stative verb."
+  "description": "This sentence demonstrates the use of the definite article with family names in the plural form. Also the verb 'have' is used in the continuous form here and means 'experiencing' or 'taking', although it is usually used as a stative verb."
  }, 
  {
   "proverb": "Our friends, the Millers, moved to Florida last August.", 
@@ -1010,7 +1010,7 @@
   "sounds": [
    "mom.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with common names of relatives ('father', 'mother', 'son', 'daughter', 'brother', etc)"
+  "description": "This sentence demonstrates the use of the definite article with common names of relatives ('father', 'mother', 'son', 'daughter', 'brother', etc). Also we do not usually use articles with meals (uncount nouns), unless it is a specific meal"
  }, 
  {
   "proverb": "Today we all went to the mall, and grandmother bought a new belt.", 
@@ -1228,7 +1228,7 @@
   "sounds": [
    "dinner3.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal.Also, the verb 'have' is used in the continuous form here and means 'experiencing' or 'taking', although it is mostly used as a stative verb."
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal.Also, the verb 'have' is used in the continuous form here and means 'experiencing' or 'taking', although it is usually used as a stative verb."
  }, 
  {
   "proverb": "We organized a dinner for Dad's birthday.", 
@@ -2389,9 +2389,9 @@
   "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces (squares and parks are considered enclosed spaces just like forests or gardens). It also demonstrates the use of the definite article with the names of parks and squares"
  },
  {
-  "proverb": "Regolisa is a small village in the mountains.", 
+  "proverb": "Hiking in the mountains is a popular activity.", 
   "sounds": [
-   "regolisa.aac"
+   "hiking.aac"
   ], 
   "description": "When we talk about mountains in broad terms (горная местность, горы в широком смысле), we say 'the mountains'. Similar examples: I've never been to the sea (Я никогда не был на море), I prefer to live in the country instead of a town (Я предпочитаю жить в сельской местности чем в городе). These are set expressions"
  },
@@ -3352,7 +3352,7 @@
   "sounds": [
    "promise.aac"
   ], 
-  "description": "'promise' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. But it can be used with 'ing' form as an adjective."
+  "description": "'promise' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. But it can be used with 'ing' form as an adjective: promising - многообещающий, подающий надежды"
  },
  {
   "proverb": "I think you are right. I've been thinking about selling my house.", 
@@ -3541,7 +3541,7 @@
   "sounds": [
    "fear.aac", "fear1.aac"
   ], 
-  "description": "'fear' is a stative verb. Stative verbs are not normally used in the continuous form. The last sentence also demonstrates that when we talk about preference we use 'most' without 'the' (больше всего, в большей степени): I like this one most. What matters most to you? What do you fear most?"
+  "description": "'fear' is a stative verb. Stative verbs are not normally used in the continuous form. The last sentence also demonstrates that when we talk about preference we use 'most' without 'the' (больше всего, в большей степени): I like this one most. What matters most to you? What do you fear most? Notice that in these sentences 'most' is an adverb (like most, matters most, fear most), so the rule about needing 'the' with superlatives does not apply here"
  },
  {
   "proverb": "How much does it cost? Drinking and driving costs lives.", 
