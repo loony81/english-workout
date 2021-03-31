@@ -214,7 +214,7 @@
   "sounds": [
    "most3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the when we want to express preference. Notice that here 'most' is an adverb (like most), so the rule about needing 'the' with superlatives does not apply here"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (like most), so the rule about needing 'the' with superlatives does not apply here"
  }, 
  {
   "proverb": "What matters most to you?", 
@@ -1158,7 +1158,7 @@
   "sounds": [
    "skiing.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with sports and other physical activities"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive, bare infinitive or gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'shopping' and 'camping' are the objects of 'go'. 'go something' is often used to describe leisure activities that we do in our free time or do for fun: go running, go swimming, go hiking, go fishing, go kayaking, go berry picking, etc"
  }, 
  {
   "proverb": "Let's play volleyball!", 
@@ -1951,11 +1951,11 @@
   "description": "This sentence explains how to use prepositions of place. We always say 'at the top of', or 'at the bottom of'"
  }, 
  {
-  "proverb": "The museum is at the end of the street.", 
+  "proverb": "The museum is at the end of the street. The car was stopped in the middle of the street.", 
   "sounds": [
    "attheendof.aac"
   ], 
-  "description": "This sentence explains how to use prepositions of place. We always say 'at the end of', 'at the center of', 'at the beginning of', 'at the back of', etc"
+  "description": "This sentence explains how to use prepositions of place. We always say 'at the end of', 'at the center of', 'at the beginning of', 'at the back of', etc, but 'in the middle'"
  }, 
  {
   "proverb": "He was crying at the back of the classroom.", 
@@ -3861,7 +3861,7 @@
   "sounds": [
    "givein.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two phrasal verbs 'give in' - уступать, сдаваться противнику, поддаться на уговоры, and 'give up' - бросать вредную привычку, бросать пытаться чего-либо достичь потому что это сложно, бросать какую-то деятельность если она не приносит желаемый результат, бросать пытаться что-либо угадать, и т.п."
+  "description": "These two sentences demonstrate the difference between two phrasal verbs 'give in' - уступать, сдаваться противнику, поддаться на уговоры, and 'give up' - бросать вредную привычку, бросать пытаться чего-либо достичь потому что это сложно, бросать какую-то деятельность если она не приносит желаемый результат, бросать пытаться что-либо угадать, и т.п. Also notice that 'give up' is always followed by a gerund"
  },
  {
   "proverb": "Our kids kept begging us to take them to the beach, and finally we gave in. After ten minutes trying to get the answer I gave up.", 
@@ -4274,7 +4274,7 @@
   "sounds": [
    "may.aac"
   ],
-  "description": "The modal verb 'may' is used to ask for permission, grant or not grant permission (we can also use 'can' and 'could to ask for permission, but 'may is the most polite modal verb to use with permissions)"
+  "description": "The modal verb 'may' is used to ask for permission, grant or not grant permission (we can also use 'can' and 'could' to ask for permission, but 'may' is the most polite modal verb to use with permissions)"
  },
  {
   "proverb": "",

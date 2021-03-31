@@ -341,7 +341,7 @@
  },
   {
   "description": "Я сыт по горло твоими жалобами",
-  "proverb": " I'm fed up with your complaints"
+  "proverb": "I'm fed up with your complaints"
  },
  {
   "description": "Не облажайся (не напортачь) в этот раз",
@@ -552,7 +552,7 @@
   "proverb": "We will pay in dollars"
  },
  {
-  "description": "Кто платит,",
+  "description": "Кто платит?",
   "proverb": "Who pays?"
  },
  {
@@ -593,7 +593,7 @@
  },
  {
   "description": "Ты когда-нибудь был за границей?",
-  "proverb": "Have you been abroad?"
+  "proverb": "Have you ever been abroad?"
  },
  {
   "description": "Мой старший брат играет в футбол очень хорошо",
@@ -656,7 +656,7 @@
   "proverb": "What do you mean by that?"
  },
  {
-  "description": "Я просто пытался быть вежливым",
+  "description": "Я просто пытался быть вежливым (Я просто был вежливым)",
   "proverb": "I was just being polite"
  },
  {
@@ -820,7 +820,7 @@
   "proverb": "He left a few minutes ago"
  },
  {
-  "description": "Помоги мне (Дай мне)",
+  "description": "Помоги мне (Дай мне руку!)",
   "proverb": "Give me a hand!"
  },
  {
@@ -1005,7 +1005,7 @@
  },
  {
   "description": "Сколько стран приняли участие в Первой мировой войне?",
-  "proverb": "How many countries took part in Word War I?"
+  "proverb": "How many countries took part in World War I?"
  },
  {
   "description": "Как ты себя чувствуешь сегодня?",
@@ -1141,7 +1141,7 @@
  },
  {
   "description": "Ты привыкнешь к этому",
-  "proverb": "You will get used to it"
+  "proverb": "You'll get used to it"
  },
  {
   "description": "Они держались за руки",
@@ -1324,7 +1324,7 @@
   "proverb": "Access granted"
  },
  {
-  "description": "мы не знаем с чем мы здесь имеем дело",
+  "description": "Мы не знаем с чем мы здесь имеем дело",
   "proverb": "We don't know what we are dealing with here"
  },
  {
@@ -1396,16 +1396,368 @@
   "proverb": "Your salary will be paid in cash"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Почему ты спрашиваешь меня об этом?",
+  "proverb": "Why are you asking me this?"
+ },
+ {
+  "description": "Это было легче, чем я думал",
+  "proverb": "It was easier than I thought"
+ },
+ {
+  "description": "Почему ты ушел, не сказав мне?",
+  "proverb": "Why did you leave without telling me?"
+ },
+ {
+  "description": "Он ушел не попрощавшись",
+  "proverb": "He left without saying goodbye"
+ },
+ {
+  "description": "Ты нарушаешь закон",
+  "proverb": "You are breaking the law"
+ },
+ {
+  "description": "Каков был ваш годовой доход в прошлом году?",
+  "proverb": "What was your annual income last year?"
+ },
+ {
+  "description": "У нас достаточно сбережений чтобы купить любой дом который мы хотим",
+  "proverb": "We have enough savings to buy any house we want"
+ },
+ {
+  "description": "Его доход уменьшился в прошлом году",
+  "proverb": "His income decreased last year"
+ },
+ {
+  "description": "Какая у тебя годовая зарплата (зарплата за год)?",
+  "proverb": "What is your annual salary?"
+ },
+ {
+  "description": "Сделай мне одолжение, оставь меня в покое!",
+  "proverb": "Do me a favor, leave me alone!"
+ },
+ {
+  "description": "Чем они отличаются? (Каковы различия между ними?)",
+  "proverb": "What are the differences between them?"
+ },
+ {
+  "description": "Ты уже познакомился/встрелися с нашими новыми соседями?",
+  "proverb": "Have you met our new neighbors yet?"
+ },
+ {
+  "description": "Лучше бы я взял деньги (мне следовало взять деньги)",
+  "proverb": "I should've taken the money"
+ },
+ {
+  "description": "Все говорят о ней хорошо (Все хорошо о ней отзываются)",
+  "proverb": "Everybody speaks well of her"
+ },
+ {
+  "description": "Он бездомный и живет на улице",
+  "proverb": "He's homeless and lives on the streets"
+ },
+ {
+  "description": "Он бездомный",
+  "proverb": "He's homeless"
+ },
+ {
+  "description": "Этот человек выглядит так как-будто живет на улице",
+  "proverb": "This man looks as if he lives on the streets"
+ },
+ {
+  "description": "Нам следует уважать наших стариков (пожилых людей)",
+  "proverb": "We should respect our elders"
+ },
+ {
+  "description": "Я не ем мясо из принципа",
+  "proverb": "I don't eat meat on principle"
+ },
+ {
+  "description": "Вам не обо мне сейчас нужно беспокоиться",
+  "proverb": "It ain't me you gotta worry about now"
+ },
+ {
+  "description": "У меня все под контролем!",
+  "proverb": "I got this!"
+ },
+ {
+  "description": "Тебе не нужно об этом беспокоиться",
+  "proverb": "You ain't gotta worry about that"
+ },
+ {
+  "description": "Позволь мне помочь тебе",
+  "proverb": "Let me give you a hand"
+ },
+ {
+  "description": "Мы ничего не можем с этим сделать / поделать",
+  "proverb": "There is nothing we can do about it"
+ },
+ {
+  "description": "Нет смысла об этом спорить",
+  "proverb": "There is no point arguing about it"
+ },
+ {
+  "description": "Оставь его в покое",
+  "proverb": "Leave him alone"
+ },
+ {
+  "description": "Она всегда хотела стать писателем",
+  "proverb": "She has always wanted to become a writer"
+ },
+ {
+  "description": "Ты пришел слишком рано",
+  "proverb": "You came too early"
+ },
+ {
+  "description": "Я работаю на крупную компанию",
+  "proverb": "I work for a large company"
+ },
+ {
+  "description": "Их офис больше чем наш?",
+  "proverb": "Is there office larger than ours?"
+ },
+ {
+  "description": "Я хотел бы стакан воды (Стакан воды пожалуйста)",
+  "proverb": "I would like a glass of water"
+ },
+ {
+  "description": "Я бы выпил чая",
+  "proverb": "I would like some tea"
+ },
+ {
+  "description": "Я бы хотел чашку кофе (Чашку кофе пожалуйста)",
+  "proverb": "I would like a cup of coffee"
+ },
+ {
+  "description": "Уйдите с дороги! (Прочь с дороги!)",
+  "proverb": "Get out of the way!"
+ },
+ {
+  "description": "Мы доверяем друг другу",
+  "proverb": "We trust each other"
+ },
+ {
+  "description": "Мне давно следовало это сделать",
+  "proverb": "I should've done it a long time ago"
+ },
+ {
+  "description": "Я купил подержанную машину на прошлой неделе",
+  "proverb": "I bought a used car last week"
+ },
+ {
+  "description": "Есть много различий между американским и британским английским",
+  "proverb": "There are many differences between American and British English"
+ },
+ {
+  "description": "Есть разница между Католической церковью и Православной церковью (Восточной Православной церковью). В чем разница между Католической церковью и Православной церковью?",
+  "proverb": "There is a difference between the Catholic Church and the Eastern Orthodox Church. What is the difference between the Catholic Church and the Eastern Orthodox Church?"
+ },
+ {
+  "description": "Как это на вкус? / На что это похоже по вкусу?",
+  "proverb": "What does it taste like?"
+ },
+ {
+  "description": "Это очень вкусно",
+  "proverb": "It tastes great"
+ },
+ {
+  "description": "Это мясо на вкус как резина",
+  "proverb": "This meat tastes like rubber"
+ },
+ {
+  "description": "Это угроза?",
+  "proverb": "Is that a threat?"
+ },
+ {
+  "description": "Ты мне угрожаешь?",
+  "proverb": "Are you threatening me?"
+ },
+ {
+  "description": "Мы должны двигаться дальше",
+  "proverb": "We have to get moving"
+ },
+ {
+  "description": "Скоро стемнеет",
+  "proverb": "It's gonna be dark soon"
+ },
+ {
+  "description": "Нам нужно / следует держаться вместе",
+  "proverb": "We should stick together"
+ },
+ {
+  "description": "Я потерялся / заблудился",
+  "proverb": "I'm lost"
+ },
+ {
+  "description": "Я был вне себя от радости",
+  "proverb": "I was beside myself with joy"
+ },
+ {
+  "description": "Я был вне себя когда услышал новость",
+  "proverb": "I was beside myself when I heard the news"
+ },
+ {
+  "description": "Я был вне себя от страха",
+  "proverb": "I was beside myself with fear"
+ },
+ {
+  "description": "Только время покажет",
+  "proverb": "Time alone will tell"
+ },
+ {
+  "description": "Время покажет",
+  "proverb": "Time will tell"
+ },
+ {
+  "description": "Как создать сайт менее чем за час",
+  "proverb": "How to build a website in under one hour"
+ },
+ {
+  "description": "Это ничего не изменит",
+  "proverb": "It won't make any difference"
+ },
+ {
+  "description": "С чем именно мы здесь имеем дело?",
+  "proverb": "What exactly are we dealing with here?"
+ },
+ {
+  "description": "Даю (тебе) слово",
+  "proverb": "You have my word on it"
+ },
+ {
+  "description": "Я вижу к чему это идет",
+  "proverb": "I can see where this is going"
+ },
+ {
+  "description": "Ты действуешь мне на нервы",
+  "proverb": "You are getting on my nerves"
+ },
+ {
+  "description": "Сегодня я купил новую пару штанов",
+  "proverb": "Today I have bought a new pair of pants"
+ },
+ {
+  "description": "Мы уходим / отклоняемся от темы",
+  "proverb": "We are getting off the subject"
+ },
+ {
+  "description": "Я тебя все утро жду",
+  "proverb": "I've been waiting for you all morning"
+ },
+ {
+  "description": "Ну, как знаешь! / Как хочешь! / Делай как тебе нравится!",
+  "proverb": "Suit yourself!"
+ },
+ {
+  "description": "Я не шучу",
+  "proverb": "I'm not being funny"
+ },
+ {
+  "description": "Ты шутишь? / Ты прикалываешься?",
+  "proverb": "Are you being funny?"
+ },
+ {
+  "description": "Кто-нибудь из вас (среди вас) знает что это такое?",
+  "proverb": "Do either of you know what that is?"
+ },
+ {
+  "description": "Кто-нибудь из вас (среди вас) играет в видеоигры?",
+  "proverb": "Do either of you play video games?"
+ },
+ {
+  "description": "У меня нет времени на эту ерунду",
+  "proverb": "I don't have time for this nonsense"
+ },
+ {
+  "description": "Мне плевать на твое мнение (Мне все равно что ты скажешь)",
+  "proverb": "I don't care what you say"
+ },
+ {
+  "description": "Мне плевать что ты думаешь",
+  "proverb": "I don't care what you think"
+ },
+ {
+  "description": "Я тебе не верю",
+  "proverb": "I don't believe you"
+ },
+ {
+  "description": "Он верит в Бога",
+  "proverb": "He believes in God"
+ },
+ {
+  "description": "Я съел слишком много за ужином",
+  "proverb": "I ate too much at dinner"
+ },
+ {
+  "description": "Ты еще ничего не видел!",
+  "proverb": "You ain't seen nothing yet!"
+ },
+ {
+  "description": "Ты не поверишь!",
+  "proverb": "You are not gonna believe this!"
+ },
+ {
+  "description": "Доверся мне (в этом вопросе)?????????????????????",
+  "proverb": "You gotta trust me on this"
  },
  {
   "description": "",
-  "proverb": ""
+  "proverb": "You did the right thing"
  },
  {
   "description": "",
-  "proverb": ""
+  "proverb": "You have some explaining to do"
+ },
+ {
+  "description": "Ты суешь свой нос в дела в которые лезть не следует",
+  "proverb": "You are meddling in things that ought not to be meddled in!"
+ },
+ {
+  "description": "Вдохните и выдохните",
+  "proverb": "Breathe in and breathe out"
+ },
+ {
+  "description": "Шёлк дороже чем хлопок",
+  "proverb": "Silk is more expensive than cotton"
+ },
+ {
+  "description": "Мы все умрем!",
+  "proverb": "We're all gonna die!"
+ },
+ {
+  "description": "Тебе лучше взглянуть на это",
+  "proverb": "You'd better take a look at this"
+ },
+ {
+  "description": "От нас не требуется носить галстуки на работе",
+  "proverb": "We are not required to wear ties at work"
+ },
+ {
+  "description": "Как дела, чувак?",
+  "proverb": "What's up, man?"
+ },
+ {
+  "description": "Я услышал это по радио",
+  "proverb": "I heard it on the radio"
+ },
+ {
+  "description": "Я видел (это) по телевизору",
+  "proverb": "I saw it on TV"
+ },
+ {
+  "description": "Соберитесь вокруг!",
+  "proverb": "Gather round!"
+ },
+ {
+  "description": "Я ясно выразился?",
+  "proverb": "Do I make myself clear?"
+ },
+ {
+  "description": "Я живу на первом этаже",
+  "proverb": "I live on the first floor"
+ },
+ {
+  "description": "Он упал на землю",
+  "proverb": "He fell to the ground"
  },
  {
   "description": "",
