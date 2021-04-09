@@ -1312,7 +1312,7 @@
   "sounds": [
    "manypeople.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns. We tend to use 'many' and 'much' in questions and negatives, and use 'lots of' or 'a lot of' in affirmative statements."
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns. We tend to use 'many' and 'much' in questions and negatives, and use 'lots of' or 'a lot of' in affirmative statements."
  }, 
  {
   "proverb": "Fewer people smoke these days than used to.", 
@@ -1326,7 +1326,7 @@
   "sounds": [
    "fewpeople.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
  }, 
  {
   "proverb": "I have a number of things I want to talk to you about. He has a good job and makes a large amount of money.", 
@@ -1340,14 +1340,14 @@
   "sounds": [
    "fewpotatoes.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
  }, 
  {
   "proverb": "No need to hurry! We still have a few hours left.", 
   "sounds": [
    "afewhours.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
  }, 
  {
   "proverb": "Our teacher gives us too much homework.", 
@@ -1361,7 +1361,7 @@
   "sounds": [
    "alittlemoney.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
  }, 
  {
   "proverb": "There's very little snow in the street. We don't need the snow boots.", 
@@ -1389,14 +1389,14 @@
   "sounds": [
    "alittle.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
  }, 
  {
   "proverb": "The woman we met yesterday spoke little English and we couldn't really understand her.", 
   "sounds": [
    "littleenglish.aac"
   ], 
-  "description": "This sentence demonstrates which determiners and quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
  }, 
  {
   "proverb": "I went to the market and bought a lot of fruit.", 
@@ -1410,7 +1410,7 @@
   "sounds": [
    "toomany.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'too much' and 'too many'. We use 'too much' with uncout and 'too many' with count nouns in negative sentences, when we want to express that we don't like something"
+  "description": "This sentence demonstrates when to use 'too much' and 'too many'. We use 'too much' with uncout and 'too many' with count nouns in negative sentences, when we want to express that we don't like something. Also, it is grammatically incorrect to say 'there's too many', but it is widely used even among native speakers"
  }, 
  {
   "proverb": "I drank too much coffee, and now I feel sick. I drank a lot of beer, and now I feel good.", 
@@ -1529,21 +1529,21 @@
   "sounds": [
    "atlunchtime.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином)"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином"
  }, 
  {
   "proverb": "I ate too much at dinner.", 
   "sounds": [
    "atdinner.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином)"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином"
  }, 
  {
   "proverb": "At breakfast, he didn't say a word, just read his newspaper.", 
   "sounds": [
    "atbreakfast.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином)"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином"
  }, 
  {
   "proverb": "I read my daughter a story at bedtime.", 
@@ -2582,70 +2582,70 @@
   "sounds": [
    "zero.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "She's below average intelligence.", 
   "sounds": [
    "average.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "Tom is below Jane in the rankings.", 
   "sounds": [
    "rankings.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "We're at 150 feet below sea level.", 
   "sounds": [
    "sealevel.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "The Dead Sea lies below sea level.", 
   "sounds": [
    "deadsea.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. It also demonstrates that we need to use the definite article with the names of the follwoing bodies of water: rivers, seas, oceans, canals and gulfs, but not with lakes and waterfalls"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'below' is used to indicate that something is at a lower level, but not necessarily under something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. It also demonstrates that we need to use the definite article with the names of the follwoing bodies of water: rivers, seas, oceans, canals and gulfs, but not with lakes and waterfalls"
  },
  {
   "proverb": "She's above average intelligence.", 
   "sounds": [
    "average1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not directly over it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not necessarily over something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "The temperature is 3 degrees above zero.", 
   "sounds": [
    "temperature.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not directly over it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not necessarily over something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "Let's hang the painting above the fireplace.", 
   "sounds": [
    "fireplace.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not directly over it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not necessarily over something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "The clouds lingered above the city.", 
   "sounds": [
    "lingered.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not directly over it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. We can also say: 'The clouds lingered over the city.'"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not necessarily over something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. We can also say: 'The clouds lingered over the city.'"
  },
  {
   "proverb": "The village, one of the highest in the world, is actually 2000 feet above sea level.", 
   "sounds": [
    "village.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not directly over it. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not necessarily over something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale."
  },
  {
   "proverb": "He's under a lot of pressure.", 
@@ -3506,7 +3506,7 @@
   "sounds": [
    "depend.aac", "depend1.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. In most cases 'depend' is used as a stative verb and means to be influenced or determined by something else. But we often find it being used in the continuous form, especially when its subject is a person."
+  "description": "Some verbs can be either stative or dynamic depending on the situation. In most cases 'depend' is used as a stative verb and means to be influenced or determined by something else. But we often find it being used in the continuous form, especially when its subject is a person, when one person (people) is relying on another person right now in a specific situation."
  },
  {
   "proverb": "The hotel room charge includes breakfast. The report includes detailed financial information for the past five years.", 
@@ -4022,7 +4022,7 @@
   "sounds": [
    "resume.aac"
   ],
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resume - возобновлять, продолжать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' is the object of 'resume'."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resume - возобновлять, продолжать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' is the object of 'resume': мы возобновили разговор об"
  },
  {
   "proverb": "He risked being caught. She risks losing her job.",
@@ -4148,7 +4148,7 @@
   "sounds": [
    "try2.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытался посмотреть фильм, но ... 'try + gerund' means to experiment with different options to see if something works, or giving advice: Я не мог заснуть, поэтому попробовал посмотреть фильм."
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытался посмотреть фильм, но ... 'try + gerund' means to experiment with different options to see if something works, or giving advice: Я не мог заснуть, поэтому попробовал посмотреть фильм (как альтернативу)."
  },
  {
   "proverb": "I regret telling you that I was seeing someone else. I regret to tell you that your grandmother has died.",
@@ -4275,6 +4275,20 @@
    "may.aac"
   ],
   "description": "The modal verb 'may' is used to ask for permission, grant or not grant permission (we can also use 'can' and 'could' to ask for permission, but 'may' is the most polite modal verb to use with permissions)"
+ },
+ {
+  "proverb": "You're getting weak. You're getting old. You're getting stronger. You're getting sick. You're getting divorced. It's getting late.",
+  "sounds": [
+   "getting.aac"
+  ],
+  "description": "You're getting ... - ты становишся ... You're getting weak - ты слабеешь. You're getting old - ты стареешь. You're getting stronger - ты становишся сильнее. You're getting sick - ты заболеваешь. You're getting divorced - ты разводишся. It's getting late - Становится поздно."
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
  },
  {
   "proverb": "",

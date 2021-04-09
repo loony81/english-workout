@@ -456,7 +456,7 @@
   "proverb": "Who needs help?"
  },
  {
-  "description": "У нас мало времени",
+  "description": "У нас мало времени (У нас заканчивается время)",
   "proverb": "We are running out of time"
  },
  {
@@ -472,7 +472,7 @@
   "proverb": "I haven't seen her in years"
  },
  {
-  "description": "К этому надо немного привыкнуть (это требует привыкания)",
+  "description": "К этому надо просто немного привыкнуть (это требует привыкания)",
   "proverb": "It just takes a little getting used to"
  },
  {
@@ -1169,7 +1169,7 @@
  },
  {
   "description": "Не волнуйтесь, прямо впереди есть аптека",
-  "proverb": "Don't worry there is a pharmacy straight ahead"
+  "proverb": "Don't worry, there is a pharmacy straight ahead"
  },
  {
   "description": "Есть ли рядом автобусная остановка?",
@@ -1480,7 +1480,7 @@
   "proverb": "I got this!"
  },
  {
-  "description": "Тебе не нужно об этом беспокоиться",
+  "description": "Тебе не о чем беспокоиться (Тебе не нужно об этом беспокоиться)",
   "proverb": "You ain't gotta worry about that"
  },
  {
@@ -1600,12 +1600,12 @@
   "proverb": "I was beside myself with fear"
  },
  {
-  "description": "Только время покажет",
+  "description": "Лишь одно время покажет",
   "proverb": "Time alone will tell"
  },
  {
-  "description": "Время покажет",
-  "proverb": "Time will tell"
+  "description": "Только время покажет",
+  "proverb": "Only time will tell"
  },
  {
   "description": "Как создать сайт менее чем за час",
@@ -1648,7 +1648,7 @@
   "proverb": "Suit yourself!"
  },
  {
-  "description": "Я не шучу",
+  "description": "Я не шучу (мне не смешно)",
   "proverb": "I'm not being funny"
  },
  {
@@ -1657,11 +1657,11 @@
  },
  {
   "description": "Кто-нибудь из вас (среди вас) знает что это такое?",
-  "proverb": "Do either of you know what that is?"
+  "proverb": "Does either of you know what that is?"
  },
  {
   "description": "Кто-нибудь из вас (среди вас) играет в видеоигры?",
-  "proverb": "Do either of you play video games?"
+  "proverb": "Does either of you play video games?"
  },
  {
   "description": "У меня нет времени на эту ерунду",
@@ -1688,7 +1688,7 @@
   "proverb": "I ate too much at dinner"
  },
  {
-  "description": "Ты еще ничего не видел!",
+  "description": "Ты еще ничего (толком) не видел!",
   "proverb": "You ain't seen nothing yet!"
  },
  {
@@ -1696,15 +1696,15 @@
   "proverb": "You are not gonna believe this!"
  },
  {
-  "description": "Доверся мне (в этом вопросе)?????????????????????",
+  "description": "Доверся мне (в этом вопросе)",
   "proverb": "You gotta trust me on this"
  },
  {
-  "description": "",
+  "description": "Ты поступил правильно",
   "proverb": "You did the right thing"
  },
  {
-  "description": "",
+  "description": "Ты мне должен кое-что объяснить / Тебе надо объясниться",
   "proverb": "You have some explaining to do"
  },
  {
@@ -1758,6 +1758,330 @@
  {
   "description": "Он упал на землю",
   "proverb": "He fell to the ground"
+ },
+ {
+  "description": "Для меня это новость",
+  "proverb": "It's news to me"
+ },
+ {
+  "description": "Ты на меня все еще злишься? / Ты всё ещё дуешься на меня?",
+  "proverb": "Are you still pissed at me?"
+ },
+ {
+  "description": "Лесть тебе не поможет (Лестью ты ничего не добьешься)",
+  "proverb": "Flattery will get you nowhere"
+ },
+ {
+  "description": "Последнее время меня все об этом спрашивают",
+  "proverb": "Everyone's been asking me about it lately"
+ },
+ {
+  "description": "Это у вас деловая поездка? / Вы в командировке?",
+  "proverb": "Are you on a business trip?"
+ },
+ {
+  "description": "Я приехал по делам / Я в командировке",
+  "proverb": "I'm on a business trip"
+ },
+ {
+  "description": "Ты сейчас говоришь по мобильному?",
+  "proverb": "Are you on a cell phone?"
+ },
+ {
+  "description": "Учитывая вышесказанное / Вместе с тем",
+  "proverb": "With that said"
+ },
+ {
+  "description": "В каком-то роде / В некотором смысле",
+  "proverb": "In a way"
+ },
+ {
+  "description": "Одевайся, я буду ждать тебя на улице (снаружи)",
+  "proverb": "Get dressed. I'll wait for you outside."
+ },
+ {
+  "description": "Ты попусту тратишь время, задавая все эти вопросы",
+  "proverb": "You're wasting time, asking all these questions"
+ },
+ {
+  "description": "Ты попусту тратишь время",
+  "proverb": "You're wasting time"
+ },
+ {
+  "description": "Поезд отправляется в полдень, мы как раз должны успеть",
+  "proverb": "The train leaves at noon, we should just make it"
+ },
+ {
+  "description": "Он мертв, кого это волнует?",
+  "proverb": "He's dead, who cares?"
+ },
+ {
+  "description": "Что там произошло?",
+  "proverb": "What happened back there?"
+ },
+ {
+  "description": "Это была любовь с первого взгляда",
+  "proverb": "It was love at first sight"
+ },
+ {
+  "description": "300 лет назад вас сожгли бы на костре за такие слова (за то что вы сказали что-то подобное)",
+  "proverb": "300 years ago you would've been burned at the stake for saying something like that"
+ },
+ {
+  "description": "Ты можешь пострадать / Ты можешь пораниться",
+  "proverb": "You may get hurt"
+ },
+ {
+  "description": "Я хочу принять ванну",
+  "proverb": "I want to take a bath"
+ },
+ {
+  "description": "Почему в мире столько зла?",
+  "proverb": "Why is there so much evil in the world?"
+ },
+ {
+  "description": "Я принял душ сегодня утром",
+  "proverb": "I took a shower this morning"
+ },
+ {
+  "description": "Разве это не показалось тебе подозрительным?",
+  "proverb": "Didn't that strike you as suspicious?"
+ },
+ {
+  "description": "Тебе не кажется это немного странным?",
+  "proverb": "Doesn't that strike you as a little strange?"
+ },
+ {
+  "description": "Мне надо убраться/выбраться отсюда",
+  "proverb": "I gotta get outta here"
+ },
+ {
+  "description": "Кто готов к приключениям? / Кто за то чтобы отправиться за приключениями?",
+  "proverb": "Who's up for an adventure?"
+ },
+ {
+  "description": "Мне пора / Я должен идти",
+  "proverb": "i gotta get going"
+ },
+ {
+  "description": "Ты можешь рассчитывать на меня",
+  "proverb": "You can count on me"
+ },
+ {
+  "description": "Никогда не поздно",
+  "proverb": "It's never too late"
+ },
+ {
+  "description": "Я никогда раньше здесь не был",
+  "proverb": "I've never been here before"
+ },
+ {
+  "description": "Держись от него подальше / Тебе лучше держаться от него подальше",
+  "proverb": "You should stay away from him"
+ },
+ {
+  "description": "У меня есть идея получше",
+  "proverb": "I've got a better idea"
+ },
+ {
+  "description": "Так суждено было быть / Это было предначертано",
+  "proverb": "It was meant to be"
+ },
+ {
+  "description": "Должен быть другой способ/путь/выход",
+  "proverb": "There has to be another way"
+ },
+ {
+  "description": "Мы это уже проходили / Мы уже через все это проходили",
+  "proverb": "We've been through all this before"
+ },
+ {
+  "description": "Вы со мной не согласны?",
+  "proverb": "Do you disagree with me?"
+ },
+ {
+  "description": "Предложение все еще обсуждается (все еще находится в стадии обсуждения)",
+  "proverb": "The proposal is still under discussion"
+ },
+ {
+  "description": "Что заставило тебя это сделать?",
+  "proverb": "What made you do it?"
+ },
+ {
+  "description": "Почему ты так думаешь? (Что заставляет тебя так думать?)",
+  "proverb": "What makes you think that?"
+ },
+ {
+  "description": "На что это похоже? / Как это выглядит?",
+  "proverb": "What does it look like?"
+ },
+ {
+  "description": "Меня не было всего на неделю / Я отсутствовал всего неделю",
+  "proverb": "I was only gone for a week"
+ },
+ {
+  "description": "Меня не было всего несколько минут / Я отошел всего на несколько минут",
+  "proverb": "I was only gone a few minutes"
+ },
+ {
+  "description": "Он оделся а затем снова разделся",
+  "proverb": "He dressed and then undressed again"
+ },
+ {
+  "description": "Я не куплюсь на это / Я не поведусь на это",
+  "proverb": "I won't buy it"
+ },
+ {
+  "description": "Я сказал это в шутку / ради шутки",
+  "proverb": "I told it for a joke"
+ },
+ {
+  "description": "Я бы с радостью / с удовольствием, но уже становится поздно",
+  "proverb": "I'd love to, but it's getting late"
+ },
+ {
+  "description": "Понял? / Уяснил?",
+  "proverb": "You got that?"
+ },
+ {
+  "description": "Тебе решать! / Поступай, как знаешь!",
+  "proverb": "It's up to you!"
+ },
+ {
+  "description": "Не тебе решать!",
+  "proverb": "It's not up to you!"
+ },
+ {
+  "description": "Они пришли к заключению",
+  "proverb": "They arrived at a conclusion"
+ },
+ {
+  "description": "Сайт перегружен (Сайт находится под большой нагрузкой)",
+  "proverb": "The website is under heavy load"
+ },
+ {
+  "description": "Я люблю смотреть футбол по выходным",
+  "proverb": "I like to watch football on weekends"
+ },
+ {
+  "description": "Мы были уверены в его поддержке",
+  "proverb": "We were certain of his support"
+ },
+ {
+  "description": "Я бросил курить два года назад",
+  "proverb": "I gave up smoking two years ago"
+ },
+ {
+  "description": "Садись в автобус!",
+  "proverb": "Get on the bus!"
+ },
+ {
+  "description": "Я бы хотел сбросить несколько килограммов",
+  "proverb": "I would like to lose a few kilos"
+ },
+ {
+  "description": "Он не взрослый",
+  "proverb": "He is not an adult"
+ },
+ {
+  "description": "Он нам доверяет",
+  "proverb": "He trusts us"
+ },
+ {
+  "description": "Я перед тобой в долгу",
+  "proverb": "I owe you one"
+ },
+ {
+  "description": "Я позабочусь об этом",
+  "proverb": "I'll take care of it"
+ },
+ {
+  "description": "У тебя есть девушка?",
+  "proverb": "Do you have a girlfriend?"
+ },
+ {
+  "description": "Он не женат",
+  "proverb": "He is not married"
+ },
+ {
+  "description": "Какая сегодня погода?",
+  "proverb": "What is the weather like today?"
+ },
+ {
+  "description": "Как тебе погода сегодня?",
+  "proverb": "How is the weather today?"
+ },
+ {
+  "description": "Какой прогноз погоды на завтра?",
+  "proverb": "What is the weather forecast for tomorrow?"
+ },
+ {
+  "description": "Позволь мне кое-что прояснить",
+  "proverb": "Let me get this straight"
+ },
+ {
+  "description": "Что заставило тебя вернуться? / Что привело тебя назад?",
+  "proverb": "What brought you back?"
+ },
+ {
+  "description": "В какую сторону она пошла? / Какой дорогой она отправилась?",
+  "proverb": "Which way did she go?"
+ },
+ {
+  "description": "Он взял меня за руку",
+  "proverb": "He took me by the hand"
+ },
+ {
+  "description": "Он вернется через пару дней",
+  "proverb": "He'll be back in a couple of days"
+ },
+ {
+  "description": "Оставь его в покое, он всего лишь ребёнок",
+  "proverb": "Leave him alone, he is just a kid"
+ },
+ {
+  "description": "В глуши (Неизвестно где)",
+  "proverb": "In the middle of nowhere"
+ },
+ {
+  "description": "У меня всегда было хорошо с математикой / Я всегда был хорош в математике",
+  "proverb": "I've always been good at math"
+ },
+ {
+  "description": "Тебе нужно к этому привыкнуть",
+  "proverb": "You need to get used to it"
+ },
+ {
+  "description": "Это зависит от погоды",
+  "proverb": "It depends on the weather"
+ },
+ {
+  "description": "Сегодня я купил новую пару брюк",
+  "proverb": "I have bought a new pair of pants today"
+ },
+ {
+  "description": "Ты хочешь испечь или пожарить эти овощи?",
+  "proverb": "Do you want to bake or fry these vegetables?"
+ },
+ {
+  "description": "Надеюсь, мы поняли друг друга?",
+  "proverb": "Do we understand each other?"
+ },
+ {
+  "description": "Ты подумал то же, что и я? (Ты думаешь то же, что и я?)",
+  "proverb": "Are you thinking what I'm thinking?"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",
