@@ -2586,5 +2586,9 @@
  {
   "description": "У меня есть несколько вопросов, и мне нужны (некоторые) ответы",
   "proverb": "I got some questions and I need some answers"
+ },
+ {
+  "description": "Ты когда-нибудь ездил/катался на лошади?",
+  "proverb": "Have you ever ridden a horse?"
  }
 ]
