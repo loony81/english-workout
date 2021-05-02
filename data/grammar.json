@@ -25,7 +25,7 @@
   "sounds": [
    "cake.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific"
+  "description": "This sentence demonstrates the use of the definite article when talking about something specific. Also, the noun 'cake' can be both countable and uncountable"
  }, 
  {
   "proverb": "We wanted to watch TV, but there wasn't one in the apartment, so we just listened to the radio.", 
@@ -214,14 +214,14 @@
   "sounds": [
    "most3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (like most), so the rule about needing 'the' with superlatives does not apply here"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb, it describes the verb 'like', so the rule about needing 'the' with superlatives does not apply here"
  }, 
  {
   "proverb": "What matters most to you?", 
   "sounds": [
    "most4.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (matters most), so the rule about needing 'the' with superlatives does not apply here"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (matters most), it describes the verb 'matter', so the rule about needing 'the' with superlatives does not apply here"
  }, 
  {
   "proverb": "The kids loved the fair, but they enjoyed the bumper cars most of all.", 
@@ -235,21 +235,21 @@
   "sounds": [
    "themost1.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' when it is part of a superlative adjective that consists of more than 2 syllables, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
  }, 
  {
   "proverb": "It's a lovely day - we must make the most of it.", 
   "sounds": [
    "themost2.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' when it is part of a superlative adjective that consists of more than 2 syllables, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
  }, 
  {
   "proverb": "Which of you earns the most money?", 
   "sounds": [
    "themost3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' when it is part of a superlative adjective that consists of more than 2 syllables, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
  }, 
  {
   "proverb": "advantage but advantageous", 
@@ -321,7 +321,7 @@
   "sounds": [
    "thebalticsea.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with seas"
+  "description": "We use the definite article with the names of seas. Also we do not use the definite article when refering to West, East, North or South as directions. Here 'north' is an adjective (к северу, на север, в северном направлении)"
  }, 
  {
   "proverb": "The Sahara is the world's biggest desert.", 
@@ -596,43 +596,64 @@
   "sounds": [
    "therose.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class"
+  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class. Here we are not talking about an individual rose"
  }, 
  {
   "proverb": "The tiger lives in Asia.", 
   "sounds": [
    "thetiger.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class"
+  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class (here we are not talking about an individual tiger)"
  }, 
  {
   "proverb": "The cheetah achieves by far the fastest land speed of any living animal.", 
   "sounds": [
    "thecheetah.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class"
+  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class (here we are not talking about an individual cheetah)"
  }, 
  {
   "proverb": "Go home and come back in a week's time.", 
   "sounds": [
    "apostrophe1.aac"
   ], 
-  "description": "This sentence demonstrates when to use the possessive case"
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
  }, 
  {
   "proverb": "Are you coming to Sunday's party?", 
   "sounds": [
    "apostrophe2.aac"
   ], 
-  "description": "This sentence demonstrates when to use the possessive case"
- }, 
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
+ },
+ {
+  "proverb": "Did you read yesterday's newspaper?", 
+  "sounds": [
+   "newspaper.aac"
+  ], 
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
+ },
  {
   "proverb": "Australia's economy has slowed to its most sluggish pace since 2009.", 
   "sounds": [
    "apostrophe3.aac"
   ], 
-  "description": "This sentence demonstrates when to use the possessive case"
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
  }, 
+ {
+  "proverb": "The team's lack of ambition is disappointing.", 
+  "sounds": [
+   "ambition.aac"
+  ], 
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
+ },
+ {
+  "proverb": "The company's head office is on Park Avenue.", 
+  "sounds": [
+   "company.aac"
+  ], 
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
+ },
  {
   "proverb": "The Dutch live in the Netherlands.", 
   "sounds": [
@@ -779,7 +800,7 @@
   "sounds": [
    "thebeach2.aac"
   ], 
-  "description": "This sentence demonstrates the difference between 'at the beach' and 'on the beach'. 'On the beach' means you are literally on the sand near the water. 'At the beach' is more general and could mean you're literally on the sand, or in the water, or it could mean you're visiting a beach town. To better understand: We had a good time at the beach yesterday, we swam, played volleyball and then had a couple of beers at a nearby pub"
+  "description": "This sentence demonstrates the difference between 'at the beach' and 'on the beach'. 'On the beach' means you are literally on the sand near the water. 'At the beach' is more general and could mean you're literally on the sand, or in the water, or it could mean you're visiting a beach town. To better understand 'We had a good time at the beach yesterday: we swam, played volleyball and then had a couple of beers at a nearby pub'"
  }, 
  {
   "proverb": "The boy is afraid to go to bed in the dark.", 
@@ -1158,7 +1179,7 @@
   "sounds": [
    "skiing.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive, bare infinitive or gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'shopping' and 'camping' are the objects of 'go'. 'go something' is often used to describe leisure activities that we do in our free time or do for fun: go running, go swimming, go hiking, go fishing, go kayaking, go berry picking, etc"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive, bare infinitive or gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'skiing' is the object of 'go'. 'go something' is often used to describe leisure activities that we do in our free time or do for fun: go running, go swimming, go hiking, go fishing, go kayaking, go berry picking, etc"
  }, 
  {
   "proverb": "Let's play volleyball!", 
@@ -1266,7 +1287,7 @@
   "description": "This sentence demonstrates that we do not use the definite article with following constructs: noun + number (page 6, platform 9, room 5)"
  },
   {
-  "proverb": "Excuse me sir, can you tell me where I might find platform 9 3/4? ", 
+  "proverb": "Excuse me sir, can you tell me where I might find platform 9 3/4?", 
   "sounds": [
    "platform3.aac"
   ], 
@@ -1319,7 +1340,7 @@
   "sounds": [
    "fewerpeople.aac"
   ], 
-  "description": "This sentence demonstrates what determiners and quantifiers must be used with countable and uncountable nouns. Also we use the following expression 'used to + infinitive' when we talk about habits or repeated actions in the past which we don't do anymore in the present. In this example it is not followed directly by an infinitive but the effect is the same"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns. Also we use the following expression 'used to + infinitive' when we talk about habits or repeated actions in the past which we don't do anymore in the present. In this example it is not followed directly by an infinitive but the effect is the same"
  }, 
  {
   "proverb": "There were few people on the beach because it was raining.", 
@@ -1368,14 +1389,14 @@
   "sounds": [
    "littlesnow.aac"
   ], 
-  "description": "These sentences demonstrate which determiners and quantifiers must be used with countable and uncountable nouns. And we typically use 'on' with streets, roads, avenues when we mean somewhere on a street, but here we say 'in the street' because we mean the carriageway (проезжая часть) and it is an enclosed space (we use the preposition 'in' with enclosed spaces)."
+  "description": "These sentences demonstrate which quantifiers must be used with countable and uncountable nouns. And we typically use 'on' with streets, roads, avenues when we mean somewhere on a street, but here we say 'in the street' because we mean the carriageway (проезжая часть) and it is an enclosed space (we use the preposition 'in' with enclosed spaces)."
  }, 
  {
   "proverb": "Hurry up! We have very little time left. Don't worry! We still have a little time left.", 
   "sounds": [
    "littletime.aac"
   ], 
-  "description": "These sentences demonstrate which determiners and quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
+  "description": "These sentences demonstrate which quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
  },
  {
   "proverb": "I have a number of things I want to talk to you about. The amount of time it took to finish the job was very frustrating.", 
@@ -1418,7 +1439,14 @@
    "toomuch1.aac"
   ], 
   "description": "These sentences demonstrate when to use 'much', 'many' and 'a lot of'. We tend to use 'many' and 'much' in questions and negatives, and use 'lots of' or 'a lot of' in affirmative statements"
- }, 
+ },
+ {
+  "proverb": "I have a lot of friends. I have too many friends.", 
+  "sounds": [
+   "friends.aac"
+  ], 
+  "description": "We tend to use 'many' and 'much' in questions and negative statements, and use 'lots of' or 'a lot of' in positive statements. The first sentence implies that you are happy, and the second sentence implies that you are unhappy"
+ },
  {
   "proverb": "Time passes quickly. I had a nice time at the cinema.", 
   "sounds": [
@@ -1607,14 +1635,14 @@
    "weekend.aac", 
    "weekend1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about someting habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
  }, 
  {
   "proverb": "We go out once in a while on the weekends. We go out once in a while on weekends.", 
   "sounds": [
    "weekends.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about someting habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
  }, 
  {
   "proverb": "They usually go windsurfing on the weekends. They usually go windsurfing on weekends.", 
@@ -1622,14 +1650,14 @@
    "weekends1.aac", 
    "weekends2.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about someting habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
  }, 
  {
   "proverb": "On the weekends, I like to watch football. On weekends, I like to watch football.", 
   "sounds": [
    "weekends3.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about someting habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
  }, 
  {
   "proverb": "The kids have been on vacation two weeks.", 
@@ -2421,14 +2449,14 @@
   "sounds": [
    "underthesun.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'under the sun' means (in existence - в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine" 
+  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'under the sun' means in existence (в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine" 
  },
  {
   "proverb": "I put the plants in the sun to help them grow. There is nothing under the sun that we cannot do.", 
   "sounds": [
    "underthesun1.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'under the sun' means (in existence - в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine. We can also say 'on the sun' when we mean the surface of the Sun (the star)"
+  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'under the sun' means in existence (в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine. We can also say 'on the sun' when we mean the surface of the Sun (the star)"
  },
  {
   "proverb": "There were no clouds in the sky.", 
@@ -2449,28 +2477,28 @@
   "sounds": [
    "urban.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are also considered enclosed spaces. It also demonstrates the use of the definite article"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article"
  },
  {
   "proverb": "Camels are often used to travel in the desert.", 
   "sounds": [
    "camels.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are also considered enclosed spaces. It also demonstrates the use of the definite article"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article with deserts"
  },
  {
   "proverb": "I live in Canada. I live in the west of the city. Egypt is in the north of Africa.", 
   "sounds": [
    "canada.aac", "canada1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world), these are also considered enclosed spaces. It also demonstrates the use of the definite article"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something."
  },
  {
   "proverb": "The sun rises in the east and sets in the west.", 
   "sounds": [
    "thesun.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world), these are also considered enclosed spaces. It also demonstrates the use of the definite article"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world). We also use the definine article when referring to the West, North, East or South as geographical parts of something. "
  },
  {
   "proverb": "I left my phone in the car. I left my phone on the bus.", 
@@ -2652,42 +2680,42 @@
   "sounds": [
    "pressure.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement (as a preposition of movement), but it is also used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "The cat is under the bed.", 
   "sounds": [
    "cat.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "This bar is popular among the under-40 crowd.", 
   "sounds": [
    "crowd.aac", "crowd1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "There were under twenty people at the lecture.", 
   "sounds": [
    "lecture.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "How to get any girl in under 60 seconds.", 
   "sounds": [
    "seconds.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "I'm wearing a T-shirt under my jacket.", 
   "sounds": [
    "jacket.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "If the victim was over 15 but under 21 years of age, the penalty shall be life imprisonment.", 
@@ -2701,49 +2729,49 @@
   "sounds": [
    "orchestra.aac", "orchestra1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "He was under the mistaken belief that I was in charge.", 
   "sounds": [
    "belief.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The police put her under arrest.", 
   "sounds": [
    "arrest.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The house is under construction.", 
   "sounds": [
    "construction.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The incident is currently under investigation.", 
   "sounds": [
    "incident.aac", "incident1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "His suggestion is still under discussion.", 
   "sounds": [
    "suggestion.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "How to lose 5 kilos in under two weeks.", 
   "sounds": [
    "kilos.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'under' is mostly used when talking about movement, but it is also used when: 1. describing situations, conditions, when something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "You have to be 18 or over to see this film.", 
@@ -3082,7 +3110,7 @@
   "description": "'need' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'Are you needing some help?', or 'I am needing something'"
  },
  {
-  "proverb": "I prefer tea to coffee. I'd prefer not to work but I don't have much choice.  ", 
+  "proverb": "I prefer tea to coffee. I'd prefer not to work but I don't have much choice.", 
   "sounds": [
    "prefer.aac"
   ], 
@@ -3478,7 +3506,7 @@
   "sounds": [
    "involve.aac", "involve1.aac"
   ], 
-  "description": "'involve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. The second sentence also shows that the verb 'involve' is always followed by a gerund."
+  "description": "'involve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. The second sentence also shows that the verb 'involve' is always followed by a gerund (in case it is followed by another verb)."
  },
  {
   "proverb": "And I'd just like to say that if it hadn't been for you, Harry and Ron and Hermione, of course… I would still be you know where… so I'd just like to say thanks.", 
@@ -3562,7 +3590,7 @@
   "sounds": [
    "pregnant.aac"
   ], 
-  "description": "All three of these phreses mean the same: she is pregnant. Notice that in the last sentence we didn't use 'a' before 'child'. 'she is with a child' meas she is spending time with a child or being accompanied by a child. It doesn't indicate that she is pregnant. 'She is with child' indicates a pregnancy."
+  "description": "All three of these phrases mean the same: she is pregnant. Notice that in the last sentence we didn't use 'a' before 'child'. 'she is with a child' meas she is spending time with a child or being accompanied by a child. It doesn't indicate that she is pregnant. 'She is with child' indicates a pregnancy."
  },
  {
   "proverb": "The girl is wearing a black dress. The girl wears a black dress every time she goes to church.", 
@@ -3700,7 +3728,7 @@
   "sounds": [
    "Audio recording 2021-02-05 11-37-09.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation can't help which means 'to not be able to control or stop something' (не могу ничего с этим поделать),' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation can't help which means 'to not be able to control or stop something' (не могу ничего с этим поделать), is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
  },
  {
   "proverb": "We'll celebrate working together for over 50 years. He celebrated getting a job.", 
@@ -3721,7 +3749,7 @@
   "sounds": [
    "consider.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'consider' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'leaving' is the object of 'consider'."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'consider' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'leaving' is the object of 'consider' - мы рассмотрели уход"
  },
  {
   "proverb": "The lawyer defended her making such statements.", 
@@ -3777,7 +3805,7 @@
   "sounds": [
    "dislike.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'dislike' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'being' and 'watching' are the objects of 'dislike'. Notice that the verb 'like' can be followed by either an infinitive or a gerund"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'dislike' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'being' and 'watching' are the objects of 'dislike'. Notice that the verb 'like' can be followed by either an infinitive or a gerund without any change in meaning"
  },
  {
   "proverb": "They dispute stealing the merchandise.", 
@@ -3798,7 +3826,7 @@
   "sounds": [
    "endure.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'endure' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'listening' is the object of 'endure' - Мы терпели его три часа (дословно: Мы терпели слушание три часа)"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going).The verb 'endure' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'listening' is the object of 'endure' - Мы терпели его болтовню три часа (дословно: Мы терпели слушание того что он говорит три часа)"
  },
  {
   "proverb": "We enjoy hiking. She really enjoys taking pictures of sunsets.", 
@@ -4113,7 +4141,7 @@
   "sounds": [
    "stop.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'stop' + to + infinitive is used to indicate that someone stops doing something in order to do something else: 'Он остановился покурить'. 'stop' + gerund is used to indicate that an action or event is no longer continuing: 'Я бросил курить'. Also used when giving advice or an instruction: 'Stop making this noise at once!'"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'stop' + to + infinitive is used to indicate that someone stops doing something in order to do something else: 'Я остановился покурить'. 'stop' + gerund is used to indicate that an action or event is no longer continuing: 'Я бросил курить'. Also used when giving advice or an instruction: 'Stop making this noise at once!'"
  },
  {
   "proverb": "He decided to stop to drink because he was thirsty. He needs to stop drinking as he is an alcoholic.",
@@ -4182,6 +4210,13 @@
   "proverb": "I need to fix my car. My car needs fixing.",
   "sounds": [
    "need2.aac"
+  ],
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The verb 'need' is usually used with an infinitive or an object + an infinitive: Мне нужно починить... When 'need' is used with a gerund, it takes on a passive meaning: Моя машина нуждается ... We can also say: My car needs to be fixed. Also notice that 'need' is a stative verb."
+ },
+ {
+  "proverb": "I need to clean the window. The window needs cleaning.",
+  "sounds": [
+   "need3.aac"
   ],
   "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The verb 'need' is usually used with an infinitive or an object + an infinitive: Мне нужно починить... When 'need' is used with a gerund, it takes on a passive meaning: Моя машина нуждается ... We can also say: My car needs to be fixed. Also notice that 'need' is a stative verb."
  },
@@ -4284,24 +4319,458 @@
   "description": "You're getting ... - ты становишся ... You're getting weak - ты слабеешь. You're getting old - ты стареешь. You're getting stronger - ты становишся сильнее. You're getting sick - ты заболеваешь. You're getting divorced - ты разводишся. It's getting late - Становится поздно."
  },
  {
-  "proverb": "",
+  "proverb": "What's on your mind? I have a picture in my mind of a beautiful green valley.",
   "sounds": [
-   ""
+   "onmind.aac"
   ],
-  "description": ""
+  "description": "'on my mind' and 'in my mind' have different meanings. 'On my mind' usually refers to something that really bothers you, or something that constantly comes to mind. It isn't necessarily a bad thing, though. On the other hand, 'in my mind' is a much more general and abstract phrase. It means what you think; it means: in your brain, in your head, in your view etc. You're literally picturing something in your mind. It is much more common for people to say 'in my head' rather than 'in my mind'"
  },
  {
-  "proverb": "",
+  "proverb": "I've had a lot of things on my mind these days. I have your phone number in my mind.",
   "sounds": [
-   ""
+   "onmind1.aac",
+   "onmind2.aac"
   ],
-  "description": ""
+  "description": "'on my mind' and 'in my mind' have different meanings. 'On my mind' usually refers to something that really bothers you, or something that constantly comes to mind. It isn't necessarily a bad thing, though. On the other hand, 'in my mind' is a much more general and abstract phrase. It means what you think; it means: in your brain, in your head, in your view etc. You're literally picturing something in your mind. It is much more common for people to say 'in my head' rather than 'in my mind'"
  },
  {
-  "proverb": "",
+  "proverb": "My stomach hurts. Stop it! You're hurting me!",
   "sounds": [
-   ""
+   "Audio recording 2021-04-10 12-52-39.aac"
   ],
-  "description": ""
+  "description": "Some verbs have a regular 'active' meaning and a different 'stative' meaning. 'My stomach hurts' means there is a pain in my stomach (У меня болит живот), here 'hurt' is both stative and intransitive and means to feel pain. You're hurting me! (Ты делаешь мне больно) here 'hurt' is a dynamic transitive verb and means to cause pain to someone"
+ },
+ {
+  "proverb": "I laughed. The book fell. She died. He walks to the park.",
+  "sounds": [
+   "Audio recording 2021-04-10 13-19-01.aac"
+  ],
+  "description": "These sentences demonstrate intransitive verbs. Most sentences in the English language contain a subject and a verb, and many of them contain an object as well: He rode the bike. The verb 'ride' is known as a transitive verb, it has a direct object 'bike'. Intransitive verbs are action verbs that do not have an object to receive the action. Some verbs can be both transitive and intransitive: 'The bird sings' and 'The choir sings the national anthem'"
+ },
+ {
+  "proverb": "The bird sings. The choir sings the national anthem.",
+  "sounds": [
+   "Audio recording 2021-04-10 13-27-29.aac",
+   "Audio recording 2021-04-10 13-24-21.aac"
+  ],
+  "description": "Some verbs can be both transitive and intransitive"
+ },
+ {
+  "proverb": "I bought some fruit. The fruit was bad.",
+  "sounds": [
+   "fruit1.aac"
+  ],
+  "description": "The second time we talk about the same thing in a phrase, we have to use 'the' with it. Also the noun 'fruit' is usually used as an uncountable noun"
+ },
+ {
+  "proverb": "Those fish are very colorful. That fish is very colorful.",
+  "sounds": [
+   "fish.aac"
+  ],
+  "description": "Fish is an irregular unchanging noun. Other examples of irregular unchanging nouns: deer, sheep, moose, aircraft, species (вид/виды), series (серия/серии)"
+ },
+ {
+  "proverb": "That sheep is so fat! Those sheep are so fat!",
+  "sounds": [
+   "sheep.aac"
+  ],
+  "description": "Sheep is an irregular unchanging noun. Other examples of irregular unchanging nouns: deer, fish, moose, aircraft, species (вид/виды), series (серия/серии)"
+ },
+ {
+  "proverb": "The deer is very beautiful. The deer are very beautiful.",
+  "sounds": [
+   "deer.aac"
+  ],
+  "description": "Deer is an irregular unchanging noun. Other examples of irregular unchanging nouns: sheep, fish, moose, aircraft, species (вид/виды), series (серия/серии)"
+ },
+ {
+  "proverb": "He borrowed a pencil from her. She lent him a pencil.",
+  "sounds": [
+   "borrow.aac"
+  ],
+  "description": "These two sentences demonstrate the difference between 'borrow' and 'lend'; to borrow - занимать у кого-то, to lend - занимать кому-то; to borrow from / to lend to"
+ },
+ {
+  "proverb": "I hold you by your hand. I keep bees.",
+  "sounds": [
+   "keep1.aac"
+  ],
+  "description": "These two sentences demonstrate the difference between 'hold' and 'keep'; hold - держать что-то в физическом смысле, keep - держать (в смысле содержать), хранить, иметь, продолжать что-то делать, и т.д. 'Keep' is usually permanent. 'Hold' is temporary. "
+ },
+ {
+  "proverb": "Can you hold this book for me? Can you keep this book for me?",
+  "sounds": [
+   "hold.aac"
+  ],
+  "description": "These two sentences demonstrate the difference between 'hold' and 'keep'. In the first sentence, you have a book in your hands, and perhaps for some reason you need to use your hands for something else, so you hand over the book to another person. In the second sentence you want the other person to keep possession of the book for a much greater length of time. Maybe you are going out on a trip and you need to leave the book with somebody for safekeeping."
+ },
+ {
+  "proverb": "I used to get up early. I'm used to getting up early. I need to get used to getting up early.",
+  "sounds": [
+   "used.aac"
+  ],
+  "description": "I used to do - я бывало делал это в прошлом (past habits, always followed by an infinitive). I used to get up early - Я раньше вставал рано;\nI am used to doing - я привыкший делать что-либо в настоящем (current habits, if it is followed by a verb it must be a gerund). I'm used to getting up early - Я привык вставать рано;\nTo get used to  - привыкнуть к чему-либо (to become accustomed to something, if it is followed by a verb it must be a gerund). I need to get used to getting up early - мне нужно приучить себя вставать рано"
+ },
+ {
+  "proverb": "Have you found it? Where did you find it?",
+  "sounds": [
+   "find.aac"
+  ],
+  "description": "We use the Present Perfect when we talk about an action in the past that has some bearing on the present, we want to emphasize the importance of an action right now or its result (first question). When we talk about the time of an action or who did it, or where it happened - we use the Past Simple, we don't care about the effect of an action (second question)."
+ },
+ {
+  "proverb": "Peter has been a teacher for ten years",
+  "sounds": [
+   "teacher.aac"
+  ],
+  "description": "This sentence demonstrates when to use the Present Perfect Tense. We usually use the Present Perfect Continuous for something that started in the past and still continues in the present, but the verb 'be' is a stative verb in this context and can't be used with continuous tenses, that's why the PP is used. Similar examples: I've known him for years (and I still know him). Sam has had this car since 2012 (Sam still has his car)."
+ },
+ {
+  "proverb": "I've been to the States. I've read many books. Have you ever seen the movie Titanic?",
+  "sounds": [
+   "experience.aac"
+  ],
+  "description": "One of the main uses of the Present Perfect Tense is to express an experience that happended at some time in one's life. The experience is in the past and finished, but the effects of the action are still felt. When the action happened is not important"
+ },
+ {
+  "proverb": "I have bought some food. I have lost my wallet. The taxi hasn't arrived. Have you seen my phone?",
+  "sounds": [
+   "wallet.aac"
+  ],
+  "description": "We use the Present Perfect when we talk about an action in the past that has some bearing on the present, we want to emphasize the importance of the action or the result of it at the present moment. The action is usually in the recent past"
+ },
+ {
+  "proverb": "I haven't eaten today, and now I'm hungry! I didn't eat anything for lunch yesterday!",
+  "sounds": [
+   "hungry.aac"
+  ],
+  "description": "We use the PS tense when we are talking about actions which happened in a period of time that has already finished, there is no longer any connection with now. Such sentences usually include special time indicators, for example: yesterday, last week, last month, in 1985, last year. We use the PP tense when we're talking about actions which happened in an unfinished period of time. Such sentences include the following time indicators: today, this morning, this week, this month, this year, ever, never, always."
+ },
+ {
+  "proverb": "I have seen this movie. I saw it at a new cinema theater.",
+  "sounds": [
+   "movie.aac"
+  ],
+  "description": "We use the Present Perfect to express an experience that happended at some time in one's life, we want to emphasize the fact that we have had such an experience (first sentence). When we talk about the time of an action or where it happened or how it happened - we use the Past Simple, we don't care about the effect of an action (second sentence)"
+ },
+ {
+  "proverb": "I've broken my arm. I broke it playing with my cousin.",
+  "sounds": [
+   "break.aac"
+  ],
+  "description": "We use the Present Perfect when we talk about an action in the past that has some bearing on the present, we want to emphasize the fact that it happened. The action is usually in the recent past (first sentence). When we talk about the time of an action or where it happened or how it happened - we use the Past Simple, we don't care about the effect of an action (second sentence)"
+ },
+ {
+  "proverb": "The message has been sent. The message was sent.",
+  "sounds": [
+   "message.aac"
+  ],
+  "description": "The first sentence means that the action happened just now. You would typically see it in your e-mail program just after you send an e-mail. Your program might give you this message to let you know that the message you just sent has indeed been sent. The second refers to something that happened at some time in the past. It could have been an hour ago, a day ago, or even a century ago! But it wasn't just now. The present perfect is called 'present' for a reason. The speaker is talking about the situation now, a situation in which a past event has some bearing on the present. For example, The message has been sent might be followed by a comment such as so it's too late to do anything about it now."
+ },
+ {
+  "proverb": "Last month, I visited my brother three times. This month, I have visited my brother twice.",
+  "sounds": [
+   "visited.aac"
+  ],
+  "description": "We use the PS tense when we are talking about actions which happened in a period of time that has already finished. Such sentences usually include special time indicators, for example: yesterday, last week, last month, in 1985, last year. We use the PP tense when we're talking about actions which happened in an unfinished period of time. Such sentences include the following time indicators: today, this morning, this week, this month, this year, ever, never, always."
+ },
+ {
+  "proverb": "He borrowed my car yesterday. He has borrowed my car today.",
+  "sounds": [
+   "borrowed.aac"
+  ],
+  "description": "We use the PS tense when we are talking about actions which happened in a period of time that has already finished. Such sentences usually include special time indicators, for example: yesterday, last week, last month, in 1985, last year. We use the PP tense when we're talking about actions which happened in an unfinished period of time. Such sentences include the following time indicators: today, this morning, this week, this month, this year, ever, never, always."
+ },
+ {
+  "proverb": "I didn't earn much last year, but I've earned a lot this year.",
+  "sounds": [
+   "earn.aac",
+   "earn1.aac"
+  ],
+  "description": "We use the PS tense when we are talking about actions which happened in a period of time that has already finished. Such sentences usually include special time indicators, for example: yesterday, last week, last month, in 1985, last year. We use the PP tense when we're talking about actions which happened in an unfinished period of time. Such sentences include the following time indicators: today, this morning, this week, this month, this year, ever, never, always."
+ },
+ {
+  "proverb": "Julie has never been so quiet. Sandra has worked late since Monday. David has lost a lot of weight since last month.",
+  "sounds": [
+   "weight.aac"
+  ],
+  "description": "We use the PP tense when we're talking about actions which happened in an unfinished period of time. Such sentences include the following time indicators: today, this morning, this week, this month, this year, ever, never, always. 'since' can also be used to indicate an unfinished period of time, even though it is mostly used with the PPC to indicate a specific time the action started and still continues. But here we are not talking about the duration of an action. For example we could say: 'David has been losing weight since last month'. But now it has a completely different meaning. The PPC indicates that he is still losing weight, the PP indicates his overall change in weight"
+ },
+ {
+  "proverb": "Have you thought about looking for a new job? Have you considered telling the truth?",
+  "sounds": [
+   "Audio recording 2021-04-18 14-22-41.aac"
+  ],
+  "description": "We can use the PP tense to make recommendations and give advice. Notice that in the first question we use the -ing form of the verb 'look' because it follows the preposition 'about'. In English all prepositions must be followed by the gerund. And in the second question, the verb 'consider' is followed by the gerund (considered telling). We always use a gerund after another verb when it acts as the object of this verb"
+ },
+ {
+  "proverb": "I have just received a new message. I have just taken a shower.",
+  "sounds": [
+   "Audio recording 2021-04-18 14-52-04.aac"
+  ],
+  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently (like minutes ago)"
+ },
+ {
+  "proverb": "It is no use running, the train has just left. They have just got married.",
+  "sounds": [
+   "Audio recording 2021-04-18 14-54-32.aac"
+  ],
+  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently (like minutes ago)"
+ },
+ {
+  "proverb": "I'm talking to you. I've been talking to you for 5 minutes. It's raining. It has been raining all morning.",
+  "sounds": [
+   "raining.aac"
+  ],
+  "description": "When we use the present perfect continuous we focus on the duration of the action. We are talking about a period of time during which an action, or state of being, takes place in the present and still continues to take place. If we do not need to indicate a period of time, then we usually use the present continuous."
+ },
+ {
+  "proverb": "How many books has she written? She must be tired, she has been writing all afternoon.",
+  "sounds": [
+   "writing.aac",
+   "writing1.aac"
+  ],
+  "description": "When we use the present perfect, we focus on the completion of the action, and its impact on now. When we use the present perfect continuous we focus on the duration of the action."
+ },
+ {
+  "proverb": "You've been playing tennis since 10 o'clock. How many sets have you played?",
+  "sounds": [
+   "tennis.aac"
+  ],
+  "description": "When we use the present perfect, we focus on the completion of the action, and its impact on now. When we use the present perfect continuous we focus on the duration of the action."
+ },
+ {
+  "proverb": "I'm sorry I'm late, have you been waiting for a long time? I think I've liked chocolate since I was born.",
+  "sounds": [
+   "chocolate1.aac"
+  ],
+  "description": "We use the present perfect continuous with action verbs (dynamic verbs) to talk about situations that started in the past and have not finished or have just finished. But we can only use the present perfect simple with stative verbs, even though the situation is not finished: I think I've liked chocolate since I was born (I still like it)"
+ },
+ {
+  "proverb": "It has been raining all morning. How long have you known Peter?",
+  "sounds": [
+   "known.aac"
+  ],
+  "description": "We use the present perfect continuous with action verbs (dynamic verbs) to talk about situations that started in the past and have not finished or have just finished. But we can only use the present perfect simple with stative verbs, even though the situation is not finished: How long have you known Peter? (I still know Peter and will know him in the future)"
+ },
+ {
+  "proverb": "We've had this TV for ages, I think it's time to buy a new one. I've been having some trouble with my skin recently.",
+  "sounds": [
+   "trouble.aac"
+  ],
+  "description": "We can use both the present perfect simple and the present perfect continuous with how long, for, since, recently to talk about how long a situation has lasted: situations that started in the past and still continue. But we can only use the present perfect simple with stative verbs, in the first sentence 'have' is a stative verb. But sometimes 'have' can act as an action verb when we're experiencing or taking something: problems, fun, a good time, a bath, breakfast, a cup of coffee ,etc (second sentence)"
+ },
+ {
+  "proverb": "We've had this TV for ages, I think it's time to buy a new one. I've been having stomach problems for the past few days.",
+  "sounds": [
+   "stomach.aac"
+  ],
+  "description": "We can use both the present perfect simple and the present perfect continuous with how long, for, since, recently to talk about how long a situation has lasted: situations that started in the past and still continue. But we can only use the present perfect simple with stative verbs, in the first sentence 'have' is a stative verb. But sometimes 'have' can act as an action verb when we're experiencing or taking something: problems, fun, a good time, a bath, breakfast, a cup of coffee ,etc (second sentence)"
+ },
+ {
+  "proverb": "When we arrived at the airport, the flight had left.",
+  "sounds": [
+   "flight1.aac"
+  ],
+  "description": "We use the Past Perfect tense when we're talking about more than one thing that happened in the past. The Simple Past tense we use to talk about one thing that happened in the past and it's over, or even a few things that happened about at the same time more or less. For example we could say: We arrived at the airport at 6:00. The flight left at 5:00. These are two separate sentences that describe two separate events in the past, we didn't yet make any connection between them. But the Past Perfect tense is used when we're talking about two or more things that happened in the past and we want to show which of them happened first in the past. To connect these two events we say: When we arrived at the airport, the flight had left."
+ },
+ {
+  "proverb": "By the time John received the award, he had already directed several movies.",
+  "sounds": [
+   "award.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "John asked me if I had seen his dog.",
+  "sounds": [
+   "dog.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "Had you had breakfast before you left the house?",
+  "sounds": [
+   "breakfast3.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "After I had had a bath, I watched TV.",
+  "sounds": [
+   "bath.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "I enjoyed the movie because I had read the book.",
+  "sounds": [
+   "enjoyed.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "I had been to India before 1986.",
+  "sounds": [
+   "india.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "You said you had been to Turkey 5 times.",
+  "sounds": [
+   "turkey.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "When we arrived at the cinema, the film had already started.",
+  "sounds": [
+   "cinema.aac"
+  ],
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+ },
+ {
+  "proverb": "I have been working here for 20 years. I have worked here for 20 years.",
+  "sounds": [
+   "worked.aac"
+  ],
+  "description": "The verb 'work' (in the sense of having a job) can be used in the present perfect or the present perfect continuous, with no change in meaning. Both sentences communicate the facts that you started working here twenty years ago, worked here over the course of the past twenty years, and that your status of working here has not changed. The same is true for the verb 'live', for example 'I have lived in London for 5 years' and 'I have been living in London for 5 years' have the same meaning."
+ },
+ {
+  "proverb": "I had been waiting there for more than two hours when she finally arrived.",
+  "sounds": [
+   "arrived.aac",
+   "arrived1.aac"
+  ],
+  "description": "The past perfect continuous is used to show that an action started in the past and continued up to another point in the past"
+ },
+ {
+  "proverb": "I had been working there for several years before I quit my job.",
+  "sounds": [
+   "several.aac"
+  ],
+  "description": "The past perfect continuous is used to show that an action started in the past and continued up to another point in the past"
+ },
+ {
+  "proverb": "I had been working at the company for five years when I got the promotion.",
+  "sounds": [
+   "promotion.aac",
+   "promotion1.aac"
+  ],
+  "description": "The past perfect continuous is used to show that an action started in the past and continued up to another point in the past"
+ },
+ {
+  "proverb": "Anna failed the exam because she had been skipping classes.",
+  "sounds": [
+   "skipping.aac",
+   "skipping1.aac"
+  ],
+  "description": "The past perfect continuous is used to show that an action started in the past and continued up to another point in the past"
+ },
+ {
+  "proverb": "Had you been waiting long before the taxi arrived?",
+  "sounds": [
+   "taxi.aac"
+  ],
+  "description": "The past perfect continuous is used to show that an action started in the past and continued up to another point in the past"
+ },
+ {
+  "proverb": "When you arrive, the bus will have left. By the time you get here, I will have finished watching the movie.",
+  "sounds": [
+   "finished.aac"
+  ],
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future."
+ },
+ {
+  "proverb": "When she wakes up, he will have gone to work. Next week we'll have been together for two years.",
+  "sounds": [
+   "together.aac"
+  ],
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future (second sentence) or another action in the future (first sentence)."
+ },
+ {
+  "proverb": "I won't have finished work by 8 p.m. Will you have eaten when I pick you up?",
+  "sounds": [
+   "eaten.aac"
+  ],
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future.ture."
+ },
+ {
+  "proverb": "By the time you read this I will have left. Will you have finished when I get back?",
+  "sounds": [
+   "read.aac"
+  ],
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future.ture."
+ },
+ {
+  "proverb": "In November, I will have been working at my company for three years.",
+  "sounds": [
+   "november.aac"
+  ],
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+ },
+ {
+  "proverb": "I will have been waiting here for three hours by six o'clock.",
+  "sounds": [
+   "waiting.aac"
+  ],
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+ },
+ {
+  "proverb": "You will have been waiting for 2 hours when I arrive.",
+  "sounds": [
+   "waiting1.aac"
+  ],
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+ },
+ {
+  "proverb": "In ten minutes you will have been driving non-stop for six hours.",
+  "sounds": [
+   "driving.aac"
+  ],
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+ },
+ {
+  "proverb": "On Thursday, I will have known you for a week.",
+  "sounds": [
+   "thursday.aac"
+  ],
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense"
+ },
+ {
+  "proverb": "I'm going to eat pizza. I will eat pizza.",
+  "sounds": [
+   "pizza.aac"
+  ],
+  "description": "In English there is no difference between 'going to' and 'will'"
+ },
+ {
+  "proverb": "He asked me what I was doing",
+  "sounds": [
+   "doing.aac"
+  ],
+  "description": "He asked me what I was doing - он спросил меня, что я делаю. (He asked me what I am doing - неправильно)"
+ },
+ {
+  "proverb": "He was angry at her for staying out so late. The workers are angry about the new measures.",
+  "sounds": [
+   "angry.aac"
+  ],
+  "description": "We are 'angry at/with somebody' but 'angry about/over' something"
+ },
+ {
+  "proverb": "I was angry with him for forgetting my birthday. She's still angry over the way she's been treated.",
+  "sounds": [
+   "angry1.aac"
+  ],
+  "description": "We are 'angry at/with somebody' but 'angry about/over' something"
+ },
+ {
+  "proverb": "What's the weather today? How's the weather today?",
+  "sounds": [
+   "weather.aac"
+  ],
+  "description": "The first question focuses more on the objective description of the weather (is it sunny, cloudy, windy, rainy, etc.) The second question focuses more on someone's subjective opinion of the weather. The listener can answer this question the same way as 'what is the weather today' by replying that it's sunny, cloudy, etc., but using 'how' instead of 'what' also gives the listener the freedom to answer with 'it is wonderful' or 'it is terrible' without mentioning the actual weather conditions."
  }
 ]
