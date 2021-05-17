@@ -816,6 +816,10 @@
   "proverb": "What are you doing on the weekend?"
  },
  {
+  "description": "Что ты делал на выходных?",
+  "proverb": "What did you do on the weekend?"
+ },
+ {
   "description": "Он ушел несколько минут назад",
   "proverb": "He left a few minutes ago"
  },
@@ -1924,7 +1928,7 @@
   "proverb": "What does it look like?"
  },
  {
-  "description": "Меня не было всего на неделю / Я отсутствовал всего неделю",
+  "description": "Меня не было всего неделю / Я отсутствовал всего неделю",
   "proverb": "I was only gone for a week"
  },
  {
@@ -2016,7 +2020,7 @@
   "proverb": "What is the weather like today?"
  },
  {
-  "description": "Как тебе погода сегодня?",
+  "description": "Как (тебе) погода сегодня?",
   "proverb": "How is the weather today?"
  },
  {
@@ -2145,7 +2149,7 @@
  },
  {
   "description": "У нас гости",
-  "proverb": "We have company"
+  "proverb": "We got company"
  },
  {
   "description": "Веришь ли ты в судьбу? / Ты веришь в судьбу?",
@@ -2284,7 +2288,7 @@
   "proverb": "I've had this car since 2006"
  },
  {
-  "description": "Мы с ним знакомы много лет / Я его знаю много лет",
+  "description": "Мы с ним знакомы много лет / Я знаю его много лет",
   "proverb": "I've known him for years"
  },
  {
@@ -2352,7 +2356,7 @@
   "proverb": "What did you do last weekend?"
  },
  {
-  "description": "На выходных я собираюсь играть со своими друзьями.",
+  "description": "На выходных я собираюсь играть со своими друзьями",
   "proverb": "On the weekend, I am going to play with my friends"
  },
  {
@@ -2401,7 +2405,7 @@
  },
  {
   "description": "Мой друг работает в больнице в центре города",
-  "proverb": "My friend works at the hospital downtown."
+  "proverb": "My friend works at the hospital downtown"
  },
  {
   "description": "Темнеет",
@@ -2409,7 +2413,7 @@
  },
  {
   "description": "Мое горло никогда не было таким красным",
-  "proverb": "My thoat has never been so red"
+  "proverb": "My throat has never been so red"
  },
  {
   "description": "Вы держите собак?",
@@ -2508,7 +2512,7 @@
   "proverb": "That was very thoughtful of you"
  },
  {
-  "description": "Я бы не прочь выпить",
+  "description": "Я бы не прочь выпить / Я бы не отказался от выпивки",
   "proverb": "I wouldn't mind having a drink"
  },
  {
@@ -2536,7 +2540,7 @@
   "proverb": "It's never rained so heavily"
  },
  {
-  "description": "Мне еще никогда не требовалось столько времени чтобы добраться (приехать) домой",
+  "description": "Мне еще никогда не требовалось столько времени чтобы добраться (доехать) домой",
   "proverb": "It's never taken me so long to drive home"
  },
  {
@@ -2590,5 +2594,637 @@
  {
   "description": "Ты когда-нибудь ездил/катался на лошади?",
   "proverb": "Have you ever ridden a horse?"
+ },
+ {
+  "description": "Ты когда-нибудь ел итальянскую еду (кухню)?",
+  "proverb": "Have you ever eaten Italian food?"
+ },
+ {
+  "description": "Это не считается (это не в счет)",
+  "proverb": "It doesn't count"
+ },
+ {
+  "description": "Ты когда-нибудь влюблялся?",
+  "proverb": "Have you ever fallen in love?"
+ },
+ {
+  "description": "Ты когда-нибудь падал с лошади?",
+  "proverb": "Have you ever fallen off a horse?"
+ },
+ {
+  "description": "Завтрак готов",
+  "proverb": "Breakfast is ready"
+ },
+ {
+  "description": "Ты знаешь, чья это машина?",
+  "proverb": "Do you know whose car that is?"
+ },
+ {
+  "description": "Ты наелся? / Ты достаточно наелся?",
+  "proverb": "Have you eaten enough?"
+ },
+ {
+  "description": "Сегодня был дождь?",
+  "proverb": "Has it rained today?"
+ },
+ {
+  "description": "К тому времени они развелись, и я снова мог c ней встречаться (видеться)",
+  "proverb": "They had divorced by that time and I could see her again"
+ },
+ {
+  "description": "Я остался дома",
+  "proverb": "I stayed at home"
+ },
+ {
+  "description": "Наконец-то я дома!",
+  "proverb": "Finally, I'm home!"
+ },
+ {
+  "description": "Джули работает из дома (на дому)",
+  "proverb": "Julie works from home"
+ },
+ {
+  "description": "Время идти домой",
+  "proverb": "It's time to go home"
+ },
+ {
+  "description": "Мы приехали домой вчера",
+  "proverb": "We arrived home yesterday"
+ },
+ {
+  "description": "Она на работе",
+  "proverb": "She's at work"
+ },
+ {
+  "description": "Я всегда прихожу на работу вовремя",
+  "proverb": "I always arrive at work on time"
+ },
+ {
+  "description": "Я прихожу на работу в девять",
+  "proverb": "I arrive at work at nine"
+ },
+ {
+  "description": "У тебя слишком много картинок на твоем телефоне",
+  "proverb": "You have too many pictures on your phone"
+ },
+ {
+  "description": "Не опоздай на работу!",
+  "proverb": "Don't be late for work!"
+ },
+ {
+  "description": "Не опоздай в школу!",
+  "proverb": "Don't be late for school!"
+ },
+ {
+  "description": "Я опаздываю на работу",
+  "proverb": "I'm running late for work"
+ },
+ {
+  "description": "Понятия не имею",
+  "proverb": "I have no idea"
+ },
+ {
+  "description": "У меня нет детей",
+  "proverb": "I have no children"
+ },
+ {
+  "description": "Он едва говорит по-английски",
+  "proverb": "He barely speaks English"
+ },
+ {
+  "description": "",
+  "proverb": "He will meet us at the corner of the street"
+ },
+ {
+  "description": "Встретимся на углу улицы (Я встречу тебя на углу улицы)",
+  "proverb": "I will meet you at the corner of the street"
+ },
+ {
+  "description": "Они сказали нам снять нашу одежду",
+  "proverb": "They told us to take off our clothes"
+ },
+ {
+  "description": "Тебе нравится русская еда? (Ты лубишь русскую еду?)",
+  "proverb": "Do you like Russian food?"
+ },
+ {
+  "description": "Макароны - моя любимая еда",
+  "proverb": "Pasta is my favorite food"
+ },
+ {
+  "description": "Ты хочешь пиццу?",
+  "proverb": "Do you want pizza?"
+ },
+ {
+  "description": "Что ты ел на ужин?",
+  "proverb": "What did you have for dinner?"
+ },
+ {
+  "description": "Стоит попробовать",
+  "proverb": "It's worth a try"
+ },
+ {
+  "description": "Ты ее знаешь?",
+  "proverb": "Do you know her?"
+ },
+ {
+  "description": "Я устал",
+  "proverb": "I am tired"
+ },
+ {
+  "description": "Я чувствую себя усталым",
+  "proverb": "I'm feeling tired"
+ },
+ {
+  "description": "He's in prison",
+  "proverb": "Он за решоткой (Он сидит в тюрьме)"
+ },
+ {
+  "description": "Она попала в тюрьму / Она села в тюрьму",
+  "proverb": "She went to prison"
+ },
+ {
+  "description": "Она села в тюрьму ради тебя",
+  "proverb": "She went to prison for your sake"
+ },
+ {
+  "description": "Она попала в тюрьму за убийство своего мужа",
+  "proverb": "She went to prison for killing her husband"
+ },
+ {
+  "description": "Она пошла в тюрьму навестить своего мужа",
+  "proverb": "She went to the prison to visit her husband"
+ },
+ {
+  "description": "Вы не могли бы говорить немного громче?",
+  "proverb": "Would you mind speaking up a bit?"
+ },
+ {
+  "description": "Я думаю ты ошибся",
+  "proverb": "I think you made a mistake"
+ },
+ {
+  "description": "Тебе не о чем беспокоиться",
+  "proverb": "You have nothing to worry about"
+ },
+ {
+  "description": "Тебе нечего бояться",
+  "proverb": "You have nothing to fear"
+ },
+ {
+  "description": "Могло быть и хуже / Могло быть и похуже",
+  "proverb": "Could be worse"
+ },
+ {
+  "description": "Он попал в тюрьму за домашнее насилие",
+  "proverb": "He went to jail for domestic violence"
+ },
+ {
+  "description": "Ты чувствуешь запах газа?",
+  "proverb": "Do you smell gas?"
+ },
+ {
+  "description": "Ты чувствуешь запах?",
+  "proverb": "Do you smell that?"
+ },
+ {
+  "description": "У неё есть её собственный сберегательный счёт?",
+  "proverb": "Does she have her own savings account?"
+ },
+ {
+  "description": "У нее есть банковский счет",
+  "proverb": "She has a bank account"
+ },
+ {
+  "description": "Платье обошлось нам в пять долларов (Платье стоило нам пять долларов)",
+  "proverb": "The dress cost us five dollars"
+ },
+ {
+  "description": "Мы не можем так дальше жить (Мы не можем продолжать так жить дальше)",
+  "proverb": "We can't go on living like this"
+ },
+ {
+  "description": "Вы знакомы? (Вы знаете друг друга?)",
+  "proverb": "Do you know each other?"
+ },
+ {
+  "description": "Я не знаю ответа",
+  "proverb": "I don't know the answer"
+ },
+ {
+  "description": "Сегодня солнечно и тепло",
+  "proverb": "It is sunny and warm today"
+ },
+ {
+  "description": "Теплеет (Становится теплее)",
+  "proverb": "It's getting warmer"
+ },
+ {
+  "description": "Вчера было солнечно или пасмурно?",
+  "proverb": "Was it sunny or cloudy yesterday?"
+ },
+ {
+  "description": "На следующей неделе будет тепло",
+  "proverb": "It will be warm next week"
+ },
+ {
+  "description": "Завтра будет пасмурно и ветрено",
+  "proverb": "It will be cloudy and windy tomorrow"
+ },
+ {
+  "description": "Было так ветрено, что я не мог идти",
+  "proverb": "It was so windy that I couldn't walk"
+ },
+ {
+  "description": "Дождь шёл четыре раза со среды",
+  "proverb": "It has rained four times since Wednesday"
+ },
+ {
+  "description": "Я не видел своих учителей с тех пор, как окончил школу",
+  "proverb": "I haven't seen my teachers since I left school"
+ },
+ {
+  "description": "Там всегда плохая погода (Погода там всегда плохая)",
+  "proverb": "The weather there is always bad"
+ },
+ {
+  "description": "Идёт ли здесь снег зимой?",
+  "proverb": "Does it snow here in winter?"
+ },
+ {
+  "description": "Я люблю дождь",
+  "proverb": "I like rain"
+ },
+ {
+  "description": "В воскресенье весь день будет идти дождь",
+  "proverb": "On Sunday it will be raining all day"
+ },
+ {
+  "description": "Было слишком жарко и я не хотел выходить на улицу",
+  "proverb": "It was too hot and I didn't want to go outside"
+ },
+ {
+  "description": "Мы не можем пойти на улицу, потому что идёт дождь",
+  "proverb": "We can't go outside because it's raining"
+ },
+ {
+  "description": "Мне там не нравится тамошняя погода (погода там), потому что слишком часто идут дожди",
+  "proverb": "I don't like the weather there because it rains too often"
+ },
+ {
+  "description": "В тот год у нас были дождливая осень и снежная зима",
+  "proverb": "That year we had a rainy fall and a snowy winter"
+ },
+ {
+  "description": "Я завтракаю",
+  "proverb": "I'm having breakfast"
+ },
+ {
+  "description": "Дальше я сам",
+  "proverb": "I'll take it from here"
+ },
+ {
+  "description": "Который час?",
+  "proverb": "What time is it?"
+ },
+ {
+  "description": "На счет три",
+  "proverb": "On the count of three"
+ },
+ {
+  "description": "У меня появился новый друг / Я завел нового друга",
+  "proverb": "I made a new friend"
+ },
+ {
+  "description": "Я боюсь летать в самолетах",
+  "proverb": "I fear flying in airplanes"
+ },
+ {
+  "description": "Она призналась в ошибке",
+  "proverb": "She admitted to making a mistake"
+ },
+ {
+  "description": "Поторопись! У нас осталось очень мало времени!",
+  "proverb": "Hurry up! We have very little time left!"
+ },
+ {
+  "description": "Не волнуйся! У нас еще осталось немного времени.",
+  "proverb": "Don't worry! We still have a little time left."
+ },
+ {
+  "description": "До того как ты придешь/приедешь, мы уже поужинаем и дети уже лягут спать",
+  "proverb": "Before you arrive, we will have eaten dinner and the kids will have gone to bed"
+ },
+ {
+  "description": "К какому времени они прибудут (приедут)?",
+  "proverb": "By what time will they have arrived?"
+ },
+ {
+  "description": "В августе (следующего года), мы будем женаты уже 25 лет",
+  "proverb": "Next August, we will have been married for 25 years"
+ },
+ {
+  "description": "К 9 вечера мы уже отужинаем",
+  "proverb": "By 9 pm, we will have had dinner"
+ },
+ {
+  "description": "Я закончу работать/работу к 8 часам вечера",
+  "proverb": "I will have finished work by 8 pm"
+ },
+ {
+  "description": "Он уже поест к тому времени?",
+  "proverb": "Will he have eaten by then?"
+ },
+ {
+  "description": "Ты закончишь делать покупки к тому времени?",
+  "proverb": "Will you have finished shopping by that time?"
+ },
+ {
+  "description": "К тому времени он уже выйдет на пенсию",
+  "proverb": "By that time he will have retired"
+ },
+ {
+  "description": "К этому времени в следующем году я перееду в США",
+  "proverb": "By this time next year, I will have moved to the US"
+ },
+ {
+  "description": "В следующем году в мае, он проработает здесь 20 лет",
+  "proverb": "Next year in May, he will have worked here for 20 years"
+ },
+ {
+  "description": "Ты закончишь выполнять домашнее задание к 19:00?",
+  "proverb": "Will you have finished your homework by 7 pm?"
+ },
+ {
+  "description": "К этому времени в следующем году она станет врачом.",
+  "proverb": "By this time next year, she will have become a doctor"
+ },
+ {
+  "description": "К тому времени как ты вернешься домой, я приготовлю ужин",
+  "proverb": "By the time you get home, I will have cooked dinner"
+ },
+ {
+  "description": "К тому времени они еще не решат (не примут решение)",
+  "proverb": "They won't have decided by that time"
+ },
+ {
+  "description": "Поблизости есть большой торговый центр",
+  "proverb": "There is a big mall nearby"
+ },
+ {
+  "description": "Я назначил важную встречу на завтра",
+  "proverb": "I scheduled an important meeting for tomorrow"
+ },
+ {
+  "description": "Это может показаться глупым, но ... (Как бы глупо это не звучало, но ..)",
+  "proverb": "It may sound silly, but ..."
+ },
+ {
+  "description": "Прости, я задремал",
+  "proverb": "I'm sorry, I dozed off"
+ },
+ {
+  "description": "Больно!",
+  "proverb": "It hurts!"
+ },
+ {
+  "description": "Где мы? ? Где мы находимся?",
+  "proverb": "Where are we?"
+ },
+ {
+  "description": "Куда мы идем? / Куда мы едем?",
+  "proverb": "Where are we going?"
+ },
+ {
+  "description": "Ужин готов!",
+  "proverb": "Dinner is ready!"
+ },
+ {
+  "description": "С кем ты разговариваешь?",
+  "proverb": "Who are you talking to?"
+ },
+ {
+  "description": "Он хочет лечь спать (Он хочет пойти спать)",
+  "proverb": "He wants to go to bed"
+ },
+ {
+  "description": "Я очень устал и хочу спать (пойти спать)",
+  "proverb": "I'm really tired and I want to go to bed"
+ },
+ {
+  "description": "Я оставил свой телефон в машине",
+  "proverb": "I left my phone in the car"
+ },
+ {
+  "description": "Я оставил свой телефон в автобусе",
+  "proverb": "I left my phone on the bus"
+ },
+ {
+  "description": "Я встретил Джона в прошлом году / Я встречался с Джоном в прошлом году",
+  "proverb": "I met John last year"
+ },
+ {
+  "description": "Она помолвлена с дантистом",
+  "proverb": "She's engaged to a dentist"
+ },
+ {
+  "description": "Она (находится) в Лондоне уже пять месяцев",
+  "proverb": "She has been in London for five months"
+ },
+ {
+  "description": "Я вчера простудился (У меня была простуда вчера)",
+  "proverb": "I had a cold yesterday"
+ },
+ {
+  "description": "Четыре умножить на три равно двенадцать",
+  "proverb": "Four times three equals twelve"
+ },
+ {
+  "description": "Восемнадцать минус два равно шестнадцать",
+  "proverb": "Eighteen minus two equals sixteen"
+ },
+ {
+  "description": "Восемнадцать разделить на три равно шесть",
+  "proverb": "Eighteen divided by three equals six"
+ },
+ {
+  "description": "Мы ужинаем со Смитами сегодя вечером",
+  "proverb": "We're having dinner with the Smiths tonight"
+ },
+ {
+  "description": "Я не смог устоять и съел торт (Я не смог удержаться чтобы не съесть торт)",
+  "proverb": "I couldn't resist eating the cake"
+ },
+ {
+  "description": "Ты это слышал?",
+  "proverb": "Did you hear that?"
+ },
+ {
+  "description": "Я слышу музыку (Я слышу играющую музыку / Я слышу как играет музыка)",
+  "proverb": "I hear music playing"
+ },
+ {
+  "description": "I couldn't resist",
+  "proverb": "Я не смог удержаться"
+ },
+ {
+  "description": "Я похудел",
+  "proverb": "I lost weight"
+ },
+ {
+  "description": "Я потерял работу",
+  "proverb": "I lost my job"
+ },
+ {
+  "description": "Я посетил Ниагарский водопад на прошлых выходных",
+  "proverb": "I visited Niagara Falls last weekend"
+ },
+ {
+  "description": "Она замужем за дантистом",
+  "proverb": "She's married to a dentist"
+ },
+ {
+  "description": "Я должен срочно/немедленно ему позвонить",
+  "proverb": "I must call him immediately"
+ },
+ {
+  "description": "Мне понравился фильм (Я насладился этим фильмом)",
+  "proverb": "I enjoyed the movie"
+ },
+ {
+  "description": "Я с нетерпением жду встречи с тобой",
+  "proverb": "I look forward to meeting you"
+ },
+ {
+  "description": "Где я могу найти банк?",
+  "proverb": "Where can I find a bank?"
+ },
+ {
+  "description": "Когда я приеду/прибуду, я тебе позвоню",
+  "proverb": "When I arrive, I will call you"
+ },
+ {
+  "description": "Она меня не слушает",
+  "proverb": "She doesn't listen to me"
+ },
+ {
+  "description": "Ты хорошо говоришь по-английски",
+  "proverb": "You speak English well"
+ },
+ {
+  "description": "Не желаете бокал вина?",
+  "proverb": "Would you like a glass of wine?"
+ },
+ {
+  "description": "В классе семь девочек",
+  "proverb": "There are seven girls in the class"
+ },
+ {
+  "description": "Жизнь тяжела",
+  "proverb": "Life is hard"
+ },
+ {
+  "description": "Моему брату 10 лет",
+  "proverb": "My brother is 10 years old"
+ },
+ {
+  "description": "Я всегда еду в школу на метро (Я всегда добираюсь до школы на метро)",
+  "proverb": "I always go to school by subway"
+ },
+ {
+  "description": "Мы обычно едем домой (Мы обычно добираемся домой на машине)",
+  "proverb": "We usually drive home"
+ },
+ {
+  "description": "Я сидел рядом с ней в самолёте",
+  "proverb": "I was sitting next to her on the plane"
+ },
+ {
+  "description": "Я могу немного опоздать на обед (Я возможно немного опоздаю на обед)",
+  "proverb": "I may be a little late for lunch"
+ },
+ {
+  "description": "Можешь подержать это немного? / Не мог бы ты подержать это минутку?",
+  "proverb": "Can you hold this for a moment?"
+ },
+ {
+  "description": "Отдай! (Отдай мне это!)",
+  "proverb": "Hand it over!"
+ },
+ {
+  "description": "Мы так давно не видились! (Мы не встречались уже так давно!)",
+  "proverb": "We haven't met in such a long time!"
+ },
+ {
+  "description": "Детям следует уважать взрослых, и взрослым тоже следует уважать детей",
+  "proverb": "Children should respect adults and adults should respect children too"
+ },
+ {
+  "description": "Это твой мяч?",
+  "proverb": "Is this ball yours?"
+ },
+ {
+  "description": "Переработка отходов очень важна",
+  "proverb": "Recycling is very important"
+ },
+ {
+  "description": "Я встречаюсь со своей девушкой уже три года",
+  "proverb": "I've been seeing my girlfriend for three years"
+ },
+ {
+  "description": "Не забудь заправить кровать",
+  "proverb": "Don't forget to make the bed"
+ },
+ {
+  "description": "Не мог бы ты пожалуйста помыть посуду?",
+  "proverb": "Can you please do the dishes?"
+ },
+ {
+  "description": "Он перебросил мяч через забор, и тот упал (приземлился) на крышу автомобиля",
+  "proverb": "He threw the ball over the fence and it landed on the roof of a car"
+ },
+ {
+  "description": "Поспи!",
+  "proverb": "Get some sleep!"
+ },
+ {
+  "description": "Его нашли только через три дня (Он был найден только спустя три для) ",
+  "proverb": "He was found only three days later"
+ },
+ {
+  "description": "Это зависит от погоды",
+  "proverb": "That depends on the weather"
+ },
+ {
+  "description": "Я провел весь день на пляже (на песке)",
+  "proverb": "I spent the entire day on the beach"
+ },
+ {
+  "description": "В точку! (Как раз об этом я и говорю!)",
+  "proverb": "That's what I'm talking about"
+ },
+ {
+  "description": "Поезд отправляется завтра утром",
+  "proverb": "The train leaves tomorrow morning"
+ },
+ {
+  "description": "Что ты делаешь на День святого Валентина?",
+  "proverb": "What are you doing on Valentine's Day?"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  }
 ]

@@ -144,7 +144,7 @@
   "sounds": [
    "thenext2.aac"
   ], 
-  "description": "This sentence demonstrates when to use next or the next"
+  "description": "This sentence demonstrates when to use next or the next. Here we are talking about the next 14 days"
  }, 
  {
   "proverb": "I had lunch with her last Wednesday.", 
@@ -391,7 +391,7 @@
   "sounds": [
    "theeast.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something."
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something. But when we refer to the West, East, North or South as directions we don't use the definite article: 'I am traveling North'"
  }, 
  {
   "proverb": "Every year we would go to the south of France for holidays.", 
@@ -596,21 +596,21 @@
   "sounds": [
    "therose.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class. Here we are not talking about an individual rose"
+  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular animal or plant is meant to represent a whole class. Here we are not talking about an individual rose"
  }, 
  {
   "proverb": "The tiger lives in Asia.", 
   "sounds": [
    "thetiger.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class (here we are not talking about an individual tiger)"
+  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular animal or plant is meant to represent a whole class (here we are not talking about an individual tiger)"
  }, 
  {
   "proverb": "The cheetah achieves by far the fastest land speed of any living animal.", 
   "sounds": [
    "thecheetah.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular noun is meant to represent a whole class (here we are not talking about an individual cheetah)"
+  "description": "This sentence demonstrates the use of the definite article with plants or animals, when a singular animal or plant is meant to represent a whole class (here we are not talking about an individual cheetah)"
  }, 
  {
   "proverb": "Go home and come back in a week's time.", 
@@ -687,7 +687,7 @@
   "sounds": [
    "themeek.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society: the meek, the poor, the rich, the blind, etc. Aslo, we don't use 'the' with planet names because they are proper nouns, but with Earth we can say 'the Earth' or 'the earth'."
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
  }, 
  {
   "proverb": "The dead outnumber the living.", 
@@ -758,7 +758,7 @@
   "sounds": [
    "thepolice.aac", "thepolice1.aac"
   ], 
-  "description": "'Police' is normally a plural, collective noun, so we always say 'The police are', but it can be followed by singular verbs when it is thought of as a single unit (The police force, the Police Department).This sentence also demonstrates that we always use the definite article with 'police'"
+  "description": "'Police' is normally a plural, collective noun, so we always say 'The police are', but it can be followed by singular verbs when it is thought of as a single unit (The police force, the Police Department). These sentences also demonstrate that we always use the definite article with 'police'"
  }, 
  {
   "proverb": "I grew up in the country.", 
@@ -779,7 +779,7 @@
   "sounds": [
    "themountains.aac"
   ], 
-  "description": "When we talk about mountains in broad terms (горная местность, горы в широком смысле), we say 'the mountains'. Similar examples: I've never been to the sea (Я никогда не был на море), I prefer to live in the country instead of a town (Я предпочитаю жить в сельской местности чем в городе). These are set expressions"
+  "description": "When we talk about mountains in broad terms (горная местность, горы в широком смысле), we say 'the mountains'. Similar examples: I've never been to the sea (Я никогда не был на море), I prefer to live in the country instead of the town (Я предпочитаю жить в сельской местности чем в городе). These are set expressions"
  }, 
  {
   "proverb": "Because of rain, we couldn't go to the beach.", 
@@ -801,7 +801,14 @@
    "thebeach2.aac"
   ], 
   "description": "This sentence demonstrates the difference between 'at the beach' and 'on the beach'. 'On the beach' means you are literally on the sand near the water. 'At the beach' is more general and could mean you're literally on the sand, or in the water, or it could mean you're visiting a beach town. To better understand 'We had a good time at the beach yesterday: we swam, played volleyball and then had a couple of beers at a nearby pub'"
- }, 
+ },
+ {
+  "proverb": "Let's meet at the beach. Let's meet on the beach.", 
+  "sounds": [
+   "onthebeach.aac"
+  ], 
+  "description": "'at' is more general and 'on' more specific in this case. 'at' refers to the general vicinity of the beach and 'on' refers to the sand itself."
+ },
  {
   "proverb": "The boy is afraid to go to bed in the dark.", 
   "sounds": [
@@ -835,7 +842,7 @@
   "sounds": [
    "theplazahotel.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with hotel names, and also how to use prepositions of place"
+  "description": "This sentence demonstrates the use of the definite article with the names of hotels, and also how to use prepositions of place"
  }, 
  {
   "proverb": "He's homeless and lives on the streets.", 
@@ -919,7 +926,7 @@
   "sounds": [
    "earth.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article with planets. We don't use 'the' with planet names because they are proper nouns, but with Earth we can say 'the Earth'. Also Earth has two meanings: the planet we live on and also the soft part of land (synonymous with dirt or soil)."
+  "description": "These sentences demonstrate the use of the definite article with planets. Even though we don't use 'the' with planet names because they are proper nouns, when we are talking about our planet we often say 'the Earth', because it's a unique planet. When we are talking about the world in general we say 'on earth', for example 'everyone on earth has the right to education'. And lastly, when we are talking about the soft part of land (synonymous with dirt or soil) we say 'the earth'."
  }, 
  {
   "proverb": "I love visiting Central Park.", 
@@ -975,21 +982,21 @@
   "sounds": [
    "mit.aac"
   ], 
-  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'University of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
   "proverb": "Her son graduated from Harvard.", 
   "sounds": [
    "harvard.aac"
   ], 
-  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'University of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
   "proverb": "The universities of Oxford and Cambridge are two of the most famous universities in Europe.", 
   "sounds": [
    "oxford.aac"
   ], 
-  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'University of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
   "proverb": "In Brazil people speak Portuguese. The Japanese language is very complex.", 
@@ -1228,7 +1235,7 @@
   "sounds": [
    "dinner.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Here 'at' acts as a preposition of time and indicates the time when people eat dinner (за обедом)"
  }, 
  {
   "proverb": "I ate my dinner with a fork.", 
@@ -1354,7 +1361,7 @@
   "sounds": [
    "numberof.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'number of' and when to use 'amount of' with count/uncount nouns"
+  "description": "These sentences demonstrate when to use 'number of' and when to use 'amount of' with count/uncount nouns"
  }, 
  {
   "proverb": "We need to go to the greengrocer's. There are few potatoes left.", 
@@ -1403,7 +1410,7 @@
   "sounds": [
    "amountof.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'number of' and when to use 'amount of' with count/uncount nouns"
+  "description": "These sentences demonstrate when to use 'number of' and when to use 'amount of' with count/uncount nouns"
  }, 
  {
   "proverb": "I speak a little English, so when I'm in England I don't have problems.", 
@@ -1621,7 +1628,14 @@
    "newyear1.aac"
   ], 
   "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean only one day, January 1. In the second - the whole holiday period (few days around that time in general). We can also say on New Year's Eve and it also means one day - December 31"
- }, 
+ },
+ {
+  "proverb": "I like staying at home and watching movies on New Year's Day. I like going to big parties on New Year's. What are you doing at New Year's?", 
+  "sounds": [
+   "newyear2.aac"
+  ], 
+  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean one day, January 1. In the second we also mean one day - December 31. On New Year's implies New Year's Eve, as a shortcut for referring to December 31. And in the third sentence we mean the whole holiday period (few days around that time in general)"
+ },
  {
   "proverb": "Let's have a coffee on Friday morning. Where did you go on Thursday night? I'm usually available on Monday and Friday afternoons.", 
   "sounds": [
@@ -1635,14 +1649,14 @@
    "weekend.aac", 
    "weekend1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "We go out once in a while on the weekends. We go out once in a while on weekends.", 
   "sounds": [
    "weekends.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "They usually go windsurfing on the weekends. They usually go windsurfing on weekends.", 
@@ -1650,14 +1664,14 @@
    "weekends1.aac", 
    "weekends2.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "On the weekends, I like to watch football. On weekends, I like to watch football.", 
   "sounds": [
    "weekends3.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends / on the weekends) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "The kids have been on vacation two weeks.", 
@@ -1753,7 +1767,7 @@
   "description": "These sentences demonstrate how to use prepositions of time. The preposition 'by' is used to indicate the end time of an activity, meaning 'no later than'"
  }, 
  {
-  "proverb": "We need to be there by noon. I will be at the restaurant by 8 p.m.", 
+  "proverb": "We need to be there by noon. I will be at the restaurant by 8 pm.", 
   "sounds": [
    "by1.aac"
   ], 
@@ -1767,7 +1781,7 @@
   "description": "This sentence demonstrates how to use prepositions of time. The preposition 'by' is used to indicate the end time of an activity, meaning 'no later than'. For example: 'We need to be there by noon'. But this is an exception to the rule. 'By night' means по ночам"
  }, 
  {
-  "proverb": "I will be at the restaurant by 8 p.m. I will be at the restaurant until 8 p.m.", 
+  "proverb": "I will be at the restaurant by 8 pm. I will be at the restaurant until 8 pm.", 
   "sounds": [
    "until.aac"
   ], 
@@ -1778,7 +1792,7 @@
   "sounds": [
    "tonight.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions with certain words such as 'tonight/next/this/last/every/recently/etc'"
+  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions with certain words such as 'tonight/next/this/last/every/recently/etc'. Also notice that the preposition 'about' is followed by the gerund. In English all prepositions must be followed by the gerund."
  }, 
  {
   "proverb": "I was waiting for you all day.", 
@@ -1813,7 +1827,7 @@
   "sounds": [
    "recently.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions with certain words such as 'all day/tonight/next/this/last/every/recently/etc'"
+  "description": "This sentence demonstrates how to use prepositions of time. We use no prepositions with certain words such as 'all day/tonight/next/this/last/every/recently/etc'. Also we often use 'recently' with the present perfect or the present perfect continuous to talk about past recent actions"
  }, 
  {
   "proverb": "We signed the deal a week ago. I'm not sure where I'll be a year from now.", 
@@ -2003,8 +2017,7 @@
  {
   "proverb": "He will meet us at the corner of the street. This shop is on the corner of High Street. I saw it in the corner of the room.", 
   "sounds": [
-   "onthecorner.aac", 
-   "onthecorner1.aac"
+   "onthecorner.aac"
   ], 
   "description": "These sentences demonstrate how to use prepositions of place. Specifically, 'at the corner' means near or adjacent to a corner, can also be used to refer to the corner when two streets intersect each other. We use 'on the corner' when the corner is outside, usually when something is located on the corner, for example a building or shop. And we use 'in the corner' when the corner is inside"
  }, 
@@ -2124,7 +2137,7 @@
  {
   "proverb": "I shouldn't have said that!", 
   "sounds": [
-   "Audio recording 2020-08-27 11-03-44.aac.aac"
+   "Audio recording 2020-08-27 11-03-44.aac"
   ], 
   "description": "This sentence demonstrates how to use the modal verb 'should' when expressing hindsight advice / regrets"
  }, 
@@ -2189,7 +2202,7 @@
   "sounds": [
    "tv.aac"
   ], 
-  "description": "This sentences demonstrate how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because an electronic device has a flat surface"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because an electronic device has a flat surface"
  }, 
  {
   "proverb": "Do not go on the Internet.", 
@@ -2421,7 +2434,7 @@
   "sounds": [
    "hiking.aac"
   ], 
-  "description": "When we talk about mountains in broad terms (горная местность, горы в широком смысле), we say 'the mountains'. Similar examples: I've never been to the sea (Я никогда не был на море), I prefer to live in the country instead of a town (Я предпочитаю жить в сельской местности чем в городе). These are set expressions"
+  "description": "When we talk about mountains in broad terms (горная местность, горы в широком смысле), we say 'the mountains'. Similar examples: I've never been to the sea (Я никогда не был на море), I prefer to live in the country instead of the town (Я предпочитаю жить в сельской местности чем в городе). These are set expressions"
  },
  {
   "proverb": "Would you prefer to live in the country instead of a town?", 
@@ -2498,7 +2511,7 @@
   "sounds": [
    "thesun.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world). We also use the definine article when referring to the West, North, East or South as geographical parts of something. "
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world). We also use the definine article when referring to the West, North, East or South as geographical parts of something, but when we refer to the West, East, North or South as directions we don't use the definite article: 'I am traveling north'"
  },
  {
   "proverb": "I left my phone in the car. I left my phone on the bus.", 
@@ -3030,7 +3043,7 @@
   "sounds": [
    "playground.aac"
   ], 
-  "description": "'past' can be a noun, a preposition, an adverb or an adjective and has many uses. In this sentence 'past' acts as an adverb and describes movement along something from one side to the other side of it"
+  "description": "'past' can be a noun, a preposition, an adverb or an adjective and has many uses. In this sentence 'past' acts as an adverb and describes movement along something from one side to the other side of it (проезжали мимо)"
  },
  {
   "proverb": "We gave the marathoners water as they ran past us.", 
@@ -3042,7 +3055,7 @@
  {
   "proverb": "The office is two blocks past the intersection.", 
   "sounds": [
-   "intersection.aac", "ntersection1.aac"
+   "intersection.aac", "intersection1.aac"
   ], 
   "description": "'past' can be a noun, a preposition, an adverb or an adjective and has many uses. In this sentence 'past' acts as a preposition and indicates a location at the farther side of something, beyond a particular place"
  },
@@ -3051,7 +3064,7 @@
   "sounds": [
    "stairs.aac", "stairs1.aac"
   ], 
-  "description": "'past' can be a noun, a preposition, an adverb or an adjective and has many uses. In this sentence 'past' acts as a preposition and indicates a location at the farther side of something, beyond a particular place"
+  "description": "'past' can be a noun, a preposition, an adverb or an adjective and has many uses. In this sentence 'past' acts as a preposition and indicates a location at the farther side of something, beyond a particular place (за): Поверните налево сразу за ступеньками"
  },
  {
   "proverb": "I'll meet you at half past five. It's exactly ten past three.", 
@@ -3101,6 +3114,13 @@
    "chocolate.aac"
   ], 
   "description": "love/hate/like/dislike/want are stative verbs. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form."
+ },
+ {
+  "proverb": "She has always wanted to become a writer", 
+  "sounds": [
+   "want.aac"
+  ], 
+  "description": "'want' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form."
  },
  {
   "proverb": "Do you need some help? I need an umbrella. I need a ride.", 
@@ -3191,7 +3211,7 @@
   "sounds": [
    "feel.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues, or touching something (second sentence)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues, or touching something (second sentence). Actually 'I feel sick' and 'I am feeling sick' mean the same thing and can be used interchangeably. The same is true for 'How do you feel?' and 'How are you feeling?, or 'I feel tired' and 'I am feeling tired'"
  },
  {
   "proverb": "I drink because it feels good. I've been feeling unusually tired lately. The doctor is feeling the pulse of a woman.", 
@@ -3534,7 +3554,7 @@
   "sounds": [
    "depend.aac", "depend1.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. In most cases 'depend' is used as a stative verb and means to be influenced or determined by something else. But we often find it being used in the continuous form, especially when its subject is a person, when one person (people) is relying on another person right now in a specific situation."
+  "description": "Some verbs can be either stative or dynamic depending on the situation. In most cases 'depend' is used as a stative verb and means to be influenced or determined by something else. But we often find it being used in the continuous form, especially when its subject is a person, when one person/people is/are relying on another person right now in a specific situation."
  },
  {
   "proverb": "The hotel room charge includes breakfast. The report includes detailed financial information for the past five years.", 
@@ -4341,7 +4361,7 @@
   "description": "Some verbs have a regular 'active' meaning and a different 'stative' meaning. 'My stomach hurts' means there is a pain in my stomach (У меня болит живот), here 'hurt' is both stative and intransitive and means to feel pain. You're hurting me! (Ты делаешь мне больно) here 'hurt' is a dynamic transitive verb and means to cause pain to someone"
  },
  {
-  "proverb": "I laughed. The book fell. She died. He walks to the park.",
+  "proverb": "I laughed. The book fell. She died. He is walking.",
   "sounds": [
    "Audio recording 2021-04-10 13-19-01.aac"
   ],
@@ -4465,7 +4485,7 @@
   "sounds": [
    "message.aac"
   ],
-  "description": "The first sentence means that the action happened just now. You would typically see it in your e-mail program just after you send an e-mail. Your program might give you this message to let you know that the message you just sent has indeed been sent. The second refers to something that happened at some time in the past. It could have been an hour ago, a day ago, or even a century ago! But it wasn't just now. The present perfect is called 'present' for a reason. The speaker is talking about the situation now, a situation in which a past event has some bearing on the present. For example, The message has been sent might be followed by a comment such as so it's too late to do anything about it now."
+  "description": "The first sentence means that the action happened just now. You would typically see it in your e-mail program just after you send an e-mail. Your program might give you this message to let you know that the message you just sent has indeed been sent. The second refers to something that happened at some time in the past. It could have been an hour ago, a day ago, or even a century ago! But it wasn't just now. The present perfect is called 'present' for a reason. The speaker is talking about the situation now, a situation in which a past event has some bearing on the present. For example: 'The message has been sent' might be followed by a comment such as 'so it's too late to do anything about it now'."
  },
  {
   "proverb": "Last month, I visited my brother three times. This month, I have visited my brother twice.",
@@ -4772,5 +4792,215 @@
    "weather.aac"
   ],
   "description": "The first question focuses more on the objective description of the weather (is it sunny, cloudy, windy, rainy, etc.) The second question focuses more on someone's subjective opinion of the weather. The listener can answer this question the same way as 'what is the weather today' by replying that it's sunny, cloudy, etc., but using 'how' instead of 'what' also gives the listener the freedom to answer with 'it is wonderful' or 'it is terrible' without mentioning the actual weather conditions."
+ },
+ {
+  "proverb": "The gentleman whose cell phone was stolen was very upset. The car whose left door is scratched is going to be repaired next week.",
+  "sounds": [
+   "scratched.aac"
+  ],
+  "description": "'whose' is a possessive determiner or pronoun, which is used for adding information about a person or thing."
+ },
+ {
+  "proverb": "Do you know whose car that is? The company, whose workers are now being forced to stay home, will probably go bankrupt.",
+  "sounds": [
+   "bankrupt.aac"
+  ],
+  "description": "'whose' is a possessive determiner or pronoun, which is used for adding information about a person or thing."
+ },
+ {
+  "proverb": "A computer can be compared to a filing cabinet. London is a boring city compared with Paris.",
+  "sounds": [
+   "boring.aac"
+  ],
+  "description": "The difference between 'compared to' and 'compared with'. When comparing things that are different in nature, use TO (first sentence). When comparing things that are similar in nature, use WITH (second sentence)"
+ },
+ {
+  "proverb": "The way he delivered his speech could be compared to a waterfall hitting the rocks with great force. My parents are quite strict, but they're not so bad compared with yours.",
+  "sounds": [
+   "waterfall.aac"
+  ],
+  "description": "The difference between 'compared to' and 'compared with'. When comparing things that are different in nature, use TO (first sentence). When comparing things that are similar in nature, use WITH (second sentence)"
+ },
+ {
+  "proverb": "The children are in bed. We didn't get out of bed until after one o'clock. She sat on the bed in my room.",
+  "sounds": [
+   "bed.aac"
+  ],
+  "description": "Bed is a strange word. If we don't use an article, it means a place where we sleep (uncount noun), not a particular object (first two sentences). Fixed expressions: (go) to bed, (be) in bed, make the bed (застилать кровать). But when we are thinking about a bed as an object (count noun), we use articles in the normal way (third sentence)"
+ },
+ {
+  "proverb": "She got home and went straight to bed. I need to buy a new bed.",
+  "sounds": [
+   "bed1.aac"
+  ],
+  "description": "Bed is a strange word. If we don't use an article, it means a place where we sleep (uncount noun), not a particular object (first sentence). Fixed expressions: (go) to bed, (be) in bed, make the bed (застилать кровать). But when we are thinking about a bed as an object (count noun), we use articles in the normal way (second sentence)"
+ },
+ {
+  "proverb": "They went home. I stayed at home. Julie works from home. It's time to go home. We arrived home yesterday. We visited the home of Jackie Kennedy.",
+  "sounds": [
+   "home.aac"
+  ],
+  "description": "The word home is a bit strange. If we don't use an article, it means a place where we live (uncount noun). Fixed expressions: (go) home, be (at) home, arrive home. Notice we don't need 'to' with 'go home' (not 'go to home'). But we can use an article with home when it means 'the building that somebody lives in'. In this case we use articles in the normal way (the last sentence)"
+ },
+ {
+  "proverb": "They went home. I stayed at home. Julie works from home. It's time to go home. We arrived home yesterday. My sister has made her flat into a beautiful home.",
+  "sounds": [
+   "home1.aac"
+  ],
+  "description": "The word home is a bit strange. If we don't use an article, it means a place where we live (uncount noun). Fixed expressions: (go) home, be (at) home, arrive home. Notice we don't need 'to' with 'go home' (not 'go to home'). But we can use an article with home when it means 'the building that somebody lives in'. In this case we use articles in the normal way (the last sentence)"
+ },
+ {
+  "proverb": "I'm home! I'm at home!",
+  "sounds": [
+   "home2.aac"
+  ],
+  "description": "Both these expressions are correct, but they are used in different contexts. 'I am home!' is a very popular expression which means 'I am back!' It is what you say when you walk in through the door to tell people there that you've arrived: Honey, I'm home! On the other hand 'I am at home' is used to describe where you are currently located: -Where are you right now? -I'm at home, what about you?"
+ },
+ {
+  "proverb": "I always arrive at work on time. The work I'm doing at the moment is very interesting. The thieves stole several valuable works of art.",
+  "sounds": [
+   "work.aac"
+  ],
+  "description": "The noun 'work' is similar to 'home' and 'bed'. When we use 'work' to mean a place where we work, then we don't need to use an article (first sentence). Fixed expressions: (go) to work, (be) at work, start work, finish work. When we use 'work' to mean a project that we are working on now, 'work' is a normal uncountable noun. So, we can use 'the' if we are talking about some specific work that the listener knows about (second sentence). An exception is when work means a piece of art/literature/music. In this case work is a normal countable noun (third sentence)"
+ },
+ {
+  "proverb": "The twins enjoy school. Bob and Kevin go to the same school. When I was in high school, everyone had to study French. Don't be late for school! They built a new school not far from my house.",
+  "sounds": [
+   "school4.aac"
+  ],
+  "description": "When we are talking about school in the general sense of education, we do not use articles with it (abstract uncountable noun similar to home or work). Fixed expressions: (go) to school, (be) at/in school, start school, finish school. It can also mean a building where children/adults receive education, then we can say 'a school' or 'the school' (the last sentence)."
+ },
+ {
+  "proverb": "He is still in school. He is still at school.",
+  "sounds": [
+   "school3.aac"
+  ],
+  "description": "These two expressions have different meanings. The first expression means that he is still a student (он все еще школьник/студент). The second expression means that he still hasn't come back from school today, just like we would say that we are 'still at work'"
+ },
+ {
+  "proverb": "I was told off for talking in class. Okay, class, settle down and open your books.",
+  "sounds": [
+   "class1.aac"
+  ],
+  "description": "The noun 'class' has two meanings: a period of time in which students are taught something (first sentence), or a group of students who are taught together (second sentence). Fixed expressions: be in class, take/have a class, give/hold/teach a class. A teacher gives/holds/teaches a class. Students take or have classes."
+ },
+ {
+  "proverb": "I met Charles while I was in town. He left town after he argued with his wife. Sitka is a lively and charming small town with restaurants, shops, and even art galleries.",
+  "sounds": [
+   "town.aac"
+  ],
+  "description": "When we are talking about the town center near to us, we often use 'no article' with certain expressions (first two sentences): in town, go into town, leave town. Town can also be a normal noun (last sentence)"
+ },
+ {
+  "proverb": "I was at church. I was in the church.",
+  "sounds": [
+   "church.aac"
+  ],
+  "description": "'I was at church' implies that you were attending a service(богослужение): praying, listening to a sermon, etc. 'I was in the church' implies that you just happened to be physically in the building but not necessarily attending a service. It's very similar to how 'school' is used. Fixed expressions when talking about church as a religious service: (go) to church, (be) at church. Fixed expressions when talking about a building or a religious organization: (go) to a/the church, (be) in a/the church"
+ },
+ {
+  "proverb": "I met her at church. I met her at the church. I met her in the church.",
+  "sounds": [
+   "church1.aac"
+  ],
+  "description": "'I met her at church' implies that you met her while attending a service(богослужение), just as we can say 'I met her at school'. 'I met her at the church' implies that you met her at the location which is the church (inside or outside). Here the church means the building or the physical location. 'I met her in the church' literally means you met her inside the building."
+ },
+ {
+  "proverb": "Charles hasn't gone to church in ages. The workmen went to the church to repair the roof.",
+  "sounds": [
+   "church2.aac"
+  ],
+  "description": "When we are talking about attending a service(богослужение): praying, listening to a sermon, etc., then we use 'go to church'. Fixed expressions: (go) to church, (be) at church. We use articles with 'church' when we refer to a building or a religious organization. Fixed expressions: (go) to a/the church, (be) in a/the church"
+ },
+ {
+  "proverb": "He is in prison. He is in the prison.",
+  "sounds": [
+   "prison.aac"
+  ],
+  "description": "The phrase 'He is in prison' means that he is confined in a prison somewhere, it indicates his status as a prisoner. The phrase 'He is in the prison' refers to his physical presence in a specific prison complex, but not necessarily as a convict. He might be visiting or working there as a guard. 'in jail' vs 'in the jail' works in the same manner"
+ },
+ {
+  "proverb": "She went to prison. She went to the prison.",
+  "sounds": [
+   "prison1.aac"
+  ],
+  "description": "She went to prison = She is a convict. She went to the prison = She is not a convict, perhaps a visitor. More concrete examples: She went to prison for killing her husband. She went to the prison to visit her husband. 'go to jail' and 'go to the jail' works in the same manner"
+ },
+ {
+  "proverb": "She went to prison for killing her husband. She went to the prison to visit her husband.",
+  "sounds": [
+   "prison2.aac"
+  ],
+  "description": "'She went to prison' implies she was sent there for her crimes. 'She went to the prison' means she were just visiting her jailed husband. 'go to jail' vs 'go to the jail' works in the same manner"
+ },
+ {
+  "proverb": "He went to jail for domestic violence. She went to the jail to visit her husband.",
+  "sounds": [
+   "jail.aac"
+  ],
+  "description": "'He went to jail' implies he was sent there for his crimes. 'She went to the jail' means she were just visiting her jailed husband. 'go to prison' vs 'go to the prison' works in the same manner"
+ },
+ {
+  "proverb": "Gryffindor wins! The Irish national Quidditch team won the 1994 Quidditch World Cup.",
+  "sounds": [
+   "win.aac"
+  ],
+  "description": "In the seconds after you win, you can say 'I win!'' or 'Somebody wins!' or 'You win!'. Five minutes later/20 years later, you must say 'I won' or 'Somebody won' when referring to the same contest."
+ },
+ {
+  "proverb": "I am in the street. I am at the street. I am on the street.",
+  "sounds": [
+   "street.aac"
+  ],
+  "description": "'I am in the street' usually means you are on the pavement of the street possibly where you can get hit by car, as one would tell children 'Get out of the street!'\n'I am at the street' is usually used to say you have arrived at a street e.g. an intersection with another street 'I am at Fifth Avenue and 43rd St'\n'I am on the street' is used to say you somewhere along the street 'He lives on Mitchell Avenue' means he lives somewhere along Mitchell Avenue."
+ },
+ {
+  "proverb": "Maybe it will rain tomorrow. I may be a little late for lunch.",
+  "sounds": [
+   "maybe.aac"
+  ],
+  "description": "'maybe' as one word is an adverb and means 'possibly'. It often comes in front of a subject and verb: maybe + subject + verb + the rest of the sentence.\n'may be' as two words is actually a modal verb 'may' + the main verb 'be'. The sentence structure is: subject + may + be + the rest of the sentence."
+ },
+ {
+  "proverb": "He is so tall. He is such a tall man. They are so friendly. They are such friendly people. He runs so quickly. She speaks so slowly.",
+  "sounds": [
+   "such.aac"
+  ],
+  "description": "The word 'so' should be used with an adjective or an adverb. The word 'such' should be used with a noun, it could be a singular noun or a plural noun. There are also a couple of other expressions which you should be familiar with: so long, so much, so many, such a long time, such a lot of time. For example: It's been so long since I saw you. It's been such a long time since we last met. We have so much time before our flight. We have such a lot of time before our flight"
+ },
+ {
+  "proverb": "Can you please do the dishes? I did the laundry last night. Don't forget to make the bed. My husband dresses the children while I make breakfast.",
+  "sounds": [
+   "domake.aac"
+  ],
+  "description": "When to use 'do' and when to use 'make' when talking about chores. 'do' is basically a replacement for the word 'wash'. Other examples: do the bathroom (clean the bathroom), do the windows (wash the windows). 'make' basically means 'create'. Other examples: make a cup of coffee, make a mess"
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
+ },
+ {
+  "proverb": "",
+  "sounds": [
+   ""
+  ],
+  "description": ""
  }
 ]
