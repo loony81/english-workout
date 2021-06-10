@@ -130,14 +130,14 @@
   "sounds": [
    "thelast2.aac"
   ], 
-  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the last 30 days"
+  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the duration (the last 30 days), that's why the PP is used"
  }, 
  {
   "proverb": "In the last two minutes, Paul has eaten four hot dogs.", 
   "sounds": [
    "thelast3.aac"
   ], 
-  "description": "This sentence demonstrates when to use last or the last"
+  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the duration of time (за последние две минуты), that's why the PP is used"
  }, 
  {
   "proverb": "The next two weeks will be tough!", 
@@ -252,13 +252,20 @@
   "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
  }, 
  {
+  "proverb": "This juice is most delicious if you chill it for a long time first. Which juice is the most delicious? Apple juice, orange juice or raspberry juice?", 
+  "sounds": [
+   "themost4.aac"
+  ], 
+  "description": "These sentences demonstrate when to use 'most' or 'the most'. We use most without the when we want to express preference (first sentence), or when talking about 90% of something (most people, most dogs). We use 'the most' when it is part a superlative adjective which consists of more than two syllables (second sentence), or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc"
+ },
+ {
   "proverb": "advantage but advantageous", 
   "sounds": [
    "advantage1.aac", 
    "advantage2.aac"
   ], 
   "description": "This sentence demonstrates how to pronounce advantage and advantageous in American English"
- }, 
+ },
  {
   "proverb": "courage but courageous", 
   "sounds": [
@@ -293,21 +300,21 @@
   "sounds": [
    "thenile.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with rivers"
+  "description": "This sentence demonstrates the use of the definite article with the names of rivers"
  }, 
  {
   "proverb": "Mordor Orcs now hold the eastern shore of the Anduin.", 
   "sounds": [
    "theanduin.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with rivers"
+  "description": "This sentence demonstrates the use of the definite article with the names of rivers"
  }, 
  {
   "proverb": "The Danube is Austria's longest river.", 
   "sounds": [
    "thedanube.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with rivers, and also when to use the possessive case"
+  "description": "This sentence demonstrates the use of the definite article with the names of rivers, and also when to use the possessive case"
  }, 
  {
   "proverb": "We flew over the Atlantic.", 
@@ -328,7 +335,7 @@
   "sounds": [
    "thesahara.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with deserts"
+  "description": "This sentence demonstrates the use of the definite article with deserts. It also demonstrates when to use the possessive 's"
  }, 
  {
   "proverb": "She has never been to the Alps before.", 
@@ -349,7 +356,7 @@
   "sounds": [
    "everest2.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with single mountains"
+  "description": "This sentence demonstrates the use of the definite article with single mountains. Also notice that here 'earth' means the world, not the planet, that's why it is not capitalized"
  }, 
  {
   "proverb": "Jamaica belongs to the Caribbean islands.", 
@@ -398,7 +405,7 @@
   "sounds": [
    "thesouth.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something."
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something. Also notice that here the modal would is used to talk about a habitual action in the past (similar to used to): We used to go to the south of France for holidays every year."
  }, 
  {
   "proverb": "I'm traveling north.", 
@@ -441,7 +448,7 @@
   "sounds": [
    "thehilton.aac"
   ], 
-  "description": "These sentences demonstrate that the definite article is used with the names of hotels (and also pubs and restaurants), but not when they are named after their owners. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here"
+  "description": "These sentences demonstrate that the definite article is used with the names of hotels (and also pubs and restaurants), but not when they are named after their owners/founders. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here"
  }, 
  {
   "proverb": "At the Prancing Pony, an inn in the village of Bree, Frodo received a delayed letter from Gandalf. My sister often stays at Uncle Tim's in Detroit.", 
@@ -449,7 +456,7 @@
    "theprancingpony.aac", 
    "theprancingpony1.aac"
   ], 
-  "description": "These sentences demonstrate that the definite article is used with pubs, restaurants and hotels also, but not when they are named after their owners. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here"
+  "description": "These sentences demonstrate that the definite article is used with pubs, restaurants and hotels also, but not when they are named after their owners/founders. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here (McDonald's is also used without 'the')"
  }, 
  {
   "proverb": "He who rides a tiger can never get off.", 
@@ -891,7 +898,7 @@
   "sounds": [
    "onanisland.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts (these are considered flat surfaces)"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts, when something is located on an island, shore, beach or coast (these are considered flat surfaces)"
  }, 
  {
   "proverb": "Lemurs are found only in Madagascar. Here we are talking about the country. Lemurs are found only on Madagascar. Here we are talking about the island.", 
@@ -899,14 +906,7 @@
    "madagascar2.aac"
   ], 
   "description": "These sentences demonstrate how to use prepositions of place"
- }, 
- {
-  "proverb": "This juice is most delicious if you chill it for a long time first. Which juice is the most delicious? Apple juice, orange juice or raspberry juice?", 
-  "sounds": [
-   "themost4.aac"
-  ], 
-  "description": "These sentences demonstrate when to use 'most' or 'the most'. We use most without the when we want to express preference (first sentence), or when talking about 90% of something (most people, most dogs). We use 'the most' when it is part a superlative adjective which consists of more than two syllables (second sentence), or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc"
- }, 
+ },  
  {
   "proverb": "Visiting Niagara Falls is a magical experience, especially for families.", 
   "sounds": [
@@ -975,8 +975,8 @@
   "sounds": [
    "mcdonalds.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with the names of companies, brands, websites (these are considered proper nouns)"
- }, 
+  "description": "This sentence demonstrates the use of the definite article with the names of companies, brands, websites (these are considered proper nouns). Another rule that can be applied here is that McDonald's is a fast-food chain named after its founder"
+ },
  {
   "proverb": "She has a Ph.D. from MIT. But the Massachusetts Institute of Technology.", 
   "sounds": [
@@ -1108,7 +1108,7 @@
   "sounds": [
    "newyear.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with the names of holidays"
+  "description": "This sentence demonstrates the use of the definite article with the names of holidays. New Year's Day is celebrated on January 1"
  }, 
  {
   "proverb": "What are you doing on Valentine's Day?", 
@@ -1508,14 +1508,14 @@
   "sounds": [
    "ontime1.aac"
   ], 
-  "description": "These sentences demonstrate when to use 'on time' and when to use 'in time'. It also demonstrates that the verb 'arrive' indicates location or time, but not movement, so we use the usual prepositions of place or time after it. We alwas say 'arrived at the cinema', not 'arrived to the cinema'"
+  "description": "These sentences demonstrate when to use 'on time' and when to use 'in time'. It also demonstrates that the verb 'arrive' indicates location or time, but not movement, so we use the usual prepositions of place or time after it. We always say 'arrived at the cinema', not 'arrived to the cinema'"
  }, 
  {
   "proverb": "You mean to tell me you have never ridden a horse before?", 
   "sounds": [
    "ridden.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'ride'. We ride something if we are on top of it (верхом): ride a bicycle, horse, bike, tiger, etc. Also note that 'mean' is a stative verb"
+  "description": "This sentence demonstrates when to use the verb 'ride'. We ride something if we are on top of it (верхом): ride a bicycle, horse, bike, tiger, etc. And we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse. Also note that 'mean' is a stative verb"
  }, 
  {
   "proverb": "The West End is easy to reach by Tube.", 
@@ -1627,14 +1627,14 @@
   "sounds": [
    "newyear1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean only one day, January 1. In the second - the whole holiday period (few days around that time in general). We can also say on New Year's Eve and it also means one day - December 31"
+  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean only one day, January 1. In the second - the whole holiday period (few days around that time in general - в новогодние праздники). We can also say on New Year's Eve and it also means one day - December 31"
  },
  {
   "proverb": "I like staying at home and watching movies on New Year's Day. I like going to big parties on New Year's. What are you doing at New Year's?", 
   "sounds": [
    "newyear2.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean one day, January 1. In the second we also mean one day - December 31. On New Year's implies New Year's Eve, as a shortcut for referring to December 31. And in the third sentence we mean the whole holiday period (few days around that time in general)"
+  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean one day, January 1. In the second we also mean one day - December 31. On New Year's implies New Year's Eve, as a shortcut for referring to December 31. And in the third sentence we mean the whole holiday period (few days around that time in general - новогодние праздники)"
  },
  {
   "proverb": "Let's have a coffee on Friday morning. Where did you go on Thursday night? I'm usually available on Monday and Friday afternoons.", 
@@ -1649,14 +1649,14 @@
    "weekend.aac", 
    "weekend1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. Weekend means a period of time somewhere between Friday evening and Sunday night. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend. But remember that 'the' is not used when talking about last weekend (прошлые выходные) or next weekned (следующие выходные), for example: She cleaned the room last weekend.  Weekend can also be used in its plural form (on weekends or on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "We go out once in a while on the weekends. We go out once in a while on weekends.", 
   "sounds": [
    "weekends.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. Weekend means a period of time somewhere between Friday evening and Sunday night. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend. But remember that 'the' is not used when talking about last weekend (прошлые выходные) or next weekned (следующие выходные), for example: She cleaned the room last weekend. Weekend can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "They usually go windsurfing on the weekends. They usually go windsurfing on weekends.", 
@@ -1664,14 +1664,14 @@
    "weekends1.aac", 
    "weekends2.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. Weekend means a period of time somewhere between Friday evening and Sunday night. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend. But remember that 'the' is not used when talking about last weekend (прошлые выходные) or next weekned (следующие выходные), for example: She cleaned the room last weekend. Weekend can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "On the weekends, I like to watch football. On weekends, I like to watch football.", 
   "sounds": [
    "weekends3.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend.  It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
+  "description": "These sentences demonstrate how to use prepositions of time. Weekend means a period of time somewhere between Friday evening and Sunday night. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend. But remember that 'the' is not used when talking about last weekend (прошлые выходные) or next weekned (следующие выходные), for example: She cleaned the room last weekend. It can also be used in its plural form (on weekends or  on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
  {
   "proverb": "The kids have been on vacation two weeks.", 
@@ -1700,7 +1700,7 @@
    "toohot.aac", 
    "toohot1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We always say 'in the middle of something': in the middle of the year, in the middle of the week, in the middle of the month"
+  "description": "This sentence demonstrates how to use prepositions of time. We always say 'in the middle of some period of time': in the middle of the year, in the middle of the week, in the middle of the month"
  }, 
  {
   "proverb": "You can drive around the island in a day.", 
@@ -1750,7 +1750,7 @@
    "inthemorning.aac", 
    "inthemorning1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. We always say 'in the morning' or 'in the evening'"
+  "description": "These sentences demonstrate how to use prepositions of time. Although the preposition 'at' is generally used in reference to specific points of time in the day (at 3 pm, at noon, at midnight, at dinner), we always say 'in the morning' or 'in the evening'. These indications of time are exceptions and need to be memorized"
  }, 
  {
   "proverb": "Luckily we arrived just in time, we still have 5 minutes!", 
@@ -1841,14 +1841,14 @@
   "sounds": [
    "thefollowing.aac"
   ], 
-  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'the next' (на следующий, в следующем). In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
+  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'next' (на следующий, в следующем). In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
  }, 
  {
   "proverb": "They arranged to have dinner the following month. Following the dinner, there will be a dance.", 
   "sounds": [
    "thefollowing1.aac"
   ], 
-  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'the next' (на следующий, в следующем). In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
+  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'next' (на следующий, в следующем). In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
  }, 
  {
   "proverb": "Wear a sweater but carry a gun", 
@@ -2061,14 +2061,14 @@
   "sounds": [
    "onearth.aac"
   ], 
-  "description": "This is an example of the second conditional. The second conditional is used to imagine present or future situations that are impossible or unlikely in reality. This sentence also demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). "
+  "description": "This is an example of the second conditional. The second conditional is used to imagine present or future situations that are impossible or unlikely in reality. This sentence is also an example of reported speech. Reported speech is when we talk about something that someone else has said."
  }, 
  {
   "proverb": "There are over 7 billion people on earth.", 
   "sounds": [
    "onearth1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). It also demonstrates when to use the preposition 'over'"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). Here 'on earth' means 'in the world' not the planet Earth. It also demonstrates when to use the preposition 'over'"
  }, 
  {
   "proverb": "The first man walked on the Moon in 1969.", 
@@ -2294,7 +2294,7 @@
   "sounds": [
    "since.aac"
   ], 
-  "description": "This sentence demonstrates when to use the Present Perfect Tense. We usually use the Present Perfect Continuous for something that started in the past and still continues in the present, but the verb 'be' is a stative verb in this context and can't be used with continuous tenses, that's why the PP is used. Similar examples: I've known him for years (and I still know him). Sam has had this car since 2012 (Sam still has his car)."
+  "description": "This sentence demonstrates when to use the Present Perfect Tense. We usually use the Present Perfect Continuous for something that started in the past and still continues in the present, but the verb 'be' is a stative verb in this context and can't be used with continuous tenses, that's why the PP is used. Another thing that indicates that the PP tense must be used is that this sentence includes the word 'never'. Similar examples: I've known him for years (and I still know him). Sam has had this car since 2012 (Sam still has his car)."
  }, 
  {
   "proverb": "Get on the bus! Get off the bus!", 
@@ -2325,11 +2325,11 @@
   "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, motorcycle, subway)"
  },
  {
-  "proverb": "He likes riding on his horse.", 
+  "proverb": "He likes riding his horse.", 
   "sounds": [
    "horse.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it. And we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse."
  }, 
  {
   "proverb": "You get on a train, bus, or subway to begin your trip.", 
@@ -2497,7 +2497,7 @@
   "sounds": [
    "camels.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article with deserts"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates that we need to use the definite article with the names of deserts (the Sahara Desert, the Gobi Desert), but notice that here we are not talking about a particular desert, we are talking about deserts in general (similar to 'in the mountains, in the country')"
  },
  {
   "proverb": "I live in Canada. I live in the west of the city. Egypt is in the north of Africa.", 
@@ -2735,7 +2735,7 @@
   "sounds": [
    "victim.aac", "victim1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The prepositions 'under' and 'over' are mostly used when talking about movement, but they are also used with: 1. ages (younger than or older than); 2. numbers (less than or more than): speeds, numbers of people, time; 3. wearing clothes;"
+  "description": "This sentence demonstrates how to use prepositions of place. The prepositions 'under' and 'over' are mostly used when talking about movement, but they are also used as prepositions of place with: 1. ages (younger than or older than); 2. numbers (less than or more than): speeds, numbers of people, time; 3. wearing clothes;"
  },
  {
   "proverb": "The orchestra performed magically under the direction of the genius conductor.", 
@@ -2812,7 +2812,7 @@
   "sounds": [
    "mouth.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used as a preposition of place: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "Standing between the two adults was a small child.", 
@@ -2969,7 +2969,7 @@
   "description": "We use 'down' mostly as a preposition or adverb and it indicates a lower position or movement to a lower position. In this particular example 'down' acts as a preposition"
  },
  {
-  "proverb": "Please take your papers off my desk. The wineglass fell off the table and shattered on the floor. He jumped off the platform.", 
+  "proverb": "Please, take your papers off my desk. The wine glass fell off the table and shattered on the floor. He jumped off the platform.", 
   "sounds": [
    "off.aac"
   ], 
@@ -3050,7 +3050,7 @@
   "sounds": [
    "marathoners.aac", "marathoners1.aac"
   ], 
-  "description": "'past' can be a noun, a preposition, an adverb or an adjective, and has many uses. In this sentence 'past' acts as an adverb and describes movement along something from one side to the other side of it"
+  "description": "'past' can be a noun, a preposition, an adverb or an adjective, and has many uses. In this sentence 'past' acts as an adverb and describes movement along something from one side to the other side of it (пробежали мимо)"
  },
  {
   "proverb": "The office is two blocks past the intersection.", 
@@ -3085,7 +3085,7 @@
   "sounds": [
    "past-midnight.aac"
   ], 
-  "description": "'past' can be a noun, a preposition, an adverb or an adjective and has many uses. In this sentence 'past' acts as a preposition and means later than a particular time"
+  "description": "'past' can be a noun, a preposition, an adverb or an adjective and has many uses. In this sentence 'past' acts as a preposition and means later than a particular time (за полночь)"
  },
  {
   "proverb": "I passed my test by studying past tests.", 
@@ -3155,7 +3155,7 @@
   "sounds": [
    "deserve.aac"
   ], 
-  "description": "'deserve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I hope they get the punishment they are deserving'. But it can be used with 'ing' form as an adjective - достойный, заслуживающий"
+  "description": "'deserve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I hope they get the punishment they are deserving'. But it can be used with 'ing' form as an adjective - достойный, заслуживающий. Notice that 'hope' is not a stative verb, we could say 'I am hoping they get the punishment ...' and it would mean the same"
  },
  {
   "proverb": "You can do as you please. It pleases me to know that you liked the gift.", 
@@ -3211,7 +3211,7 @@
   "sounds": [
    "feel.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues, or touching something (second sentence). Actually 'I feel sick' and 'I am feeling sick' mean the same thing and can be used interchangeably. The same is true for 'How do you feel?' and 'How are you feeling?, or 'I feel tired' and 'I am feeling tired'"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues, or touching something (second sentence). Actually 'I feel sick' and 'I am feeling sick' mean the same thing and can be used interchangeably. The same is true for 'How do you feel?' and 'How are you feeling?', or 'I feel tired' and 'I am feeling tired'"
  },
  {
   "proverb": "I drink because it feels good. I've been feeling unusually tired lately. The doctor is feeling the pulse of a woman.", 
@@ -3253,7 +3253,7 @@
   "sounds": [
    "taste.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'taste' as a stative verb is used to describe a flavor. 'taste' as a dynamic verb describes an action of tasting something (пробовать на вкус)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'taste' as a stative verb is used to describe a flavor. 'taste' as a dynamic verb describes an action of tasting something (пробовать на вкус). Very similar to 'smell'"
  },
  {
   "proverb": "That cake looks delicious. He's looking at the computer screen.", 
@@ -3386,7 +3386,7 @@
   "sounds": [
    "appear.aac", "appear1.aac"
   ], 
-  "description": "The verb 'appear' has several meanings: to become noticeable/come into sight (появляться), to seem (казаться), to to perform publicly (исполнять), to arrive, and others. When it means 'to seem' it is a stative verb."
+  "description": "The verb 'appear' has several meanings: to become noticeable/come into sight (появляться), to seem (казаться), to perform publicly (исполнять), to arrive, and others. When it means 'to seem' it is a stative verb."
  },
  {
   "proverb": "I didn't mean to hurt you. What do you mean by that? Material possessions mean nothing to me.", 
@@ -3407,7 +3407,7 @@
   "sounds": [
    "think.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'think' as a stative verb means to believe, to have an opinion. 'think' as a dynamic verb means to reflect, to ponder - размышлять, раздумывать"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'think' as a stative verb means to believe, to have an opinion. 'think' as a dynamic verb means to reflect, to ponder - размышлять, раздумывать. Notice that when we say 'I've been thinking' it is to indicate a prolonged period of thought, when we've spent quite a bit of time considering a certain matter (Я подумываю продать свой дом)"
  },
  {
   "proverb": "I think that's a great idea. I'm thinking about my next holiday.", 
@@ -3421,7 +3421,7 @@
   "sounds": [
    "stupid.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is mostly used as a stative verb to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state (only now, not usually). 'you are stupid' = you are always stupid, it's part of your personality (Ты глуп), 'you are being stupid' = only now, not usually (Ты ведешь себя глупо)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'be' is mostly used as a stative verb to show a permanent quality or state of something/someone. But sometimes 'be' can be used as a dynamic verb to show a temporary quality or state (only now, not usually). 'you are stupid' = you are always stupid, it's part of your personality (Ты тупой), 'you are being stupid' = only now, not usually (Ты тупишь)"
  },
  {
   "proverb": "It doesn't matter what you think. The only thing that really matters in life are your relationships to other people.", 
@@ -3449,14 +3449,14 @@
   "sounds": [
    "have2.aac"
   ], 
-  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases are countable"
+  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases are countable"
  },
  {
   "proverb": "I have the flu. She is having a seizure.", 
   "sounds": [
    "have3.aac", "have4.aac"
   ], 
-  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases are countable"
+  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases are countable"
  },
  {
   "proverb": "She has a bath every evening. She is having a bath right now.", 
@@ -3624,7 +3624,7 @@
   "sounds": [
    "pregnant.aac"
   ], 
-  "description": "All three of these phrases mean the same: she is pregnant. Notice that in the last sentence we didn't use 'a' before 'child'. 'she is with a child' meas she is spending time with a child or being accompanied by a child. It doesn't indicate that she is pregnant. 'She is with child' indicates a pregnancy."
+  "description": "All three of these phrases mean the same: she is pregnant. Notice that in the last sentence we didn't use 'a' before 'child'. 'she is with a child' means she is spending time with a child or being accompanied by a child. It doesn't indicate that she is pregnant. 'She is with child' indicates a pregnancy."
  },
  {
   "proverb": "The girl is wearing a black dress. The girl wears a black dress every time she goes to church.", 
@@ -3762,7 +3762,7 @@
   "sounds": [
    "Audio recording 2021-02-05 11-37-09.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation can't help which means 'to not be able to control or stop something' (не могу ничего с этим поделать), is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation can't help which means 'to not be able to control or stop something' (не могу ничего с этим поделать, не могу удержаться чтобы не ...), is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
  },
  {
   "proverb": "We'll celebrate working together for over 50 years. He celebrated getting a job.", 
@@ -4252,7 +4252,7 @@
   "sounds": [
    "need3.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The verb 'need' is usually used with an infinitive or an object + an infinitive: Мне нужно починить... When 'need' is used with a gerund, it takes on a passive meaning: Моя машина нуждается ... We can also say: My car needs to be fixed. Also notice that 'need' is a stative verb."
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The verb 'need' is usually used with an infinitive or an object + an infinitive: Мне нужно помыть окно. When 'need' is used with a gerund, it takes on a passive meaning: Окно нуждается в мойке (чистке). We can also say: The window needs to be cleaned. Also notice that 'need' is a stative verb."
  },
  {
   "proverb": "He is polite. He is being polite.",
@@ -4549,7 +4549,7 @@
   "sounds": [
    "Audio recording 2021-04-18 14-54-32.aac"
   ],
-  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently (like minutes ago)"
+  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently like minutes ago, or days ago (second sentence)"
  },
  {
   "proverb": "I'm talking to you. I've been talking to you for 5 minutes. It's raining. It has been raining all morning.",
@@ -4784,7 +4784,7 @@
   "sounds": [
    "doing.aac"
   ],
-  "description": "He asked me what I was doing - он спросил меня, что я делаю. (He asked me what I am doing - неправильно)"
+  "description": "He asked me what I was doing - он спросил меня, что я делаю. (He asked me what I am doing - неправильно). This is an example of reported speech"
  },
  {
   "proverb": "He was angry at her for staying out so late. The workers are angry about the new measures.",
@@ -5136,14 +5136,28 @@
   ],
   "description": "These are all examples of passive causative. Passive causative is when you have something done by someone else. The agent (person or thing that performs the action) is often implicit (first two sentences). The two most common causative verbs are 'get' and 'have'. 'make' and 'let' are also used but very rarely"
  },
-  {
-  "proverb": "",
+ {
+  "proverb": "I am a teacher. He told me he was a teacher.",
   "sounds": [
-   ""
+   "reported.aac"
   ],
-  "description": ""
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. To say 'He told me he is a teacher' is incorrect. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'I will live in Russia' becomes 'He told me they would live in Russia'"
  },
-  {
+ {
+  "proverb": "I haven't seen Mike. He said that he hadn't seen Mike.",
+  "sounds": [
+   "reported1.aac"
+  ],
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'I will live in Russia' becomes 'He told me they would live in Russia'"
+ },
+ {
+  "proverb": "I can speak perfect English. She said she could speak perfect English.",
+  "sounds": [
+   "reported2.aac"
+  ],
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'I will live in Russia' becomes 'He told me they would live in Russia'"
+ },
+ {
   "proverb": "",
   "sounds": [
    ""

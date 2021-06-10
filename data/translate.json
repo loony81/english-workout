@@ -60,7 +60,7 @@
   "proverb": "I took your book by mistake"
  },
  {
-  "description": "По-моёму, тебе пора идти спать",  
+  "description": "По-моёму, тебе пора идти спать (тебе самое время идти спать)",  
   "proverb": "I think it's time you went to bed"
  },
  {
@@ -297,7 +297,7 @@
  },
  {
   "description": "Холодает",
-  "proverb": "It is getting cold"
+  "proverb": "It's getting cold"
  },
  {
   "description": "Тому есть причина",
@@ -464,6 +464,10 @@
   "proverb": "It is rumored that ..."
  },
  {
+  "description": "По слухам",
+  "proverb": "Rumor has it"
+ },
+ {
   "description": "Кажется, среди нас есть предатель",
   "proverb": "It seems there is a traitor among us"
  },
@@ -557,7 +561,7 @@
  },
  {
   "description": "Ты ведешь себя глупо",
-  "proverb": "You are being stupid"
+  "proverb": "You are being silly"
  },
  {
   "description": "Это немного ошеломляюще на первый взгляд",
@@ -622,6 +626,10 @@
  {
   "description": "Эту книгу стоит прочитать (Эта книга стоит прочтения)",
   "proverb": "This book is worth reading"
+ },
+ {
+  "description": "Этот фильм стоит посмотреть еще раз (Этот фильм стоит повторного просмотра)",
+  "proverb": "This movie is worth seeing again"
  },
  {
   "description": "Пожалуйста замолчи!",
@@ -1020,7 +1028,7 @@
   "proverb": "How is your grandfather's health?"
  },
  {
-  "description": "Это тебя не касается",
+  "description": "Это тебя не касается (1)",
   "proverb": "It doesn't concern you"
  },
  {
@@ -1069,7 +1077,7 @@
  },
  {
   "description": "Пятнадцать минут шестого",
-  "proverb": "A quarter after five"
+  "proverb": "A quarter past five"
  },
  {
   "description": "Сними свою шляпу",
@@ -1264,7 +1272,7 @@
   "proverb": "Where were you on Saturday night?"
  },
  {
-  "description": "Я всегда прихожу вовремя",
+  "description": "Я всегда прихожу вовремя (в точно назначенное время)",
   "proverb": "I always come on time"
  },
  {
@@ -1576,6 +1584,10 @@
   "proverb": "It tastes great"
  },
  {
+  "description": "На вкус как дерьмо",
+  "proverb": "It tastes like shit"
+ },
+ {
   "description": "Это мясо на вкус как резина",
   "proverb": "This meat tastes like rubber"
  },
@@ -1648,6 +1660,10 @@
   "proverb": "You are getting on my nerves"
  },
  {
+  "description": "Его пение действует мне на нервы",
+  "proverb": "His singing is getting on my nerves"
+ },
+ {
   "description": "Сегодня я купил новую пару штанов",
   "proverb": "Today I have bought a new pair of pants"
  },
@@ -1688,7 +1704,7 @@
   "proverb": "I don't care what you say"
  },
  {
-  "description": "Мне плевать что ты думаешь",
+  "description": "Мне плевать (меня не волнует) что ты думаешь",
   "proverb": "I don't care what you think"
  },
  {
@@ -1856,7 +1872,7 @@
   "proverb": "Why is there so much evil in the world?"
  },
  {
-  "description": "Я принял душ сегодня утром",
+  "description": "Я принял душ сегодня утром (сегодняшним утром)",
   "proverb": "I took a shower this morning"
  },
  {
@@ -2106,6 +2122,10 @@
  {
   "description": "Что у тебя на уме? (Что тебя гложет?)",
   "proverb": "What's on your mind?"
+ },
+  {
+  "description": "Меня беспокоят многие вещи / На меня многое навалилось (У меня много на уме)",
+  "proverb": "I have a lot on my mind"
  },
  {
   "description": "Я иду по улице",
@@ -2432,8 +2452,8 @@
   "proverb": "I ate at that restaurant yesterday, let's go somewhere else"
  },
  {
-  "description": "Мой брат перебрался (переехал) в Лос-Анджелес в прошлом году.",
-  "proverb": "My brother moved to Los Angeles last year."
+  "description": "Мой брат перебрался (переехал) в Лос-Анджелес в прошлом году",
+  "proverb": "My brother moved to Los Angeles last year"
  },
  {
   "description": "Джейсон ушел на работу пять минут назад",
@@ -2448,12 +2468,20 @@
   "proverb": "I'm sorry, but your name is not on the list"
  },
  {
+  "description": "Он - член команды (Он в команде)",
+  "proverb": "He's on the team"
+ },
+ {
+  "description": "Он находится в списке (Он в списке)",
+  "proverb": "He's on the list"
+ },
+ {
   "description": "Мы знакомы с тех пор, как я переехал в Нью-Йорк",
   "proverb": "We have known each other since I moved to New York"
  },
  {
   "description": "Снег уже идет два часа",
-  "proverb": "It has been snowing for two hours"
+  "proverb": "It's been snowing for two hours"
  },
  {
   "description": "Я вырос в деревне (в сельской местности)",
@@ -2481,11 +2509,11 @@
  },
  {
   "description": "Дождь идет уже несколько недель (Уже неделями идет дождь)",
-  "proverb": "It has been raining for weeks"
+  "proverb": "It's been raining for weeks"
  },
  {
   "description": "Как давно (долго) ты изучаешь английский?",
-  "proverb": "How long have you been studying English"
+  "proverb": "How long have you been studying English?"
  },
  {
   "description": "Как давно уже идет снег?",
@@ -2524,7 +2552,7 @@
   "proverb": "I wouldn't mind having a drink"
  },
  {
-  "description": "Ты не мог бы мне помочь? / Ты не помог бы мне?",
+  "description": "Ты не помог бы мне? (Ты не прочь мне помочь?)",
   "proverb": "Would you mind helping me? "
  },
  {
@@ -2580,7 +2608,7 @@
   "proverb": "Do not be afraid, I mean you no harm"
  },
   {
-  "description": "Он остановился в отеле Hilton в номере 221",
+  "description": "Он остановился в отеле Хилтон в номере 221",
   "proverb": "He's staying at the Hilton hotel in room 221"
  },
   {
@@ -2704,7 +2732,7 @@
   "proverb": "He barely speaks English"
  },
  {
-  "description": "",
+  "description": "Он встретит нас на углу улицы",
   "proverb": "He will meet us at the corner of the street"
  },
  {
@@ -2864,7 +2892,7 @@
   "proverb": "Does it snow here in winter?"
  },
  {
-  "description": "Я люблю дождь",
+  "description": "Я люблю дождь (мне нравится дождь)",
   "proverb": "I like rain"
  },
  {
@@ -2873,7 +2901,7 @@
  },
  {
   "description": "Все утро идет деждь",
-  "proverb": "It has been raining all morning"
+  "proverb": "It's been raining all morning"
  },
  {
   "description": "Было слишком жарко и я не хотел выходить на улицу",
@@ -3080,8 +3108,8 @@
   "proverb": "I hear music playing"
  },
  {
-  "description": "I couldn't resist",
-  "proverb": "Я не смог удержаться"
+  "description": "Я не смог удержаться",
+  "proverb": "I couldn't resist"
  },
  {
   "description": "Я похудел",
@@ -3168,7 +3196,7 @@
   "proverb": "Hand it over!"
  },
  {
-  "description": "Мы так давно не видились! (Мы не встречались уже так давно!)",
+  "description": "Мы так давно не виделись! (Мы не встречались уже так давно!)",
   "proverb": "We haven't met in such a long time!"
  },
  {
@@ -3214,6 +3242,10 @@
  {
   "description": "Я провел весь день на пляже (на песке)",
   "proverb": "I spent the entire day on the beach"
+ },
+ {
+  "description": "Мы хорошо провели время на пляже вчера (на пляже в широком смысле, не обязательно на песке)",
+  "proverb": "We had a good time at the beach yesterday"
  },
  {
   "description": "В точку! (Как раз об этом я и говорю!)",
@@ -3317,7 +3349,7 @@
  },
  {
   "description": "Она учится в университете",
-  "proverb": "She is studying at the university."
+  "proverb": "She is studying at the university"
  },
  {
   "description": "Когда ты научился играть на гитаре?",
@@ -3352,7 +3384,7 @@
   "proverb": "He has borrowed my car today"
  },
  {
-  "description": "Он продолжал говорить два часа",
+  "description": "Он продолжал говорить (выступать) два часа",
   "proverb": "He went on speaking for two hours"
  },
  {
@@ -3401,7 +3433,7 @@
  },
  {
   "description": "Ничего, если я закурю? (Вы не возражаете, если я закурю?)",
-  "proverb": "Do you mind if I smoke"
+  "proverb": "Do you mind if I smoke?"
  },
  {
   "description": "Ты это видел? Нет, я не смотрел.",
@@ -3508,7 +3540,7 @@
   "proverb": "If I were taller, I would play basketball"
  },
  {
-  "description": "Полиция ее арестовала",
+  "description": "Полиция ее арестовала (заключила под арест)",
   "proverb": "The police put her under arrest"
  },
  {
@@ -3612,7 +3644,7 @@
   "proverb": "I have a fever"
  },
  {
-  "description": "Сэм был в здании когда онО загорелось (вспыхнуло)",
+  "description": "Сэм был в здании когда оно загорелось (вспыхнуло)",
   "proverb": "Sam was in the building when it caught fire"
  },
  {
@@ -3626,6 +3658,890 @@
  {
   "description": "Как часто ты посещаешь (своего) стоматолога?",
   "proverb": "How often do you see the dentist?"
+ },
+ {
+  "description": "Я одолжил книгу своему брату на пару недель",
+  "proverb": "I lent the book to my brother for a couple of weeks"
+ },
+ {
+  "description": "Не выходи в интернет",
+  "proverb": "Do not go on the Internet"
+ },
+ {
+  "description": "Я выхожу в интернет каждый день",
+  "proverb": "I go on the Internet every day"
+ },
+ {
+  "description": "Есть хорошая новость и плохая",
+  "proverb": "There's good news and bad news"
+ },
+ {
+  "description": "Этого бы не случилось без тебя",
+  "proverb": "It wouldn't have happened without you"
+ },
+ {
+  "description": "На обед я съел бутерброд с сыром (Я съел бутерброд с сыром на обед)",
+  "proverb": "I ate a cheese sandwich for lunch"
+ },
+ {
+  "description": "Он сказал мне, что съел бутерброд с сыром на обед",
+  "proverb": "He told me he had eaten a cheese sandwich for lunch"
+ },
+ {
+  "description": "Я женюсь (Я выхожу замуж)",
+  "proverb": "I am getting married"
+ },
+ {
+  "description": "Я завтра женюсь",
+  "proverb": "I'm getting married tomorrow"
+ },
+ {
+  "description": "Они только что поженились",
+  "proverb": "They have just got married"
+ },
+ {
+  "description": "Я люблю кататься на лыжах зимой",
+  "proverb": "I love to go skiing in the winter"
+ },
+ {
+  "description": "Я посетил ЮАР (Южную Африку) прошлым летом",
+  "proverb": "I visited South Africa last summer"
+ },
+ {
+  "description": "Наши дети ездят (добираются до школы) на автобусе",
+  "proverb": "Our children go to school by bus"
+ },
+ {
+  "description": "Я хочу зарабатывать (делать) деньги",
+  "proverb": "I want to make money"
+ },
+ {
+  "description": "Снег холодный",
+  "proverb": "Snow is cold"
+ },
+ {
+  "description": "У меня был обед с ней в прошлую среду",
+  "proverb": "I had lunch with her last Wednesday"
+ },
+ {
+  "description": "Сахара - самая большая пустыня в мире (пустыня мира)",
+  "proverb": "The Sahara is the world's biggest desert"
+ },
+ {
+  "description": "Нил - самая длинная река в Африке",
+  "proverb": "The Nile is the longest river in Africa"
+ },
+ {
+  "description": "Это произошло в Средневековье (в Средние века)",
+  "proverb": "It happened in the Middle Ages"
+ },
+ {
+  "description": "Печатный станок был изобретен в Средние века",
+  "proverb": "The printing press was invented in the Middle Ages"
+ },
+ {
+  "description": "Я никогда не был в горах",
+  "proverb": "I've never been to the mountains"
+ },
+ {
+  "description": "Мы не могли пойти на пляж потому что шел дождь",
+  "proverb": "We couldn't go to the beach because it was raining"
+ },
+ {
+  "description": "Мы отлично (хорошо) провели время",
+  "proverb": "We had a good time"
+ },
+ {
+  "description": "Я люблю посещать Центральный парк",
+  "proverb": "I love visiting Central Park"
+ },
+ {
+  "description": "Мне смешно (Это заставляет меня смеяться)",
+  "proverb": "It makes me laugh"
+ },
+ {
+  "description": "За нами хвост / За нами кто-то идет следом / Нас преследуют)",
+  "proverb": "We are being followed"
+ },
+ {
+  "description": "Бросай оружие!",
+  "proverb": "Drop your weapon!"
+ },
+ {
+  "description": "Это звучит глупо когда ты это говоришь",
+  "proverb": "it sound dumb when you say it"
+ },
+ {
+  "description": "Она нюхает цветок",
+  "proverb": "She is smelling the flower"
+ },
+ {
+  "description": "У нее много друзей в Фейсбуке",
+  "proverb": "She has many friends on Facebook"
+ },
+ {
+  "description": "Мы поедем (собираемся поехать) к моим родителям на Пасху",
+  "proverb": "We're going to my parents for Easter"
+ },
+ {
+  "description": "Увидимся в понедельник",
+  "proverb": "See you on Monday"
+ },
+ {
+  "description": "Завтра будет жаркий день",
+  "proverb": "Tomorrow will be  a hot day"
+ },
+ {
+  "description": "Из всех предметов, которые преподают в школе, мне больше всего нравится математика",
+  "proverb": "Of all the subjects taught in school, I like Math best"
+ },
+ {
+  "description": "Торопиться не стоит (нет нужды тропиться), у нас еще есть несколько часов",
+  "proverb": "No need to hurry, we still have a few hours left"
+ },
+ {
+  "description": "Поезд в Париж отправляется с платформы номер 2",
+  "proverb": "The train to Paris leaves from platform 2"
+ },
+ {
+  "description": "Наш учитель дает нам слишком много домашнего задания",
+  "proverb": "Our teacher gives us too much homework"
+ },
+ {
+  "description": "После ужина я обычно гуляю в парке возле нашего дома",
+  "proverb": "After dinner, I usually go for a walk in the park near our house"
+ },
+ {
+  "description": "ночью",
+  "proverb": "at night"
+ },
+ {
+  "description": "Он не любит ездить (водить машину) ночью",
+  "proverb": "He doesn't like driving at night"
+ },
+ {
+  "description": "Мы пошли погулять по пляжу (вдоль пляжа)",
+  "proverb": "We went for a walk along the beach"
+ },
+ {
+  "description": "Ты хорошо провел время на Пасху?",
+  "proverb": "Did you have a good time at Easter?"
+ },
+ {
+  "description": "Ты хорошо провел время?",
+  "proverb": "Did you have a good time?"
+ },
+ {
+  "description": "Ты хорошо провел время в новогодние праздники?",
+  "proverb": "Did you have a good time at New Year's?"
+ },
+ {
+  "description": "Что ты делаешь на Новый год? (1 января)",
+  "proverb": "What are you doing on New Year's Day?"
+ },
+ {
+  "description": "Какие планы на Новый год? (Что ты делаешь на новогодние праздники?)",
+  "proverb": "What are you doing at New Year's?"
+ },
+ {
+  "description": "Я люблю (мне нравится) сидеть дома и смотреть фильмы на Новый год (1 января)",
+  "proverb": "I like staying at home and watching movies on New Year's Day"
+ },
+ {
+  "description": "Это не кого-то другого проблема, а твоя",
+  "proverb": "That's no one else's problem but yours"
+ },
+ {
+  "description": "Это моя вина (ошибка), и никого другого",
+  "proverb": "That's my fault, no one else's"
+ },
+ {
+  "description": "Это не твое дело",
+  "proverb": "That's none of your business"
+ },
+ {
+  "description": "Я проснулся рано утром",
+  "proverb": "I woke up early in the morning"
+ },
+ {
+  "description": "Я иду в библиотеку вечером (Я собираюсь в библиотеку вечером)",
+  "proverb": "I'm going to the library in the evening"
+ },
+ {
+  "description": "Пожалуйста, верните эти книги до пятницы (к пятнице)",
+  "proverb": "Please return these books by Friday"
+ },
+ {
+  "description": "Это животное всегда охотится ночью (по ночам)",
+  "proverb": "This animal always hunts by night"
+ },
+ {
+  "description": "Она помогла мне нести (мои) чемоданы",
+  "proverb": "She helped me to carry my suitcases"
+ },
+ {
+  "description": "Дождь собирается",
+  "proverb": "It's going to rain"
+ },
+ {
+  "description": "Мне лучше (мне следует) взять зонтик сегодня, потому что будет дождь",
+  "proverb": "I'd better bring an umbrella today, because it's going to rain"
+ },
+ {
+  "description": "Если ты не возьмешь зонт, ты промокнешь",
+  "proverb": "If you don't take an umbrella, you'll get wet"
+ },
+ {
+  "description": "Уже поздно. Я, пожалуй, пойду",
+  "proverb": "It's late. I'd better go"
+ },
+ {
+  "description": "У меня собеседование завтра в 9 утра. Мне следует пораньше лечь спать.",
+  "proverb": "I have a job interview tomorrow at 9am. I'd better go to bed early."
+ },
+ {
+  "description": "Ты опоздал",
+  "proverb": "You're late"
+ },
+ {
+  "description": "Она вынашивает моего ребенка",
+  "proverb": "She is carrying my child"
+ },
+ {
+  "description": "Когда ты в последний раз видел своего отца?",
+  "proverb": "When was the last time you saw your father?"
+ },
+ {
+  "description": "Это еще предстоит выяснить ()",
+  "proverb": "That remains to be seen"
+ },
+ {
+  "description": "Я сожалею, что так поступил (Я сожалею, что сделал такую вещь)",
+  "proverb": "I regret having done such a thing"
+ },
+ {
+  "description": "На него оказывается большое давление (Он находится под большим давлением)",
+  "proverb": "He's under a lot of pressure"
+ },
+ {
+  "description": "Позволь мне дать тебе совет",
+  "proverb": "Let me give you a piece of advice"
+ },
+ {
+  "description": "Мы прибыли в аэропорт",
+  "proverb": "We arrived at the airport"
+ },
+ {
+  "description": "Я изучаю право в Гарварде",
+  "proverb": "I'm studying law at Harvard"
+ },
+ {
+  "description": "Действуйте (продолжайте) в соответствии с графиком / Действуйте по расписанию",
+  "proverb": "Proceed according to schedule"
+ },
+ {
+  "description": "Действуйте соответствующим образом",
+  "proverb": "Proceed accordingly"
+ },
+ {
+  "description": "Это написано в правом верхнем углу страницы",
+  "proverb": "It is written in the top right corner of the page"
+ },
+ {
+  "description": "Она сидит в кресле в углу комнаты",
+  "proverb": "She is sitting in a chair in the corner of the room"
+ },
+ {
+  "description": "Поэма находится на странице 44",
+  "proverb": "The poem is on page 44"
+ },
+ {
+  "description": "Я иду домой",
+  "proverb": "I'm going home"
+ },
+ {
+  "description": "Я собираюсь пойти домой",
+  "proverb": "I'm going to go home"
+ },
+ {
+  "description": "Я еду (иду) на рыбалку завтра",
+  "proverb": "I'm going fishing tomorrow"
+ },
+ {
+  "description": "Я иду спать",
+  "proverb": "I'm going to bed"
+ },
+ {
+  "description": "Не хочешь ли ты пойти погулять (пойти на прогулку)?",
+  "proverb": "Would you like to go for a walk?"
+ },
+ {
+  "description": "Я вырос на ферме",
+  "proverb": "I grew up on a farm"
+ },
+ {
+  "description": "Мне нравится улыбка на ее лице",
+  "proverb": "I like the smile on her face"
+ },
+ {
+  "description": "На дереве три яблока",
+  "proverb": "There are three apples on the tree"
+ },
+ {
+  "description": "Ниагарский водопад расположен на границе между США и Канадой",
+  "proverb": "Niagara Falls is located on the border between the United States and Canada"
+ },
+ {
+  "description": "Я работаю за (своим) компьютером",
+  "proverb": "I am working on my computer"
+ },
+ {
+  "description": "Вы найдете более подробную информацию (больше информации) на нашем сайте",
+  "proverb": "You'll find more information on our website"
+ },
+ {
+  "description": "Я купил эти штаны на распродаже за полцены",
+  "proverb": "I bought these pants on sale for half price"
+ },
+ {
+  "description": "У Джона проблемы в школе",
+  "proverb": "John is having trouble at school"
+ },
+ {
+  "description": "Снег в этом городе такой белый",
+  "proverb": "The snow in this city is so white"
+ },
+ {
+  "description": "У нее интеллект ниже среднего",
+  "proverb": "She's below average intelligence"
+ },
+ {
+  "description": "Мертвое море находится (лежит) ниже уровня моря",
+  "proverb": "The Dead Sea lies below sea level"
+ },
+ {
+  "description": "Около 30% территории Нидерландов находится (лежит) ниже уровня моря",
+  "proverb": "About 30% of the Netherlands lies below sea level"
+ },
+ {
+  "description": "У нее интеллект выше среднего",
+  "proverb": "She's above average intelligence"
+ },
+ {
+  "description": "На лекции было меньше двадцати человек",
+  "proverb": "There were under twenty people at the lecture"
+ },
+ {
+  "description": "На концерте присутствовало (было) более тысячи человек",
+  "proverb": "There were over a thousand people at the concert"
+ },
+ {
+  "description": "Вы должны быть старше 18 лет чтобы посмотреть фильм",
+  "proverb": "You must be over 18 in order to see the film"
+ },
+ {
+  "description": "Я не тороплюсь",
+  "proverb": "I'm not in a hurry"
+ },
+ {
+  "description": "Мой дедушка умер от рака",
+  "proverb": "My grandfather died of cancer"
+ },
+ {
+  "description": "Вор выпрыгнул из окна",
+  "proverb": "The thief jumped out of the window"
+ },
+ {
+  "description": "Мой дом находится в конце дороги",
+  "proverb": "My house is at the end of the road"
+ },
+ {
+  "description": "За кого они голосовали (проголосовали)?",
+  "proverb": "Whom did they vote for?"
+ },
+ {
+  "description": "Я люблю слушать классическую музыку",
+  "proverb": "I love listening to classical music"
+ },
+ {
+  "description": "Автобус остановился на углу Хай-стрит и конгресс-авеню",
+  "proverb": "The bus stopped at the corner of High Street and congress Avenue"
+ },
+ {
+  "description": "Она ходит в церковь каждое воскресенье",
+  "proverb": "She goes to church every Sunday"
+ },
+ {
+  "description": "Вы можете найти это на карте?",
+  "proverb": "Can you find it on the map?"
+ },
+ {
+  "description": "Можешь сделать немного потише?",
+  "proverb": "Can you turn it down a bit?"
+ },
+  {
+  "description": "Не могли бы вы сделать потише?",
+  "proverb": "Would you please turn that down?"
+ },
+ {
+  "description": "Инцидент в настоящее время расследуется (находится под следствием/расследованием)",
+  "proverb": "The incident is currently under investigation"
+ },
+ {
+  "description": "Как сбросить 5 кг менее чем за две недели",
+  "proverb": "How to lose 5 kilos in under two weeks"
+ },
+ {
+  "description": "Более ста человек пришло на вечеринку",
+  "proverb": "Over one hundred people came to the party"
+ },
+ {
+  "description": "Она улыбнулась мне",
+  "proverb": "She smiled at me"
+ },
+ {
+  "description": "Не кричи (ори) на меня!",
+  "proverb": "Don't yell at me!"
+ },
+  {
+  "description": "Нам потребовалось три дня чтобы проехать через пустыню",
+  "proverb": "It took us three days to drive across the desert"
+ },
+ {
+  "description": "Собака перебежала дорогу",
+  "proverb": "The dog ran across the road"
+ },
+ {
+  "description": "Меня чуть не сбила машина",
+  "proverb": "I nearly got hit by a car"
+ },
+ {
+  "description": "Мальчики переплыли (через) озеро",
+  "proverb": "The boys swam across the lake"
+ },
+ {
+  "description": "Он спустился (вниз) по лестнице",
+  "proverb": "He climbed down the ladder"
+ },
+ {
+  "description": "вниз по реке",
+  "proverb": "down the river"
+ },
+ {
+  "description": "Бокал упал со стола и разбился",
+  "proverb": "The wine glass fell off the table and shattered"
+ },
+ {
+  "description": "На что ты уставился? (Что ты пялишься на меня?)",
+  "proverb": "What are you looking at?"
+ },
+ {
+  "description": "Я буду там на рассвете",
+  "proverb": "I'll be there at dawn"
+ },
+ {
+  "description": "Есть запрпавка примерно в миле вверх по дороге",
+  "proverb": "There's a gas station about a mile up the road"
+ },
+ {
+  "description": "Поверните налево сразу за лестницей (за ступеньками)",
+  "proverb": "Turn left just past the stairs"
+ },
+ {
+  "description": "Я люблю шоколад",
+  "proverb": "I love chocolate"
+ },
+ {
+  "description": "Я предпочитаю чай кофе",
+  "proverb": "I prefer tea to coffee"
+ },
+ {
+  "description": "Его работа устраивает (удовлетворяет) его",
+  "proverb": "His job satisfies him"
+ },
+ {
+  "description": "Это меня не касается",
+  "proverb": "It doesn't concern me"
+ },
+ {
+  "description": "Она с кем-то встречается",
+  "proverb": "She is seeing someone"
+ },
+ {
+  "description": "В последнее время я чувствую себя необычно уставшим",
+  "proverb": "I've been feeling unusually tired lately"
+ },
+ {
+  "description": "У этого сыра странный запах (Этот сыр странно пахнет)",
+  "proverb": "This cheese smells funky"
+ },
+ {
+  "description": "Он нюхает цветы",
+  "proverb": "She is smelling the flowers"
+ },
+ {
+  "description": "Это не правильно (Это звучит неправильно)",
+  "proverb": "That doesn't sound right"
+ },
+ {
+  "description": "Ты злишься (ты звучишь рассерженно/сердито)",
+  "proverb": "You sound angry"
+ },
+ {
+  "description": "Тебе лучше (следует) поторопиться",
+  "proverb": "You'd better hurry"
+ },
+ {
+  "description": "Ему нравится кататься на своей лошади",
+  "proverb": "He likes riding his horse"
+ },
+ {
+  "description": "Никто в этом не сомневается",
+  "proverb": "No one doublts that"
+ },
+ {
+  "description": "Ты не возражаешь если я выключу свет?",
+  "proverb": "Do you mind if I turn off the light?"
+ },
+ {
+  "description": "Я не против, если ты не против (Я не возражаю если ты не возражаешь)",
+  "proverb": "I don't mind if you don't mind"
+ },
+ {
+  "description": "Я скучаю по тусовкам (отвисалкам) со своими друзьями",
+  "proverb": "I miss hanging out with my friends"
+ },
+ {
+  "description": "Ходить по улице (проезжей части) опасно",
+  "proverb": "Walking in the street is dangerous"
+ },
+ {
+  "description": "Не играйте на дороге (на проезжей части улицы)!",
+  "proverb": "Don't play in the street!"
+ },
+ {
+  "description": "Ты умрешь медленной и мучительной смертью за свои грехи",
+  "proverb": "You will die a slow and painful death for your sins"
+ },
+ {
+  "description": "Я никогда не забуду путешествия по Европе",
+  "proverb": "I'll never forget traveling across Europe"
+ },
+ {
+  "description": "Не забудь забрать меня из аэропорта в 16:00",
+  "proverb": "Don't forget to pick me up from the airport at 4 pm"
+ },
+ {
+  "description": "в большинстве случаев",
+  "proverb": "in most cases"
+ },
+ {
+  "description": "У меня высокое (кровяное) давление",
+  "proverb": "I have high blood pressure"
+ },
+ {
+  "description": "принимать таблетки",
+  "proverb": "take pills"
+ },
+ {
+  "description": "У меня высокое кровяное давление, поэтому я должен принимать таблетки каждый день",
+  "proverb": "I have high blood pressure so I have to take pills every day"
+ },
+ {
+  "description": "Мы сказали ему об этом на следующий день",
+  "proverb": "We told him about it the following day"
+ },
+ {
+  "description": "Материальные блага ничего не значат для меня",
+  "proverb": "Material possessions mean nothing to me"
+ },
+ {
+  "description": "Похоже она потерялась",
+  "proverb": "She appears to be lost"
+ },
+ {
+  "description": "Те серые тучи обещают дождь",
+  "proverb": "Those gray clouds promise rain"
+ },
+ {
+  "description": "Я подумываю продать свой дом",
+  "proverb": "I've been thinking about selling my house"
+ },
+ {
+  "description": "Неважно что ты думаешь",
+  "proverb": "It doesn't matter what you think"
+ },
+ {
+  "description": "Неважно (Это не имеет значения)",
+  "proverb": "It doesn't matter"
+ },
+ {
+  "description": "Он отрицает что разбил окно (Он отрицает разбивание окна)",
+  "proverb": "He denies breaking the window"
+ },
+ {
+  "description": "У нее припадок",
+  "proverb": "She is having a seizure"
+ },
+ {
+  "description": "Посторонись! (Отойди в сторону!)",
+  "proverb": "Step aside!"
+ },
+ {
+  "description": "У меня грипп",
+  "proverb": "I have the flu"
+ },
+ {
+  "description": "Тебе здесь не место",
+  "proverb": "You don't belong here"
+ },
+ {
+  "description": "Ему принадлежит несколько крупных компаний",
+  "proverb": "He owns several large companies"
+ },
+ {
+  "description": "Это мне не идет! (Это мне не подходит!)",
+  "proverb": "It doesn't fit me!"
+ },
+ {
+  "description": "Это тебе не идет! (Это тебе не подходит!)",
+  "proverb": "It doesn't fit you!"
+ },
+ {
+  "description": "Этот кусок мяса весит два фунта",
+  "proverb": "This piece of meat weighs two pounds"
+ },
+ {
+  "description": "Эта диета состоит в основном из фруктов и овощей",
+  "proverb": "This diet consists of mainly fruit and vegetables"
+ },
+ {
+  "description": "Ложь порождает ложь",
+  "proverb": "A lie begets a lie"
+ },
+ {
+  "description": "Я не куплюсь/поведусь на это снова",
+  "proverb": "I'm not gonna fall for that again"
+ },
+ {
+  "description": "Я не поведусь на это (Я не собираюсь на это вестись)",
+  "proverb": "I'm not gonna fall for that"
+ },
+ {
+  "description": "на прошлых выходных",
+  "proverb": "last weekend"
+ },
+ {
+  "description": "на следующих выходных",
+  "proverb": "next weekend"
+ },
+ {
+  "description": "Он лучший игрок в команде",
+  "proverb": "He's the best player on the team"
+ },
+ {
+  "description": "укрыться, находить убежище",
+  "proverb": "to take refuge"
+ },
+ {
+  "description": "Мы укрываемся (находим убежище) в церкви",
+  "proverb": "We take refuge in the church"
+ },
+ {
+  "description": "Это чрезвычайная ситуация / Это экстренный случай",
+  "proverb": "This is an emergency"
+ },
+ {
+  "description": "Вы арестованы",
+  "proverb": "You are under arrest"
+ },
+ {
+  "description": "Мы попали в аварию",
+  "proverb": "We had an accident"
+ },
+ {
+  "description": "Я могу о себе позаботиться / Я могу за себя постоять",
+  "proverb": "I can take care of myself"
+ },
+ {
+  "description": "Можно задать тебе вопрос? / Можно тебя кое о чем спросить?",
+  "proverb": "Can I ask you something?"
+ },
+ {
+  "description": "Что нам делать? / Что мы будем делать?",
+  "proverb": "What are we gonna do?"
+ },
+ {
+  "description": "Как давно/долго ты здесь? (Как долго ты здесь находишься?)",
+  "proverb": "How long have you been here?"
+ },
+ {
+  "description": "завести друга",
+  "proverb": "to make a friend"
+ },
+ {
+  "description": "Ты с кем-нибудь познакомился? (Ты завел каких-нибудь друзей?)",
+  "proverb": "Have you made any friends?"
+ },
+ {
+  "description": "Джек попал в аварию на прошлой неделе. Он в больнице.",
+  "proverb": "Jack had an accident last week. He is in the hospital."
+ },
+ {
+  "description": "Уголь состоит в основном из углерода",
+  "proverb": "Coal consists mostly of carbon"
+ },
+ {
+  "description": "Успех зависит от того сколько вы прикладываете усилий",
+  "proverb": "Success depends on how much effort you make"
+ },
+ {
+  "description": "Есть ли жизнь на Марсе? (На Марсе существует жизнь?)",
+  "proverb": "Does life exist on Mars?"
+ },
+ {
+  "description": "Чего ты боишься больше всего?",
+  "proverb": "What do you fear most?"
+ },
+ {
+  "description": "Ты похожа на свою мать (ты напоминаешь свою мать)",
+  "proverb": "You resemble your mother"
+ },
+ {
+  "description": "Я скучаю по своим друзьям",
+  "proverb": "I miss my friends"
+ },
+ {
+  "description": "Я скучаю по своей семье",
+  "proverb": "I miss my family"
+ },
+ {
+  "description": "более того",
+  "proverb": "more than that"
+ },
+  {
+  "description": "Я ожидаю (предвкушаю) посещение Нью-Йорка в следующем месяце",
+  "proverb": "I anticipate visiting New York next month"
+ },
+ {
+  "description": "Я не могу сдержать улыбки, когда я вижу ее",
+  "proverb": "I can't help smiling when I see her"
+ },
+ {
+  "description": "Я трус и я не могу ничего с этим поделать",
+  "proverb": "I can't help being a coward"
+ },
+ {
+  "description": "Мы рассматриваем возможность продажи дома (Мы рассматриваем/обдумываем продажу дома)",
+  "proverb": "We're considering selling the house"
+ },
+ {
+  "description": "Она отложила выполнение (своего) домашнего задания",
+  "proverb": "She delayed doing her homework"
+ },
+  {
+  "description": "Она не любит смотреть телевизор",
+  "proverb": "She dislikes watching TV"
+ },
+ {
+  "description": "Мне не нравится когда меня перебивают (Я не люблю когда меня перебивают)",
+  "proverb": "I dislike being interrupted"
+ },
+ {
+  "description": "Я всегда боюсь публичных выступлений (Я всегда ужасаюсь говорить перед людьми)",
+  "proverb": "I always dread speaking in front of people"
+ },
+ {
+  "description": "Мы терпели его болтовню три часа (Мы вынуждены были слушать его три часа)",
+  "proverb": "We endured listening to him for three hours"
+ },
+ {
+  "description": "Мы обожаем ходить в походы",
+  "proverb": "We enjoy hiking"
+ },
+ {
+  "description": "Я обожаю играть в видео игры",
+  "proverb": "I enjoy playing video games"
+ },
+ {
+  "description": "Он избежал медленной и мучительной смерти (Он избежал умереть медленной и мучительной смертью)",
+  "proverb": "He escaped dying a slow and painful death"
+ },
+ {
+  "description": "Он спросил меня, что я делаю",
+  "proverb": "He asked me what I was doing"
+ },
+ {
+  "description": "Он сказал мне, что он учитель",
+  "proverb": "He told me he was a teacher"
+ },
+ {
+  "description": "Это тебя не касается (2)",
+  "proverb": "It doesn't involve you"
+ },
+ {
+  "description": "Он предложил остановиться в Гранд Отеле",
+  "proverb": "He suggested staying at the Grand Hotel"
+ },
+ {
+  "description": "Она закончила писать письмо",
+  "proverb": "She finished writing the letter"
+ },
+ {
+  "description": "Он продолжает действовать мне на нервы",
+  "proverb": "He keeps getting on my nerves"
+ },
+ {
+  "description": "Они были вынуждены сдаться врагу",
+  "proverb": "They were forced to give in to the enemy"
+ },
+ {
+  "description": "Лидерство подразумевает умение подавать пример (включает в себя подачу примера), которому хотят следовать другие",
+  "proverb": "Leadership involves setting an example that others want to follow"
+ },
+ {
+  "description": "подавать пример",
+  "proverb": "set an example"
+ },
+ {
+  "description": "Они продолжали пытаться, пока не добились успеха",
+  "proverb": "They kept on trying until they succeeded"
+ },
+ {
+  "description": "Дом строится (Дом на стадии строительства)",
+  "proverb": "The house is under construction"
+ },
+ {
+  "description": "Этот сайт перегружен (Этот сайт находится под большой нагрузкой)",
+  "proverb": "This website is under heavy load"
+ },
+ {
+  "description": "Our website is under construction",
+  "proverb": "Наш сайт находится в стадии разработки"
+ },
+ {
+  "description": "Ты завтракал перед те как уйти на работу (перед тем как ушел на работу)?",
+  "proverb": "Had you had breakfast before you left for work?"
+ },
+ {
+  "description": "У меня есть несколько вещей, о которых я хочу с тобой поговорить",
+  "proverb": "I have a number of things I want to talk to you about"
+ },
+ {
+  "description": "Я понимаю (осознаю), что я был неправ",
+  "proverb": "I realize I was wrong"
+ },
+ {
+  "description": "Мне не нравится, что ты разговариваешь со мной в таком тоне (Я не ценю, что ты так со мной разговариваешь)",
+  "proverb": "I don't appreciate you talking to me like that"
+ },
+ {
+  "description": "Мне не нравится (Я не ценю) когда меня игнорируют",
+  "proverb": "I don't appreciate being ignored"
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",
