@@ -513,7 +513,7 @@
  },
  {
   "description": "Дождя не было с весны",
-  "proverb": "It has not rained since spring"
+  "proverb": "It hasn't rained since spring"
  },
  {
   "description": "Как долго вы здесь работаете?",
@@ -2096,7 +2096,7 @@
   "proverb": "Do you want to bake or fry these vegetables?"
  },
  {
-  "description": "Надеюсь, мы поняли друг друга?",
+  "description": "Надеюсь, мы поняли (понимаем) друг друга?",
   "proverb": "Do we understand each other?"
  },
  {
@@ -2120,7 +2120,11 @@
   "proverb": "My stomach hurts"
  },
  {
-  "description": "Что у тебя на уме? (Что тебя гложет?)",
+  "description": "Прекрати! Ты делаешь мне больно!",
+  "proverb": "Stop it! You're hurting me!"
+ },
+ {
+  "description": "Что тебя гложет? (Что у тебя на уме?)",
   "proverb": "What's on your mind?"
  },
   {
@@ -2152,8 +2156,8 @@
   "proverb": "My favorite show is on TV"
  },
  {
-  "description": "No, the bone is not broken",
-  "proverb": "Нет, кость не сломана"
+  "description": "Нет, кость не сломана",
+  "proverb": "No, the bone is not broken"
  },
  {
   "description": "У меня слабая грудь (грудная клетка)",
@@ -2228,8 +2232,8 @@
   "proverb": "The next two weeks will be tough"
  },
  {
-  "description": "Над уровнем моря",
-  "proverb": "Above sea level"
+  "description": "над уровнем моря",
+  "proverb": "above sea level"
  },
  {
   "description": "Я должен тебе кое-что сказать",
@@ -2290,6 +2294,10 @@
  {
   "description": "Я раньше жил в Испании (Я когда-то жил в Испании)",
   "proverb": "I used to live in Spain"
+ },
+ {
+  "description": "Раньше я вставал рано",
+  "proverb": "I used to get up early"
  },
  {
   "description": "Мне потребовалось время чтобы к этому привыкнуть",
@@ -2388,8 +2396,8 @@
   "proverb": "Being healthy is worth any money"
  },
  {
-  "description": "The girl has the father's eyes and the mother's nose",
-  "proverb": "У девочки глаза отца и нос матери"
+  "description": "У девочки глаза отца и нос матери",
+  "proverb": "The girl has the father's eyes and the mother's nose"
  },
  {
   "description": "Щёки моей жены покраснели",
@@ -4546,5 +4554,261 @@
  {
   "description": "Мы отложили поездку в Чикаго на неделю",
   "proverb": "We postponed traveling to Chicago for a week"
- }
+ },
+ {
+  "description": "Я тренируюсь игре на пианино каждый день (Я практикую игру на пианино каждый день)",
+  "proverb": "I practice playing the piano every day"
+ },
+ {
+  "description": "Его увечье (инвалидность) не позволяет ему (лишает его возможности) водить автомобиль",
+  "proverb": "His disability prevents him from driving"
+ },
+ {
+  "description": "Они пытались помешать мне уйти",
+  "proverb": "They tried to prevent me leaving"
+ },
+ {
+  "description": "Я в отпуске уже два дня",
+  "proverb": "I have been on vacation for two days"
+ },
+ {
+  "description": "Я настоятельно рекомендую принять некоторые меры предосторожности",
+  "proverb": "I highly recommend taking some precautions"
+ },
+ {
+  "description": "Сантехник порекомендовал купить новый бойлер (водонагреватель)",
+  "proverb": "The plumber recommended buying a new water heater"
+ },
+ {
+  "description": "Я настоятельно рекомендую",
+  "proverb": "I highly recommend"
+ },
+ {
+  "description": "Она возмущается когда ей говорят что делать",
+  "proverb": "She resents being told what to do"
+ },
+ {
+  "description": "Он не мог устоять чтобы не съесть торт",
+  "proverb": "He couldn't resist eating the cake"
+ },
+ {
+  "description": "Он рисковал быть пойманным",
+  "proverb": "He risked being caught"
+ },
+ {
+  "description": "Она рискует потерять работу",
+  "proverb": "She risks losing her job"
+ },
+ {
+  "description": "Я терпеть не могу, когда мне говорят, что делать",
+  "proverb": "I can't stand being told what to do"
+ },
+ {
+  "description": "Я не могу позволить (Я не могу терпеть) чтобы на меня кричали",
+  "proverb": "I can't tolerate being screamed at"
+ },
+ {
+  "description": "Я остановился покурить",
+  "proverb": "I stopped to smoke"
+ },
+ {
+  "description": "Немедленно прекратите шуметь!",
+  "proverb": "Stop making this noise at once!"
+ },
+ {
+  "description": "Я попытался открыть окно, но оно оказалось слишком тяжелым",
+  "proverb": "I tried to open the window, but it was too heavy"
+ },
+ {
+  "description": "В комнате было жарко, и я попробовал (как вариант) открыть окно",
+  "proverb": "The room was hot and I tried opening the window"
+ },
+ {
+  "description": "Я сожалею (жалею) что сказала тебе что я встечалась с другим",
+  "proverb": "I regret telling you that I was seeing someone else"
+ },
+ {
+  "description": "С сожалением сообщаем вам, что вы провалили экзамен",
+  "proverb": "We regret to inform you that you have failed the exam"
+ },
+ {
+  "description": "Я не мог заснуть, поэтому попробовал посмотреть фильм (как альтернативу)",
+  "proverb": "I couldn't get to sleep so I tried watching the movie"
+ },
+ {
+  "description": "Выключи свет. Я не могу заснуть.",
+  "proverb": "Turn off the light. I can't get to sleep."
+ },
+ {
+  "description": "Я не могу спать с включенным светом",
+  "proverb": "I can't sleep with the lights on"
+ },
+ {
+  "description": "Ты не сумасшедший, и никогда им не был",
+  "proverb": "You are not crazy, and never have been"
+ },
+ {
+  "description": "Сэм сильно похудел с прошлого месяца",
+  "proverb": "Sam has lost a lot of weight since last month"
+ },
+ {
+  "description": "Я сожалею что не сказал тебе правду",
+  "proverb": "I regret not telling you the truth"
+ },
+ {
+  "description": "накрывать на стол",
+  "proverb": "to set the table"
+ },
+ {
+  "description": "под водой",
+  "proverb": "under water"
+ },
+ {
+  "description": "отправиться в путешествие / совершить путешествие",
+  "proverb": "take a trip"
+ },
+ {
+  "description": "Он был настолько болен, что провел неделю в больнице",
+  "proverb": "He was so sick he spent a week in the hospital"
+ },
+ {
+  "description": "с точки зрения / в плане",
+  "proverb": " in terms of"
+ },
+ {
+  "description": "Это исключение из правила",
+  "proverb": "This is an exception to the rule"
+ },
+ {
+  "description": "Так держать! / Продолжай в том же духе!",
+  "proverb": "Keep it up!"
+ },
+ {
+  "description": "Красная площадь - самая большая и известная площадь в России",
+  "proverb": "Red Square is the largest and most famous square in Russia"
+ },
+ {
+  "description": "Вы можете объехать остров за день (Вы можете объехать вокруг острова за день)",
+  "proverb": "You can drive around the island in a day"
+ },
+ {
+  "description": "Я только что принял душ",
+  "proverb": "I have just taken a shower"
+ },
+ {
+  "description": "Я только что получил новое сообщение",
+  "proverb": "I have just received a new message"
+ },
+ {
+  "description": "У тебя что-то на лице",
+  "proverb": "You have something on your face"
+ },
+ {
+  "description": "Я встерил ее на богослужинии (на службе в церкви)",
+  "proverb": "I met her at church"
+ },
+ {
+  "description": "Я встерил ее у церкви",
+  "proverb": "I met her at the church"
+ },
+ {
+  "description": "Я встретил ее в церкви (в здании церкви)",
+  "proverb": "I met her in the church"
+ },
+ {
+  "description": "Он признался/сознался в краже денег",
+  "proverb": "He confessed to stealing the money"
+ },
+ {
+  "description": "Он сознался в преступлении",
+  "proverb": "He confessed to the crime"
+ },
+ {
+  "description": "Ты стареешь",
+  "proverb": "You're getting old"
+ },
+ {
+  "description": "приходить на ум",
+  "proverb": "come to mind"
+ },
+ {
+  "description": "Я развожу пчел (Я держу пчел)",
+  "proverb": "I keep bees"
+ },
+ {
+  "description": "Мне нужно приучить себя вставать рано",
+  "proverb": "I need to get used to getting up early"
+ },
+ {
+  "description": "Я потерял свой бумажник",
+  "proverb": "I have lost my wallet"
+ },
+ {
+  "description": "Ты видел мой телефон? (Контекст: я не могу найти свой телефон)",
+  "proverb": "Have you seen my phone?"
+ },
+ {
+  "description": "Если бы я мог сделать больше, я бы это сделал",
+  "proverb": "If there was more I could've done, I would've done it"
+ },
+ {
+  "description": "Не храните (не держите) это лекарство на солнце",
+  "proverb": "Don't keep this medicine in the sun"
+ },
+ {
+  "description": "Как все прошло?",
+  "proverb": "How did it go?"
+ },
+ {
+  "description": "Возможно это не самая худшая идея",
+  "proverb": "Maybe it's not the worst idea"
+ },
+ {
+  "description": "У тебя ужасный музыкальный вкус (У тебя ужасный вкус в музыке)",
+  "proverb": "You have terrible taste in music"
+ },
+ {
+  "description": "Ты не разбираешься в одежде (У тебя ужасный вкус в одежде)",
+  "proverb": "You have terrible taste in clothes"
+ },
+ {
+  "description": "У нас полно времени",
+  "proverb": "We have plenty of time"
+ },
+ {
+  "description": "Дети на каникулах уже две недели",
+  "proverb": "The kids have been on vacation two weeks"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
 ]
