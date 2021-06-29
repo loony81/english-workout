@@ -10379,6 +10379,12 @@
       ]
    },
    {
+      "proverb":"I lost some weight once, but I found it again in the fridge",
+      "sounds":[
+         "Audio recording 2021-06-16 13-27-45.aac"
+      ]
+   },
+   {
       "proverb":"I need a shot of vodka",
       "sounds":[
          "Audio recording 2020-08-28 09-59-02.aac"
@@ -10827,8 +10833,7 @@
    {
       "proverb":"If at first you don't succeed try, try and try again (Do not be discouraged by failure, and never give up; if you keep trying you will ultimately enjoy success)",
       "sounds":[
-         "discouraged.aac",
-         "discouraged1.aac"
+         "discouraged.aac"
       ]
    },
    {

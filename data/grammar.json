@@ -1062,11 +1062,11 @@
   "description": "This sentence demonstrates the use of the definite article with the names of stations"
  }, 
  {
-  "proverb": "One of the Big Apple's most famous landmarks, Grand Central Terminal officially opened in February 1913.", 
+  "proverb": "One of the Big Apple's most famous landmarks, Grand Central Terminal, officially opened in February 1913.", 
   "sounds": [
    "thebigapple.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with the names stations and also when to use 'in' as a preposition of time"
+  "description": "This sentence demonstrates the use of the definite article with the names stations and also demonstrates when to use the possessive 's"
  }, 
  {
   "proverb": "Buckingham Palace is where the Queen of England officially lives.", 
@@ -1354,7 +1354,7 @@
   "sounds": [
    "fewpeople.aac"
   ], 
-  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also the difference between 'few' and 'a few'. Notice that 'on the beach' literally means the sand on the beach. 'at the beach' has a much broader scope"
  }, 
  {
   "proverb": "I have a number of things I want to talk to you about. He has a good job and makes a large amount of money.", 
@@ -1368,14 +1368,14 @@
   "sounds": [
    "fewpotatoes.aac"
   ], 
-  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also the difference between 'few' and 'a few'"
  }, 
  {
   "proverb": "No need to hurry! We still have a few hours left.", 
   "sounds": [
    "afewhours.aac"
   ], 
-  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also when to use 'few' and 'a few'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns, and also the difference between 'few' and 'a few'"
  }, 
  {
   "proverb": "Our teacher gives us too much homework.", 
@@ -1678,14 +1678,14 @@
   "sounds": [
    "onvacation.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation' and 'on holiday'"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
  }, 
  {
   "proverb": "When I was on holiday in Cancun I caught swine fever.", 
   "sounds": [
    "onholiday.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation' and 'on holiday'"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture. But here's where it gets tricky – when you're in the middle of a vacation, American English speakers say you are on vacation, and British English speakers say you are on holiday."
  }, 
  {
   "proverb": "The printing press was invented in the Middle Ages.", 
@@ -1771,7 +1771,7 @@
   "sounds": [
    "by1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. The preposition 'by' is used to indicate the end time of an activity, meaning 'no later than'"
+  "description": "These sentences demonstrate how to use prepositions of time. The preposition 'by' is used to indicate the end time of an activity, meaning 'no later than' (к полудню, к 8 часам)"
  }, 
  {
   "proverb": "This animal always hunts by night.", 
@@ -1955,7 +1955,7 @@
   "sounds": [
    "burgerking.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes, theaters, etc"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes, theaters, etc. Notice that there is no 'the' before Burger King because it is a proper noun, the name of the street is also a proper noun."
  }, 
  {
   "proverb": "They are sitting at the table. They are sitting on the table.", 
@@ -2125,7 +2125,7 @@
   "sounds": [
    "lake.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place when talking about bodies of water. In the first sentence we mean the surface of the lake (for example lake boating). The second sentence means having a picnic at the beach (not on the water). The third sentence uses 'in' because people are submerged in water, and not necessarily on the surface"
+  "description": "These sentences demonstrate how to use prepositions of place when talking about bodies of water. In the first sentence we mean the surface of the lake (for example lake boating). The second sentence means having a picnic at the beach (not on the water). We can also say: We want to have a picnic by the lake. The third sentence uses 'in' because people are submerged in water, and not necessarily on the surface"
  }, 
  {
   "proverb": "London is on the river Thames. He has a house on the river.", 
@@ -2174,14 +2174,14 @@
   "sounds": [
    "phone.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices. Maybe because an electronic device has a flat surface"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices. Maybe because the screen of an electronic device has a flat surface (display)"
  }, 
  {
   "proverb": "I was working on my computer.", 
   "sounds": [
    "computer.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices. Maybe because an electronic device has a flat surface"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices. Maybe because the screen of an electronic device has a flat surface (display)"
  }, 
  {
   "proverb": "I heard it on the radio.", 
@@ -2195,14 +2195,14 @@
   "sounds": [
    "phone1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because an electronic device has a flat surface. It also demonstrates that  We use 'too much' with uncout and 'too many' with count nouns in negative sentences, when we want to express that we don't like something"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because the screen of an electronic device has a flat surface (display). It also demonstrates that  We use 'too much' with uncout and 'too many' with count nouns in negative sentences, when we want to express that we don't like something"
  }, 
  {
   "proverb": "My favorite show is on TV. What's on TV tonight? Have you ever been on TV?", 
   "sounds": [
    "tv.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because an electronic device has a flat surface"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' with electronic devices (when information is represented on electronic devices). Maybe because the screen of an electronic device has a flat surface (display)"
  }, 
  {
   "proverb": "Do not go on the Internet.", 
@@ -2574,7 +2574,7 @@
   "sounds": [
    "toilet.aac"
   ], 
-  "description": "This sentence demonstrates how to use modal verbs. We use the modal verb should+have/has+p.p for past (hindsight) advice or regrets"
+  "description": "This sentence demonstrates how to use modal verbs. We use the modal verb should + have + p.p for past (hindsight) advice or regrets"
  },
  {
   "proverb": "There's too much sugar in soft drinks.", 
@@ -2903,35 +2903,35 @@
   "sounds": [
    "across.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it."
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs"
  },
  {
   "proverb": "The dog ran across the road and nearly got hit by a car. The train goes through a tunnel under the hill.", 
   "sounds": [
    "tunnel.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it."
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs"
  },
  {
   "proverb": "We took a boat across the river. He escaped through a door in the back of the building.", 
   "sounds": [
    "escaped.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it."
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs"
  },
  {
   "proverb": "There are many villages across the border. He looked through the window.", 
   "sounds": [
    "villages.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it."
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs"
  },
  {
   "proverb": "The boys swam across the lake. The arrow went through the air.", 
   "sounds": [
    "arrow.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it."
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs"
  },
  {
   "proverb": "We went for a walk along the beach at twilight.", 
@@ -3116,7 +3116,7 @@
   "description": "love/hate/like/dislike/want are stative verbs. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form."
  },
  {
-  "proverb": "She has always wanted to become a writer", 
+  "proverb": "She has always wanted to become a writer.", 
   "sounds": [
    "want.aac"
   ], 
@@ -3554,7 +3554,7 @@
   "sounds": [
    "depend.aac", "depend1.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. In most cases 'depend' is used as a stative verb and means to be influenced or determined by something else. But we often find it being used in the continuous form, especially when its subject is a person, when one person/people is/are relying on another person right now in a specific situation."
+  "description": "Some verbs can be either stative or dynamic depending on the situation. In most cases 'depend' is used as a stative verb and means to be influenced or determined by something else. But we often find it being used in the continuous form, especially when its subject is a person, when one person/people is/are relying on another person right now in a specific situation (полагаться на кого-то)."
  },
  {
   "proverb": "The hotel room charge includes breakfast. The report includes detailed financial information for the past five years.", 
@@ -3790,7 +3790,14 @@
   "sounds": [
    "Audio recording 2021-02-05 12-27-41.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'defend' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'making' is the object of 'defend'"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'defend' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'making' is the object of 'defend'. Another example: 'They defended carrying out their actions'"
+ },
+ {
+  "proverb": "They defended carrying out their actions.", 
+  "sounds": [
+   "defend.aac"
+  ], 
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'defend' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'making' is the object of 'defend'."
  },
  {
   "proverb": "She delayed doing her homework.", 
@@ -4217,7 +4224,7 @@
   "sounds": [
    "regret.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions to apologise for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form here. 'see' as an action verb means to have a relationship with someone"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions to apologise for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form. 'see' as an action verb means to have a relationship with someone"
  },
  {
   "proverb": "I regret to inform you that you have failed the exam. I regret not telling you the truth.",
@@ -4620,7 +4627,7 @@
   "sounds": [
    "dog.aac"
   ],
-  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first"
+  "description": "We use the past perfect and past simple together to talk about two events in the past and show which one happened first. This sentence can also be described as reported speech (John: - Have you seen my dog?)'"
  },
  {
   "proverb": "Had you had breakfast before you left the house?",
@@ -4655,7 +4662,7 @@
   "sounds": [
    "turkey.aac"
   ],
-  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. The original sentence is 'I have been to Turkey 5 times'"
+  "description": "Reported speech is often combined with the Past Perfect tense. Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. The original sentence is 'I have been to Turkey 5 times'"
  },
  {
   "proverb": "When we arrived at the cinema, the film had already started.",
@@ -4714,63 +4721,63 @@
   "sounds": [
    "finished.aac"
   ],
-  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future."
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future. If it is another action in the future, the action is described using the Present Simple tense (when you arrive, when he arives, when I arrive). Notice that the verb 'finish' is always followed by a gerund"
  },
  {
   "proverb": "When she wakes up, he will have gone to work. Next week we'll have been together for two years.",
   "sounds": [
    "together.aac"
   ],
-  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future (second sentence) or another action in the future (first sentence)."
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future (second sentence) or another action in the future (first sentence). Notice that if it is another action in the future, the action is described using the Present Simple tense (when she wakes up, when you wake up, when I wake up)"
  },
  {
   "proverb": "I won't have finished work by 8 p.m. Will you have eaten when I pick you up?",
   "sounds": [
    "eaten.aac"
   ],
-  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future."
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future. If it is another action in the future, the action is described using the Present Simple tense (when I pick you up, when he picks you up, etc)"
  },
  {
   "proverb": "By the time you read this I will have left. Will you have finished when I get back?",
   "sounds": [
    "read.aac"
   ],
-  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future."
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future. If it is another action in the future, the action is described using the Present Simple tense (when I get back, when he gets back, when you get back, etc)"
  },
  {
   "proverb": "In November, I will have been working at my company for three years.",
   "sounds": [
    "november.aac"
   ],
-  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished and will still be in progress at some other point in the future, either a specific time in the future (in November) or another action in the future. It is most often used with a time expression (for three years). Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
  },
  {
   "proverb": "I will have been waiting here for three hours by six o'clock.",
   "sounds": [
    "waiting.aac"
   ],
-  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished and will still be in progress at some other point in the future, either a specific time in the future (by six o'clock) or another action in the future. It is most often used with a time expression (for three hours). Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
  },
  {
   "proverb": "You will have been waiting for 2 hours when I arrive.",
   "sounds": [
    "waiting1.aac"
   ],
-  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished and will still be in progress at some other point in the future, either a specific time in the future or another action in the future (when I arrive). If it is another action in the future, the action is described using the Present Simple tense (when I arrive). Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
  },
  {
   "proverb": "In ten minutes you will have been driving non-stop for six hours.",
   "sounds": [
    "driving.aac"
   ],
-  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished and will still be in progress at some other point in the future, either a specific time in the future (in 10 minutes) or another action in the future. It is most often used with a time expression (for six hours). Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense, for example: On Thursday, I will have known you for a week."
  },
  {
   "proverb": "On Thursday, I will have known you for a week.",
   "sounds": [
    "thursday.aac"
   ],
-  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense"
+  "description": "Like the future perfect simple, future perfect continuous is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished and will still be in progress at some other point in the future, either a specific time in the future (On Thursday) or another action in the future. It is most often used with a time expression (for a week). Remember that nonaction verbs like to be, to seem, or to know are not suited to the future perfect continuous tense. Instead, these verbs take the future perfect tense"
  },
  {
   "proverb": "I'm going to eat pizza. I will eat pizza.",
@@ -4812,7 +4819,7 @@
   "sounds": [
    "scratched.aac"
   ],
-  "description": "'whose' is a possessive determiner or pronoun, which is used for adding information about a person or thing."
+  "description": "'whose' is a possessive determiner or pronoun (mine, ours, yours, his, hers, its, etc), which is used for adding information about a person or thing."
  },
  {
   "proverb": "Do you know whose car that is? The company, whose workers are now being forced to stay home, will probably go bankrupt.",
@@ -4882,7 +4889,7 @@
   "sounds": [
    "school4.aac"
   ],
-  "description": "When we are talking about school in the general sense of education, we do not use articles with it (abstract uncountable noun similar to home or work). Fixed expressions: (go) to school, (be) at/in school, start school, finish school. It can also mean a building where children/adults receive education, then we can say 'a school' or 'the school' (the last sentence)."
+  "description": "School is a strange word! When we are talking about school in the general sense of education, we do not use articles with it (abstract uncountable noun similar to home or work). Fixed expressions: (go) to school, (be) at/in school, start school, finish school. It can also mean a building where children/adults receive education, then we can say 'a school' or 'the school' (the last sentence)."
  },
  {
   "proverb": "He is still in school. He is still at school.",
@@ -4959,7 +4966,7 @@
   "sounds": [
    "win.aac"
   ],
-  "description": "In the seconds after you win, you can say 'I win!'' or 'Somebody wins!' or 'You win!'. Five minutes later/20 years later, you must say 'I won' or 'Somebody won' when referring to the same contest."
+  "description": "In the seconds after you win, you can say 'I win!' or 'Somebody wins!' or 'You win!'. Five minutes later/20 years later, you must say 'I won' or 'Somebody won' when referring to the same contest."
  },
  {
   "proverb": "I am in the street. I am at the street. I am on the street.",
@@ -5141,20 +5148,69 @@
   "sounds": [
    "reported.aac"
   ],
-  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. To say 'He told me he is a teacher' is incorrect. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'I will live in Russia' becomes 'He told me they would live in Russia'"
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. To say 'He told me he is a teacher' is incorrect. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'They will live in Russia' becomes 'He told me they would live in Russia'"
  },
  {
   "proverb": "I haven't seen Mike. He said that he hadn't seen Mike.",
   "sounds": [
    "reported1.aac"
   ],
-  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'I will live in Russia' becomes 'He told me they would live in Russia'"
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'They will live in Russia' becomes 'He told me they would live in Russia'"
  },
  {
   "proverb": "I can speak perfect English. She said she could speak perfect English.",
   "sounds": [
    "reported2.aac"
   ],
-  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'I will live in Russia' becomes 'He told me they would live in Russia'"
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'They will live in Russia' becomes 'He told me they would live in Russia'"
+ },
+ {
+  "proverb": "The girl whose purse I found called me to return it.",
+  "sounds": [
+   "identifying_clause.aac"
+  ],
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'The girl called me to return it'. What girl? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause."
+ },
+ {
+  "proverb": "The movie which I saw last weekend was excellent.",
+  "sounds": [
+   "identifying_clause_1.aac"
+  ],
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'The movie was excellent'. Which movie? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
+ },
+ {
+  "proverb": "I saw a car which was white.",
+  "sounds": [
+   "identifying_clause_2.aac"
+  ],
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'I saw a car'. Which car? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
+ },
+ {
+  "proverb": "That's the street which I grew up on.",
+  "sounds": [
+   "identifying_clause_3.aac"
+  ],
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'That's the street'. Which street? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
+ },
+ {
+  "proverb": "Harry Potter, which I finished last week, was an excellent book.",
+  "sounds": [
+   "non-identifying_clause.aac"
+  ],
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. We use non-identifying clauses to provide additional information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Harry Potter was an excellent book'. Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' or 'who'."
+ },
+ {
+  "proverb": "Toronto, which is heavily populated, is a multicultural city.",
+  "sounds": [
+   "non-identifying_clause_1.aac"
+  ],
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. We use non-identifying clauses to provide additional information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Toronto is a multicultural city'. Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' or 'who'."
+ },
+ {
+  "proverb": "The man who lives next door is a doctor. Dr. Smith, who lives next door, is a retired surgeon.",
+  "sounds": [
+   "relative_clauses.aac"
+  ],
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. Without it the sentence won't be complete and will lose its meaning. We can't say: 'The man is a doctor'. What man? We do not use commas to highlight an identifying clause.\nA non-identifying clause provides extra information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Dr. Smith is a retired surgeon.' Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' (for things) or 'who' (for people)."
  }
 ]
