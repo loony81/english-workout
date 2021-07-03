@@ -912,7 +912,7 @@
   "sounds": [
    "niagarafalls.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with geographical names (waterfalls)"
+  "description": "This sentence demonstrates the use of the definite article with waterfalls"
  }, 
  {
   "proverb": "I hope one day humans will visit Saturn.", 
@@ -1256,7 +1256,7 @@
   "sounds": [
    "dinner3.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal.Also, the verb 'have' is used in the continuous form here and means 'experiencing' or 'taking', although it is usually used as a stative verb."
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Also, the verb 'have' is used in the continuous form here and means 'experiencing' or 'taking', although it is usually used as a stative verb."
  }, 
  {
   "proverb": "We organized a dinner for Dad's birthday.", 
@@ -2749,42 +2749,42 @@
   "sounds": [
    "belief.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The police put her under arrest.", 
   "sounds": [
    "arrest.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The house is under construction.", 
   "sounds": [
    "construction.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The incident is currently under investigation.", 
   "sounds": [
    "incident.aac", "incident1.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "His suggestion is still under discussion.", 
   "sounds": [
    "suggestion.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "How to lose 5 kilos in under two weeks.", 
   "sounds": [
    "kilos.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. describing situations, conditions, when something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "You have to be 18 or over to see this film.", 
@@ -2868,7 +2868,7 @@
   "sounds": [
    "excused.aac"
   ], 
-  "description": "This sentence demonstrates when and how to use the modal verb 'may'. In this example it is used to ask for permission and to grant permission. (we can also use 'can' and 'could' to ask for permission, but 'may' is the most polite modal verb to use with permissions)"
+  "description": "This sentence demonstrates when and how to use the modal verb 'may'. In this example it is used to ask for permission and to grant permission. (we can also use 'can' and 'could' to ask for permission, but 'may' is the most polite modal verb to use with permissions). A request is something you ask other people to do, a permission is something you ask to do yourself"
  },
  {
   "proverb": "We drove to the airport. We arrived at the airport.", 
@@ -3148,7 +3148,7 @@
   "sounds": [
    "wish.aac"
   ], 
-  "description": "'wish' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I am wishing ...'"
+  "description": "'wish' is a stative verb. Stative verbs are not normally used in the continuous form. We can't say 'I am wishing ...'. Also notice that the verb 'wish' is often used with the subjunctive mood because the meaning is close to something that is unreal. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. For a wish about a situation in the present, we use the past simple tense"
  },
  {
   "proverb": "I hope they get the punishment they deserve.", 
@@ -3661,7 +3661,7 @@
   "sounds": [
    "admit.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). Normally, after the word 'to' we use the base form of the verb, but there are some exceptions. Two such exceptions are the words 'confess' or 'admit' to doing something. In this sentence, the word 'making' is a gerund and it acts as the object of 'admitted to'. To better understand: the preposition 'to' is part of 'admit to', it does not belong to 'make'. There are some other verbs that follow this pattern: 'devoted', 'dedicated' and 'committed' to doing something, and also 'opposed' or 'object' to doing something."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). Normally, after the word 'to' we use the base form of the verb, but there are some exceptions. Two such exceptions are the verbs 'confess' and 'admit' to doing something. In this sentence, the word 'making' is a gerund and it acts as the object of 'admitted to'. To better understand: the preposition 'to' is part of 'admit to', it does not belong to 'make'. There are some other verbs that follow this pattern: 'devoted', 'dedicated' and 'committed' to doing something, and also 'opposed' or 'object' to doing something."
  },
  {
   "proverb": "I anticipate visiting New York next month.", 
@@ -3783,7 +3783,7 @@
   "sounds": [
    "consider.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'consider' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'leaving' is the object of 'consider' -  мы посчитали что лучше выйти пораньше (мы рассмотрели уход пораньше)"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'consider' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'leaving' is the object of 'consider' -  мы посчитали что лучше уйти пораньше (мы рассмотрели уход пораньше)"
  },
  {
   "proverb": "The lawyer defended her making such statements.", 
@@ -4091,7 +4091,7 @@
   "sounds": [
    "resume.aac"
   ],
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resume - возобновлять, продолжать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' is the object of 'resume': мы возобновили разговор об"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resume - возобновлять, продолжать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' is the object of 'resume': мы возобновили разговор об. Also notice that we use the preposition 'at' with events"
  },
  {
   "proverb": "He risked being caught. She risks losing her job.",
@@ -5008,7 +5008,7 @@
   "sounds": [
    "getortake.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bar waiter for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other example: take a dump (no one there, only you), take a flight, take a shower, get sick, get a raise (the boss gave you a raise), get a cold (someone infected you)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bar waiter for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick, get a raise (the boss gave you a raise), get a cold (someone infected you)"
  },
  {
   "proverb": "For his birthday, Mike got a brand new drill set. Helen has high blood pressure, so she takes pills every day.",
@@ -5212,5 +5212,40 @@
    "relative_clauses.aac"
   ],
   "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. Without it the sentence won't be complete and will lose its meaning. We can't say: 'The man is a doctor'. What man? We do not use commas to highlight an identifying clause.\nA non-identifying clause provides extra information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Dr. Smith is a retired surgeon.' Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' (for things) or 'who' (for people)."
+ },
+ {
+  "proverb": "Which is the farthest planet from the Sun?",
+  "sounds": [
+   "farthest.aac"
+  ],
+  "description": "The adjectives 'good', 'bad', and 'far' are irregular, their superlative forms are the best, the worst and the farthest/furthest"
+ },
+ {
+  "proverb": "On average, it rains once a week here. On an average day, I get five phone calls.",
+  "sounds": [
+   "average2.aac"
+  ],
+  "description": "These two sentences demonstrate the difference between 'on average' and 'on an average'. 'on average' just means 'в среднем', it doesn't require any additional articles. The use of an article (in this case the indefinite article 'an') can only be used if 'average' is followed by a noun: on an average day/week/month, etc. Don't say 'on the average', it is not used in BrE and is very rare in AmE"
+ },
+ {
+  "proverb": "I wish I were taller. I wish he were a nicer person. I wish I hadn't eaten so much. I wish the sun would come out.",
+  "sounds": [
+   "wish1.aac"
+  ],
+  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are close to the unrealness. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. For a wish about a situation in the present (first two sentences), we use the past simple tense: 'I am not tall' becomes 'I wish I were taller'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further: 'I ate too much' becomes 'I wish I hadn't eaten so much'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It is cloudy today. I wish the sun would come out.'"
+ },
+ {
+  "proverb": "I wish I were rich. He wishes he were taller. I wish I had studied harder in high school. I wish it would rain.",
+  "sounds": [
+   "wish2.aac"
+  ],
+  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are close to the unrealness. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. For a wish about a situation in the present (first two sentences), we use the past simple tense:'I am poor' becomes 'I wish I were rich'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further, i.e use the past perfect tense: 'I didn't study hard in high school' becomes 'I wish I had studied harder in high school'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It hasn't rained for two weeks. I wish ...'"
+ },
+ {
+  "proverb": "He is in a meeting. He is at a meeting.",
+  "sounds": [
+   "meeting.aac"
+  ],
+  "description": "Both 'in' and 'at' can be used interchangeably but they can have slightly different meanings. Use 'in' when referring to the meeting as an activity without specifying location. 'he is in a meeting' means that he is in the midst of a group of people who are discussing something and he is actively involved in it. Use 'at' when referring to the meeting as a location or event. Also 'in a meeting' implies being on the same premises as the speaker. 'at a meeting' implies being on a different premises than the speaker."
  }
 ]

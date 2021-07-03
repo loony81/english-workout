@@ -672,7 +672,7 @@
   "proverb": "I was just being polite"
  },
  {
-  "description": " Вдвое больше",
+  "description": "Вдвое больше (об неисчисляемых существительных)",
   "proverb": "Twice as much"
  },
  {
@@ -1125,7 +1125,7 @@
  },
  {
   "description": "Он попытался её забыть, но это не сработало",
-  "proverb": "He tried to forget her but it did not work"
+  "proverb": "He tried to forget her but it did't work"
  },
  {
   "description": "Если у вас есть информация об этой женщине, пожалуйста, позвоните нам",
@@ -1576,8 +1576,12 @@
   "proverb": "There are many differences between American and British English"
  },
  {
-  "description": "Есть разница между Католической церковью и Православной церковью (Восточной Православной церковью). В чем разница между Католической церковью и Православной церковью?",
-  "proverb": "There is a difference between the Catholic Church and the Eastern Orthodox Church. What is the difference between the Catholic Church and the Eastern Orthodox Church?"
+  "description": "Есть разница между Католической церковью и Православной церковью (Восточной Православной церковью).",
+  "proverb": "There is a difference between the Catholic Church and the Eastern Orthodox Church."
+ },
+ {
+  "description": "В чем разница между Католической церковью и Православной церковью (Восточной Православной церковью)?",
+  "proverb": "What is the difference between the Catholic Church and the Eastern Orthodox Church?"
  },
  {
   "description": "Как это на вкус? / На что это похоже по вкусу?",
@@ -2336,7 +2340,7 @@
   "proverb": "I have a stomachache"
  },
  {
-  "description": "В два раза больше / Вдвое больше",
+  "description": "В два раза больше / Вдвое больше (об исчисляемых существительных)",
   "proverb": "Twice as many"
  },
  {
@@ -3893,7 +3897,7 @@
  },
  {
   "description": "Пожалуйста, верните эти книги до пятницы (к пятнице)",
-  "proverb": "Please return these books by Friday"
+  "proverb": "Please, return these books by Friday"
  },
  {
   "description": "Это животное всегда охотится ночью (по ночам)",
@@ -3988,7 +3992,7 @@
   "proverb": "I'm going to go home"
  },
  {
-  "description": "Я еду (иду) на рыбалку завтра",
+  "description": "Я иду (собираюсь) на рыбалку завтра",
   "proverb": "I'm going fishing tomorrow"
  },
  {
@@ -4012,7 +4016,7 @@
   "proverb": "There are three apples on the tree"
  },
  {
-  "description": "Ниагарский водопад расположен на границе между США и Канадой",
+  "description": "Ниагарский водопад расположен на границе между Соединенными Штатами и Канадой",
   "proverb": "Niagara Falls is located on the border between the United States and Canada"
  },
  {
@@ -4248,7 +4252,7 @@
   "proverb": "You will die a slow and painful death for your sins"
  },
  {
-  "description": "Я никогда не забуду путешествия по Европе",
+  "description": "Я никогда не забуду путешествие по Европе",
   "proverb": "I'll never forget traveling across Europe"
  },
  {
@@ -4548,8 +4552,8 @@
   "proverb": "This website is under heavy load"
  },
  {
-  "description": "Our website is under construction",
-  "proverb": "Наш сайт находится в стадии разработки"
+  "description": "Наш сайт находится в стадии разработки",
+  "proverb": "Our website is under construction"
  },
  {
   "description": "Ты завтракал перед те как уйти на работу (перед тем как ушел на работу)?",
@@ -4697,7 +4701,7 @@
  },
  {
   "description": "с точки зрения / в плане",
-  "proverb": " in terms of"
+  "proverb": "in terms of"
  },
  {
   "description": "Это исключение из правила",
@@ -4844,7 +4848,7 @@
   "proverb": "We arrived at the airport at 6 pm"
  },
  {
-  "description": "Рейс отправился в 17:00",
+  "description": "Рейс отправился в 17:00 (контекст: о самолете)",
   "proverb": "The flight left at 5 pm"
  },
  {
@@ -5365,7 +5369,7 @@
  },
  {
   "description": "Ты проводишь слишком много времени за компьютером",
-  "proverb": "You spend too much time at the computer"
+  "proverb": "You spend too much time on the computer"
  },
  {
   "description": "Мне не нравятся люди которые задают слишком много вопросов",
@@ -5392,19 +5396,211 @@
   "proverb": "How many friends do you have on Facebook?"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Не желаете что-нибудь перекусить? (Не желаете чего-нибудь съесть?)",
+  "proverb": "Would you like something to eat?"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Он ведет себя очень странно",
+  "proverb": "He's behaving very strangely"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Это было так дорого, что мы не могли себе этого позволить",
+  "proverb": "It was so expensive that we couldn't afford it"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Была такая непогода, что нам пришлось целый день сидеть дома (Была такая плохая погода, что нам пришлось оставаться дома весь день)",
+  "proverb": "There was such bad weather that we had to stay home all day"
+ },
+ {
+  "description": "Все произошло так быстро",
+  "proverb": "Everything happened so quickly"
+ },
+ {
+  "description": "Музыка была такой громкой, что мы вызвали полицию",
+  "proverb": "The music was so loud we called the police"
+ },
+ {
+  "description": "Что бы вы посоветовали из меню?",
+  "proverb": "What would you recommend from the menu?"
+ },
+ {
+  "description": "Я полностью с тобой согласен (Не могу с тобой не согласиться)",
+  "proverb": "I couldn't agree with you more"
+ },
+ {
+  "description": "Я в этом не уверен",
+  "proverb": "I'm not sure about that"
+ },
+ {
+  "description": "Могу я это примерить? (контекст: одежда)",
+  "proverb": "Can I try this on?"
+ },
+ {
+  "description": "Как бы вы хотели расплатиться (расчитаться)? (контекст: оплата товара или услуги)",
+  "proverb": "How would you like to pay?"
+ },
+ {
+  "description": "Я заплачу наличными",
+  "proverb": "I will pay in cash"
+ },
+ {
+  "description": "Могу ли я заплатить кредитной картой?",
+  "proverb": "Can I pay with a credit card?"
+ },
+ {
+  "description": "Вы принимаете кредитные карты?",
+  "proverb": "Do you take credit cards?"
+ },
+ {
+  "description": "Извини, что заставил тебя ждать",
+  "proverb": "I'm sorry for keeping you waiting"
+ },
+ {
+  "description": "на мой взгляд / по моему мнению",
+  "proverb": "in my opinion"
+ },
+ {
+  "description": "на севере",
+  "proverb": "in the north"
+ },
+ {
+  "description": "Какая планета дальше всего (самая дальняя) от Солнца?",
+  "proverb": "Which is the farthest planet from the Sun?"
+ },
+ {
+  "description": "Самый старый мужчина в мире живет в Индонезии",
+  "proverb": "The oldest man in the world lives in Indonesia"
+ },
+ {
+  "description": "Это был самый счастливый день моей жизни",
+  "proverb": "It was the happiest day of my life"
+ },
+ {
+  "description": "Прошлое лето было самым засушливым сезоном за всю историю",
+  "proverb": "Last summer was driest season in recorded history"
+ },
+ {
+  "description": "за всю историю",
+  "proverb": "in recorded history"
+ },
+ {
+  "description": "Я на 10 лет старше своей жены",
+  "proverb": "I'm 10 years older than my wife"
+ },
+ {
+  "description": "Хуже со мной ничего в жизни не было (Это худший опыт который я когда-либо имел)",
+  "proverb": "It's the worst experience I've ever had"
+ },
+ {
+  "description": "в среднем",
+  "proverb": "on average"
+ },
+ {
+  "description": "Нью-Йорк - самый густонаселенный город США",
+  "proverb": "New York is the most populated city in the US"
+ },
+ {
+  "description": "Афины - самый старый город в мире",
+  "proverb": "Athens is the oldest city in the world"
+ },
+ {
+  "description": "Мужчинам проще худеть чем женщинам (Мужчины теряют вес легче, чем женщины)",
+  "proverb": "Men lose weight more easily than women"
+ },
+ {
+  "description": "Где находится ближайшая заправка?",
+  "proverb": "Where is the nearest gas station?"
+ },
+ {
+  "description": "Это лучшая еда, которую я когда-либо пробовал",
+  "proverb": "This is the best food I've ever tried"
+ },
+ {
+  "description": "Это самая ужасная вещь, которую я когда-либо испытывал",
+  "proverb": "It's the most horrible thing I've ever experienced"
+ },
+ {
+  "description": "Он самый приятный человек, которого я когда-либо встречал",
+  "proverb": "He is the nicest person I've ever met"
+ },
+ {
+  "description": "Какай самая дешевая страна в которой ты когда-либо был?",
+  "proverb": "What's the cheapest country you've ever been to?"
+ },
+ {
+  "description": "Лондон расположен на реке Темза",
+  "proverb": "London is on the river Thames"
+ },
+ {
+  "description": "Хотел бы я знать",
+  "proverb": "I wish I knew"
+ },
+ {
+  "description": "Ницца находится на южном побережье Франции",
+  "proverb": "Nice is on the south coast of France"
+ },
+ {
+  "description": "Мне страшно (Я боюсь) когда я еду со скоростью более 100 километров в час",
+  "proverb": "I get scared when I drive over 100 kilometers an hour"
+ },
+ {
+  "description": "Тебе следует ездить медленнее, иначе ты попадешь в аварию",
+  "proverb": "You should drive more slowly or you'll have an accident"
+ },
+ {
+  "description": "Он не способен о себе позаботиться",
+  "proverb": "He isn't capable of taking care of himself"
+ },
+ {
+  "description": "Я сожалею (Мне жаль) что не написал раньше",
+  "proverb": "I'm sorry for not writing sooner"
+ },
+ {
+  "description": "Я устал тебя слушать",
+  "proverb": "I'm tired of listening to you"
+ },
+ {
+  "description": "Он очень зол на тебя",
+  "proverb": "He's very angry with you"
+ },
+ {
+  "description": "Я сожалею о том (Я извиняюсь за то) что случилось прошлой ночью",
+  "proverb": "I'm sorry for what happened last night"
+ },
+ {
+  "description": "Я боюсь высоты",
+  "proverb": "I'm afraid of heights"
+ },
+ {
+  "description": "Алекс очень хорошо решает кроссворды (Алекс очень хорош в решении кроссвордов)",
+  "proverb": "Alex is very good at solving crossword puzzles"
+ },
+ {
+  "description": "Раньше они жили в сельской местности, а теперь они живут в городе",
+  "proverb": "They used to live in the country, but now they live in the city"
+ },
+ {
+  "description": "Еслы бы я был богатым (Я желаю быть богатым)",
+  "proverb": "I wish I were rich"
+ },
+ {
+  "description": "Если бы я был выше (Я желаю быть выше)",
+  "proverb": "I wish I were taller"
+ },
+ {
+  "description": "Я жалею что я съел так много",
+  "proverb": "I wish I hadn't eaten so much"
+ },
+ {
+  "description": "Я жалею что не учился усерднее в средней школе",
+  "proverb": "I wish I had studied harder in high school."
+ },
+ {
+  "description": "Я к этому привык",
+  "proverb": "I'm used to it"
+ },
+ {
+  "description": "Она была в кинотеатре в момент совершения преступления",
+  "proverb": "She was at the cinema at the moment the crime was committed"
  }
 ]
