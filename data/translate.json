@@ -96,7 +96,7 @@
   "proverb": "Make sure it works!"
  },
  {
-  "description": "Я вам не мешаю?",  
+  "description": "Я вас не побеспокоил? / Я не помешал?",  
   "proverb": "Am I bothering you?"
  },
  {
@@ -926,6 +926,10 @@
  {
   "description": "Я не против (Я не возражаю)",
   "proverb": "I don't mind"
+ },
+  {
+  "description": "Я возражаю / Мне не все равно",
+  "proverb": "I do mind"
  },
  {
   "description": "На улице идет дождь",
@@ -2304,7 +2308,7 @@
   "proverb": "I used to get up early"
  },
  {
-  "description": "Мне потребовалось время чтобы к этому привыкнуть",
+  "description": "Мне потребовалось некоторое время чтобы к этому привыкнуть (Это заняло у меня некоторое время чтобы привыкнуть)",
   "proverb": "It took me some time to get used to it"
  },
  {
@@ -2776,7 +2780,7 @@
   "proverb": "What did you have for dinner?"
  },
  {
-  "description": "Стоит попробовать",
+  "description": "Стоит попробовать (Это стоит того чтобы попробовать)",
   "proverb": "It's worth a try"
  },
  {
@@ -3168,7 +3172,7 @@
   "proverb": "When I arrive, I will call you"
  },
  {
-  "description": "Она меня не слушает",
+  "description": "Она меня не слушает (контекст: не в данный момент а вообще)",
   "proverb": "She doesn't listen to me"
  },
  {
@@ -3244,7 +3248,7 @@
   "proverb": "Can you please do the dishes?"
  },
  {
-  "description": "Он перебросил мяч через забор, и тот упал (приземлился) на крышу автомобиля",
+  "description": "Он бросил мяч через забор, и тот упал (приземлился) на крышу автомобиля",
   "proverb": "He threw the ball over the fence and it landed on the roof of a car"
  },
  {
@@ -3388,7 +3392,7 @@
   "proverb": "There are thousands of stars in the night sky"
  },
  {
-  "description": "Нам не успеть вовремя (Мы не успеем вовремя)",
+  "description": "Мы не успеем вовремя (Нам никогда не успеть вовремя)",
   "proverb": "We'll never make it on time"
  },
  {
@@ -4108,7 +4112,7 @@
   "proverb": "Can you turn it down a bit?"
  },
   {
-  "description": "Не могли бы вы сделать потише?",
+  "description": "Не могли бы вы, пожалуйста, сделать потише?",
   "proverb": "Would you please turn that down?"
  },
  {
@@ -4556,7 +4560,7 @@
   "proverb": "Our website is under construction"
  },
  {
-  "description": "Ты завтракал перед те как уйти на работу (перед тем как ушел на работу)?",
+  "description": "Ты завтракал перед тем как уйти на работу (перед тем как ушел на работу)?",
   "proverb": "Had you had breakfast before you left for work?"
  },
  {
@@ -4808,7 +4812,7 @@
   "proverb": "The kids have been on vacation two weeks"
  },
  {
-  "description": "С каких это пор тебя это остановило?",
+  "description": "С каких это пор тебя это остановливало?",
   "proverb": "Since when has that stopped you?"
  },
  {
@@ -4856,7 +4860,7 @@
   "proverb": "After I had had a bath, I watched TV"
  },
  {
-  "description": "have a bath",
+  "description": "to have a bath",
   "proverb": "принимать ванну"
  },
  {
@@ -4880,7 +4884,7 @@
   "proverb": "I'm working on it"
  },
  {
-  "description": "Я прождал там больше двух часов, когда она наконец прибыла",
+  "description": "Я прождал там больше двух часов, когда она наконец объявилась (прибыла)",
   "proverb": "I had been waiting there for more than two hours when she finally arrived"
  },
  {
@@ -4913,11 +4917,11 @@
  },
  {
   "description": "Я бы хотел забронировать столик",
-  "proverb": " I would like to book a table"
+  "proverb": "I would like to book a table"
  },
  {
   "description": "Я бы хотел забронировать столик на двоих",
-  "proverb": " I would like to book a table for two"
+  "proverb": "I would like to book a table for two"
  },
  {
   "description": "Я бы хотел забронировать комнату пожалуйста",
@@ -4980,7 +4984,7 @@
   "proverb": "I'm still at work"
  },
  {
-  "description": "Когда мы возвращались из церкви случилось что-то странное (На нашем обратном пути из церкви случилось что-то странное)",
+  "description": "Когда мы возвращались со службы случилось что-то странное (На нашем обратном пути из церкви случилось что-то странное)",
   "proverb": "On our way back from church something strange happened"
  },
  {
@@ -5602,5 +5606,237 @@
  {
   "description": "Она была в кинотеатре в момент совершения преступления",
   "proverb": "She was at the cinema at the moment the crime was committed"
+ },
+ {
+  "description": "Она прицелилась (Она навелась на цель)",
+  "proverb": "She aimed at the target"
+ },
+ {
+  "description": "Они помахали нам пока мы проезжали мимо",
+  "proverb": "They waved at us as we drove by"
+ },
+ {
+  "description": "Ты будешь ждать уже 2 часа к тому времени как я прийду (прибуду)",
+  "proverb": "You will have been waiting for 2 hours when I arrive"
+ },
+ {
+  "description": "Я не люблю рыбу (контекст: еда)",
+  "proverb": "I don't like fish"
+ },
+ {
+  "description": "На ужин рыба (У нас рыба на ужин)",
+  "proverb": "We're having fish for dinner"
+ },
+ {
+  "description": "Другими словами",
+  "proverb": "In other words"
+ },
+ {
+  "description": "Ты влип (У тебя неприятности)",
+  "proverb": "You are in trouble"
+ },
+ {
+  "description": "У меня неприятности? / У меня проблемы?",
+  "proverb": "Am I in trouble?"
+ },
+ {
+  "description": "Кто этот человек рядом с тобой на фото?",
+  "proverb": "Who is that person next to you in the photo?"
+ },
+ {
+  "description": "Буду очень признателен за любую помощь (Любая помощь будет оценена по достоинству)",
+  "proverb": "Any help would be greatly appreciated"
+ },
+ {
+  "description": "Запомни мои слова / Попомни мои слова",
+  "proverb": "Mark my words"
+ },
+ {
+  "description": "Буду очень признателен за любой совет (Любой совет будет оценен по достоинству)",
+  "proverb": "Any advice would be greatly appreciated"
+ },
+ {
+  "description": "Он понимает английский но не говорит на нем",
+  "proverb": "He understands English but does not speak it"
+ },
+ {
+  "description": "Тигр обитает в Азии",
+  "proverb": "The tiger lives in Asia"
+ },
+ {
+  "description": "Она сказала что может говорить на идеальном английском",
+  "proverb": "She said she could speak perfect English"
+ },
+ {
+  "description": "В среднем здесь идет дождь раз в неделю",
+  "proverb": "On average, it rains once a week here"
+ },
+ {
+  "description": "Я не видел тебя на службе в прошлое воскресенье (контекст: церковь)",
+  "proverb": "I didn't see you at church last Sunday"
+ },
+ {
+  "description": "Он наконец осознал масштаб проблемы",
+  "proverb": "He finally realized the scope of the problem"
+ },
+ {
+  "description": "Вам придется перетерпеть/пережить это со мной",
+  "proverb": "You'll have to bear with me here"
+ },
+ {
+  "description": "Я взял выходной (Я взял отгул)",
+  "proverb": "I took a day off"
+ },
+ {
+  "description": "смириться",
+  "proverb": "put up"
+ },
+ {
+  "description": "откладывать",
+  "proverb": "put off"
+ },
+ {
+  "description": "Не ходите по траве!",
+  "proverb": "Keep off the grass!"
+ },
+ {
+  "description": "Не лезь! Убъет!",
+  "proverb": "Keep off!"
+ },
+ {
+  "description": "Держись!",
+  "proverb": "Hold on!"
+ },
+ {
+  "description": "Я больше не могу с этим мириться",
+  "proverb": "I can't put up with it any longer"
+ },
+ {
+  "description": "Не откладывай уборку своей комнаты!",
+  "proverb": "Don't put off cleaning your room!"
+ },
+ {
+  "description": "Не откладывай выполнение своего домашнего задания!",
+  "proverb": "Don't put off doing your homework!"
+ },
+ {
+  "description": "Мы разберемся! (Мы найдем этому решение!)",
+  "proverb": "We'll figure it out!"
+ },
+ {
+  "description": "Не откладывай на завтра то, что можешь сделать сегодня",
+  "proverb": "Don't put off until tomorrow what you can do today"
+ },
+ {
+  "description": "Они отклонили наше приглашение",
+  "proverb": "They turned down our invitation"
+ },
+ {
+  "description": "Я пригласил ее на свидание, но она мне отказала",
+  "proverb": "I asked her out, but she turned me down"
+ },
+ {
+  "description": "Он уменьшил громкость",
+  "proverb": "He turned the volume down"
+ },
+ {
+  "description": "Клиент/Покупатель устал ждать",
+  "proverb": "The customer grew tired of waiting"
+ },
+ {
+  "description": "Я надеюсь все будет хорошо / Я надеюсь все обернется к лучшему",
+  "proverb": "I hope everything turns out all right"
+ },
+ {
+  "description": "Как выяснилось, я был прав с самого начала",
+  "proverb": "As it turned out, I was right all along"
+ },
+ {
+  "description": "Можешь мне сказать где он обычно околачивается/тусуется?",
+  "proverb": "Can you tell me where he hangs out?"
+ },
+ {
+  "description": "Сбежавший заключенный сдался полиции",
+  "proverb": "The escaped prisoner turned himself in"
+ },
+ {
+  "description": "Я сдался (полиции)",
+  "proverb": "I turned myself in"
+ },
+ {
+  "description": "Мне пришлось убить ее, потому что она сказала, что сдаст меня (выдаст меня полиции)",
+  "proverb": "I had to kill her because she said she would turn me in"
+ },
+ {
+  "description": "Том подошел к парадной двери и позвонил в звонок",
+  "proverb": "Tom walked up to the front door and rang the bell"
+ },
+ {
+  "description": "Если ты снова проспишь, ты будешь уволен",
+  "proverb": "If you sleep in again, you'll get fired"
+ },
+ {
+  "description": "Она принимает ванну каждый вечер",
+  "proverb": "She has a bath every evening"
+ },
+ {
+  "description": "Она принимает ванну (прямо) сейчас",
+  "proverb": "She is having a bath right now"
+ },
+ {
+  "description": "не останавливаться ни перед чем",
+  "proverb": "to stop at nothing"
+ },
+ {
+  "description": "Она ни перед чем не остановится, чтобы получить то что она хочет",
+  "proverb": "She will stop at nothing to get what she wants"
+ },
+ {
+  "description": "В этом нет никакого смысла",
+  "proverb": "This doesn't make any sense"
+ },
+ {
+  "description": "Что это должно значить?",
+  "proverb": "What is that supposed to mean?"
+ },
+ {
+  "description": "Балтийское море находится к северу от Польши",
+  "proverb": "The Baltic Sea is north of Poland"
+ },
+ {
+  "description": "Время обедать (ужинать)!",
+  "proverb": "Time for dinner!"
+ },
+ {
+  "description": "Ты как раз к ужину",
+  "proverb": "You're just in time for dinner"
+ },
+ {
+  "description": "Я скучаю по своему брату",
+  "proverb": "I miss my brother"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  }
 ]

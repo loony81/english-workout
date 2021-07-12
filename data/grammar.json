@@ -975,7 +975,7 @@
   "sounds": [
    "mcdonalds.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with the names of companies, brands, websites (these are considered proper nouns). Another rule that can be applied here is that McDonald's is a fast-food chain named after its founder"
+  "description": "Usually the definite article is used with pubs, restaurants and hotels, but not when they are named after their owners/founders. McDonald's is a fast-food chain named after its founder. Another rule that can be applied here is that the definite article is not used with the names of companies (proper nouns)"
  },
  {
   "proverb": "She has a Ph.D. from MIT. But the Massachusetts Institute of Technology.", 
@@ -1263,21 +1263,21 @@
   "sounds": [
    "dinner4.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Think of it as an event"
  }, 
  {
   "proverb": "We didn't like the dinner.", 
   "sounds": [
    "dinner5.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Think of it as an event"
  }, 
  {
   "proverb": "I am not hungry right now. I had a big breakfast.", 
   "sounds": [
    "breakfast2.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Think of it as an event"
  }, 
  {
   "proverb": "I've never tried Korean food.", 
@@ -1919,7 +1919,7 @@
   "sounds": [
    "aunt.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes etc. We often say: I am at John's or she is at her aunt's (the implication is John's house or aunt's house)"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes etc. We often say: I am at John's or she is at her aunt's (the implication is John's house or aunt's house)"
  }, 
  {
   "proverb": "My friend works at the hospital downtown.", 
@@ -1990,7 +1990,7 @@
   "sounds": [
    "atthetopof.aac"
   ], 
-  "description": "This sentence explains how to use prepositions of place. We always say 'at the top of', or 'at the bottom of'"
+  "description": "This sentence explains how to use prepositions of place. We always say 'at the top of', or 'at the bottom of' something"
  }, 
  {
   "proverb": "The museum is at the end of the street. The car was stopped in the middle of the street.", 
@@ -2693,98 +2693,98 @@
   "sounds": [
    "pressure.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speed, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "The cat is under the bed.", 
   "sounds": [
    "cat.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speed, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "This bar is popular among the under-40 crowd.", 
   "sounds": [
    "crowd.aac", "crowd1.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speed, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "There were under twenty people at the lecture.", 
   "sounds": [
    "lecture.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speed, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "How to get any girl in under 60 seconds.", 
   "sounds": [
    "seconds.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speed, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "I'm wearing a T-shirt under my jacket.", 
   "sounds": [
    "jacket.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speed, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "If the victim was over 15 but under 21 years of age, the penalty shall be life imprisonment.", 
   "sounds": [
    "victim.aac", "victim1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The prepositions 'under' and 'over' are mostly used when talking about movement, but they are also used as prepositions of place with: 1. ages (younger than or older than); 2. numbers (less than or more than): speeds, numbers of people, time; 3. wearing clothes;"
+  "description": "This sentence demonstrates how to use prepositions of place. The prepositions 'under' and 'over' are mostly used when talking about movement, but they are also used as prepositions of place with: 1. ages (younger than or older than); 2. numbers (less than or more than): speed, numbers of people, time; 3. wearing clothes;"
  },
  {
   "proverb": "The orchestra performed magically under the direction of the genius conductor.", 
   "sounds": [
    "orchestra.aac", "orchestra1.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speeds, numbers of people, time; 5. wearing clothes"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else; 2. controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 3. with ages (younger than); 4.  numbers (less than): speed, numbers of people, time; 5. wearing clothes"
  },
  {
   "proverb": "He was under the mistaken belief that I was in charge.", 
   "sounds": [
    "belief.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The police put her under arrest.", 
   "sounds": [
    "arrest.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The house is under construction.", 
   "sounds": [
    "construction.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The incident is currently under investigation.", 
   "sounds": [
    "incident.aac", "incident1.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "His suggestion is still under discussion.", 
   "sounds": [
    "suggestion.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "How to lose 5 kilos in under two weeks.", 
   "sounds": [
    "kilos.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speeds, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "You have to be 18 or over to see this film.", 
@@ -2973,10 +2973,10 @@
   "sounds": [
    "off.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of movement. The preposition/adverb 'off' indicates movement away from the surface of (and often down) something "
+  "description": "These sentences demonstrate how to use prepositions of movement. The preposition/adverb 'off' indicates movement away from the surface of (and often down) something. Actually this adverb/preposition has many uses and forms a lot of phrasal verbs: take off, turn off, doze off, get off, pay off, finish off, keep off, etc"
  },
  {
-  "proverb": "I've never been to the sea", 
+  "proverb": "I've never been to the sea.", 
   "sounds": [
    "to-the-sea.aac"
   ], 
@@ -3449,14 +3449,14 @@
   "sounds": [
    "have2.aac"
   ], 
-  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases are countable"
+  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases and conditions are countable"
  },
  {
   "proverb": "I have the flu. She is having a seizure.", 
   "sounds": [
    "have3.aac", "have4.aac"
   ], 
-  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases are countable"
+  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases and conditions are countable"
  },
  {
   "proverb": "She has a bath every evening. She is having a bath right now.", 
@@ -4077,7 +4077,7 @@
   "sounds": [
    "resent.aac"
   ],
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resent' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'being' and 'having' are the objects of 'resent'."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resent - возмущаться/негодовать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'being' and 'having' are the objects of 'resent'."
  },
  {
   "proverb": "She couldn't resist laughing at him in those clothes. He couldn't resist eating the cake.",
@@ -5078,7 +5078,7 @@
   "sounds": [
    "learn.aac"
   ],
-  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
+  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
  },
  {
   "proverb": "Where did you learn how to bake so well? Did you study baking in school?",
@@ -5092,21 +5092,21 @@
   "sounds": [
    "learn1.aac"
   ],
-  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
+  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
  },
  {
   "proverb": "She always studies before an exam. I learned a lot of new things at school yesterday.",
   "sounds": [
    "study1.aac"
   ],
-  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test (изучать). However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
+  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test (изучать). Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
  },
  {
   "proverb": "My teacher says that if you don't study, you won't pass the exam. When did you learn how to play the guitar?",
   "sounds": [
    "learn2.aac"
   ],
-  "description": "To study means to read, memorize facts or attend school in order to learn about a subject (изучать, исследовать). To learn means to gain knowledge or skill by studying, practicing, being taught or experiencing something (освоить, научиться чему-либо). Learning is gaining knowledge by studying, and studying is done to learn things. Here's an expression that helps to better understand the difference: 'I studied but I did not learn anything'"
+  "description": "To study means to read, memorize facts or attend school in order to learn about a subject (изучать, исследовать). Studying involves sitting at a table, reading books on a subject, writing notes, etc. To learn means to gain knowledge or skill by studying, practicing, being taught or experiencing something (освоить, научиться чему-либо). Learning is gaining knowledge by studying, and studying is done to learn things. Here's an expression that helps to better understand the difference: 'I studied but I did not learn anything'."
  },
  {
   "proverb": "I'm studying law at Harvard. I study law at Harvard.",
@@ -5134,7 +5134,7 @@
   "sounds": [
    "thetime.aac"
   ],
-  "description": "If someone asks you 'Do you have the time?', they basically ask 'What time is it?'. If someone asks you 'Do you have time?', they want to know if you are free to talk to you about something or they want you to help them with something"
+  "description": "If someone asks you 'Do you have the time?', they basically ask 'What time is it?'. If someone asks you 'Do you have time?', they want to know if you are free to talk to you about something or to help them with something"
  },
   {
   "proverb": "I had my car fixed. I had the package delivered. My hair is too long, I should get it cut by a barber. My teeth hurt, I should have them looked at by a dentist.",
