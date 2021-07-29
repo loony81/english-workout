@@ -293,7 +293,7 @@
   "sounds": [
    "dominican.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning (The Netherlands), or if a country is composed of a group of small islands (The Philippines)"
  }, 
  {
   "proverb": "We took a trip down the Nile.", 
@@ -999,6 +999,13 @@
   "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
+  "proverb": "Larry Page and Sergey Brin met at Stanford University where they studied for their PhD's in computer science.", 
+  "sounds": [
+   "stanford.aac"
+  ], 
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+ }, 
+ {
   "proverb": "In Brazil people speak Portuguese. The Japanese language is very complex.", 
   "sounds": [
    "japanese.aac"
@@ -1168,7 +1175,7 @@
   "description": "This sentence demonstrates that we do not use any articles (definite or indefinite) before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
  }, 
  {
-  "proverb": "We rarely get snow in winter. We rarely get snow in the winter. Both these sentences are correct.", 
+  "proverb": "We rarely get snow in winter. We rarely get snow in the winter.", 
   "sounds": [
    "winter.aac"
   ], 
@@ -1200,7 +1207,7 @@
   "sounds": [
    "hockey.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with sports and other physical activities (hockey is an uncount noun). Also notice that the verb 'love' can be followed by either a gerund or an infinitive with no changing in meaning. We could say 'He loves to watch hockey ...' and it would mean the same"
+  "description": "This sentence demonstrates the use of the definite article with sports and other physical activities (hockey is an uncount noun: playing hockey, watching hockey). Also notice that the verb 'love' can be followed by either a gerund or an infinitive with no changing in meaning. We could say 'He loves to watch hockey ...' and it would mean the same"
  }, 
  {
   "proverb": "Of all the subjects taught in school, I like Geography best.", 
@@ -1445,7 +1452,7 @@
   "sounds": [
    "toomuch1.aac"
   ], 
-  "description": "These sentences demonstrate when to use 'much', 'many' and 'a lot of'. We tend to use 'many' and 'much' in questions and negatives, and use 'lots of' or 'a lot of' in affirmative statements"
+  "description": "These sentences demonstrate when to use 'much', 'many' and 'a lot of'. We tend to use 'many' and 'much' in questions and negatives, and use 'lots of' or 'a lot of' in affirmative statements. Notice that the verb 'feel' can also be used in the continuous form without any change in meaning"
  },
  {
   "proverb": "I have a lot of friends. I have too many friends.", 
@@ -1678,14 +1685,14 @@
   "sounds": [
    "onvacation.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
  }, 
  {
   "proverb": "When I was on holiday in Cancun I caught swine fever.", 
   "sounds": [
    "onholiday.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture. But here's where it gets tricky – when you're in the middle of a vacation, American English speakers say you are on vacation, and British English speakers say you are on holiday."
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture. But here's where it gets tricky – when you're in the middle of a vacation, American English speakers say you are on vacation, and British English speakers say you are on holiday. Also most long term diseases are not countable"
  }, 
  {
   "proverb": "The printing press was invented in the Middle Ages.", 
@@ -2097,7 +2104,7 @@
   "sounds": [
    "ontheleft.aac"
   ], 
-  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it means location that's why it is used with the preposition of place 'on'. 'to the left' means 'налево', it means direction, that's why it is used with the preposition of movement/direction 'to'"
+  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it implies location that's why it is used with the preposition of place 'on'. 'to the left' means 'налево', it implies direction, that's why it is used with the preposition of movement/direction 'to'"
  }, 
  {
   "proverb": "There are three apples on the tree.", 
@@ -2420,7 +2427,7 @@
   "sounds": [
    "garden.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'in' with enclosed spaces"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'in' with enclosed spaces. Forests, gardens, parks and squares are considered enclosed spaces"
  },
  {
   "proverb": "There is always lots of action in Times Square.", 
@@ -2441,7 +2448,7 @@
   "sounds": [
    "inthecountry.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'. And we normally use a gerund after 'like', 'love', 'hate', 'prefer', but we use 'to + infinitive' after would like, would love, would hate, would prefer. Also notice that 'like', 'love', 'hate' and 'prefer' are stative verbs"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'). And we normally use a gerund after 'like', 'love', 'hate', 'prefer', but we use 'to + infinitive' after would like, would love, would hate, would prefer. Also notice that 'like', 'love', 'hate' and 'prefer' are stative verbs"
  },
  {
   "proverb": "Don't keep this medicine in the sun.", 
@@ -2791,7 +2798,7 @@
   "sounds": [
    "film.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when something covers something, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when something covers something else, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "Over one hundred people came to the party.", 
@@ -2882,7 +2889,7 @@
   "sounds": [
    "beers.aac"
   ], 
-  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it means location that's why it is used with the preposition of place 'on'. 'to the left' means 'налево', it means direction, that's why it is used with the preposition of movement/direction 'to'"
+  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it implies location that's why it is used with the preposition of place 'on'. 'to the left' means 'налево', it implies direction, that's why it is used with the preposition of movement/direction 'to'"
  },
  {
   "proverb": "She smiled at me. They waved at us as we drove by. She aimed at the target. Don't yell at me!", 
@@ -3449,14 +3456,14 @@
   "sounds": [
    "have2.aac"
   ], 
-  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases and conditions are countable"
+  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition (cold, fever, headache, toothache, etc), we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases and conditions are countable"
  },
  {
   "proverb": "I have the flu. She is having a seizure.", 
   "sounds": [
    "have3.aac", "have4.aac"
   ], 
-  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition, we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases and conditions are countable"
+  "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky with illnesses and conditions. If it is a long-term disease or illness that defines a person's long-term health or a single unchanging short-term condition (cold, fever, headache, toothache, etc), we usually say: I have a cold, I have cancer, I have a fever (think of it as a short-term illness). If it is a current health event that's in the process of changing significantly (приступ чего-то - heart attack, stroke, seizure, asthma attack) we say: I'm having a stroke, I'm having a seizure, etc. Most long term chronic diseases are not countable, but short term diseases and conditions are countable"
  },
  {
   "proverb": "She has a bath every evening. She is having a bath right now.", 
@@ -3529,7 +3536,7 @@
   "description": "'involve' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. The second sentence also shows that the verb 'involve' is always followed by a gerund (in case it is followed by another verb)."
  },
  {
-  "proverb": "And I'd just like to say that if it hadn't been for you, Harry and Ron and Hermione, of course… I would still be you know where… so I'd just like to say thanks.", 
+  "proverb": "And I'd just like to say that if it hadn't been for you, Harry and Ron and Hermione, of course... I would still be you know where... so I'd just like to say thanks.", 
   "sounds": [
    "thanks.aac"
   ], 
@@ -3972,7 +3979,7 @@
   "sounds": [
    "Audio recording 2021-02-11 02-16-11.aac"
   ], 
-  "description": "We use the modal verb 'might+have+p.p' to make guesses about the past. 'may' and 'could' can also be used to show a possibility in the past: We might/could/may have made a mistake..."
+  "description": "We use the modal verb 'might+have+p.p' to make guesses about the past. 'may' and 'could' can also be used to show a possibility in the past: We might/could/may have made a mistake... Also, the verb 'think' in this context acts as a stative verb: Я полагаю/считаю что мы возможно сделали ошибку ..."
  },
  {
   "proverb": "He keeps complaining about his girlfriend. They kept on trying until they succeeded.", 
@@ -4000,7 +4007,7 @@
   "sounds": [
    "wouldmind.aac"
   ],
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The phrase 'would mind / wouldn't mind' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'helping', 'speaking' and 'having' are the objects of 'would mind'."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The phrase 'would mind / wouldn't mind' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'helping', 'speaking' and 'having' are the objects of 'would mind'. By the way, the verb 'mind' by itself is also followed by a gerund."
  },
  {
   "proverb": "I miss hanging out with my friends. I miss being single.",
@@ -4798,14 +4805,14 @@
   "sounds": [
    "angry.aac"
   ],
-  "description": "We are 'angry at/with somebody' but 'angry about/over' something"
+  "description": "We are 'angry at/with somebody' but 'angry about/over something'"
  },
  {
   "proverb": "I was angry with him for forgetting my birthday. She's still angry over the way she's been treated.",
   "sounds": [
    "angry1.aac"
   ],
-  "description": "We are 'angry at/with somebody' but 'angry about/over' something"
+  "description": "We are 'angry at/with somebody' but 'angry about/over something'"
  },
  {
   "proverb": "What's the weather today? How's the weather today?",
