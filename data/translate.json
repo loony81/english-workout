@@ -524,6 +524,10 @@
   "proverb": "How long have you known each other?"
  },
  {
+  "description": "Как давно ты об этом знаешь?",
+  "proverb": "How long have you known about it?"
+ },
+ {
   "description": "Я тут подумал, что если ...",
   "proverb": "I've been thinking, what if ..."
  },
@@ -710,10 +714,6 @@
  {
   "description": "Что ты ел на завтрак?",
   "proverb": "What did you have for breakfast?"
- },
- {
-  "description": "в среднем",
-  "proverb": "on the average"
  },
  {
   "description": "Было уже за полночь, к тому времени как мы прибыли (приехали)",
@@ -1133,7 +1133,7 @@
  },
  {
   "description": "Он попытался её забыть, но это не сработало",
-  "proverb": "He tried to forget her but it did't work"
+  "proverb": "He tried to forget her but it didn't work"
  },
  {
   "description": "Если у вас есть информация об этой женщине, пожалуйста, позвоните нам",
@@ -1492,7 +1492,7 @@
   "proverb": "He's homeless"
  },
  {
-  "description": "Этот человек выглядит так как-будто он бродяжничает (как-будто он живет на улице)",
+  "description": "Этот мужчина выглядит так как-будто он бродяжничает (как-будто он живет на улице)",
   "proverb": "This man looks as if he lives on the streets"
  },
  {
@@ -3296,7 +3296,7 @@
   "proverb": "What did you say?"
  },
  {
-  "description": "Я ждал тебя весь день",
+  "description": "Я ждал тебя весь день (контекст: не сегодня)",
   "proverb": "I was waiting for you all day"
  },
  {
@@ -3797,7 +3797,7 @@
  },
  {
   "description": "Это звучит глупо когда ты это говоришь",
-  "proverb": "it sound dumb when you say it"
+  "proverb": "It sounds dumb when you say it"
  },
  {
   "description": "Она нюхает цветок",
@@ -4180,7 +4180,7 @@
   "proverb": "I'll be there at dawn"
  },
  {
-  "description": "Есть запрпавка примерно в миле вверх по дороге",
+  "description": "Есть запрпавка примерно в миле прямо по дороге (вверх по дороге)",
   "proverb": "There's a gas station about a mile up the road"
  },
  {
@@ -4483,6 +4483,10 @@
   "description": "Я не могу не быть перфекционистом (Я перфекционист и я не могу ничего с этим поделать)",
   "proverb": "I can't help being a perfectionist"
  },
+  {
+  "description": "Я не могу удержаться от смеха, когда смотрю мистера Бина",
+  "proverb": "I can't help laughing when I watch Mr Been"
+ },
  {
   "description": "Мы рассматриваем возможность продажи дома (Мы рассматриваем/обдумываем продажу дома)",
   "proverb": "We're considering selling the house"
@@ -4492,7 +4496,7 @@
   "proverb": "She delayed doing her homework"
  },
   {
-  "description": "Она не любит смотреть телевизор",
+  "description": "Она не любит смотреть телевизор (Ей не нравится смотреть телевизор)",
   "proverb": "She dislikes watching TV"
  },
  {
@@ -5030,6 +5034,10 @@
  {
   "description": "Я учусь играть на пианино",
   "proverb": "I'm learning to play the piano"
+ },
+ {
+  "description": "Мы купили новое пианино",
+  "proverb": "We bought a new piano"
  },
  {
   "description": "Я учусь вождению (Я учусть как водить)",
@@ -5701,11 +5709,11 @@
  },
  {
   "description": "смириться",
-  "proverb": "put up"
+  "proverb": "to put up"
  },
  {
   "description": "откладывать",
-  "proverb": "put off"
+  "proverb": "to put off"
  },
  {
   "description": "Не ходите по траве!",
@@ -6017,11 +6025,11 @@
  },
  {
   "description": "Это произошло в 80-х",
-  "proverb": "This happened in the 80s"
+  "proverb": "It happened in the 80s"
  },
  {
   "description": "Я обычно ложусь спать в полночь",
-  "proverb": "I usualy go to bed at midnight"
+  "proverb": "I usually go to bed at midnight"
  },
  {
   "description": "Мы обычно остаемся дома на Пасху",
@@ -6105,7 +6113,7 @@
  },
  {
   "description": "Он извинился за опоздание",
-  "proverb": "He apologised for being late"
+  "proverb": "He apologized for being late"
  },
  {
   "description": "Сколько человек она пригласила на вечеринку?",
@@ -6222,6 +6230,10 @@
  {
   "description": "Ты умеешь играть на гитаре?",
   "proverb": "Do you know how to play the guitar?"
+ },
+ {
+  "description": "Я люблю играть на гитаре",
+  "proverb": "I love playing the guitar"
  },
  {
   "description": "Ты сводишь меня с ума",
@@ -6364,15 +6376,167 @@
   "proverb": "Why are you laughing at me?"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Она решила посетить Британскую Колумбию",
+  "proverb": "She decided to visit British Columbia"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Я не люблю ждать",
+  "proverb": "I dislike waiting"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Я не рекомендую ехать на автобусе",
+  "proverb": "I don't recommend taking the bus"
+ },
+ {
+  "description": "У меня футболка под курткой (Я ношу футболку под куртой в данный момент)",
+  "proverb": "I'm wearing a T-shirt under my jacket"
+ },
+ {
+  "description": "Ты помнишь когда у нее день рождения?",
+  "proverb": "Do you remember when her birthday is?"
+ },
+ {
+  "description": "Ты можешь себе представить жизнь без телевизора?",
+  "proverb": "Can you imagine living without TV?"
+ },
+ {
+  "description": "Он утверждает что миллионер, но я ему не верю",
+  "proverb": "He claims to be a millionaire but I don't believe him"
+ },
+ {
+  "description": "Этот преступник заслуживает длительный срок",
+  "proverb": "That criminal deserves to get a long sentence."
+ },
+ {
+  "description": "Я не мог спать, поэтому попробовал выпить горячего молока (как средство для сна)",
+  "proverb": "I couldn't sleep so I tried drinking some hot milk"
+ },
+ {
+  "description": "Сожалею, что рассказал Джули свой секрет. Теперь она всем рассказала.",
+  "proverb": "I regret telling Julie my secret. Now she has told everyone."
+ },
+ {
+  "description": "Я ездил в Лондон в июне прошлого года",
+  "proverb": "I went to London last June"
+ },
+ {
+  "description": "У меня прием у врача через 40 минут",
+  "proverb": "I have a doctor's appointment in 40 minutes"
+ },
+ {
+  "description": "Мне трудно поверить (Мне с трудом верится)",
+  "proverb": "I find it hard to believe"
+ },
+ {
+  "description": "Возможно завтра будет дождь",
+  "proverb": "Maybe it will rain tomorrow"
+ },
+ {
+  "description": "Я знаю что это звучит глупо, но выслушайте меня!",
+  "proverb": "I know it sounds stupid, but hear me out!"
+ },
+ {
+  "description": "Скорее всего ты прав (Я полагаю ты прав)",
+  "proverb": "I suppose you're right"
+ },
+ {
+  "description": "Я постучал в дверь, но никто не ответил",
+  "proverb": "I knocked on the door but nobody answered"
+ },
+ {
+  "description": "Я купила красивое платье в торговом центре",
+  "proverb": "I bought a beautiful dress at the mall"
+ },
+ {
+  "description": "Отчет включает подробную финансовую информацию за последние пять лет",
+  "proverb": "The report includes detailed financial information for the past five years"
+ },
+ {
+  "description": "Ты боишься высоты?",
+  "proverb": "Are you afraid of heights?"
+ },
+ {
+  "description": "Ты боишься того, что тебя ждет?",
+  "proverb": "Are you afraid of what's waiting for you?"
+ },
+ {
+  "description": "вождение в нетрезвом виде",
+  "proverb": "drunk driving"
+ },
+ {
+  "description": "Он был арестован за вождение в нетрезвом виде прошлой ночью",
+  "proverb": "He got arrested for drunk driving last night"
+ },
+ {
+  "description": "намокнуть / промокнуть",
+  "proverb": "get wet"
+ },
+ {
+  "description": "Отдай! (Верни мне это!)",
+  "proverb": "Give it back!"
+ },
+ {
+  "description": "После десяти минут попыток (пытаясь) получить ответ, я сдался",
+  "proverb": "After ten minutes trying to get the answer I gave up"
+ },
+ {
+  "description": "Сегодня - это вчерашнее завтра",
+  "proverb": "Today is yesterday's tomorrow"
+ },
+ {
+  "description": "Я настаиваю",
+  "proverb": "I insist"
+ },
+ {
+  "description": "Мы летим в Муксику послезавтра",
+  "proverb": "We're flying to Mexico the day after tomorrow"
+ },
+ {
+  "description": "На свой день рождения Майк получил новенький набор для дрелей",
+  "proverb": "For his birthday, Mike got a brand new drill set"
+ },
+ {
+  "description": "У нас война (Мы на войне)",
+  "proverb": "We're at war"
+ },
+ {
+  "description": "Он дважды пытался бросить курить но безуспешно (но ему так и не удалось)",
+  "proverb": "He has tried to give up smoking twice but hasn't succeeded"
+ },
+ {
+  "description": "На что ты намекаешь?",
+  "proverb": "What are you insinuating?"
+ },
+ {
+  "description": "Хватит уже! / Прекрати!",
+  "proverb": "Nock it off!"
+ },
+ {
+  "description": "Если ты не можешь связаться со мной по электронной почте, попробуй позвонить мне",
+  "proverb": "If you can't reach me by email, try calling me"
+ },
+ {
+  "description": "Если мне суждено умереть... Я умру по-своему!",
+  "proverb": "If I'm gonna die... I'm gonna die my way!"
+ },
+ {
+  "description": "под руководством",
+  "proverb": "under the direction"
+ },
+ {
+  "description": "Никто не говорил, что будет легко",
+  "proverb": "Nobody said it would be easy"
+ },
+ {
+  "description": "терять надежду (бросать надежду)",
+  "proverb": "to give up hope"
+ },
+ {
+  "description": "Мы все еще надеемся найти ее живой (Мы все еще не потеряли надежду найти ее живой)",
+  "proverb": "We still haven't given up hope of finding her alive"
+ },
+ {
+  "description": "Ты ведешь себя как мудак",
+  "proverb": "You are being an asshole"
  }
 ]

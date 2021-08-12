@@ -25,7 +25,7 @@
   "sounds": [
    "cake.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific. Also, the noun 'cake' can be both countable and uncountable"
+  "description": "This sentence demonstrates the use of the definite article when talking about something specific. Also, the noun 'cake' can be both countable and uncountable. In this sentence 'cake' is uncountable noun."
  }, 
  {
   "proverb": "We wanted to watch TV, but there wasn't one in the apartment, so we just listened to the radio.", 
@@ -56,7 +56,7 @@
   "description": "This sentence demonstrates how to use transportation prepositions"
  }, 
  {
-  "proverb": "Christmas comes but once a year, but when it comes it brings good cheer. ", 
+  "proverb": "Christmas comes but once a year, but when it comes it brings good cheer.", 
   "sounds": [
    "christmas1.aac"
   ], 
@@ -274,12 +274,11 @@
   "description": "This sentence demonstrates how to pronounce courage and courageous in American English"
  }, 
  {
-  "proverb": "The Philippines are visited on the average by twenty or more typhoons annually.", 
+  "proverb": "The Philippines is visited by an average of 20 typhoons annually.", 
   "sounds": [
-   "philippines1.aac", 
-   "philippines2.aac"
+   "philippines.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use 'the' with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use 'the' with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands. Notice that even though the Philippines has plural meaning it is followed by 'is' because here we're talking about the country. But sometimes it can be followed by 'are' when it refers to an island archipelago"
  }, 
  {
   "proverb": "The Republic of Ireland is in the European Union.", 
@@ -624,21 +623,21 @@
   "sounds": [
    "apostrophe1.aac"
   ], 
-  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city, somebody's house) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
  }, 
  {
   "proverb": "Are you coming to Sunday's party?", 
   "sounds": [
    "apostrophe2.aac"
   ], 
-  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city, somebody's house) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
  },
  {
   "proverb": "Did you read yesterday's newspaper?", 
   "sounds": [
    "newspaper.aac"
   ], 
-  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
+  "description": "We use the possessive 's not only with animate items (people, animals), but also with places (country, city, somebody's house) and  organizations/teams/companies. The possessive -'s can also be used in time expressions (yesterday's party, today's news, last year's conference, three days' drive, etc)."
  },
  {
   "proverb": "Australia's economy has slowed to its most sluggish pace since 2009.", 
@@ -982,28 +981,28 @@
   "sounds": [
    "mit.aac"
   ], 
-  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
   "proverb": "Her son graduated from Harvard.", 
   "sounds": [
    "harvard.aac"
   ], 
-  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
   "proverb": "The universities of Oxford and Cambridge are two of the most famous universities in Europe.", 
   "sounds": [
    "oxford.aac"
   ], 
-  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
   "proverb": "Larry Page and Sergey Brin met at Stanford University where they studied for their PhD's in computer science.", 
   "sounds": [
    "stanford.aac"
   ], 
-  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example  the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
+  "description": "We don't usually use 'the' with the names of schools, colleges, universities and university acronyms, unless they are named after a person, for example the John Hopkins University. Also, if the name of a school or university begins with 'school of' or 'university of', then we must use 'the': the Harvard School of Business, the College of the Holy Cross"
  }, 
  {
   "proverb": "In Brazil people speak Portuguese. The Japanese language is very complex.", 
@@ -1955,14 +1954,14 @@
   "sounds": [
    "theater.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes, theaters, etc"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes, theaters, places of work, etc"
  }, 
  {
   "proverb": "He works at Burger King on Bay Street.", 
   "sounds": [
    "burgerking.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes, theaters, etc. Notice that there is no 'the' before Burger King because it is a proper noun, the name of the street is also a proper noun."
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific places, public places, shops, hotels, homes, theaters, places of work, etc. Notice that there is no 'the' before Burger King because it is a proper noun, the name of the street is also a proper noun."
  }, 
  {
   "proverb": "They are sitting at the table. They are sitting on the table.", 
@@ -2061,7 +2060,7 @@
   "sounds": [
    "onpage1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). But remember that when we talk about a whole book we need to use the preposition 'in'. When we talk about information represented on paper, we say 'in a book, newspaper, magazine, letter', but 'on a page'"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). But remember that when we talk about a whole book we need to use the preposition 'in'. When we talk about information represented on paper, we say 'in a book, newspaper, magazine, letter', but 'on a page'. Also, we do not use the definite article with following constructs: noun + number (page 6, platform 9, room 5)"
  }, 
  {
   "proverb": "She said she wouldn't marry him if he were the last man on Earth.", 
@@ -2160,14 +2159,14 @@
   "sounds": [
    "tasmania.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts (these are considered flat surfaces). We use the preposition 'in' when talking about large geographical areas (cities, countries, the world, etc). In the first sentence we mean the island, and in the second sentence we mean the country"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts (these are considered flat surfaces). We use the preposition 'in' when talking about large enclosed geographical areas (cities, countries, the world, etc). In the first sentence we mean the island, and in the second sentence we mean the country"
  }, 
  {
   "proverb": "Nice is on the south coast of France. Nice is in the south of France.", 
   "sounds": [
    "nice.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts (these are considered flat surfaces). We use the preposition 'in' when talking about large geographical areas (cities, countries, the world, etc)"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts (these are considered flat surfaces) and their geographical parts. In the first sentence 'south' is an adjective. We use the preposition 'in' when talking about large enclosed geographical areas (cities, countries, the world, etc) and their parts. In the second sentence 'south' is a noun."
  }, 
  {
   "proverb": "Niagara Falls is located on the border between the United States and Canada.", 
@@ -2399,14 +2398,14 @@
   "sounds": [
    "school1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. Specifically, 'at school' means the person is literally, physically, inside the school. 'in school' means the person is studying in general but not necessarily inside the school building at that moment. 'school' can also mean a building where children/adults receive education"
+  "description": "These sentences demonstrate how to use prepositions of place. Specifically, 'at school' means the person is literally, physically, inside the school studying. 'in school' means the person is studying in general but not necessarily inside the school building at that moment. 'school' can also mean a building where children/adults receive education"
  },
  {
   "proverb": "Hi, is David home at the moment? No, he's at school, he should be home by 5pm. My husband doesn't have a job because he's in school. He's studying law.", 
   "sounds": [
    "school2.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. Specifically, 'at school' means the person is literally, physically, inside the school. 'in school' means the person is studying in general but not necessarily inside the school building at that moment. 'school' can also mean a building where children/adults receive education"
+  "description": "These sentences demonstrate how to use prepositions of place. Specifically, 'at school' means the person is literally, physically, inside the school studying. 'in school' means the person is studying in general but not necessarily inside the school building at that moment. 'school' can also mean a building where children/adults receive education"
  }, 
  {
   "proverb": "My friend works at the hospital downtown. Unfortunately, Mr Brown is in the hospital. He broke his leg.", 
@@ -2756,42 +2755,42 @@
   "sounds": [
    "belief.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The police put her under arrest.", 
   "sounds": [
    "arrest.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The house is under construction.", 
   "sounds": [
    "construction.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The incident is currently under investigation.", 
   "sounds": [
    "incident.aac", "incident1.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "His suggestion is still under discussion.", 
   "sounds": [
    "suggestion.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "How to lose 5 kilos in under two weeks.", 
   "sounds": [
    "kilos.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. when something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else (находится под), controlled or affected by something (under attack, consideration, construction, discussion, control, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "You have to be 18 or over to see this film.", 
@@ -3358,7 +3357,7 @@
   "sounds": [
    "mind.aac"
   ], 
-  "description": "'mind' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form."
+  "description": "'mind (object to)' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form."
  },
  {
   "proverb": "He finally realized the scope of the problem. I realize I was wrong. I realize I should have applied for the visa earlier.", 
@@ -4467,7 +4466,7 @@
   "description": "We use the Present Perfect when we talk about an action in the past that has some bearing on the present, we want to emphasize the importance of an action right now or its result (first question). When we talk about the time of an action or who did it, or where it happened - we use the Past Simple, we don't care about the effect of an action (second question)."
  },
  {
-  "proverb": "Peter has been a teacher for ten years",
+  "proverb": "Peter has been a teacher for ten years.",
   "sounds": [
    "teacher.aac"
   ],
@@ -5015,14 +5014,14 @@
   "sounds": [
    "getortake.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bar waiter for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick, get a raise (the boss gave you a raise), get a cold (someone infected you)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bar waiter for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you)"
  },
  {
   "proverb": "For his birthday, Mike got a brand new drill set. Helen has high blood pressure, so she takes pills every day.",
   "sounds": [
    "getortake1.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick, get a raise (the boss gave you a raise), get a cold (someone infected you)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you)"
  },
  {
   "proverb": "Last winter, Christine didn't get sick even once. I asked my dad to lend me his car. He said no, but I took it anyway.",
