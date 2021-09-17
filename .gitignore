@@ -28,4 +28,5 @@ _notes
 dwsync.xml
 todo.txt
 app/
+backups/
 webpack.config.js

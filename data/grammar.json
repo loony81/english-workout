@@ -32,7 +32,7 @@
   "sounds": [
    "theradio.aac"
   ], 
-  "description": "This sentence demonstrates when to use the definite article. We always use 'the' definite article with 'radio': listen to the radio, hear on the radio, it's on the radio"
+  "description": "This sentence demonstrates when to use the definite article. We always use the definite article with 'radio': listen to the radio, hear on the radio, it's on the radio"
  }, 
  {
   "proverb": "Please, read the text on page 15.", 
@@ -60,7 +60,7 @@
   "sounds": [
    "christmas1.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definine article with holidays"
+  "description": "This sentence demonstrates the use of the definine article with the names of holidays"
  }, 
  {
   "proverb": "Images may be subject to copyright", 
@@ -200,14 +200,14 @@
   "sounds": [
    "most1.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use most without the when we talk about 90% of something. Notice that here 'most' is an adjective"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we talk about 90% of something. Notice that here 'most' is an adjective"
  }, 
  {
   "proverb": "Most students passed the test.", 
   "sounds": [
    "most2.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use most without the when we talk about 90% of something. Notice that here 'most' is an adjective"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we talk about 90% of something. Notice that here 'most' is an adjective"
  }, 
  {
   "proverb": "I like this one most.", 
@@ -256,7 +256,7 @@
   "sounds": [
    "themost4.aac"
   ], 
-  "description": "These sentences demonstrate when to use 'most' or 'the most'. We use most without the when we want to express preference (first sentence), or when talking about 90% of something (most people, most dogs). We use 'the most' when it is part a superlative adjective which consists of more than two syllables (second sentence), or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc"
+  "description": "These sentences demonstrate when to use 'most' or 'the most'. In the first sentence 'most' is an adverb that describes the adjective 'delicious'. In the second sentence 'most' is part of a superlative adjective which consists of more than two syllables"
  },
  {
   "proverb": "advantage but advantageous", 
@@ -327,7 +327,7 @@
   "sounds": [
    "thebalticsea.aac"
   ], 
-  "description": "We use the definite article with the names of seas. Also we do not use the definite article when refering to West, East, North or South as directions. Here 'north' is an adjective (к северу, на север, в северном направлении)"
+  "description": "We use the definite article with the names of seas. Also we do not use the definite article when refering to West, East, North or South as directions. Here 'north' is an adverb (к северу, на север, в северном направлении)"
  }, 
  {
   "proverb": "The Sahara is the world's biggest desert.", 
@@ -383,21 +383,21 @@
   "sounds": [
    "thewest.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something."
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something (not directions)."
  }, 
  {
   "proverb": "Egypt is in the north of Africa.", 
   "sounds": [
    "thenorth.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something."
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something (not directions)."
  }, 
  {
   "proverb": "The sun rises in the east and sets in the west.", 
   "sounds": [
    "theeast.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something. But when we refer to the West, East, North or South as directions we don't use the definite article: 'I am traveling North'"
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something. But when we refer to the West, East, North or South as directions we don't use the definite article: 'I am traveling north'"
  }, 
  {
   "proverb": "Every year we would go to the south of France for holidays.", 
@@ -418,7 +418,7 @@
   "sounds": [
    "north1.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article with bodies of water and also when we refer to West, East, North or South as directions"
+  "description": "These sentences demonstrate the use of the definite article with bodies of water and also when we refer to West, East, North or South as directions. Here 'north' is an adverb and it describes the verb 'flow' (течет на север)"
  }, 
  {
   "proverb": "We're having dinner with the Smiths tonight.", 
@@ -490,7 +490,7 @@
   "sounds": [
    "apostrophe.aac"
   ], 
-  "description": "This sentence demonstrates when to use most or the most, and also when to use the possessive case"
+  "description": "This sentence demonstrates when to use most or the most. Here 'most' is an adverb that describes the adjective 'famous'. It also demonstrates when to use the possessive case."
  }, 
  {
   "proverb": "Smoking causes cancer.", 
@@ -686,42 +686,42 @@
   "sounds": [
    "therich.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society"
  }, 
  {
   "proverb": "Will the meek inherit the earth?", 
   "sounds": [
    "themeek.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society"
  }, 
  {
   "proverb": "The dead outnumber the living.", 
   "sounds": [
    "thedead.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society"
  }, 
  {
   "proverb": "She works for a group to help the disabled.", 
   "sounds": [
    "thedisabled.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society"
  }, 
  {
   "proverb": "Cell phones are especially popular with the young.", 
   "sounds": [
    "theyoung.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society"
  }, 
  {
   "proverb": "They are collecting money to help the homeless.", 
   "sounds": [
    "thehomeless.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups or people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society"
  }, 
  {
   "proverb": "It happened in the 16th century.", 
@@ -1009,7 +1009,7 @@
   "sounds": [
    "japanese.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article with languages"
+  "description": "These sentences demonstrate the use of the definite article with languages. Usually we do not use the definite article with languages because the names of languages are proper nouns, but if an expression includes the word 'language', then it must be used:  the English language, the Russian language, etc"
  }, 
  {
   "proverb": "I have an appointment with doctor Smith tonight. I have an appointment with the doctor tonight.", 
@@ -1290,7 +1290,7 @@
   "sounds": [
    "food.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use 'the' with national cuisines"
+  "description": "This sentence demonstrates that we do not use 'the' with national cuisines. Here we are talking about Korean food in general, it is not something specific."
  }, 
  {
   "proverb": "The train to Paris leaves from platform 2.", 
@@ -1570,21 +1570,21 @@
   "sounds": [
    "atlunchtime.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, во время обеда"
  }, 
  {
   "proverb": "I ate too much at dinner.", 
   "sounds": [
    "atdinner.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за ужином, во время ужина"
  }, 
  {
   "proverb": "At breakfast, he didn't say a word, just read his newspaper.", 
   "sounds": [
    "atbreakfast.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, за ужином"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за завтраком, во время завтрака"
  }, 
  {
   "proverb": "I read my daughter a story at bedtime.", 
@@ -1684,7 +1684,7 @@
   "sounds": [
    "onvacation.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
+  "description": "This sentence demonstrates how to use prepositions of time (or place???). We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
  }, 
  {
   "proverb": "When I was on holiday in Cancun I caught swine fever.", 
@@ -1748,7 +1748,7 @@
   "sounds": [
    "class.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We use the following construct 'in + <period of time>' when we need to explain when something will happen in the future: in a day, in two weeks, in a month, etc. It also demonstrates that the noun 'class' has two meanings: a period of time in which students are taught something, or a group of students who are taught together. In this example class means a period of time."
+  "description": "This sentence demonstrates how to use prepositions of time. We use the following construct 'in + <period of time>' when we need to explain when something will happen in the future: in a day, in two weeks, in a month, etc. It also demonstrates that the noun 'class' has two meanings: a period of time in which students are taught something, or a group of students who are taught together. In this example class means a period of time, can be translated into Russian as 'урок'"
  }, 
  {
   "proverb": "I woke up early in the morning. I'm going to the library in the evening. Does she sleep in the afternoon?", 
@@ -2307,28 +2307,28 @@
   "sounds": [
    "bus.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, motorcycle, subway)"
+  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
  }, 
  {
   "proverb": "Get on the train! Get off the train!", 
   "sounds": [
    "train.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, motorcycle, subway)"
+  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
  },
  {
   "proverb": "There were three hundred people on board the ship.", 
   "sounds": [
    "ship.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, motorcycle, subway)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
  }, 
  {
   "proverb": "Welcome to rush hour on the Tube.", 
   "sounds": [
    "tube.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, motorcycle, subway)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
  },
  {
   "proverb": "He likes riding his horse.", 
@@ -2342,14 +2342,14 @@
   "sounds": [
    "subway.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, motorcycle, subway)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
  },
  {
   "proverb": "Which flight is she traveling on?", 
   "sounds": [
    "flight.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, motorcycle, subway)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
  }, 
  {
   "proverb": "Get on the horse! Get off the horse!", 
@@ -2401,7 +2401,7 @@
   "description": "These sentences demonstrate how to use prepositions of place. Specifically, 'at school' means the person is literally, physically, inside the school studying. 'in school' means the person is studying in general but not necessarily inside the school building at that moment. 'school' can also mean a building where children/adults receive education"
  },
  {
-  "proverb": "Hi, is David home at the moment? No, he's at school, he should be home by 5pm. My husband doesn't have a job because he's in school. He's studying law.", 
+  "proverb": "Hi, is David home at the moment? No, he's at school, he should be home by 5 pm. My husband doesn't have a job because he's in school. He's studying law.", 
   "sounds": [
    "school2.aac"
   ], 
@@ -2447,7 +2447,7 @@
   "sounds": [
    "inthecountry.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'). And we normally use a gerund after 'like', 'love', 'hate', 'prefer', but we use 'to + infinitive' after would like, would love, would hate, would prefer. Also notice that 'like', 'love', 'hate' and 'prefer' are stative verbs"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with enclosed spaces ('in the country' is a set expression which means 'в сельской местности'). And we can use either a gerund or an infinitive after 'like', 'love', 'hate', 'prefer', but we use only an infinitive after 'would like', 'would love', 'would hate', 'would prefer'. Also notice that 'like', 'love', 'hate' and 'prefer' are stative verbs"
  },
  {
   "proverb": "Don't keep this medicine in the sun.", 
@@ -2461,7 +2461,7 @@
   "sounds": [
    "onthesun.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between 'in the sun' and 'on the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'on the sun' literally means on the surface of the Sun"
+  "description": "These two sentences demonstrate the difference between 'in the sun' and 'on the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'on the sun' literally means on the surface of the Sun (our star)"
  },
  {
   "proverb": "Don't stay in the sun too long. She called me every name under the sun.", 
@@ -2496,7 +2496,7 @@
   "sounds": [
    "urban.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'in' with large geographical areas (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article with the names of parks and squares"
  },
  {
   "proverb": "Camels are often used to travel in the desert.", 
@@ -2685,7 +2685,7 @@
   "sounds": [
    "lingered.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not necessarily over something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. We can also say: 'The clouds lingered over the city.'"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'above' is used to indicate that something is at a higher level, but not necessarily over something else. Used in measurements of temperature, height, rankings and in other cases where we think of vertical scale. But in this particular example we can also say: 'The clouds lingered over the city.'"
  },
  {
   "proverb": "The village, one of the highest in the world, is actually 2000 feet above sea level.", 
@@ -2755,35 +2755,35 @@
   "sounds": [
    "belief.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3. numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The police put her under arrest.", 
   "sounds": [
    "arrest.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3. numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The house is under construction.", 
   "sounds": [
    "construction.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3. numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "The incident is currently under investigation.", 
   "sounds": [
    "incident.aac", "incident1.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3. numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "His suggestion is still under discussion.", 
   "sounds": [
    "suggestion.aac"
   ], 
-  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3.  numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
+  "description": "The preposition of place 'under' is used when: 1. something is covered by something else, controlled or affected by something or in a particular state or condition (under attack, consideration, construction, discussion, control, arrest, impression, belief, etc); 2. ages (younger than); 3. numbers (less than): speed, numbers of people, time; 4. wearing clothes; 5. weight"
  },
  {
   "proverb": "How to lose 5 kilos in under two weeks.", 
@@ -2797,28 +2797,28 @@
   "sounds": [
    "film.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when something covers something else, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when something covers something else, clothes, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "Over one hundred people came to the party.", 
   "sounds": [
    "party.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, clothes, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "I get scared when I drive over 100 kilometers an hour.", 
   "sounds": [
    "scared.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, clothes, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "Put a hand over your mouth when you cough.", 
   "sounds": [
    "mouth.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used as a preposition of place: 1. when one thing covers the other, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used as a preposition of place: 1. when one thing covers the other, clothes, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "Standing between the two adults was a small child.", 
@@ -3056,7 +3056,7 @@
   "sounds": [
    "marathoners.aac", "marathoners1.aac"
   ], 
-  "description": "'past' can be a noun, a preposition, an adverb or an adjective, and has many uses. In this sentence 'past' acts as an adverb and describes movement along something from one side to the other side of it (пробежали мимо)"
+  "description": "'past' can be a noun, a preposition, an adverb or an adjective, and has many uses. In this sentence 'past' acts as an adverb and describes movement along something from one side to the other side of it (пробегали мимо)"
  },
  {
   "proverb": "The office is two blocks past the intersection.", 
@@ -3105,14 +3105,14 @@
   "sounds": [
    "would.aac"
   ], 
-  "description": "This is an example of third conditonal sentence. We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past."
+  "description": "This is an example of third conditonal sentence. We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past. The rule is similar to forming the past perfect tense: when two related events happended in the past. But here the occurrence of one past event depends on the occurrence of another past event"
  },
  {
   "proverb": "What would you have done if you had been in my place?", 
   "sounds": [
    "would1.aac"
   ], 
-  "description": "This is an example of third conditonal sentence. We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past."
+  "description": "This is an example of third conditonal sentence. We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past. The rule is similar to forming the past perfect tense: when two related events happended in the past. But here the occurrence of one past event depends on the occurrence of another past event"
  },
  {
   "proverb": "I love chocolate. I hate spinach, but I like most other vegetables. I dislike paperwork. What do you want to eat? I want some chocolate.", 
@@ -3203,14 +3203,14 @@
   "sounds": [
    "see.aac", "see1.aac"
   ], 
-  "description": "Some verbs can be both stative and dynamic. 'see' as a stative verb means to see with your eyes / understand (first sentence). 'see' as an action verb means to meet / have a relationship with someone (second sentence)"
+  "description": "Some verbs can be both stative and dynamic. 'see' as a stative verb means perception with your eyes or understanding (first sentence). 'see' as an action verb means to meet / have a relationship with someone (second sentence)"
  },
  {
   "proverb": "I see what you mean. I'm seeing someone.", 
   "sounds": [
    "see2.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'see' as a stative verb means to see with your eyes / understand (first sentence). 'see' as an action verb means to meet / have a relationship with someone (second sentence)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'see' as a stative verb means perception with your eyes or understanding (first sentence). 'see' as an action verb means to meet / have a relationship with someone - встречаться с кем-то (second sentence)"
  },
  {
   "proverb": "I feel that this is not the best use of our time. I'm feeling sick.", 
@@ -3322,7 +3322,7 @@
   "sounds": [
    "understand.aac"
   ], 
-  "description": "'understand' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I am not understanding ...'. By the way, 'mean' is also a stative verb"
+  "description": "'understand' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I am not understanding ...'. By the way, 'mean' is also a stative verb. Understand, know, remember, mean, believe, imagine, suppose, etc describe states of mind."
  },
  {
   "proverb": "I imagine they'll be here quite soon.", 
@@ -3413,14 +3413,14 @@
   "sounds": [
    "think.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'think' as a stative verb means to believe, to have an opinion. 'think' as a dynamic verb means to reflect, to ponder - размышлять, раздумывать. Notice that when we say 'I've been thinking' it is to indicate a prolonged period of thought, when we've spent quite a bit of time considering a certain matter (Я подумываю продать свой дом)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'think' as a stative verb means to believe, to have an opinion. 'think' as a dynamic verb means to reflect, to ponder - мыслить, размышлять. Notice that when we say 'I've been thinking' it is to indicate a prolonged period of thought, when we've spent quite a bit of time considering a certain matter (Я подумываю продать свой дом)"
  },
  {
   "proverb": "I think that's a great idea. I'm thinking about my next holiday.", 
   "sounds": [
    "think1.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'think' as a stative verb means to believe, to have an opinion - считать, полагать. 'think' as a dynamic verb means to reflect, to ponder - размышлять, раздумывать"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'think' as a stative verb means to believe, to have an opinion - считать, полагать. 'think' as a dynamic verb means to reflect, to ponder - мыслить, размышлять"
  },
  {
   "proverb": "You are stupid. You are being stupid.", 
@@ -3761,7 +3761,7 @@
   "sounds": [
    "beyond.aac"
   ], 
-  "description": "This is an example of third conditonal sentence (????????????????) We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past."
+  "description": "This is an example of third conditonal sentence. We use third conditional to talk about hypothetical or unreal situations in the past, to imagine a different past. The rule is similar to forming the past perfect tense: when two related events happended in the past. But here the occurrence of one past event depends on the occurrence of another past event"
  },
  {
   "proverb": "I can't help being a perfectionist! I can't help thinking about the future. I can't help smiling when I see her.", 
@@ -3817,7 +3817,7 @@
   "sounds": [
    "Audio recording 2021-02-05 13-03-27.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'detest' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'having' is the object of 'detest'"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'detest - ненавидеть, питать отвращение' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'having' is the object of 'detest'"
  },
  {
   "proverb": "We discussed going out. We discussed taking a bus.", 
@@ -3887,7 +3887,7 @@
   "sounds": [
    "escape.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'escape' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'getting' and 'dying' are the objects of 'escape'."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'escape' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'getting' and 'dying' are the objects of 'escape': Я едва избежал поимки в этот раз, Он избежал умирания медленной и мучительной смертью"
  },
  {
   "proverb": "He'll explain purchasing online next week.", 
@@ -4167,14 +4167,14 @@
   "sounds": [
    "forget2.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Also used when giving advice or an instruction: 'Don't forget to ...  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Also used when giving advice or an instruction: You forgot to pick me up from the airport.  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
  },
  {
   "proverb": "Don't forget to watch the news tonight! I'll never forget watching my first horror movie!",
   "sounds": [
    "forget3.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Also used when giving advice or an instruction: 'Don't forget to ...  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Also used when giving advice or an instruction: I forgot to watch the news.  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
  },
  {
   "proverb": "By the time she finds out, it'll be too late",
@@ -4209,14 +4209,14 @@
   "sounds": [
    "try.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я попытался открыть окно. 'try + gerund' means to experiment with different options to see if something works, or giving advice: В комнате было жарко и я попробовал открыть окно (я открыл окно чтобы проветрить комнату)"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я попытался открыть окно. 'try + gerund' means to experiment with different options to see if something works, or giving advice: В комнате было жарко и я попробовал открыть окно (как вариант охлаждения комнаты). It's not about whether I can or can't open the window, it's that the room is hot and I need to cool it down somehow"
  },
  {
   "proverb": "I'm trying to learn Japanese but it's very difficult. Try studying with someone who speaks the language.",
   "sounds": [
    "try1.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытаюсь изучать Японский. 'try + gerund' means to experiment with different options to see if something works, or giving advice: Попробуй учиться с носителем языка"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытаюсь изучать Японский. 'try + gerund' means to experiment with different options to see if something works, or giving advice: Попробуй учиться с носителем языка. It also shows the difference between 'learn' and 'study'"
  },
  {
   "proverb": "I tried to watch the movie but there was too much noise going on. I couldn't get to sleep so I tried watching the movie.",
@@ -4230,14 +4230,14 @@
   "sounds": [
    "regret.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions to apologise for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form. 'see' as an action verb means to have a relationship with someone"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form. 'see' as an action verb means to have a relationship with someone"
  },
  {
   "proverb": "I regret to inform you that you have failed the exam. I regret not telling you the truth.",
   "sounds": [
    "regret1.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + to + infinitive' is used in formal expressions to apologise for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... 'regret + gerund' describes a past action which you feel bad about: Я сожалею (жалею), что не сказал вам правду."
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + to + infinitive' is used in formal expressions to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... 'regret + gerund' describes a past action which you feel bad about: Я сожалею (жалею), что не сказал вам правду."
  },
  {
   "proverb": "She quit to work here. She quit working here.",
@@ -4293,14 +4293,14 @@
   "sounds": [
    "goon2.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The phrasal verb 'go on + to + infinitive' means to do the next action (change the activity):  Начни читать текст (Перейди на прочтение текста). 'go on + gerund' means to continue with the action in the gerund: Продолжай читать текст."
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. The phrasal verb 'go on + to + infinitive' means to do the next action (change the activity):  Начни читать текст (Перейди к прочтению текста). 'go on + gerund' means to continue with the action in the gerund: Продолжай читать текст."
  },
  {
   "proverb": "He confessed to stealing the money.",
   "sounds": [
    "confess.aac"
   ],
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). Normally, after the word 'to' we use the base form of the verb, but there are some exceptions. Two such exceptions are the words 'confess' or 'admit' to doing something. In this sentence, the word 'stealing' is a gerund and it acts as the object of 'confessed to'. We could also say: 'He confessed to the crime'. We always confess to something. There are some other verbs that follow this pattern: 'devoted', 'dedicated' and 'committed' to doing something, and also 'opposed' or 'object' to doing something."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). Normally, after the preposition 'to' we use the base form of the verb, but there are some exceptions. Two such exceptions are the verbs 'confess' and 'admit' to doing something. In this sentence, the word 'stealing' is a gerund and it acts as the object of 'confessed to'. We could also say: 'He confessed to the crime'. We always confess to something. There are some other verbs that follow this pattern: 'devoted', 'dedicated' and 'committed' to doing something, and also 'opposed' or 'object' to doing something."
  },
  {
   "proverb": "She came running across the field. My dog always comes bounding out of the car. All the feelings I once had came rushing back.",
@@ -4335,7 +4335,7 @@
   "sounds": [
    "fly.aac"
   ],
-  "description": "This is an example of third conditonal sentence. We use third conditional to imagine a different past."
+  "description": "This is an example of third conditonal sentence. We use third conditional to imagine a different past. The rule is similar to forming the past perfect tense: when two related events happended in the past. But here the occurrence of one past event depends on the occurrence of another past event"
  },
  {
   "proverb": "It's time you went home. It's time you went to bed.",
@@ -4392,7 +4392,7 @@
   "sounds": [
    "Audio recording 2021-04-10 13-19-01.aac"
   ],
-  "description": "These sentences demonstrate intransitive verbs. Most sentences in the English language contain a subject and a verb, and many of them contain an object as well: He rode the bike. The verb 'ride' is known as a transitive verb, it has a direct object 'bike'. Intransitive verbs are action verbs that do not have an object to receive the action. Some verbs can be both transitive and intransitive: 'The bird sings' and 'The choir sings the national anthem'"
+  "description": "These sentences demonstrate intransitive verbs. Most sentences in the English language contain a subject and a verb, and many of them contain an object as well: He rode the bike. The verb 'ride' is known as a transitive verb, it has a direct object 'bike'. Intransitive verbs are verbs that do not have an object to receive the action. Some verbs can be both transitive and intransitive: 'The bird sings' and 'The choir sings the national anthem'"
  },
  {
   "proverb": "The bird sings. The choir sings the national anthem.",
@@ -4442,7 +4442,7 @@
   "sounds": [
    "keep1.aac"
   ],
-  "description": "These two sentences demonstrate the difference between 'hold' and 'keep'; hold - держать что-то в физическом смысле, keep - держать (в смысле содержать), хранить, иметь, продолжать что-то делать, и т.д. 'Keep' is usually permanent. 'Hold' is temporary. "
+  "description": "These two sentences demonstrate the difference between 'hold' and 'keep'; hold - держать что-то в физическом смысле, руками, keep - держать (в смысле содержать), хранить, иметь, продолжать что-то делать, и т.д. 'Keep' is usually permanent. 'Hold' is temporary. "
  },
  {
   "proverb": "Can you hold this book for me? Can you keep this book for me?",
@@ -4456,7 +4456,7 @@
   "sounds": [
    "used.aac"
   ],
-  "description": "I used to do - я бывало делал это в прошлом (past habits, always followed by an infinitive). I used to get up early - Я раньше вставал рано;\nI am used to doing - я привыкший делать что-либо в настоящем (current habits, if it is followed by a verb it must be a gerund). I'm used to getting up early - Я привык вставать рано;\nTo get used to  - привыкнуть к чему-либо (to become accustomed to something, if it is followed by a verb it must be a gerund). I need to get used to getting up early - мне нужно приучить себя вставать рано"
+  "description": "1. I used to do - я бывало делал это в прошлом (past habits, always followed by an infinitive). I used to get up early - Я раньше вставал рано;\n2. I am used to doing - я привыкший делать что-либо в настоящем (current habits, if it is followed by a verb it must be a gerund). I'm used to getting up early - Я привык вставать рано;\n3. To get used to  - привыкнуть к чему-либо (to become accustomed to something, if it is followed by a verb it must be a gerund). I need to get used to getting up early - мне нужно приучить себя вставать рано"
  },
  {
   "proverb": "Have you found it? Where did you find it?",
@@ -4668,7 +4668,7 @@
   "sounds": [
    "turkey.aac"
   ],
-  "description": "Reported speech is often combined with the Past Perfect tense. Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. The original sentence is 'I have been to Turkey 5 times'"
+  "description": "The Past Perfect tense is often used in reported speech. Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. The original sentence is 'I have been to Turkey 5 times'"
  },
  {
   "proverb": "When we arrived at the cinema, the film had already started.",
@@ -4825,14 +4825,14 @@
   "sounds": [
    "scratched.aac"
   ],
-  "description": "'whose' is a possessive determiner or pronoun (mine, ours, yours, his, hers, its, etc), which is used for adding information about a person or thing."
+  "description": "'whose' is a possessive determiner or pronoun (mine, ours, yours, his, hers, its, etc), it means possession and is used for adding information about a person or thing."
  },
  {
   "proverb": "Do you know whose car that is? The company, whose workers are now being forced to stay home, will probably go bankrupt.",
   "sounds": [
    "bankrupt.aac"
   ],
-  "description": "'whose' is a possessive determiner or pronoun, which is used for adding information about a person or thing."
+  "description": "'whose' is a possessive determiner or pronoun, it means possession and is used for adding information about a person or thing."
  },
  {
   "proverb": "A computer can be compared to a filing cabinet. London is a boring city compared with Paris.",
@@ -4860,7 +4860,7 @@
   "sounds": [
    "bed1.aac"
   ],
-  "description": "Bed is a strange word. If we don't use an article, it means a place where we sleep (uncount noun), not a particular object (first sentence). Fixed expressions: (go) to bed, (be) in bed, make the bed (застилать кровать). But when we are thinking about a bed as an object (count noun), we use articles in the normal way (second sentence)"
+  "description": "Bed is a strange word, similar to home and work. If we don't use an article, it means a place where we sleep (uncount noun), not a particular object (first sentence). Fixed expressions: (go) to bed, (be) in bed, make the bed (застилать кровать). But when we are thinking about a bed as an object (count noun), we use articles in the normal way (second sentence)"
  },
  {
   "proverb": "They went home. I stayed at home. Julie works from home. It's time to go home. We arrived home yesterday. We visited the home of Jackie Kennedy.",
@@ -4909,7 +4909,7 @@
   "sounds": [
    "class1.aac"
   ],
-  "description": "The noun 'class' has two meanings: a period of time in which students are taught something (first sentence), or a group of students who are taught together (second sentence). Fixed expressions: be in class, take/have a class, give/hold/teach a class. A teacher gives/holds/teaches a class. Students take or have classes."
+  "description": "The noun 'class' has two meanings: a period of time in which students are taught something (можно перевести как урок) (first sentence), or a group of students who are taught together (second sentence). Fixed expressions: be in class, take/have a class, give/hold/teach a class. A teacher gives/holds/teaches a class. Students take or have classes."
  },
  {
   "proverb": "I met Charles while I was in town. He left town after he argued with his wife. Sitka is a lively and charming small town with restaurants, shops, and even art galleries.",
@@ -5007,14 +5007,21 @@
   "sounds": [
    "during.aac"
   ],
-  "description": "'during' is always followed by a noun, 'while' is always followed by a verb"
+  "description": "'during' is always followed by a noun, 'while' is always followed by a verb, usually in continuous form"
+ },
+ {
+  "proverb": "During the flight I slept a lot. While I was flying I slept a lot.",
+  "sounds": [
+   "during1.aac"
+  ],
+  "description": "'during' is always followed by a noun, 'while' is always followed by a verb, usually in continuous form"
  },
  {
   "proverb": "I got a beer. I took a beer.",
   "sounds": [
    "getortake.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bar waiter for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bartender for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you)"
  },
  {
   "proverb": "For his birthday, Mike got a brand new drill set. Helen has high blood pressure, so she takes pills every day.",
@@ -5119,7 +5126,7 @@
   "sounds": [
    "study2.aac"
   ],
-  "description": "These two expressions are both correct and can be used interchangeably. With some words, such as study, work, live, the choice of aspect makes little difference. The meanings are similar, however it is preferable to use 'I am studying', to emphasize the fact that it's just temporary - someday you will finish your studies and do something else."
+  "description": "These two expressions are both correct and can be used interchangeably. With some verbs, such as study, work, live, the choice of aspect makes little difference. The meanings are similar, however it is preferable to use 'I am studying', to emphasize the fact that it's just temporary - someday you will finish your studies and do something else."
  },
  {
   "proverb": "I am hoping to get a raise soon. I hope to get a raise soon.",
@@ -5147,21 +5154,21 @@
   "sounds": [
    "causative.aac"
   ],
-  "description": "These are all examples of passive causative. Passive causative is when you have something done by someone else. The agent (person or thing that performs the action) is often implicit (first two sentences). The two most common causative verbs are 'get' and 'have'. 'make' and 'let' are also used but very rarely"
+  "description": "These are all examples of passive causative. Passive causative is when you have something done by someone else. The agent (person or thing that performs the action) is often implicit (first two sentences). It is also often used when giving advice: 'Your hair is too long, you should get it cut by a barber' or just 'You should get it cut!'. The two most common causative verbs are 'get' and 'have'. 'make' and 'let' are also used but very rarely"
  },
  {
   "proverb": "I am a teacher. He told me he was a teacher.",
   "sounds": [
    "reported.aac"
   ],
-  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. To say 'He told me he is a teacher' is incorrect. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'They will live in Russia' becomes 'He told me they would live in Russia'"
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. To say 'He told me he is a teacher' is incorrect. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'. We use the Past Perfect here because if we use the Present Perfect it won't be reported speech anymore, because the PP tense is a present tense. In reported speech the Past Simple and the Present Perfect are turned into the Past Perfect tense; 'They will live in Russia' becomes 'He told me they would live in Russia'"
  },
  {
   "proverb": "I haven't seen Mike. He said that he hadn't seen Mike.",
   "sounds": [
    "reported1.aac"
   ],
-  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'; 'They will live in Russia' becomes 'He told me they would live in Russia'"
+  "description": "Reported speech is when we talk about something that someone else has said. The way we do this is we take the original sentence and we usually change it into one tense back. Another examples: 'They lived in Russia' becomes 'He told me they had lived in Russia'. We use the Past Perfect here because if we use the Present Perfect it won't be reported speech anymore, because the PP tense is a present tense. In reported speech both the Past Simple and the Present Perfect are turned into the Past Perfect tense; 'They will live in Russia' becomes 'He told me they would live in Russia'."
  },
  {
   "proverb": "I can speak perfect English. She said she could speak perfect English.",
@@ -5175,49 +5182,56 @@
   "sounds": [
    "identifying_clause.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'The girl called me to return it'. What girl? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause."
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'The girl called me to return it'. What girl? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause."
  },
  {
   "proverb": "The movie which I saw last weekend was excellent.",
   "sounds": [
    "identifying_clause_1.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'The movie was excellent'. Which movie? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'The movie was excellent'. Which movie? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
  },
  {
   "proverb": "I saw a car which was white.",
   "sounds": [
    "identifying_clause_2.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'I saw a car'. Which car? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'I saw a car'. Which car? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
  },
  {
   "proverb": "That's the street which I grew up on.",
   "sounds": [
    "identifying_clause_3.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't say: 'That's the street'. Which street? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'That's the street'. Which street? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also remember that we can use 'that' and 'which' with identifying clauses interchangeably (when talking about things). With non-identifying clauses, when talking about things, we can only use 'which', and when talking about people we can only use 'who'"
  },
  {
   "proverb": "Harry Potter, which I finished last week, was an excellent book.",
   "sounds": [
    "non-identifying_clause.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. We use non-identifying clauses to provide additional information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Harry Potter was an excellent book'. Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' or 'who'."
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. We use non-identifying clauses to provide additional information about the subject, without which the sentence will still be complete and understood. We can just say: 'Harry Potter was an excellent book' because everybody knows about Harry Potter. We have to use commas to highlight a non-identifying clause. Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' or 'who'."
  },
  {
   "proverb": "Toronto, which is heavily populated, is a multicultural city.",
   "sounds": [
    "non-identifying_clause_1.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. We use non-identifying clauses to provide additional information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Toronto is a multicultural city'. Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' or 'who'."
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. We use non-identifying clauses to provide additional information about the subject, without which the sentence will still be complete and understood. We can just say: 'Toronto is a multicultural city'. We have to use commas to highlight a non-identifying clause. Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' or 'who'."
  },
  {
   "proverb": "The man who lives next door is a doctor. Dr. Smith, who lives next door, is a retired surgeon.",
   "sounds": [
    "relative_clauses.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. Without it the sentence won't be complete and will lose its meaning. We can't say: 'The man is a doctor'. What man? We do not use commas to highlight an identifying clause.\nA non-identifying clause provides extra information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Dr. Smith is a retired surgeon.' Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' (for things) or 'who' (for people)."
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. Without it the sentence won't be complete and will lose its meaning. We can't just say: 'The man is a doctor'. What man? We do not use commas to highlight an identifying clause.\nA non-identifying clause provides extra information about the subject, without which the sentence will still be complete and understood. We have to use commas to highlight a non-identifying clause. We can just say: 'Dr. Smith is a retired surgeon.' Also remember that with non-identifying clauses (extra information about things or people) we can't use 'that', only 'which' (for things) or 'who' (for people)."
+ },
+ {
+  "proverb": "My sister who is from Chicago visited me last weekend. My sister, who is from Chicago, visited me last weekend.",
+  "sounds": [
+   "relative_clauses_1.aac"
+  ],
+  "description": "The difference between these two sentences is that the first sentence contains an identifying clause and it means that you have many sisters. You need to provide this additional information to identify which sister you are talking about. We do not use commas to highlight an identifying clause. The second sentence contains a non-identifying clause and it means that you have only one sister. So, if you just say 'My sister visited me last weekend', it will be complete and understood by a listener, because you have only one sister and everybody knows that. We have to use commas to highlight a non-identifying clause."
  },
  {
   "proverb": "Which is the farthest planet from the Sun?",
@@ -5238,14 +5252,14 @@
   "sounds": [
    "wish1.aac"
   ],
-  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are close to the unrealness. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. For a wish about a situation in the present (first two sentences), we use the past simple tense: 'I am not tall' becomes 'I wish I were taller'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further: 'I ate too much' becomes 'I wish I hadn't eaten so much'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It is cloudy today. I wish the sun would come out.'"
+  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are imaginary. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. It is very close to the second conditional in meaning: If I were taller, I would play basketball. For a wish about a situation in the present (first two sentences), we use the past simple tense: 'I am not tall' becomes 'I wish I were taller'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further: 'I ate too much' becomes 'I wish I hadn't eaten so much'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It is cloudy today. I wish the sun would come out.'"
  },
  {
   "proverb": "I wish I were rich. He wishes he were taller. I wish I had studied harder in high school. I wish it would rain.",
   "sounds": [
    "wish2.aac"
   ],
-  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are close to the unrealness. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. For a wish about a situation in the present (first two sentences), we use the past simple tense:'I am poor' becomes 'I wish I were rich'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further, i.e use the past perfect tense: 'I didn't study hard in high school' becomes 'I wish I had studied harder in high school'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It hasn't rained for two weeks. I wish ...'"
+  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are imaginary. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. It is very close to the second conditional in meaning: If I were rich, I would buy ... For a wish about a situation in the present (first two sentences), we use the past simple tense:'I am poor' becomes 'I wish I were rich'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further, i.e use the past perfect tense: 'I didn't study hard in high school' becomes 'I wish I had studied harder in high school'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It hasn't rained for two weeks. I wish ...'"
  },
  {
   "proverb": "He is in a meeting. He is at a meeting.",

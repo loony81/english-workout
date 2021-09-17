@@ -20,12 +20,6 @@
    {
       "proverb":"A bad compromise is better than a good lawsuit",
       "sounds":[
-         "Audio recording 2020-04-24 12-32-00.aac"
-      ]
-   },
-   {
-      "proverb":"A bad compromise is better than a good lawsuit",
-      "sounds":[
          "lawsuit.aac",
          "lawsuit1.aac"
       ]
@@ -665,8 +659,7 @@
    {
       "proverb":"A fool may give a wise man a counsel (People are often able to give good advice to those who are considered to be intellectually superior)",
       "sounds":[
-         "counsel.aac",
-         "counsel1.aac"
+         "counsel.aac"
       ]
    },
    {
@@ -8928,12 +8921,6 @@
       "sounds":[
          "spoon.aac",
          "spoon1.aac"
-      ]
-   },
-   {
-      "proverb":"He sits at a table - он сидит за столом",
-      "sounds":[
-         "уже добавил в грамматику, удалить отсюда"
       ]
    },
    {
@@ -18692,7 +18679,7 @@
       ]
    },
    {
-      "proverb":"The customer grew tired of waiting - клиенту устал ждать",
+      "proverb":"The customer grew tired of waiting - клиент устал ждать",
       "sounds":[
          "Audio recording 2020-03-16 12-39-55.aac"
       ]
