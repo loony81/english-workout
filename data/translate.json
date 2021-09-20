@@ -3892,7 +3892,7 @@
   "proverb": "What are you doing at New Year's?"
  },
  {
-  "description": "Я люблю (мне нравится) сидеть дома и смотреть фильмы на Новый год (1 января)",
+  "description": "Мне нравится сидеть дома (оставаться дома) и смотреть фильмы на Новый год (1 января)",
   "proverb": "I like staying at home and watching movies on New Year's Day"
  },
  {
@@ -4256,7 +4256,7 @@
   "proverb": "You'd better hurry"
  },
  {
-  "description": "Ему нравится кататься на своей лошади",
+  "description": "Ему нравится кататься (ездить верхом) на своей лошади",
   "proverb": "He likes riding his horse"
  },
  {
@@ -5658,6 +5658,22 @@
  {
   "description": "Я жалею что не учился усерднее в средней школе (the subjunctive)",
   "proverb": "I wish I had studied harder in high school"
+ },
+ {
+  "description": "Я жалею что не пошел на концерт (the subjunctive)",
+  "proverb": "I wish I had gone to the concert"
+ },
+ {
+  "description": "Если бы я мог свободно (бегло) говорить по-английски (the subjunctive)",
+  "proverb": "I wish I could speak English fluently "
+ },
+ {
+  "description": "Если бы у меня было десять миллионов долларов (the subjunctive)",
+  "proverb": "I wish I had ten million dollars"
+ },
+ {
+  "description": "Я жалею что съел весь шеколад, потому что теперь у меня болит живот (the subjunctive)",
+  "proverb": "I wish I hadn't eaten all of the chocolate, because now my stomach hurts"
  },
  {
   "description": "Я к этому привык",
@@ -7262,6 +7278,90 @@
  {
   "description": "Тебе следует быть осторожнее",
   "proverb": "You should be more careful"
+ },
+ {
+  "description": "Это неправда! (Это ложь!)",
+  "proverb": "That's a lie!"
+ },
+ {
+  "description": "Я польщен",
+  "proverb": "I'm flattered"
+ },
+ {
+  "description": "Позволь мне облегчить твою боль",
+  "proverb": "Allow me to ease your pain"
+ },
+ {
+  "description": "Я научу тебя как нужно себя вести (Я собираюсь научить тебя некоторым манерам)",
+  "proverb": "I'm gonna teach you some manners"
+ },
+ {
+  "description": "Мы идем уже целый день и не встретили ни души",
+  "proverb": "We've been walking all day and haven't passed a soul"
+ },
+ {
+  "description": "Убейте всех!(Никого не оставляйте в живых!)",
+  "proverb": "Let none survive!"
+ },
+ {
+  "description": "Она у своей тети (Она в доме своей тети)",
+  "proverb": "She is at her aunt's"
+ },
+ {
+  "description": "Он остановился в отеле Ритц",
+  "proverb": "He's staying at the Ritz hotel"
+ },
+ {
+  "description": "В каком отеле вы остановились?",
+  "proverb": "What hotel are you staying at?"
+ },
+ {
+  "description": "Соленое на вкус (Это на вкус соленое)",
+  "proverb": "It tastes salty"
+ },
+ {
+  "description": "Существует много различий между английским и арабским",
+  "proverb": "There are many differences between English and Arabic"
+ },
+ {
+  "description": "Я использую Твиттер и Фейсбук каждый день",
+  "proverb": "I use Twitter and Facebook every day"
+ },
+ {
+  "description": "Я сбился с мысли (Я потерял ход своих мыслей)",
+  "proverb": "I've lost my train of thought"
+ },
+ {
+  "description": "Он погрузился (впал) в глубокий сон",
+  "proverb": "He fell into a deep sleep"
+ },
+ {
+  "description": "Я не мог вообще заснуть прошлой ночью",
+  "proverb": "I couldn't get to sleep at all last night"
+ },
+ {
+  "description": "Меня уволили",
+  "proverb": "I got fired"
+ },
+ {
+  "description": "отправится за приключениями (в приключение)",
+  "proverb": "to go on an adventure"
+ },
+ {
+  "description": "Он впал в депрессию и начал пить",
+  "proverb": "He fell into depression and began drinking"
+ },
+ {
+  "description": "Ты выглядишь таким уставшим",
+  "proverb": "You look so tired"
+ },
+ {
+  "description": "Богом клянусь!",
+  "proverb": "I swear to God!"
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",

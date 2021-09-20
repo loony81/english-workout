@@ -490,7 +490,7 @@
   "sounds": [
    "apostrophe.aac"
   ], 
-  "description": "This sentence demonstrates when to use most or the most. Here 'most' is an adverb that describes the adjective 'famous'. It also demonstrates when to use the possessive case."
+  "description": "This sentence demonstrates when to use most or the most. Here 'most' is an adverb that describes the adjective 'famous'. It seems like we have a superlative adjective here. But we can't say: Madame Tussaud's is London's the most famous tourist attraction; it sounds weird. We can't also say: Madame Tussaud's is the London's most famous tourist attraction, because we can't use 'the' with London, it is a proper noun. But we can say: The most famous tourist attraction in London is Madame Tussaud's. It also demonstrates when to use the possessive case."
  }, 
  {
   "proverb": "Smoking causes cancer.", 
@@ -1514,7 +1514,7 @@
   "sounds": [
    "ontime1.aac"
   ], 
-  "description": "These sentences demonstrate when to use 'on time' and when to use 'in time'. It also demonstrates that the verb 'arrive' indicates location or time, but not movement, so we use the usual prepositions of place or time after it. We always say 'arrived at the cinema', not 'arrived to the cinema'"
+  "description": "This sentence demonstrates when to use 'on time' and when to use 'in time'. It also demonstrates that the verb 'arrive' indicates location or time, but not movement, so we use the usual prepositions of place or time after it. We always say 'arrived at the cinema', not 'arrived to the cinema'"
  }, 
  {
   "proverb": "You mean to tell me you have never ridden a horse before?", 
@@ -1684,14 +1684,14 @@
   "sounds": [
    "onvacation.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time (or place???). We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
+  "description": "This sentence demonstrates how to use prepositions of time (or place???). We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip', 'on a picnic' and on an adventure. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
  }, 
  {
   "proverb": "When I was on holiday in Cancun I caught swine fever.", 
   "sounds": [
    "onholiday.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip' and 'on a picnic'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture. But here's where it gets tricky – when you're in the middle of a vacation, American English speakers say you are on vacation, and British English speakers say you are on holiday. Also most long term diseases are not countable"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip', 'on a picnic' and on an adventure. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture. But here's where it gets tricky – when you're in the middle of a vacation, American English speakers say you are on vacation, and British English speakers say you are on holiday. Also most long term diseases are not countable"
  }, 
  {
   "proverb": "The printing press was invented in the Middle Ages.", 
@@ -1847,14 +1847,14 @@
   "sounds": [
    "thefollowing.aac"
   ], 
-  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'next' (на следующий, в следующем). In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
+  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'next' (на следующий, в следующем). It describes the noun that comes after it: day, week, month, etc. 'the following day' can be viewed as a whole unit. In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
  }, 
  {
   "proverb": "They arranged to have dinner the following month. Following the dinner, there will be a dance.", 
   "sounds": [
    "thefollowing1.aac"
   ], 
-  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'next' (на следующий, в следующем). In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
+  "description": "These two sentences demonstate the difference between 'the following' and 'following'. When we say 'the following + (day, month, year, etc)', it's an adjective and means 'next' (на следующий, в следующем). It describes the noun that comes after it: day, week, month, etc. 'the following month' can be viewed as a whole unit. In the second sentence 'following' is a preposition and means 'after' (после, последовавший за)"
  }, 
  {
   "proverb": "Wear a sweater but carry a gun", 
@@ -1968,7 +1968,7 @@
   "sounds": [
    "atthetable.aac"
   ], 
-  "description": "These sentences explain how to use prepositions of place."
+  "description": "These sentences explain prepositions of place."
  }, 
  {
   "proverb": "We arrived at the airport. I'm arriving in London tomorrow. The movie will be over by the time we arrive at the theater.", 
@@ -2053,14 +2053,14 @@
   "sounds": [
    "onface.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc)"
+  "description": "This sentence explains prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc)"
  }, 
  {
   "proverb": "The poem is on page 44.", 
   "sounds": [
    "onpage1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). But remember that when we talk about a whole book we need to use the preposition 'in'. When we talk about information represented on paper, we say 'in a book, newspaper, magazine, letter', but 'on a page'. Also, we do not use the definite article with following constructs: noun + number (page 6, platform 9, room 5)"
+  "description": "This sentence explains prepositions of place. We use the preposition 'on' with flat or spherical surfaces (floor, shelf, table, wall, map, page, Earth, moon, etc). But remember that when we're talking about a whole book we need to use the preposition 'in'. When we talk about information represented on paper, we say 'in a book, newspaper, magazine, letter', but 'on a page'. Also, we do not use the definite article with following constructs: noun + number (page 6, platform 9, room 5)"
  }, 
  {
   "proverb": "She said she wouldn't marry him if he were the last man on Earth.", 
@@ -2307,28 +2307,28 @@
   "sounds": [
    "bus.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
+  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
  }, 
  {
   "proverb": "Get on the train! Get off the train!", 
   "sounds": [
    "train.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
+  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
  },
  {
   "proverb": "There were three hundred people on board the ship.", 
   "sounds": [
    "ship.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (bike, horse, etc)"
  }, 
  {
   "proverb": "Welcome to rush hour on the Tube.", 
   "sounds": [
    "tube.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
  },
  {
   "proverb": "He likes riding his horse.", 
@@ -2342,14 +2342,14 @@
   "sounds": [
    "subway.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
  },
  {
   "proverb": "Which flight is she traveling on?", 
   "sounds": [
    "flight.aac"
   ], 
-  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
+  "description": "This sentence demonstrates how to use transportation prepositions. Use the prepositions 'in/out' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway), or when you ride something (motorcycle, horse, etc)"
  }, 
  {
   "proverb": "Get on the horse! Get off the horse!", 
@@ -2524,14 +2524,14 @@
   "sounds": [
    "inthecar.aac"
   ], 
-  "description": "These sentences demonstrate how to use transportation prepositions. Use the preposition 'in' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway) or when you ride something (motorcycle, horse, etc)"
+  "description": "These sentences demonstrate how to use transportation prepositions. Use the preposition 'in' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway) or when you ride something (motorcycle, horse, etc)"
  },
  {
   "proverb": "Get in the car! Get out of the car!", 
   "sounds": [
    "inthecar1.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something (someone) is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway) or when you ride something (motorcycle, horse)"
+  "description": "These expressions demonstrate how to use transportation prepositions. Use the prepositions 'in/out' when something/someone is inside a small vehicle (car, taxi, truck). Use 'on/off' with vehicles considered a platform and also public transportation (bus, train, plane, boat, subway) or when you ride something (motorcycle, horse)"
  },
  {
   "proverb": "The author makes that point repeatedly in his novel.", 
@@ -3189,7 +3189,7 @@
   "sounds": [
    "appreciate.aac"
   ], 
-  "description": "'appreciate' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'we are appreciating ...'"
+  "description": "'appreciate' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'we are appreciating ...' And don't forget that if it is followed by another verb, it must be a gerund, for example: I don't appreciate being ignored."
  },
  {
   "proverb": "I hear some music playing. Did you hear that?", 
@@ -4605,7 +4605,7 @@
   "sounds": [
    "trouble.aac"
   ],
-  "description": "We can use both the present perfect simple and the present perfect continuous with how long, for, since, recently to talk about how long a situation has lasted: situations that started in the past and still continue. But we can only use the present perfect simple with stative verbs, in the first sentence 'have' is a stative verb. But sometimes 'have' can act as an action verb when we're experiencing or taking something: problems, fun, a good time, a bath, breakfast, a cup of coffee ,etc (second sentence)"
+  "description": "We can use both the present perfect simple and the present perfect continuous with how long, for, since, recently to talk about how long a situation has lasted: situations that started in the past and still continue. But we can only use the present perfect simple with stative verbs, in the first sentence 'have' is a stative verb. But sometimes 'have' can act as an action verb when we're experiencing something: problems, fun, a good time, breakfast; or taking something: a bath, a cup of coffee ,etc (second sentence)"
  },
  {
   "proverb": "We've had this TV for ages, I think it's time to buy a new one. I've been having stomach problems for the past few days.",
@@ -5021,21 +5021,21 @@
   "sounds": [
    "getortake.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bartender for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bartender for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (someone fired you, you can't fire yourself)"
  },
  {
   "proverb": "For his birthday, Mike got a brand new drill set. Helen has high blood pressure, so she takes pills every day.",
   "sounds": [
    "getortake1.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (you can't fire yourself)"
  },
  {
   "proverb": "Last winter, Christine didn't get sick even once. I asked my dad to lend me his car. He said no, but I took it anyway.",
   "sounds": [
    "getortake2.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, take pills, get a coffee (at a coffee shop), get a raise (the boss gave you a raise), get a cold (someone infected you)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, take pills, get a coffee (at a coffee shop), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (you can't fire yourself)"
  },
  {
   "proverb": "I'm listening to the radio. I hear some music playing.",
@@ -5267,5 +5267,12 @@
    "meeting.aac"
   ],
   "description": "Both 'in' and 'at' can be used interchangeably but they can have slightly different meanings. Use 'in' when referring to the meeting as an activity without specifying location. 'he is in a meeting' means that he is in the midst of a group of people who are discussing something and he is actively involved in it. Use 'at' when referring to the meeting as a location or event. Also 'in a meeting' implies being on the same premises as the speaker. 'at a meeting' implies being on a different premises than the speaker."
+ },
+ {
+  "proverb": "I stayed home all day yesterday. I stayed at home all day yesterday.",
+  "sounds": [
+   "home3.aac"
+  ],
+  "description": "Both these expressions are correct and can be used interchangeably. 'Home' is a word that rarely accepts a preposition. We say 'go home', 'come home', 'return home' etc. But we also say 'at home', 'from home', 'off home' and so on. Grammatically, when the preposition is used, the word 'home' becomes a NOUN. In 'stay home', it is an ADVERB, it describes the verb 'stay'"
  }
 ]
