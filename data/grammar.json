@@ -25,7 +25,7 @@
   "sounds": [
    "cake.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific. Also, the noun 'cake' can be both countable and uncountable. In this sentence 'cake' is uncountable noun."
+  "description": "This sentence demonstrates the use of the definite article when talking about something specific. Also, the noun 'cake' can be both countable and uncountable. In this sentence 'cake' is an uncountable noun."
  }, 
  {
   "proverb": "We wanted to watch TV, but there wasn't one in the apartment, so we just listened to the radio.", 
@@ -1340,7 +1340,14 @@
    "man.aac"
   ], 
   "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
- }, 
+ },
+ {
+  "proverb": "Man proposes but God disposes.", 
+  "sounds": [
+   "man1.aac"
+  ], 
+  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
+ },
  {
   "proverb": "There aren't many people who have read this novel to the end.", 
   "sounds": [
@@ -2468,14 +2475,14 @@
   "sounds": [
    "underthesun.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'under the sun' means in existence (в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine" 
+  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете). 'under the sun' means in existence (в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine" 
  },
  {
   "proverb": "I put the plants in the sun to help them grow. There is nothing under the sun that we cannot do.", 
   "sounds": [
    "underthesun1.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете), 'under the sun' means in existence (в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine. We can also say 'on the sun' when we mean the surface of the Sun (the star)"
+  "description": "These two sentences demonstrate the difference between 'in the sun' and 'under the sun'. 'in the sun' means in the sunlight (на свету, на солнечном свете). 'Under the sun' means in existence (в целом мире, на целом свете), it is an idiomatic expression that emphasizes that there is a large number of something, as many as you can imagine. We can also say 'on the sun' when we mean the surface of the Sun (the star)"
  },
  {
   "proverb": "There were no clouds in the sky.", 
@@ -2909,35 +2916,35 @@
   "sounds": [
    "across.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
  },
  {
   "proverb": "The dog ran across the road and nearly got hit by a car. The train goes through a tunnel under the hill.", 
   "sounds": [
    "tunnel.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
  },
  {
   "proverb": "We took a boat across the river. He escaped through a door in the back of the building.", 
   "sounds": [
    "escaped.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
  },
  {
   "proverb": "There are many villages across the border. He looked through the window.", 
   "sounds": [
    "villages.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs"
+  "description": "These two sentences demonstrate the difference between two prepositions: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something (prep of movement). It is also used as a preposition of place when something touches or stretches from one side to the other, or when something is located on the opposite side of something else. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs. "
  },
  {
   "proverb": "The boys swam across the lake. The arrow went through the air.", 
   "sounds": [
    "arrow.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
  },
  {
   "proverb": "We went for a walk along the beach at twilight.", 
@@ -3042,7 +3049,7 @@
   "sounds": [
    "under.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'under' indicates movement or position directly below something"
+  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'under' indicates movement or position directly below something. Actually, in the first sentece 'under' is an adverb, it's a prepositional adverb"
  },
  {
   "proverb": "We could see children in the playground as we drove past the school.", 
@@ -3448,7 +3455,7 @@
   "sounds": [
    "have.aac", "have1.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is mostly used as a stative verb and means to own, or to do regularly. We can't say: I've been having this car since 2006. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having difficulty, etc"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is mostly used as a stative verb and means to own, or to do regularly. We can't say: I've been having this car since 2006. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having difficulty, I'm having an affair etc"
  },
  {
   "proverb": "I have a headache. I am having a heart attack.", 
@@ -3469,7 +3476,7 @@
   "sounds": [
    "have5.aac", "have6.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is mostly used as a stative verb and means to own, or to do regularly. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having trouble logging into my gmail account, etc"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is mostly used as a stative verb and means to own, or to do regularly. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having trouble logging into my gmail account, I'm having an affair, etc"
  },
  {
   "proverb": "She is having a baby.", 
@@ -4041,21 +4048,21 @@
   "sounds": [
    "Audio recording 2021-02-13 13-09-01.aac"
   ],
-  "description": "This is an example of subject questions"
+  "description": "This is an example of subject questions. Subject questions use different word order compared to more commonly used object questions. The subject in a sentence performs the action, and the object is something (person, thing, notion) that is being acted upon, something that receives the action. In object questions we ask about the object. In subject question we ask about the subject, we're focusing on the subject, the 'doer'. We substitute it with the question word (what, who, etc) and we don't use auxiliary verbs."
  },
  {
   "proverb": "What took you so long?",
   "sounds": [
    "Audio recording 2021-02-13 13-12-45.aac"
   ],
-  "description": "This is an example of subject questions"
+  "description": "This is an example of subject questions. Subject questions use different word order compared to more commonly used object questions. The subject in a sentence performs the action, and the object is something (person, thing, notion) that is being acted upon, something that receives the action. In object questions we ask about the object. In subject question we ask about the subject, we're focusing on the subject, the 'doer'. We substitute it with the question word (what, who, etc) and we don't use auxiliary verbs."
  },
  {
   "proverb": "Who said that? Who did that? Guess what?",
   "sounds": [
    "Audio recording 2021-02-13 13-18-42.aac"
   ],
-  "description": "These are all examples of subject questions"
+  "description": "These are all examples of subject questions. Subject questions use different word order compared to more commonly used object questions. The subject in a sentence performs the action, and the object is something (person, thing, notion) that is being acted upon, something that receives the action. In object questions we ask about the object. In subject question we ask about the subject, we're focusing on the subject, the 'doer'. We substitute it with the question word (what, who, etc) and we don't use auxiliary verbs."
  },
  {
   "proverb": "I have been on vacation for two days. I was on vacation for two days.",

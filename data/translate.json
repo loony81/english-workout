@@ -480,7 +480,7 @@
   "proverb": "I haven't seen her in years"
  },
  {
-  "description": "К этому надо просто немного привыкнуть (Это просто требует привыкания)",
+  "description": "К этому просто нужно немного привыкнуть (Это просто требует привыкания)",
   "proverb": "It just takes a little getting used to"
  },
  {
@@ -2549,7 +2549,7 @@
  },
  {
   "description": "Как давно (долго) ты изучаешь английский?",
-  "proverb": "How long have you been studying English?"
+  "proverb": "How long have you been learning English?"
  },
  {
   "description": "Как давно уже идет снег?",
@@ -3076,7 +3076,7 @@
   "proverb": "It hurts!"
  },
  {
-  "description": "Где мы? ? Где мы находимся?",
+  "description": "Где мы? / Где мы находимся?",
   "proverb": "Where are we?"
  },
  {
@@ -4200,7 +4200,7 @@
   "proverb": "I'll be there at dawn"
  },
  {
-  "description": "Есть запрпавка примерно в миле прямо по дороге (вверх по дороге)",
+  "description": "Есть заправка примерно в миле прямо по дороге (вверх по дороге)",
   "proverb": "There's a gas station about a mile up the road"
  },
  {
@@ -4824,7 +4824,7 @@
   "proverb": "I keep bees"
  },
  {
-  "description": "Мне нужно приучить себя вставать рано",
+  "description": "Мне нужно привыкнуть вставать рано",
   "proverb": "I need to get used to getting up early"
  },
  {
@@ -5205,7 +5205,7 @@
  },
  {
   "description": "пойти на пикник",
-  "proverb": "go on a picnic"
+  "proverb": "to go on a picnic"
  },
  {
   "description": "Я никогда не пью чай",
@@ -5316,7 +5316,7 @@
   "proverb": "After I had finished my breakfast, I went to school"
  },
  {
-  "description": "Это был прекрасный день на улице (с наружи), поэтому я решил пойти прогуляться",
+  "description": "Это был прекрасный день на улице (снаружи), поэтому я решил пойти прогуляться",
   "proverb": "It was a perfect day outside so I decided to go for a walk"
  },
  {
@@ -5588,7 +5588,7 @@
   "proverb": "He is the nicest person I've ever met"
  },
  {
-  "description": "Какай самая дешевая страна в которой ты когда-либо был?",
+  "description": "Какая самая дешевая страна в которой ты когда-либо был?",
   "proverb": "What's the cheapest country you've ever been to?"
  },
  {
@@ -7366,6 +7366,110 @@
  {
   "description": "В комнате жарко",
   "proverb": "The room is hot"
+ },
+ {
+  "description": "",
+  "proverb": "I'm not gonna sit and wait"
+ },
+ {
+  "description": "",
+  "proverb": "There is no right or wrong way to do it"
+ },
+ {
+  "description": "",
+  "proverb": "I'm gonna finish this once and for all"
+ },
+ {
+  "description": "",
+  "proverb": "Who's in command here?"
+ },
+ {
+  "description": "",
+  "proverb": "You're alive! It's all that matters!"
+ },
+ {
+  "description": "",
+  "proverb": "We've come all this way for nothing"
+ },
+ {
+  "description": "",
+  "proverb": "I gotta quit smoking!"
+ },
+ {
+  "description": "",
+  "proverb": "Hold your breath!"
+ },
+ {
+  "description": "",
+  "proverb": "When did you last get laid?"
+ },
+ {
+  "description": "",
+  "proverb": "Let's have a drink!"
+ },
+ {
+  "description": "",
+  "proverb": "What's your emergency?"
+ },
+ {
+  "description": "Почти 3 часа (контекст: когда кто-то спрашивает который час)",
+  "proverb": "It is almost 3 o'clock"
+ },
+ {
+  "description": "Мне почти 40 лет",
+  "proverb": "I am almost 40 years old"
+ },
+ {
+  "description": "Твоя нога выглядит распухшей. Я думаю тебе стоит пойти к доктору.",
+  "proverb": "Your leg looks swollen. I think you should go to the doctor."
+ },
+ {
+  "description": "Это что-то меняет? (проверить)",
+  "proverb": "Does it make a difference?"
+ },
+ {
+  "description": "",
+  "proverb": "I have an allergy to strawberries"
+ },
+ {
+  "description": "У вас обоих много общего (проверить)",
+  "proverb": "You two have a lot in common"
+ },
+ {
+  "description": "Она очень воспитана (проверить)",
+  "proverb": "She's very well mannared"
+ },
+ {
+  "description": "Она очень развита для своего возраста (проверить)",
+  "proverb": "She's very mature for her age"
+ },
+ {
+  "description": "",
+  "proverb": "What are you suggesting?"
+ },
+ {
+  "description": "Я сразу тебе позвоню как только выясню что-нибудь еще",
+  "proverb": "I'll call you as soon as I find anything else out"
+ },
+ {
+  "description": "",
+  "proverb": "It's gonna be fine / It's gonna be ok"
+ },
+ {
+  "description": "",
+  "proverb": "I like it when it's just the two of us"
+ },
+ {
+  "description": "",
+  "proverb": "I don't want to hear about that"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",
