@@ -856,7 +856,7 @@
   "proverb": "Don't be shy, you're among friends"
  },
  {
-  "description": "Сегодня я работаю до 5",
+  "description": "Я работаю до 5 сегодня",
   "proverb": "I work until 5 today"
  },
  {
@@ -1560,7 +1560,7 @@
   "proverb": "Is their office larger than ours?"
  },
  {
-  "description": "Я хотел бы стакан воды (Стакан воды пожалуйста)",
+  "description": "Стакан воды пожалуйста (Я хотел бы стакан воды)",
   "proverb": "I would like a glass of water"
  },
  {
@@ -2140,7 +2140,7 @@
   "proverb": "You behave like children"
  },
  {
-  "description": "Я чувствую себя лучше",
+  "description": "Мне уже лучше (Я чувствую себя лучше)",
   "proverb": "I'm feeling better"
  },
  {
@@ -3776,8 +3776,8 @@
   "proverb": "The Sahara is the world's biggest desert"
  },
  {
-  "description": "Нил - самая длинная река в Африке",
-  "proverb": "The Nile is the longest river in Africa"
+  "description": "Нил - самая длинная река в Африке. Она течет на север от озера Виктория к Средиземному морю.",
+  "proverb": "The Nile is the longest river in Africa. It flows north from Lake Victoria to the Mediterranean Sea."
  },
  {
   "description": "Это произошло в Средневековье (в Средние века)",
@@ -4901,7 +4901,7 @@
  },
  {
   "description": "Когда мы прибыли в аэропорт, рейс уже отправился",
-  "proverb": "When we arrived at the airport, the flight had left"
+  "proverb": "When we arrived at the airport, the flight had already left"
  },
  {
   "description": "Мы приехали (прибыли) в аэропорт в 18:00",
@@ -5236,7 +5236,7 @@
   "proverb": "She said she couldn't do it without my help"
  },
  {
-  "description": "Он сказал мне, что займет мне денег",
+  "description": "Он сказал мне, что займет мне денег (reported speech)",
   "proverb": "He told me he would lend me the money"
  },
  {
@@ -5442,6 +5442,10 @@
  {
   "description": "любой ценой",
   "proverb": "at all costs"
+ },
+ {
+  "description": "любой ценой (2)",
+  "proverb": "at any price"
  },
  {
   "description": "Я в этом не участвую",
@@ -5665,7 +5669,7 @@
  },
  {
   "description": "Если бы я мог свободно (бегло) говорить по-английски (the subjunctive)",
-  "proverb": "I wish I could speak English fluently "
+  "proverb": "I wish I could speak English fluently"
  },
  {
   "description": "Если бы у меня было десять миллионов долларов (the subjunctive)",
@@ -5702,6 +5706,10 @@
  {
   "description": "На ужин рыба (У нас рыба на ужин)",
   "proverb": "We're having fish for dinner"
+ },
+ {
+  "description": "На ужин жареная курица (У нас жареная курица на ужин)",
+  "proverb": "We're having roast chicken for dinner"
  },
  {
   "description": "Другими словами",
@@ -7368,7 +7376,7 @@
   "proverb": "The room is hot"
  },
  {
-  "description": "",
+  "description": "Я не собираюсь сидеть и ждать (проверить)",
   "proverb": "I'm not gonna sit and wait"
  },
  {
@@ -7380,7 +7388,7 @@
   "proverb": "I'm gonna finish this once and for all"
  },
  {
-  "description": "",
+  "description": "Кто здесь главный? (проверить)",
   "proverb": "Who's in command here?"
  },
  {
@@ -7460,8 +7468,188 @@
   "proverb": "I like it when it's just the two of us"
  },
  {
-  "description": "",
+  "description": "Не хочу даже слышать об этом (проверить)",
   "proverb": "I don't want to hear about that"
+ },
+ {
+  "description": "",
+  "proverb": "It was a long time ago/That was a long time ago"
+ },
+ {
+  "description": "На колени!",
+  "proverb": "Get on your knees!"
+ },
+ {
+  "description": "Мы собираемся встретиться на Новый Год (1 января)",
+  "proverb": "We're going to meet on New Year's Day"
+ },
+ {
+  "description": "В прошлом я пил много пива",
+  "proverb": "I used to drink a lot of beer in the past"
+ },
+ {
+  "description": "Раньше она играла в теннис, но потом она получила травму колена и вынуждена была прекратить",
+  "proverb": "She used to play tennis, but then she hurt her knee and had to stop"
+ },
+ {
+  "description": "Красивая белая птица прелетела над озером",
+  "proverb": "A beautiful white bird flew over the lake"
+ },
+ {
+  "description": "",
+  "proverb": "I learn English by watching movies"
+ },
+ {
+  "description": "Я свяжусь с тобой по электронной почте",
+  "proverb": "I will contact you by email"
+ },
+ {
+  "description": "Я свяжусь с тобой по телефону",
+  "proverb": "I will contact you by phone"
+ },
+ {
+  "description": "",
+  "proverb": "I cleaned the floor with a mop"
+ },
+ {
+  "description": "Обед - это главный прием пищи в течении дня для большинства людей (проверить)",
+  "proverb": "Dinner is the main meal of the day for most people"
+ },
+ {
+  "description": "реализовать на практике",
+  "proverb": "to implement in practice"
+ },
+ {
+  "description": "Я зарабатываю на жизнь тем что играю на пианино",
+  "proverb": "I play the piano for a living"
+ },
+ {
+  "description": "",
+  "proverb": "It's our last resort"
+ },
+ {
+  "description": "Когда я был в твоем возрасте ...",
+  "proverb": "When I was your age ..."
+ },
+ {
+  "description": "Я не отвечаю за результат (Я не несу ответственности)",
+  "proverb": "I cannot be held responsible"
+ },
+ {
+  "description": "В среднем, люди которые не курят здоровее (являются более здоровыми) чем люди которые курят",
+  "proverb": "On average, people who don't smoke are healthier than people who do"
+ },
+ {
+  "description": "Я не пью молоко",
+  "proverb": "I don't drink milk"
+ },
+ {
+  "description": "Я немного ошеломлен",
+  "proverb": "I'm a little stunned"
+ },
+ {
+  "description": "У меня нет выбора",
+  "proverb": "I don't have a choice"
+ },
+ {
+  "description": "Я не спал уже два дня",
+  "proverb": "I haven't slept in two days"
+ },
+ {
+  "description": "Почему ты заставляешь меня это делать?",
+  "proverb": "Why are you making me do this?"
+ },
+ {
+  "description": "",
+  "proverb": "Let me know if you need my help"
+ },
+ {
+  "description": "",
+  "proverb": "Do you have evidence to prove that?"
+ },
+ {
+  "description": "",
+  "proverb": "I've gone insane"
+ },
+ {
+  "description": "Я просто пытаюсь помочь",
+  "proverb": "I'm just trying to help"
+ },
+ {
+  "description": "На чьей ты стороне?",
+  "proverb": "Whose side are you on?"
+ },
+ {
+  "description": "",
+  "proverb": "She has to accept the consequences of her actions"
+ },
+ {
+  "description": "С другой стороны, ...",
+  "proverb": "On the other hand, ..."
+ },
+ {
+  "description": "Она удовлетворяет всем требованиям для этой работы",
+  "proverb": "She satisfies all the requirements for the job"
+ },
+ {
+  "description": "Я облажался",
+  "proverb": "I screwed up"
+ },
+ {
+  "description": "",
+  "proverb": "None of this would've happened if it weren't for you"
+ },
+ {
+  "description": "Ты подверг опасности жизнь каждого",
+  "proverb": "You put everyone's life in jeopardy"
+ },
+ {
+  "description": "Мы договорились?",
+  "proverb": "Do we have a deal?"
+ },
+ {
+  "description": "Давайте выпьем за это! (проверить)",
+  "proverb": "Let's drink to this (that)!"
+ },
+ {
+  "description": "Я сделаю это при одном условии",
+  "proverb": "I'll do it under one condition"
+ },
+ {
+  "description": "",
+  "proverb": "I don't do drugs"
+ },
+ {
+  "description": "Отель расположен в двух милях к северу от центра города",
+  "proverb": "The hotel is situated two miles north of downtown"
+ },
+ {
+  "description": "Нас поймают! (контекст: совершение преступления)",
+  "proverb": "We are gonna get caught!"
+ },
+ {
+  "description": "Нас не поймают! (контекст: совершение преступления)",
+  "proverb": "We are not gonna get caught!"
+ },
+ {
+  "description": "",
+  "proverb": "What are the odds of that?"
+ },
+ {
+  "description": "Наслаждайтесь вашим пребыванием!",
+  "proverb": "Enjoy your stay!"
+ },
+ {
+  "description": "",
+  "proverb": "It's a pleasure having you here!"
+ },
+ {
+  "description": "избегать путаницы",
+  "proverb": "to avoid confusion"
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",

@@ -165,7 +165,7 @@
   "sounds": [
    "lasttime.aac"
   ], 
-  "description": "These sentences show that it is correct to use both 'last time' and 'the last time'"
+  "description": "These sentences show that it is correct to use 'last time' or 'the last time'"
  }, 
  {
   "proverb": "I went to London last June.", 
@@ -214,21 +214,21 @@
   "sounds": [
    "most3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb, it describes the verb 'like', so the rule about needing 'the' with superlatives does not apply here"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb, it describes the verb 'like', so the rule about needing 'the' with superlative adjectives does not apply here"
  }, 
  {
   "proverb": "What matters most to you?", 
   "sounds": [
    "most4.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (matters most), it describes the verb 'matter', so the rule about needing 'the' with superlatives does not apply here"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (matters most), it describes the verb 'matter', so the rule about needing 'the' with superlative adjectives does not apply here"
  }, 
  {
   "proverb": "The kids loved the fair, but they enjoyed the bumper cars most of all.", 
   "sounds": [
    "most5.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (enjoyed most), so the rule about needing 'the' with superlatives does not apply here"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (enjoyed most), so the rule about needing 'the' with superlative adjectives does not apply here"
  }, 
  {
   "proverb": "He is the most famous actor I know.", 
@@ -264,14 +264,14 @@
    "advantage1.aac", 
    "advantage2.aac"
   ], 
-  "description": "This sentence demonstrates how to pronounce advantage and advantageous in American English"
+  "description": "This expression demonstrates how to pronounce advantage and advantageous in American English"
  },
  {
   "proverb": "courage but courageous", 
   "sounds": [
    "courage.aac"
   ], 
-  "description": "This sentence demonstrates how to pronounce courage and courageous in American English"
+  "description": "This expression demonstrates how to pronounce courage and courageous in American English"
  }, 
  {
   "proverb": "The Philippines is visited by an average of 20 typhoons annually.", 
@@ -1044,7 +1044,7 @@
   "sounds": [
    "mom.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with common names of relatives ('father', 'mother', 'son', 'daughter', 'brother', etc). Also we do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of the definite article with common names of relatives ('father', 'mother', 'son', 'daughter', 'brother', etc). Also we do not usually use articles with meals (uncount nouns), unless it is an occasion, like in this example."
  }, 
  {
   "proverb": "Today we all went to the mall, and grandmother bought a new belt.", 
@@ -1227,14 +1227,14 @@
   "sounds": [
    "breakfast.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal, for example a formal occasion or a social event: They held a dinner to celebrate his retirement"
  }, 
  {
   "proverb": "What did you have for breakfast?", 
   "sounds": [
    "breakfast1.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal, for example a formal occasion or a social event: They held a dinner to celebrate his retirement"
  }, 
  {
   "proverb": "I ate way too much at dinner.", 
@@ -1255,7 +1255,7 @@
   "sounds": [
    "dinner2.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal, We do not usually use articles with meals (uncount nouns), unless it is a specific meal, for example a formal occasion or a social event: They held a dinner to celebrate his retirement"
  }, 
  {
   "proverb": "I can't talk now, I'm having dinner. Can you call back later?", 
@@ -1269,14 +1269,14 @@
   "sounds": [
    "dinner4.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Think of it as an event"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Think of it as an event or occasion"
  }, 
  {
   "proverb": "We didn't like the dinner.", 
   "sounds": [
    "dinner5.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Think of it as an event"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. Think of it as an event or occasion"
  }, 
  {
   "proverb": "I am not hungry right now. I had a big breakfast.", 
@@ -1325,7 +1325,7 @@
   "sounds": [
    "mortal.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
+  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense. Actually, in this particular example 'man' is an uncountable noun and means the human race"
  }, 
  {
   "proverb": "What kind of bird is it?", 
@@ -1339,7 +1339,7 @@
   "sounds": [
    "man.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
+  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense. Actually, in this particular example 'man' is an uncountable noun and means the human race"
  },
  {
   "proverb": "Man proposes but God disposes.", 
@@ -1545,6 +1545,13 @@
   "description": "This sentence demonstrates how to use transportation prepositions"
  }, 
  {
+  "proverb": "I will contact you by email. I will contact you by phone.", 
+  "sounds": [
+   "contact.aac"
+  ], 
+  "description": "The preposition 'by' is usually followed by a verb but sometimes it is followed by a noun in certain situation, for example when we're talking about how we communicate. It is also often used when talking about trasportation, for example: Our children go to school by bus. Notice that there is no article after 'by'"
+ },
+ {
   "proverb": "Today is a brand new day.", 
   "sounds": [
    "today.aac"
@@ -1577,21 +1584,21 @@
   "sounds": [
    "atlunchtime.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за обедом, во время обеда"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time when people have a meal, not the meal itself - за обедом, во время обеда"
  }, 
  {
   "proverb": "I ate too much at dinner.", 
   "sounds": [
    "atdinner.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за ужином, во время ужина"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time when people have a meal, not the meal itself - за ужином, во время ужина"
  }, 
  {
   "proverb": "At breakfast, he didn't say a word, just read his newspaper.", 
   "sounds": [
    "atbreakfast.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time, not the meal - за завтраком, во время завтрака"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'at lunchtime', 'at dinnertime', at 'suppertime', 'at dinner', 'at breakfast', etc when we mean the time when people have a meal, not the meal itself - за завтраком, во время завтрака"
  }, 
  {
   "proverb": "I read my daughter a story at bedtime.", 
@@ -1626,14 +1633,14 @@
   "sounds": [
    "christmas3.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean the whole holiday period. In the second - only one day"
+  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean the whole holiday period (several days). In the second - only one day"
  }, 
  {
   "proverb": "Did you have a good time at Easter? What will you be doing on Easter Sunday?", 
   "sounds": [
    "easter1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean the whole holiday period. In the second - only one day"
+  "description": "These sentences demonstrate how to use prepositions of time. In the first sentece we mean the whole holiday period (several days). In the second - only one day"
  }, 
  {
   "proverb": "What are you doing on New Year's Day? What are you doing at New Year's?", 
@@ -1876,14 +1883,14 @@
    "wearing.aac", 
    "ring.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, glasses, makeup and perfume), and we use it in the continuous form when we want to describe the action of wearing something, because it is something that is taking place over time or was taking place over time: 'She was wearing...'. The simple form is usually used to express a habitual action. Compare: 'The girl is wearing a black dress' means she is wearing it at the moment, 'The girl wears a black dress every time she goes to church' means on a regular basis but not necessarily at the moment. It also demonstrates when to use the preposition 'on' (when something is attached to something else)"
+  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, watches, glasses, makeup and perfume), and we use it in the continuous form when we want to describe the action of wearing something, because it is something that is taking place over time or was taking place over time: 'She was wearing...'. The simple form is usually used to express a habitual action. Compare: 'The girl is wearing a black dress' means she is wearing it at the moment, 'The girl wears a black dress every time she goes to church' means on a regular basis but not necessarily at the moment. It also demonstrates when to use the preposition 'on' (when something is attached to something else)"
  }, 
  {
   "proverb": "I used to wear too much makeup, but not anymore.", 
   "sounds": [
    "wear.aac"
   ], 
-  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, glasses, makeup and perfume)"
+  "description": "This sentence demonstrates when to use the verb 'wear' (wear is used with clothes, jewelry, watches, glasses, makeup and perfume)"
  }, 
  {
   "proverb": "She helped me to carry my suitcases.", 
@@ -2166,7 +2173,7 @@
   "sounds": [
    "tasmania.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts (these are considered flat surfaces). We use the preposition 'in' when talking about large enclosed geographical areas (cities, countries, the world, etc). In the first sentence we mean the island, and in the second sentence we mean the country"
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'on' when talking about islands, shores, beaches and coasts (these are considered flat surfaces). We use the preposition 'in' when talking about large enclosed geographical areas (cities, countries, states, provinces, the world, etc). In the first sentence we mean the island, and in the second sentence we mean the state (Tasmania is one of Australia's states)"
  }, 
  {
   "proverb": "Nice is on the south coast of France. Nice is in the south of France.", 
@@ -2342,7 +2349,7 @@
   "sounds": [
    "horse.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it. And we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse."
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it. And we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse."
  }, 
  {
   "proverb": "You get on a train, bus, or subway to begin your trip.", 
@@ -2363,7 +2370,7 @@
   "sounds": [
    "horse1.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we are riding something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it"
+  "description": "These expressions demonstrate how to use transportation prepositions. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it"
  },
  {
   "proverb": "These pots are on sale for $20.", 
@@ -2615,14 +2622,14 @@
   "sounds": [
    "bythecar.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' is used to mean next to something or beside (он ждет у машины)"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' means next to something or beside (он ждет у машины)"
  },
  {
   "proverb": "Put your bag by the door and sit down.", 
   "sounds": [
    "bythedoor.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' is used to mean next to something or beside or near (Положи свою сумку у двери и сядь)"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' means next to something or beside or near (Положи свою сумку у двери и сядь)"
  },
  {
   "proverb": "He sits at a table.", 
@@ -2916,14 +2923,14 @@
   "sounds": [
    "across.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: drive across, walk through. 'across' can also be a preposition of place"
  },
  {
   "proverb": "The dog ran across the road and nearly got hit by a car. The train goes through a tunnel under the hill.", 
   "sounds": [
    "tunnel.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: run across, go through. 'across' can also be a preposition of place"
  },
  {
   "proverb": "We took a boat across the river. He escaped through a door in the back of the building.", 
@@ -2944,7 +2951,7 @@
   "sounds": [
    "arrow.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: swim across, go through. 'across' can also be a preposition of place"
  },
  {
   "proverb": "We went for a walk along the beach at twilight.", 
@@ -3014,14 +3021,14 @@
   "sounds": [
    "over.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something"
+  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something. Notice that 'over' also acts an adverb, such adverbs are sometimes called prepositional adverbs. 'over' can also be a preposition of place"
  },
  {
   "proverb": "A beautiful white bird flew over the lake. He threw the ball over the fence and it landed on the roof of a car.", 
   "sounds": [
    "over1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something"
+  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something. Notice that 'over' also acts an adverb, such adverbs are sometimes called prepositional adverbs. 'over' can also be a preposition of place"
  },
  {
   "proverb": "There's a gas station about a mile up the road.", 
@@ -3455,7 +3462,7 @@
   "sounds": [
    "have.aac", "have1.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is mostly used as a stative verb and means to own, or to do regularly. We can't say: I've been having this car since 2006. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having difficulty, I'm having an affair etc"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is usully used as a stative verb and means to own, or to do regularly. That's why we use the Present Perfect instead of the Present Perfect Continuous in the second sentence, we can't say: I've been having this car since 2006. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having difficulty, I'm having an affair etc"
  },
  {
   "proverb": "I have a headache. I am having a heart attack.", 
@@ -3484,6 +3491,13 @@
    "have7.aac"
   ], 
   "description": "The verb 'have' can be either stative or dynamic depending on the situation, and it is a little bit tricky in this context. 'She is having a baby' is really a short form of 'She is going to have (give birth to) a baby (in the future)', or 'she is pregnant'. It's a set phrase and you need to memorize it. Or it might mean she's having it right now, = giving birth ... depends on the context!"
+ },
+ {
+  "proverb": "We're having roast chicken for dinner. I'm having beans for supper.", 
+  "sounds": [
+   "have8.aac"
+  ], 
+  "description": "When we are talking about what we are going to eat during a meal we use 'have' as an action verb. 'have' is mostly used as a stative verb and means to own, or to do regularly. But sometimes 'have' can be used as an action verb when taking or experiencing something"
  },
  {
   "proverb": "He owns several large companies.", 
@@ -3602,7 +3616,7 @@
   "sounds": [
    "fear.aac", "fear1.aac"
   ], 
-  "description": "'fear' is a stative verb. Stative verbs are not normally used in the continuous form. The last sentence also demonstrates that when we talk about preference we use 'most' without 'the' (больше всего, в большей степени): I like this one most. What matters most to you? What do you fear most? Notice that in these sentences 'most' is an adverb (like most, matters most, fear most), so the rule about needing 'the' with superlatives does not apply here"
+  "description": "'fear' is a stative verb. Stative verbs are not normally used in the continuous form. The last sentence also demonstrates that when we talk about preference we use 'most' without 'the' (больше всего, в большей степени): I like this one most. What matters most to you? What do you fear most? Notice that in these sentences 'most' is an adverb (like most, matters most, fear most), so the rule about needing 'the' with superlative adjectives does not apply here"
  },
  {
   "proverb": "How much does it cost? Drinking and driving costs lives.", 
@@ -4006,7 +4020,7 @@
   "sounds": [
    "mind1.aac"
   ],
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'mind' (object to - возражать) is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'smoking' and 'helping' are the objects of 'mind'. And don't forget that 'mind' is also a stative verb."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'mind' (object to - возражать) is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'smoking' and 'moving' are the objects of 'mind'. And don't forget that 'mind' is also a stative verb."
  },
  {
   "proverb": "Would you mind helping me? Would you mind speaking up a bit? I wouldn't mind having a drink.",
@@ -5098,7 +5112,7 @@
   "sounds": [
    "learn.aac"
   ],
-  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
+  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill that doesn't involve reading or writing, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
  },
  {
   "proverb": "Where did you learn how to bake so well? Did you study baking in school?",
@@ -5112,7 +5126,7 @@
   "sounds": [
    "learn1.aac"
   ],
-  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
+  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test. Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill that doesn't involve reading books or writing notes, etc, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano. You can study how to drive by reading about driving, but when you are in a car and your hands are on the steering wheel you are actually learning how to drive"
  },
  {
   "proverb": "She always studies before an exam. I learned a lot of new things at school yesterday.",
@@ -5189,7 +5203,7 @@
   "sounds": [
    "identifying_clause.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'The girl called me to return it'. What girl? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause."
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'The girl called me to return it'. What girl? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also notice that 'whose', which is a possessive pronoun, can be used for adding information about people or things."
  },
  {
   "proverb": "The movie which I saw last weekend was excellent.",
