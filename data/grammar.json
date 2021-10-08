@@ -411,7 +411,7 @@
   "sounds": [
    "north.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when we refer to West, East, North or South as directions. Also, 'traveling' is the preferred spelling in American English, in British English the preferred spelling is 'travelling'"
+  "description": "This sentence demonstrates the use of the definite article when we refer to West, East, North or South as directions. Here 'north' is an adverb. Also, 'traveling' is the preferred spelling in American English, in British English the preferred spelling is 'travelling'"
  }, 
  {
   "proverb": "The Nile is the longest river in Africa. It flows north from Lake Victoria to the Mediterranean Sea.", 
@@ -447,7 +447,7 @@
   "sounds": [
    "thehilton.aac"
   ], 
-  "description": "These sentences demonstrate that the definite article is used with the names of hotels (and also pubs and restaurants), but not when they are named after their owners/founders. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here"
+  "description": "These sentences demonstrate that the definite article is used with the names of hotels (and also pubs and restaurants), but not when they are named after their owners/founders. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here. Shops are also often named after their owners and the rule is the same: I'll buy some bread at Smith's"
  }, 
  {
   "proverb": "At the Prancing Pony, an inn in the village of Bree, Frodo received a delayed letter from Gandalf. My sister often stays at Uncle Tim's in Detroit.", 
@@ -455,7 +455,7 @@
    "theprancingpony.aac", 
    "theprancingpony1.aac"
   ], 
-  "description": "These sentences demonstrate that the definite article is used with pubs, restaurants and hotels also, but not when they are named after their owners/founders. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here (McDonald's is also used without 'the')"
+  "description": "These sentences demonstrate that the definite article is used with pubs, restaurants and hotels also, but not when they are named after their owners/founders. If a hotel/pub/restaurant is named after someone we don't use 'the' in front of it. Think of it as that person's place or house. We often say: I am at John's or she is at her aunt's (the implication being John's house or aunt's house). The same idea here (McDonald's is also used without 'the'). Shops are also often named after their owners and the rule is the same: I'll buy some bread at Smith's"
  }, 
  {
   "proverb": "He who rides a tiger can never get off.", 
@@ -883,7 +883,7 @@
   "sounds": [
    "lochness.aac"
   ], 
-  "description": "This sentence demonstrate the use of the definite article with geographical names (single lakes, country names)"
+  "description": "This sentence demonstrates the use of the definite article with geographical names (single lakes, country names)"
  }, 
  {
   "proverb": "I live by the lake.", 
@@ -1072,7 +1072,7 @@
   "sounds": [
    "thebigapple.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with the names stations and also demonstrates when to use the possessive 's"
+  "description": "This sentence demonstrates the use of the definite article with the names of stations and also demonstrates when to use the possessive 's"
  }, 
  {
   "proverb": "Buckingham Palace is where the Queen of England officially lives.", 
@@ -1171,7 +1171,7 @@
   "sounds": [
    "Ax5o7oO8.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use any articles (definite or indefinite) before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns)"
+  "description": "This sentence demonstrates that we do not use any articles (definite or indefinite) before 'today', 'tomorrow' and 'yesterday' (these are uncout nouns). It also demonstrates when to use the possessive 's"
  }, 
  {
   "proverb": "We rarely get snow in winter. We rarely get snow in the winter.", 
@@ -2060,7 +2060,7 @@
   "sounds": [
    "streets.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. Typically, we use the preposition 'on' with streets, roads, avenues when we mean somewhere on a street, but not specific address. 'in the street' literally means the carriageway (проезжая часть). The last sentence means specific address where two streets intersect."
+  "description": "These sentences demonstrate how to use prepositions of place. Typically, we use the preposition 'on' with streets, roads, avenues when we mean somewhere on a street, but not specific address. 'in the street' literally means the carriageway (проезжая часть), it is considered an enclosed space, that's why the preposition 'in' is used. The last sentence means specific address where two streets intersect."
  }, 
  {
   "proverb": "You have something on your face.", 
@@ -2162,7 +2162,7 @@
   "description": "This sentence demonstrates how to use the modal verb 'should' when expressing hindsight advice / regrets"
  }, 
  {
-  "proverb": "The farm was used to produce produce", 
+  "proverb": "The farm was used to produce produce.", 
   "sounds": [
    "Audio recording 2020-09-10 09-54-23.aac"
   ], 
@@ -2958,7 +2958,7 @@
   "sounds": [
    "beach.aac"
   ], 
-  "description": "'along' is a preposition used to show movement of something in a line that follows the direction of something long."
+  "description": "'along' is a preposition used to show movement of something in a line that follows the direction of something long. It also demonstrates when to use the preposition of time 'at'"
  },
  {
   "proverb": "They rode along narrow country lanes.", 
@@ -4519,14 +4519,14 @@
   "sounds": [
    "movie.aac"
   ],
-  "description": "We use the Present Perfect to express an experience that happended at some time in one's life, we want to emphasize the fact that we have had such an experience (first sentence). When we talk about the time of an action or where it happened or how it happened - we use the Past Simple, we don't care about the effect of an action (second sentence)"
+  "description": "We use the Present Perfect to express an experience that happended at some time in one's life, we want to emphasize the fact that we have had such an experience (first sentence). When we talk about the time of an experience or where it happened or how it happened - we use the Past Simple, we don't care about the effect of it (second sentence)"
  },
  {
   "proverb": "I've broken my arm. I broke it playing with my cousin.",
   "sounds": [
    "break.aac"
   ],
-  "description": "We use the Present Perfect when we talk about an action in the past that has some bearing on the present, we want to emphasize the fact that it happened. The action is usually in the recent past (first sentence). When we talk about the time of an action or where it happened or how it happened - we use the Past Simple, we don't care about the effect of an action (second sentence)"
+  "description": "We use the Present Perfect when we talk about an action in the past that has some bearing on the present, we want to emphasize the fact that it happened. The action is usually in the recent past (first sentence). When we talk about the time of an experience or where it happened or how it happened - we use the Past Simple, we don't care about the effect of it (second sentence)"
  },
  {
   "proverb": "The message has been sent. The message was sent.",
@@ -4937,7 +4937,7 @@
   "sounds": [
    "town.aac"
   ],
-  "description": "When we are talking about the town center near to us, we often use 'no article' with certain expressions (first two sentences): in town, go into town, leave town. Town can also be a normal noun (last sentence)"
+  "description": "When we are talking about the place where we live or work, or about the town center near to us, 'town' is an uncountable noun and we often use no article with it in certain expressions: in town, go into town, out of town, leave town. Town can also be a normal countable noun (last sentence)"
  },
  {
   "proverb": "I was at church. I was in the church.",
@@ -5133,7 +5133,7 @@
   "sounds": [
    "study1.aac"
   ],
-  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test (изучать). Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
+  "description": "In English, 'learn' means to gain knowledge or skill (освоить, научиться). 'study' refers to the process of gaining knowledge or skill, especially if you are a student preparing for an exam or test (изучать, заниматься). Studying involves sitting at a table, reading books on a subject, writing notes, etc. However, when we speak about the process of gaining a practical skill, for example riding a bike, speaking in public, playing a musical instrument or playing football, we use learn, not study. For example: I'm learning how to drive, I'm learning to play the piano"
  },
  {
   "proverb": "My teacher says that if you don't study, you won't pass the exam. When did you learn how to play the guitar?",
@@ -5295,5 +5295,12 @@
    "home3.aac"
   ],
   "description": "Both these expressions are correct and can be used interchangeably. 'Home' is a word that rarely accepts a preposition. We say 'go home', 'come home', 'return home' etc. But we also say 'at home', 'from home', 'off home' and so on. Grammatically, when the preposition is used, the word 'home' becomes a NOUN. In 'stay home', it is an ADVERB, it describes the verb 'stay'"
+ },
+ {
+  "proverb": "Do you see this? Are you seeing this?",
+  "sounds": [
+   "see3.aac"
+  ],
+  "description": "'see' can act both as a stative and as a dynamic verb, and it is used as a stative verb when talking about perception with the eyes or understanding. But sometimes you might hear native speakers say 'Are you seeing this?' instead of 'Do you see this?' or 'What are you seeing?' instead of 'What do you see?'. In modern spoken English both these questions are correct and can be used interchangeably. There is a slight difference between these two questions, but it's not the typical difference between present and present progressive tenses. It's more about how long the seeing has been taking place."
  }
 ]
