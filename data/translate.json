@@ -776,7 +776,7 @@
   "proverb": "You scared the shit out of me"
  },
  {
-  "description": "Это честь для меня (Почту за честь)",
+  "description": "Это честь для меня! (Почту за честь!)",
   "proverb": "I'd be honored!"
  },
  {
@@ -2580,6 +2580,10 @@
   "proverb": "Let me let you in on a little secret"
  },
  {
+  "description": "Я открою тебе маленький секрет",
+  "proverb": "I'll let you in on a little secret"
+ },
+ {
   "description": "Это было очень мило (заботливо) с твоей стороны",
   "proverb": "That was very thoughtful of you"
  },
@@ -2589,7 +2593,7 @@
  },
  {
   "description": "Ты не помог бы мне? (Ты не прочь мне помочь?)",
-  "proverb": "Would you mind helping me? "
+  "proverb": "Would you mind helping me?"
  },
  {
   "description": "Я ем яйца на завтрак каждый день",
@@ -3888,7 +3892,7 @@
   "proverb": "What are you doing on New Year's Day?"
  },
  {
-  "description": "Какие планы на Новый год? (Что ты делаешь на новогодние праздники?)",
+  "description": "Какие планы на новогодние праздники? (Что ты делаешь на новогодние праздники?)",
   "proverb": "What are you doing at New Year's?"
  },
  {
@@ -4160,7 +4164,7 @@
   "proverb": "She smiled at me"
  },
  {
-  "description": "Не кричи (ори) на меня!",
+  "description": "Не ори на меня!",
   "proverb": "Don't yell at me!"
  },
   {
@@ -4248,7 +4252,7 @@
   "proverb": "That doesn't sound right"
  },
  {
-  "description": "Ты злишься (ты звучишь рассерженно/сердито)",
+  "description": "Ты злишься (Ты звучишь рассерженно/сердито)",
   "proverb": "You sound angry"
  },
  {
@@ -6752,6 +6756,10 @@
   "proverb": "That was rude of me"
  },
  {
+  "description": "Это было мило с твоей стороны",
+  "proverb": "That was nice of you"
+ },
+ {
   "description": "Разбуди его!",
   "proverb": "Wake him up!"
  },
@@ -6776,7 +6784,7 @@
   "proverb": "Physics is very fascinating"
  },
  {
-  "description": "Я ненавижу вставать когда еще на улице темно (Я ненавижу необходимость вставать когда еще темно снаружи)",
+  "description": "Я терпеть не могу вставать когда еще на улице темно (Я ненавижу необходимость вставать когда еще темно снаружи)",
   "proverb": "I detest having to get up when it's still dark outside"
  },
  {
@@ -7376,15 +7384,15 @@
   "proverb": "The room is hot"
  },
  {
-  "description": "Я не собираюсь сидеть и ждать (проверить)",
+  "description": "Я не собираюсь сидеть и ждать",
   "proverb": "I'm not gonna sit and wait"
  },
  {
-  "description": "",
+  "description": "Вы можете делать это как вам угодно (Нет правильного или неправильного способа делать это)",
   "proverb": "There is no right or wrong way to do it"
  },
  {
-  "description": "",
+  "description": "Я собираюсь покончить с этим раз и навсегда",
   "proverb": "I'm gonna finish this once and for all"
  },
  {
@@ -7392,31 +7400,27 @@
   "proverb": "Who's in command here?"
  },
  {
-  "description": "",
+  "description": "Ты жив! И это самое важное!",
   "proverb": "You're alive! It's all that matters!"
  },
  {
-  "description": "",
+  "description": "Мы проделали (прошли) весь этот путь зря",
   "proverb": "We've come all this way for nothing"
  },
  {
-  "description": "",
-  "proverb": "I gotta quit smoking!"
+  "description": "Мне пора завязывать с курением (Я должен бросить курить)",
+  "proverb": "I gotta quit smoking"
  },
  {
-  "description": "",
-  "proverb": "Hold your breath!"
- },
- {
-  "description": "",
+  "description": "Когда ты в последний раз трахался?",
   "proverb": "When did you last get laid?"
  },
  {
-  "description": "",
+  "description": "Давай выпьем!",
   "proverb": "Let's have a drink!"
  },
  {
-  "description": "",
+  "description": "Что у вас случилось? (контекст: вопрос оператора 911 на вызов)",
   "proverb": "What's your emergency?"
  },
  {
@@ -7432,27 +7436,35 @@
   "proverb": "Your leg looks swollen. I think you should go to the doctor."
  },
  {
-  "description": "Это что-то меняет? (проверить)",
+  "description": "Разве это что-то меняет? / А что это изменит?",
   "proverb": "Does it make a difference?"
  },
  {
-  "description": "",
+  "description": "У меня аллергия на клубнику",
   "proverb": "I have an allergy to strawberries"
  },
  {
-  "description": "У вас обоих много общего (проверить)",
+  "description": "У меня аллергия на арахис",
+  "proverb": "I have an allergy to peanuts"
+ },
+ {
+  "description": "У меня аллергия на пыль",
+  "proverb": "I have an allergy to dust"
+ },
+ {
+  "description": "У вас обоих много общего",
   "proverb": "You two have a lot in common"
  },
  {
-  "description": "Она очень воспитана (проверить)",
-  "proverb": "She's very well mannared"
+  "description": "Она очень воспитана",
+  "proverb": "She's very well mannered"
  },
  {
-  "description": "Она очень развита для своего возраста (проверить)",
+  "description": "Она очень развита для своего возраста (Она очень зрелая для своих лет)",
   "proverb": "She's very mature for her age"
  },
  {
-  "description": "",
+  "description": "Что ты предлагаешь?",
   "proverb": "What are you suggesting?"
  },
  {
@@ -7460,19 +7472,19 @@
   "proverb": "I'll call you as soon as I find anything else out"
  },
  {
-  "description": "",
-  "proverb": "It's gonna be fine / It's gonna be ok"
+  "description": "Все будет хорошо",
+  "proverb": "It's gonna be fine"
  },
  {
-  "description": "",
+  "description": "Мне нравится, когда только мы вдвоем",
   "proverb": "I like it when it's just the two of us"
  },
  {
-  "description": "Не хочу даже слышать об этом (проверить)",
+  "description": "Не хочу даже слышать об этом",
   "proverb": "I don't want to hear about that"
  },
  {
-  "description": "",
+  "description": "Это было давным-давно / Это было очень давно",
   "proverb": "It was a long time ago/That was a long time ago"
  },
  {
@@ -7484,7 +7496,7 @@
   "proverb": "We're going to meet on New Year's Day"
  },
  {
-  "description": "В прошлом я пил много пива",
+  "description": "Я пил много пива в прошлом",
   "proverb": "I used to drink a lot of beer in the past"
  },
  {
@@ -7496,7 +7508,7 @@
   "proverb": "A beautiful white bird flew over the lake"
  },
  {
-  "description": "",
+  "description": "Я изучаю английский смотря фильмы",
   "proverb": "I learn English by watching movies"
  },
  {
@@ -7508,11 +7520,11 @@
   "proverb": "I will contact you by phone"
  },
  {
-  "description": "",
+  "description": "Я помыл (убрал) пол шваброй",
   "proverb": "I cleaned the floor with a mop"
  },
  {
-  "description": "Обед - это главный прием пищи в течении дня для большинства людей (проверить)",
+  "description": "Обед - это главный прием пищи в течение дня для большинства людей",
   "proverb": "Dinner is the main meal of the day for most people"
  },
  {
@@ -7524,7 +7536,7 @@
   "proverb": "I play the piano for a living"
  },
  {
-  "description": "",
+  "description": "Это наше последнее средство",
   "proverb": "It's our last resort"
  },
  {
@@ -7560,15 +7572,15 @@
   "proverb": "Why are you making me do this?"
  },
  {
-  "description": "",
+  "description": "Дай мне знать если тебе понадобится моя помощь",
   "proverb": "Let me know if you need my help"
  },
  {
-  "description": "",
+  "description": "У вас есть улики чтобы доказать это?",
   "proverb": "Do you have evidence to prove that?"
  },
  {
-  "description": "",
+  "description": "Я спятил / Я сошел с ума",
   "proverb": "I've gone insane"
  },
  {
@@ -7580,7 +7592,7 @@
   "proverb": "Whose side are you on?"
  },
  {
-  "description": "",
+  "description": "Она должна смириться с последствиями своих действий / Она должна принять последствия своих действий",
   "proverb": "She has to accept the consequences of her actions"
  },
  {
@@ -7596,7 +7608,7 @@
   "proverb": "I screwed up"
  },
  {
-  "description": "",
+  "description": "Ничего из этого не произошло бы, если бы не ты",
   "proverb": "None of this would've happened if it weren't for you"
  },
  {
@@ -7604,19 +7616,19 @@
   "proverb": "You put everyone's life in jeopardy"
  },
  {
-  "description": "Мы договорились?",
+  "description": "Мы договорились? / По рукам?",
   "proverb": "Do we have a deal?"
  },
  {
-  "description": "Давайте выпьем за это! (проверить)",
-  "proverb": "Let's drink to this (that)!"
+  "description": "Давайте выпьем за это!",
+  "proverb": "Let's drink to that!"
  },
  {
   "description": "Я сделаю это при одном условии",
   "proverb": "I'll do it under one condition"
  },
  {
-  "description": "",
+  "description": "Я не принимаю наркотики",
   "proverb": "I don't do drugs"
  },
  {
@@ -7632,15 +7644,15 @@
   "proverb": "We are not gonna get caught!"
  },
  {
-  "description": "",
+  "description": "Каковы шансы на это?",
   "proverb": "What are the odds of that?"
  },
  {
-  "description": "Наслаждайтесь вашим пребыванием!",
+  "description": "Приятно провести время! / Наслаждайтесь вашим пребыванием!",
   "proverb": "Enjoy your stay!"
  },
  {
-  "description": "",
+  "description": "Рады вас видеть! (Рады видеть вас здесь!)",
   "proverb": "It's a pleasure having you here!"
  },
  {
@@ -7648,8 +7660,104 @@
   "proverb": "to avoid confusion"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "в любом случае",
+  "proverb": "in any case"
+ },
+ {
+  "description": "Он бегает каждый день невзирая на погоду",
+  "proverb": "He runs every day regardless of the weather"
+ },
+ {
+  "description": "Я надеюсь они получат по заслугам (Я надеюсь они получат наказание которое они заслуживают)",
+  "proverb": "I hope they get the punishment they deserve"
+ },
+ {
+  "description": "в мгновение ока",
+  "proverb": "in the blink of an eye"
+ },
+ {
+  "description": "Чем я могу вам помочь?",
+  "proverb": "How may I help you?"
+ },
+ {
+  "description": "Мне нужно отлить",
+  "proverb": "I gotta take a piss"
+ },
+ {
+  "description": "Сколько времене это еще займет? / Сколько еще это будет продолжаться?",
+  "proverb": "How much longer is this gonna take?"
+ },
+ {
+  "description": "Ты это видишь?",
+  "proverb": "Are you seeing this?"
+ },
+ {
+  "description": "У вас есть что-нибудь в поддержку этого? (У вас есть что-нибудь чем можно это подтвердить?)",
+  "proverb": "Do you have anything to back that up?"
+ },
+ {
+  "description": "Вам слово! (контекст: выступление перед аудиторией)",
+  "proverb": "The floor is yours!"
+ },
+ {
+  "description": "Наконец-то пришло время ...",
+  "proverb": "The time has finally come to ..."
+ },
+ {
+  "description": "Задержи дыхание!",
+  "proverb": "Hold your breath!"
+ },
+ {
+  "description": "Если это вас заинтересовало ...",
+  "proverb": "If that sounds interesting ..."
+ },
+ {
+  "description": "Таймс-сквер всегда очень оживлена (На Таймс-сквер всегда много активности)",
+  "proverb": "There is always lots of action in Times Square"
+ },
+ {
+  "description": "Это улица на которой я вырос",
+  "proverb": "That's the street which I grew up on"
+ },
+ {
+  "description": "Оставайся в машине!",
+  "proverb": "Stay in the car!"
+ },
+ {
+  "description": "Меня не будет всего 4 или 5 часов (Я только собираюсь уйти на 4 или 5 часов)",
+  "proverb": "I'm only gonna be gone for 4 or 5 hours"
+ },
+ {
+  "description": "Вещи не всегда такие, какими кажутся",
+  "proverb": "Things aren't always what they appear to be"
+ },
+ {
+  "description": "Спасибо что откликнулись в такой короткий срок (Спасибо что пришли сразу как только узнали)",
+  "proverb": "Thanks for coming on such short notice"
+ },
+ {
+  "description": "Как тебе спалось прошлой ночью?",
+  "proverb": "How did you sleep last night?"
+ },
+ {
+  "description": "Оставь это мне (Позволь мне беспокоиться об этом)",
+  "proverb": "Let me worry about that"
+ },
+ {
+  "description": "Ты наказан!",
+  "proverb": "You are grounded!"
+ },
+ {
+  "description": "Я научился многим новым вещам в школе вчера (Я освоил много новых вещей в школе вчера)",
+  "proverb": "I learned a lot of new things at school yesterday"
+ },
+ {
+  "description": "Когда ты ел в последний раз?",
+  "proverb": "When did you last eat?"
+ },
+ {
+  "description": "Когда ты видел ее в последний раз?",
+  "proverb": "When did you last see her?"
  },
  {
   "description": "",
