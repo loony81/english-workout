@@ -4624,7 +4624,7 @@
   "proverb": "Had you had breakfast before you left for work?"
  },
  {
-  "description": "У меня есть несколько вещей, о которых я хочу с тобой поговорить",
+  "description": "У меня есть несколько вещей, о которых я хочу с тобой поговорить (У меня есть некоторые вещи которые я хочу тобой обсудить)",
   "proverb": "I have a number of things I want to talk to you about"
  },
  {
@@ -7704,7 +7704,7 @@
   "proverb": "The time has finally come to ..."
  },
  {
-  "description": "Задержи дыхание!",
+  "description": "Задержи дыхание! (Затаи дыхание!)",
   "proverb": "Hold your breath!"
  },
  {
@@ -7758,6 +7758,94 @@
  {
   "description": "Когда ты видел ее в последний раз?",
   "proverb": "When did you last see her?"
+ },
+ {
+  "description": "Количество времени, которое потребовалось для завершения работы, вызывало большое разочарование",
+  "proverb": "The amount of time it took to finish the job was very frustrating"
+ },
+ {
+  "description": "Тебе обязательно быть таким мудаком?",
+  "proverb": "Do you have to be such a dick?"
+ },
+ {
+  "description": "К тому времени как ты будешь здесь, я закончу смотреть фильм",
+  "proverb": "By the time you get here, I will have finished watching the movie"
+ },
+ {
+  "description": "К тому времени как ты будешь это читать, меня уже давно не будет",
+  "proverb": "By the time you read this, I'll be long gone"
+ },
+ {
+  "description": "вопреки всему / несмотря ни на что",
+  "proverb": "against all odds"
+ },
+ {
+  "description": "Это нам наказание за то что мы идем против воли Бога (Нас наказывают за то что мы идем против воли Бога)",
+  "proverb": "We're being punished for going against the will of God"
+ },
+ {
+  "description": "Это не моя вина",
+  "proverb": "It ain't my fault"
+ },
+ {
+  "description": "Давайте покончим с этим!",
+  "proverb": "Let's get this thing over with!"
+ },
+ {
+  "description": "Я не очень верю в гуманность (У меня мало веры в человечность)",
+  "proverb": "I don't have much faith in humanity"
+ },
+ {
+  "description": "Мы не можем этого допустить (Мы не можем позволить этому случиться)",
+  "proverb": "We can't let that happen"
+ },
+ {
+  "description": "Светает / Рассвет приближается",
+  "proverb": "Dawn's coming"
+ },
+ {
+  "description": "Как ты держишся?",
+  "proverb": "How're you holding up?"
+ },
+ {
+  "description": "Его состояние ухудшается / Ему становится хуже (контекст: состояние здоровья пострадавшего или больного)",
+  "proverb": "He's getting worse"
+ },
+ {
+  "description": "Тушите свет! / Гасите свет!",
+  "proverb": "Douse the lights!"
+ },
+ {
+  "description": "Давайте просто разберемся в этом (Давайте просто это обсудим)",
+  "proverb": "Let's just talk this thing through"
+ },
+ {
+  "description": "Позвольте мне пройти!",
+  "proverb": "Let me pass!"
+ },
+ {
+  "description": "Он часто в отъезде по делам",
+  "proverb": "He's away on business a lot"
+ },
+ {
+  "description": "Ты будешь стоять передо мной на коленях еще до того как это закончится",
+  "proverb": "You'll be on your knees to me before this is through"
+ },
+ {
+  "description": "Убери свои сраные (чертовы) руки от меня!",
+  "proverb": "Get your goddamn hands off of me!"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",

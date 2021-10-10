@@ -327,7 +327,7 @@
   "sounds": [
    "thebalticsea.aac"
   ], 
-  "description": "We use the definite article with the names of seas. Also we do not use the definite article when refering to West, East, North or South as directions. Here 'north' is an adverb (к северу, на север, в северном направлении)"
+  "description": "We use the definite article with the names of seas. Also we do not use the definite article when refering to West, East, North or South as directions. Here 'north' is an adverb, it describes the verb 'is' (к северу, на север, в северном направлении)"
  }, 
  {
   "proverb": "The Sahara is the world's biggest desert.", 
@@ -3231,7 +3231,7 @@
   "sounds": [
    "feel.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues, or touching something (second sentence). Actually 'I feel sick' and 'I am feeling sick' mean the same thing and can be used interchangeably. The same is true for 'How do you feel?' and 'How are you feeling?', or 'I feel tired' and 'I am feeling tired'"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues (second sentence), or touching something - щупать. Actually 'I feel sick' and 'I am feeling sick' mean the same thing and can be used interchangeably. The same is true for 'How do you feel?' and 'How are you feeling?', or 'I feel tired' and 'I am feeling tired'"
  },
  {
   "proverb": "I drink because it feels good. I've been feeling unusually tired lately. The doctor is feeling the pulse of a woman.", 
@@ -3245,7 +3245,7 @@
   "sounds": [
    "feel2.aac", "feel3.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence: I think it still needs ...). 'feel' as an action verb is used when experiencing emotions or health issues, or touching something - щупать (second sentence)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence: I think it still needs ...). 'feel' as an action verb is used when experiencing emotions or health issues (I'm not feeling well), or touching something - щупать (second sentence)"
  },
  {
   "proverb": "This cheese smells funky. He's smelling the cookies.", 
@@ -4748,7 +4748,7 @@
   "sounds": [
    "finished.aac"
   ],
-  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future. If it is another action in the future, the action is described using the Present Simple tense (when you arrive, when he arives, when I arrive). Notice that the verb 'finish' is always followed by a gerund"
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future. If it is another action in the future, the action is described using the Present Simple tense (when you arrive, when he arives, when I arrive, by the time you get here, by the time he gets here, etc). Notice that the verb 'finish' is always followed by a gerund"
  },
  {
   "proverb": "When she wakes up, he will have gone to work. Next week we'll have been together for two years.",
@@ -5042,21 +5042,21 @@
   "sounds": [
    "getortake.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bartender for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (someone fired you, you can't fire yourself)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). The first sentence means someone gave you the beer, a bartender for example. With 'take' there is only one person (you) who actively performs the action (брать). 'I took a beer' could mean you personally went to the fridge opened it and took the beer. 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a piss, take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (someone fired you, you can't fire yourself)"
  },
  {
   "proverb": "For his birthday, Mike got a brand new drill set. Helen has high blood pressure, so she takes pills every day.",
   "sounds": [
    "getortake1.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (you can't fire yourself)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a piss, take a flight, take a shower, get sick (passively obtain a sickness), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (you can't fire yourself)"
  },
  {
   "proverb": "Last winter, Christine didn't get sick even once. I asked my dad to lend me his car. He said no, but I took it anyway.",
   "sounds": [
    "getortake2.aac"
   ],
-  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a flight, take a shower, take pills, get a coffee (at a coffee shop), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (you can't fire yourself)"
+  "description": "We usually use 'get' or 'got' when we passively obtain or receive something (получать), when someone gives something to us. Usually there are two people involved (you and the person who gives you something). With 'take' there is only one person (you) who actively performs the action (брать, принимать). 'take' can also mean to steal something. Other examples: take a dump (no one there, only you), take a piss, take a flight, take a shower, take pills, get a coffee (at a coffee shop), get a raise (the boss gave you a raise), get a cold (someone infected you), get fired (you can't fire yourself)"
  },
  {
   "proverb": "I'm listening to the radio. I hear some music playing.",
