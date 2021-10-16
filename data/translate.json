@@ -644,7 +644,7 @@
   "proverb": "This movie is worth seeing again"
  },
  {
-  "description": "Такого друга лучше не терять (Это друг которого стоит иметь)",
+  "description": "Такого друга лучше не терять / Это друг которого стоит иметь :)",
   "proverb": "That's a friend worth having"
  },
  {
@@ -832,7 +832,7 @@
   "proverb": "I've been better"
  },
  {
-  "description": "Какие планы на выходные? (Что ты собираешся делать на выходных?)",
+  "description": "Какие планы на выходные? (Что ты делаешь на выходных?)",
   "proverb": "What are you doing on the weekend?"
  },
  {
@@ -3272,7 +3272,7 @@
   "proverb": "Don't forget to make the bed"
  },
  {
-  "description": "Не мог бы ты пожалуйста помыть посуду?",
+  "description": "Можешь пожалуйста помыть посуду?",
   "proverb": "Can you please do the dishes?"
  },
  {
@@ -3772,7 +3772,7 @@
   "proverb": "Snow is cold"
  },
  {
-  "description": "У меня был обед с ней в прошлую среду",
+  "description": "Я обедал с ней в прошлую среду (У меня был обед с ней в прошлую среду)",
   "proverb": "I had lunch with her last Wednesday"
  },
  {
@@ -5296,7 +5296,7 @@
   "proverb": "Did you read yesterday's newspaper?"
  },
  {
-  "description": "Мы вернемся домой через две недели",
+  "description": "Мы вернемся домой через две недели (Мы вернемся домой в двухнедельный срок)",
   "proverb": "We'll be back home in two weeks' time"
  },
  {
@@ -5732,7 +5732,7 @@
   "proverb": "Who is that person next to you in the photo?"
  },
  {
-  "description": "Буду очень признателен за любую помощь (Любая помощь будет оценена по достоинству)",
+  "description": "Был бы очень признателен за любую помощь (Любая помощь была бы оценена по достоинству)",
   "proverb": "Any help would be greatly appreciated"
  },
  {
@@ -6256,7 +6256,7 @@
   "proverb": "She always puts off going to the dentist"
  },
  {
-  "description": "Я ненавижу шпинат, но большинство других овощей мне нравятся (Я ненавижу шпинат, но люблю большинство других овощей)",
+  "description": "Я ненавижу шпинат, но мне нравится большинство других овощей",
   "proverb": "I hate spinach, but I like most other vegetables"
  },
  {
@@ -6496,7 +6496,7 @@
   "proverb": "I find it hard to believe"
  },
  {
-  "description": "Возможно завтра будет дождь",
+  "description": "Возможно завтра будет идти дождь",
   "proverb": "Maybe it will rain tomorrow"
  },
  {
@@ -7834,6 +7834,250 @@
  {
   "description": "Убери свои сраные (чертовы) руки от меня!",
   "proverb": "Get your goddamn hands off of me!"
+ },
+ {
+  "description": "начинать заново / начать с нуля",
+  "proverb": "to start over from scratch"
+ },
+ {
+  "description": "Мы в безопасности, это самое важное! (Мы в безопасности, это все что имеет значение!)",
+  "proverb": "We're safe, that's all that counts!"
+ },
+ {
+  "description": "Это требует (некоторого) привыкания",
+  "proverb": "It takes some getting used to"
+ },
+ {
+  "description": "Автобус отправляется через 30 минут",
+  "proverb": "The bus leaves in 30 minutes"
+ },
+ {
+  "description": "Переведи дыхание! / Отдышись!",
+  "proverb": "Catch your breath!"
+ },
+ {
+  "description": "Надеюсь вы все сгниете в аду",
+  "proverb": "I hope you all rot in hell"
+ },
+ {
+  "description": "Первое, что нам нужно сделать, это не терять голову (трезво мыслить)",
+  "proverb": "First thing we need to do is to keep our wits about us"
+ },
+ {
+  "description": "В следующий раз когда тебе есть что сказать, ты пересчитай свои зубы. Потому что меня до смерти тошнит от твоей чуши.",
+  "proverb": "The next time you got something to say, you count your teeth. Because I'm sick to death of your bullshit."
+ },
+ {
+  "description": "Это зашло слишком далеко!",
+  "proverb": "This has gone far enough!"
+ },
+ {
+  "description": "Я не верю в демонов, но я верю в зло, и оно делается людьми",
+  "proverb": "I don't believe in demons, but I do believe in evil and it's done by people"
+ },
+ {
+  "description": "Это поможет тебе оставить прошлое позади",
+  "proverb": "It'll help you put the past behind you"
+ },
+ {
+  "description": "Нам тебя не хватало (По тебе скучали)",
+  "proverb": "You've been missed"
+ },
+ {
+  "description": "У нас у всех есть прошлое которое мы хотели бы исправить (хотели бы повернуть вспять)",
+  "proverb": "We all have pasts we wish we could undo"
+ },
+ {
+  "description": "Тьма - не единственная сила в этом мире, есть и силы для защиты",
+  "proverb": "Darkness is not the only power in this world, there are also forces for protection"
+ },
+ {
+  "description": "Пророчество сбывается",
+  "proverb": "The prophecy is coming true"
+ },
+ {
+  "description": "Пророчество сбылось",
+  "proverb": "The prophecy has come true"
+ },
+ {
+  "description": "На небе нет ни облачка (На небе нет туч)",
+  "proverb": "There are no clouds in the sky"
+ },
+ {
+  "description": "В сегодняшнем уроке я собираюсь рассказать вам в чем разница между ... (научить вас разнице между ...)",
+  "proverb": "In today's lesson I'm going to teach you about the difference between"
+ },
+ {
+  "description": "Опиши это на английском",
+  "proverb": "Describe it in English"
+ },
+ {
+  "description": "Опиши это в деталях",
+  "proverb": "Describe it in detail"
+ },
+ {
+  "description": "Я собираюсь взять неделю отгула, чтобы поехать в отпуск в Южную Америку",
+  "proverb": "I'm going to take a week off from work to go on vacation to South America"
+ },
+ {
+  "description": "Я заразился коронавирусом (Я подцепил коронавирус)",
+  "proverb": "I caught coronavirus"
+ },
+ {
+  "description": "Должен признаться, я немного ошеломлен",
+  "proverb": "I have to admit I'm a little stunned"
+ },
+ {
+  "description": "Как долго это займет? / Сколько на это уйдёт времени?",
+  "proverb": "How long is this gonna take?"
+ },
+ {
+  "description": "Я буду наблюдать (следить) за тобой на каждом шагу",
+  "proverb": "I'm gonna be watching you every step of the way"
+ },
+ {
+  "description": "Это обойдется тебе в десять косарей (десять тысяч)",
+  "proverb": "It's gonna cost you ten grand"
+ },
+ {
+  "description": "Я вам многим обязан! (Очень признателен!)",
+  "proverb": "Much obliged!"
+ },
+ {
+  "description": "Не припомню (Мне это ни о чем не говорит)",
+  "proverb": "It doesn't ring a bell"
+ },
+ {
+  "description": "Тебе это о чем-то говорит?",
+  "proverb": "Does it ring a bell?"
+ },
+ {
+  "description": "Я ненавижу заниматься стиркой",
+  "proverb": "I hate doing laundry"
+ },
+ {
+  "description": "Я ненавижу мыть посуду",
+  "proverb": "I hate doing dishes"
+ },
+ {
+  "description": "Я был на кухне и готовил себе чашку кофе, когда раздался звонок в дверь",
+  "proverb": "I was in the kitchen making myself a cup of coffee when the doorbell rang"
+ },
+ {
+  "description": "приготовить чашку кофе",
+  "proverb": "make a cup of coffee"
+ },
+ {
+  "description": "Он на кухне, заваривает чай (Он на кухне, готовит чашку чая)",
+  "proverb": "He's in the kitchen making a cup of tea"
+ },
+ {
+  "description": "Ты выставил себя дураком",
+  "proverb": "You made a fool of yourself"
+ },
+ {
+  "description": "Можешь сделать 40 отжиманий?",
+  "proverb": "Can you do 40 push ups?"
+ },
+ {
+  "description": "Не могли бы вы пожалуйста приготовить (сделать) мне чашку кофе?",
+  "proverb": "Could you please make me a cup of coffee?"
+ },
+ {
+  "description": "И это после всего что я для тебя сделал!",
+  "proverb": "After all I've done for you!"
+ },
+ {
+  "description": "Я не собираюсь испытывать судьбу / Я не собираюсь рисковать",
+  "proverb": "I'm not gonna take any chances"
+ },
+ {
+  "description": "Я не потерплю такого поведения (Такое поведение недопустимо)",
+  "proverb": "This behavior will not be tolerated"
+ },
+ {
+  "description": "Я стараюсь изо всех сил (Я делаю все возможное)",
+  "proverb": "I'm doing my best"
+ },
+ {
+  "description": "Я даю тебе слово",
+  "proverb": "I give you my word"
+ },
+ {
+  "description": "Я знаю, для тебя это тяжело",
+  "proverb": "I know this is hard on you"
+ },
+ {
+  "description": "Можно смело (с уверенностью) предположить",
+  "proverb": "It is safe to assume"
+ },
+ {
+  "description": "Мне так неловко сас беспокоить, но я хотел бы попросить об одолжении",
+  "proverb": "I hate to disturb you, but I'd like to ask a favor"
+ },
+ {
+  "description": "устроить беспорядок / провалить все дело",
+  "proverb": "to make a mess"
+ },
+ {
+  "description": "Ничего не выйдет! / Это не сработает!",
+  "proverb": "This isn't gonna work!"
+ },
+ {
+  "description": "Сейчас не время (на это)! / Сейчас не лучшее время!",
+  "proverb": "This is not the time!"
+ },
+ {
+  "description": "Выпей со мной (Я хочу чтобы ты со мной выпил)",
+  "proverb": "I want you to have a drink with me"
+ },
+ {
+  "description": "Кому какое дело? (Всем насрать!)",
+  "proverb": "Who gives a shit?"
+ },
+ {
+  "description": "С тобой можно? / Тебе нужна компания? / Тебе попутчик не нужен? (контекст: поездка в автомобиле)",
+  "proverb": "You need some company?"
+ },
+ {
+  "description": "Новость настолько шокирующая!",
+  "proverb": "The news is so shocking!"
+ },
+ {
+  "description": "Смотри под ноги! / Смотри куда стаешь (ступаешь)!",
+  "proverb": "Watch your step!"
+ },
+ {
+  "description": "У нас (совсем) мало времени",
+  "proverb": "We ain't got much time"
+ },
+ {
+  "description": "Как я могу загладить свою вину? / Как я могу возместить ущерб?",
+  "proverb": "How can I make it up to you?"
+ },
+ {
+  "description": "Давай выпьем (попьем) кофе в пятницу утром",
+  "proverb": "Let's have a coffee on Friday morning"
+ },
+ {
+  "description": "Куда ты ходил в четверг ночью?",
+  "proverb": "Where did you go on Thursday night?"
+ },
+ {
+  "description": "привлекать внимание",
+  "proverb": "to draw attention"
+ },
+ {
+  "description": "Главный (Головной) офис компании находится на Парк-авеню",
+  "proverb": "The company's head office is on Park Avenue"
+ },
+ {
+  "description": "Она все еще злится из-за того как с ней обошлись (обращались)",
+  "proverb": "She's still angry over the way she's been treated"
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",

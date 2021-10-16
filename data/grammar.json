@@ -200,14 +200,14 @@
   "sounds": [
    "most1.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we talk about 90% of something. Notice that here 'most' is an adjective"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we talk about 90% of something. Notice that here 'most' is an adjective, but it is not a superlative adjective"
  }, 
  {
   "proverb": "Most students passed the test.", 
   "sounds": [
    "most2.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we talk about 90% of something. Notice that here 'most' is an adjective"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we talk about 90% of something. Notice that here 'most' is an adjective, but it is not a superlative adjective"
  }, 
  {
   "proverb": "I like this one most.", 
@@ -221,7 +221,7 @@
   "sounds": [
    "most4.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (matters most), it describes the verb 'matter', so the rule about needing 'the' with superlative adjectives does not apply here"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'most' without 'the' when we want to express preference. Notice that here 'most' is an adverb (matters most), it describes the verb 'matter', so the rule about needing 'the' with superlative adjectives does not apply here. By the way, this is a subject question"
  }, 
  {
   "proverb": "The kids loved the fair, but they enjoyed the bumper cars most of all.", 
@@ -249,7 +249,7 @@
   "sounds": [
    "themost3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc. Also we don't usually use 'which' with people but it is often used in such questions: Which of you did this? Which doctor did you see? Which of you want tea and which want lemonade?, etc"
  }, 
  {
   "proverb": "This juice is most delicious if you chill it for a long time first. Which juice is the most delicious? Apple juice, orange juice or raspberry juice?", 
@@ -707,7 +707,7 @@
   "sounds": [
    "thedisabled.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society"
+  "description": "This sentence demonstrates the use of the definite article when talking about particular groups of people within society. Other examples: the young, the old, the dead, the living, the rich, the poor, the blind, the righteous etc"
  }, 
  {
   "proverb": "Cell phones are especially popular with the young.", 
@@ -813,7 +813,7 @@
   "sounds": [
    "onthebeach.aac"
   ], 
-  "description": "'at' is more general and 'on' more specific in this case. 'at' refers to the general vicinity of the beach and 'on' refers to the sand itself."
+  "description": "'at' is more general, it refers to the general vicinity of the beach. On the other hand, 'on' is more specific, it refers to the sand near the water."
  },
  {
   "proverb": "The boy is afraid to go to bed in the dark.", 
@@ -1430,7 +1430,7 @@
   "sounds": [
    "alittle.aac"
   ], 
-  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'"
+  "description": "This sentence demonstrates which quantifiers must be used with countable and uncountable nouns. And also it demonstrates the difference between 'a little' and 'little'. 'a little' implies that there's enough of something (positive statement)"
  }, 
  {
   "proverb": "The woman we met yesterday spoke little English and we couldn't really understand her.", 
@@ -1698,14 +1698,14 @@
   "sounds": [
    "onvacation.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time (or place???). We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip', 'on a picnic' and on an adventure. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
+  "description": "This sentence demonstrates how to use prepositions of time (or place???). We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip', 'on a picnic' and 'on an adventure'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture."
  }, 
  {
   "proverb": "When I was on holiday in Cancun I caught swine fever.", 
   "sounds": [
    "onholiday.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip', 'on a picnic' and on an adventure. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture. But here's where it gets tricky – when you're in the middle of a vacation, American English speakers say you are on vacation, and British English speakers say you are on holiday. Also most long term diseases are not countable"
+  "description": "This sentence demonstrates how to use prepositions of time. We say 'on vacation', 'on holiday', 'on a cruise', 'on a trip', 'on a picnic' and 'on an adventure'. The word 'vacation - каникулы, отпуск' refers to your personal time off from work or school – usually an extended time, not just one day, and vacations often involve traveling. The word 'holiday - праздник' is used for important days that are celebrated by a lot of people. Holidays are celebrated usually by your whole country or whole culture. But here's where it gets tricky – when you're in the middle of a vacation, American English speakers say you are on vacation, and British English speakers say you are on holiday. Also most long term diseases are not countable"
  }, 
  {
   "proverb": "The printing press was invented in the Middle Ages.", 
@@ -2314,7 +2314,7 @@
   "sounds": [
    "since.aac"
   ], 
-  "description": "This sentence demonstrates when to use the Present Perfect Tense. We usually use the Present Perfect Continuous for something that started in the past and still continues in the present, but the verb 'be' is a stative verb in this context and can't be used with continuous tenses, that's why the PP is used. Another thing that indicates that the PP tense must be used is that this sentence includes the word 'never'. Similar examples: I've known him for years (and I still know him). Sam has had this car since 2012 (Sam still has his car)."
+  "description": "This sentence demonstrates when to use the Present Perfect Tense. We usually use the Present Perfect Continuous for something that started in the past and still continues in the present, but the verb 'be' is a stative verb in this context and can't be used with continuous tenses, that's why the PP is used. Another thing that indicates that the PP tense must be used is that this sentence includes the word 'never' which indicates an unfinished period of time. Similar examples: I've known him for years (and I still know him). Sam has had this car since 2012 (Sam still has his car)."
  }, 
  {
   "proverb": "Get on the bus! Get off the bus!", 
@@ -2524,7 +2524,7 @@
   "sounds": [
    "canada.aac", "canada1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something."
+  "description": "These sentences demonstrate how to use prepositions of place. We use the preposition 'in' with large geographical areas and their parts (cities, countries, deserts, the world), these are considered enclosed spaces. It also demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something. In the second and third sentences 'west' and 'north' are nouns."
  },
  {
   "proverb": "The sun rises in the east and sets in the west.", 
@@ -2818,7 +2818,7 @@
   "sounds": [
    "party.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement, but it is also used: 1. when one thing covers the other, clothes, 2. with ages (older than), 3. numbers(more than), speeds, weight"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'over' is mostly used when talking about movement (as a prepositional adverb), but it is also used: 1. when one thing covers the other, clothes, 2. with ages (older than), 3. numbers(more than), speeds, weight"
  },
  {
   "proverb": "I get scared when I drive over 100 kilometers an hour.", 
@@ -2923,21 +2923,21 @@
   "sounds": [
    "across.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: drive across, walk through. 'across' can also be a preposition of place"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used as a preposition of place when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: drive across, walk through."
  },
  {
   "proverb": "The dog ran across the road and nearly got hit by a car. The train goes through a tunnel under the hill.", 
   "sounds": [
    "tunnel.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: run across, go through. 'across' can also be a preposition of place"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used as a preposition of place when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: run across, go through."
  },
  {
   "proverb": "We took a boat across the river. He escaped through a door in the back of the building.", 
   "sounds": [
    "escaped.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs. 'across' can also be a preposition of place"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used as a preposition of place when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions can also act as adverbs, they are sometimes called prepositional adverbs."
  },
  {
   "proverb": "There are many villages across the border. He looked through the window.", 
@@ -2951,7 +2951,7 @@
   "sounds": [
    "arrow.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: swim across, go through. 'across' can also be a preposition of place"
+  "description": "These two sentences demonstrate the difference between two prepositions of movement: across and through. 'across' expresses movement from one side to the other side of something with clear limits such as a city, road or river. The movement is on the surface of something. It is also used as a preposition of place when something touches or stretches from one side to another. 'through' expresses movement into one side and out of the other side of something. The movement is inside something, we are surrounded by it. Notice that these two prepositions are also adverbs, they are sometimes called prepositional adverbs: swim across, go through."
  },
  {
   "proverb": "We went for a walk along the beach at twilight.", 
@@ -3056,7 +3056,7 @@
   "sounds": [
    "under.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'under' indicates movement or position directly below something. Actually, in the first sentece 'under' is an adverb, it's a prepositional adverb"
+  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'under' indicates movement or position directly below something. Actually, in these particular examples 'under' is an adverb, it's a prepositional adverb"
  },
  {
   "proverb": "We could see children in the playground as we drove past the school.", 
@@ -3213,11 +3213,11 @@
   "description": "'hear' is a stative verb. Stative verbs are verbs that express a state rather than an action. Action verbs can have both continuous and simple forms. Stative verbs are not normally used in the continuous form. We can't say 'I am hearing music playing'. But we can say 'I am hearing voices', here hearing means imagining. 'hear' can also be used with 'ing' form as a gerund: hearing - слух, слушание, разбор"
  },
  {
-  "proverb": "I see her now, she's just coming along the road. I've been seeing my boyfriend for three years.", 
+  "proverb": "I see her now, she's just coming along the road. I've been seeing my girlfriend for three years.", 
   "sounds": [
-   "see.aac", "see1.aac"
+   "see.aac"
   ], 
-  "description": "Some verbs can be both stative and dynamic. 'see' as a stative verb means perception with your eyes or understanding (first sentence). 'see' as an action verb means to meet / have a relationship with someone (second sentence)"
+  "description": "Some verbs can be both stative and dynamic. 'see' as a stative verb means perception with your eyes (видеть) or understanding (first sentence). 'see' as an action verb means to meet / have a relationship with someone (видеться) (second sentence)"
  },
  {
   "proverb": "I see what you mean. I'm seeing someone.", 
@@ -3964,7 +3964,7 @@
   "sounds": [
    "givein1.aac"
   ], 
-  "description": "These two sentences demonstrate the difference between two phrasal verbs 'give in' - уступать, сдаваться противнику, поддаться на уговоры, and 'give up' - бросать вредную привычку, бросать пытаться чего-либо достичь потому что это сложно, бросать какую-то деятельность если она не приносит желаемый результат, бросать пытаться что-либо угадать, и т.п. And also don't forget that certain verbs, such as 'keep', are always followed by a gerund. Most prepositions are also followed by a gerund: after, in, before, without, with, for, about, get used to, etc"
+  "description": "These two sentences demonstrate the difference between two phrasal verbs 'give in' - уступать, сдаваться противнику, поддаться на уговоры, and 'give up' - бросать вредную привычку, бросать пытаться чего-либо достичь потому что это сложно, бросать какую-то деятельность если она не приносит желаемый результат, бросать пытаться что-либо угадать, и т.п. And also don't forget that certain verbs, such as 'keep', are always followed by a gerund. Most prepositions are also followed by a gerund: after, in, before, without, with, for, about, etc"
  },
  {
   "proverb": "Forgive me for being late. I can't forgive him for getting killed.", 
@@ -4202,7 +4202,7 @@
   "sounds": [
    "toolate1.aac"
   ],
-  "description": "This sentence demonstrates how to use prepositions of time. The preposition 'by' is used to indicate the end time of an activity, meaning 'no later than'. 'by the time' is a prepostional phrase that can be used for a past, present or a future action and it means 'at some point before - К тому времени как'. 'By the time' is followed by a clause with a relative time that specifies an end or completion time."
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition 'by' is used to indicate the end time of an activity, meaning 'no later than'. 'by the time' is a prepositional phrase that can be used for a past, present or a future action and it means 'at some point before - К тому времени как'. 'By the time' is followed by a clause with a relative time that specifies an end or completion time."
  },
  {
   "proverb": "I stopped to smoke. I stopped smoking.",
@@ -4251,14 +4251,14 @@
   "sounds": [
    "regret.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form. 'see' as an action verb means to have a relationship with someone"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions, usually in the present tense, to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form. 'see' as an action verb means to have a relationship with someone"
  },
  {
   "proverb": "I regret to inform you that you have failed the exam. I regret not telling you the truth.",
   "sounds": [
    "regret1.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + to + infinitive' is used in formal expressions to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... 'regret + gerund' describes a past action which you feel bad about: Я сожалею (жалею), что не сказал вам правду."
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + to + infinitive' is used in formal expressions, usually in the present tense, to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... 'regret + gerund' describes a past action which you feel bad about: Я сожалею (жалею), что не сказал вам правду."
  },
  {
   "proverb": "She quit to work here. She quit working here.",
@@ -4406,7 +4406,7 @@
   "sounds": [
    "Audio recording 2021-04-10 12-52-39.aac"
   ],
-  "description": "Some verbs have a regular 'active' meaning and a different 'stative' meaning. 'My stomach hurts' means there is a pain in my stomach (У меня болит живот), here 'hurt' is both stative and intransitive and means to feel pain. You're hurting me! (Ты делаешь мне больно) here 'hurt' is a dynamic transitive verb and means to cause pain to someone"
+  "description": "Some verbs have a regular 'active' meaning and a different 'stative' meaning. 'My stomach hurts' means there is a pain in my stomach (У меня болит живот), here 'hurt' is both stative and intransitive and means to feel pain (желудок находится в состоянии боли). You're hurting me! (Ты делаешь мне больно) here 'hurt' is a dynamic transitive verb and means to cause pain to someone"
  },
  {
   "proverb": "I laughed. The book fell. She died. He is walking.",
@@ -4491,7 +4491,7 @@
   "sounds": [
    "teacher.aac"
   ],
-  "description": "This sentence demonstrates when to use the Present Perfect Tense. We usually use the Present Perfect Continuous for something that started in the past and still continues in the present, but the verb 'be' is a stative verb in this context and can't be used with continuous tenses, that's why the PP is used. Similar examples: I've known him for years (and I still know him). Sam has had this car since 2012 (Sam still has his car)."
+  "description": "This sentence demonstrates when to use the Present Perfect Tense. We usually use the Present Perfect Continuous for something that started in the past and still continues in the present, but the verb 'be' is a stative verb in this context and can't be used with continuous tenses, that's why the PP is used. But it doesn't mean that Peter is no longer a teacher, he still continues to be a teacher. Similar examples: I've known him for years (and I still know him). Sam has had this car since 2012 (Sam still has his car)."
  },
  {
   "proverb": "I've been to the States. I've read many books. Have you ever seen the movie Titanic?",
@@ -5084,21 +5084,21 @@
   "sounds": [
    "lookorsee1.aac"
   ],
-  "description": "'look/look at - посмотреть' means to purposefully direct your eyes in a particular direction to see something, it's active, it requires effort. 'see - видеть, увидеть' is passive, you are receiving the image thru your eyes but you are not necessarily focusing on it. Both 'look' and 'see' can act as stative and dynamic verbs. 'watch - смотреть, наблюдать, следить (длительный процесс)' is also active, you are deliberately focusing your eyes on something or someone for an amount of time and pay attention to what is happening. 'listen' and 'hear' work in the same manner. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening', 'looking' and 'watching' require effort"
+  "description": "'look/look at - посмотреть' means to purposefully direct your eyes in a particular direction to see something, it's active, it requires effort. 'see - видеть, увидеть' is passive, you are receiving the image thru your eyes but you are not necessarily focusing on it. Both 'look' and 'see' can act as stative and dynamic verbs. Ты видел это? Нет, я не смотрел. 'watch - смотреть, наблюдать, следить (длительный процесс)' is also active, you are deliberately focusing your eyes on something or someone for an amount of time and pay attention to what is happening. 'listen' and 'hear' work in the same manner. Compare: Did you hear that? No, I wasn't listening. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening', 'looking' and 'watching' require effort"
  },
  {
   "proverb": "When I looked into the forest, I saw a deer.",
   "sounds": [
    "lookorsee2.aac"
   ],
-  "description": "'look/look at - посмотреть' means to purposefully direct your eyes in a particular direction to see something, it's active, it requires effort. 'see - видеть, увидеть' is passive, you are receiving the image thru your eyes but you are not necessarily focusing on it. Both 'look' and 'see' can act as stative and dynamic verbs. 'watch - смотреть, наблюдать, следить (длительный процесс)' is also active, you are deliberately focusing your eyes on something or someone for an amount of time and pay attention to what is happening. 'listen' and 'hear' work in the same manner. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening', 'looking' and 'watching' require effort"
+  "description": "'look/look at - посмотреть' means to purposefully direct your eyes in a particular direction to see something, it's active, it requires effort. 'see - видеть, увидеть' is passive, you are receiving the image thru your eyes but you are not necessarily focusing on it. Both 'look' and 'see' can act as stative and dynamic verbs. Когда я посмотрел в лес (в сторону леса), я увидел оленя. 'watch - смотреть, наблюдать, следить (длительный процесс)' is also active, you are deliberately focusing your eyes on something or someone for an amount of time and pay attention to what is happening. 'listen' and 'hear' work in the same manner. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening', 'looking' and 'watching' require effort"
  },
  {
   "proverb": "I looked up from my book and saw you. You were watching a video on your phone.",
   "sounds": [
    "lookorsee3.aac"
   ],
-  "description": "'look/look at - посмотреть' means to purposefully direct your eyes in a particular direction to see something, it's active, it requires effort. 'see - видеть, увидеть' is passive, you are receiving the image thru your eyes but you are not necessarily focusing on it. Both 'look' and 'see' can act as stative and dynamic verbs. 'watch - смотреть, наблюдать, следить (длительный процесс)' is also active, you are deliberately focusing your eyes on something or someone for an amount of time and pay attention to what is happening. 'listen' and 'hear' work in the same manner. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening', 'looking' and 'watching' require effort"
+  "description": "'look/look at - посмотреть' means to purposefully direct your eyes in a particular direction to see something, it's active, it requires effort. 'see - видеть, увидеть' is passive, you are receiving the image thru your eyes but you are not necessarily focusing on it. Both 'look' and 'see' can act as stative and dynamic verbs. 'watch - смотреть, наблюдать, следить (длительный процесс)' is also active, you are deliberately focusing your eyes on something or someone for an amount of time and pay attention to what is happening. Я отвел взгляд от книги и увидел тебя. Ты смотрела видео на своем телефоне. 'listen' and 'hear' work in the same manner. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening', 'looking' and 'watching' require effort"
  },
  {
   "proverb": "I watched a man digging a hole. I saw a man digging a hole.",
@@ -5203,7 +5203,7 @@
   "sounds": [
    "identifying_clause.aac"
   ],
-  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'The girl called me to return it'. What girl? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also notice that 'whose', which is a possessive pronoun, can be used for adding information about people or things."
+  "description": "There are two types of relative clauses (придаточных предложений): identifying and non-identifying. An identifying clause identifies the subject of a sentence. It gives more information about it. Without this information the sentence won't be complete and will lose its meaning. We can't just say: 'The girl called me to return it'. Which girl? The subject + the identifying clause together can be viewed as a complete subject. We do not use commas to highlight an identifying clause. Also notice that 'whose', which is a possessive pronoun, can be used for adding information about people or things."
  },
  {
   "proverb": "The movie which I saw last weekend was excellent.",
