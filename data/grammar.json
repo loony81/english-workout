@@ -165,7 +165,7 @@
   "sounds": [
    "lasttime.aac"
   ], 
-  "description": "These sentences show that it is correct to use 'last time' or 'the last time'"
+  "description": "These sentences show that we can use 'last time' or 'the last time' interchangeably"
  }, 
  {
   "proverb": "I went to London last June.", 
@@ -242,14 +242,14 @@
   "sounds": [
    "themost2.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc."
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc. Here 'most' is a noun and 'to make the most of something' is a set expression and it means - извлекать максимальную пользу/выгоду из чего-то"
  }, 
  {
   "proverb": "Which of you earns the most money?", 
   "sounds": [
    "themost3.aac"
   ], 
-  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc. Also we don't usually use 'which' with people but it is often used in such questions: Which of you did this? Which doctor did you see? Which of you want tea and which want lemonade?, etc"
+  "description": "This sentence demonstrates when to use 'most' or 'the most'. We use 'the most' with some superlative adjectives, or when we want to describe the biggest number or amount of something, or something of the greatest importance, strength, value, etc. There are other similar expressions: make the most, get the most, earn the most, etc and in all of them 'most' is a noun, not an adverb or an adjective. Also we don't usually use 'which' with people but it is often used in such questions: Which of you did this? Which doctor did you see? Which of you want tea and which want lemonade?, etc"
  }, 
  {
   "proverb": "This juice is most delicious if you chill it for a long time first. Which juice is the most delicious? Apple juice, orange juice or raspberry juice?", 
@@ -485,6 +485,20 @@
   ], 
   "description": "This sentence demonstrates the use of the definite article with awards, prizes, orders and medals"
  }, 
+ {
+  "proverb": "Einstein was awarded the Nobel prize in 1922.", 
+  "sounds": [
+   "thenobelprize.aac"
+  ], 
+  "description": "This sentence demonstrates the use of the definite article with awards, prizes, orders and medals"
+ },
+ {
+  "proverb": "The Order of the Red Banner was the first Soviet military decoration.", 
+  "sounds": [
+   "redbanner.aac"
+  ], 
+  "description": "This sentence demonstrates the use of the definite article with awards, prizes, orders and medals"
+ },
  {
   "proverb": "Madame Tussaud's is London's most famous tourist attraction.", 
   "sounds": [
@@ -918,7 +932,7 @@
   "sounds": [
    "saturn.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with planets"
+  "description": "This sentence demonstrates the use of the definite article with planets. Don't forget that with our planet we can say 'Earth' or 'the Earth' interchangeably because it is a unique planet, one of a kind"
  }, 
  {
   "proverb": "It takes six to eight months to travel from Earth to Mars. The Earth rotates on its axis. The archaeologists excavated the earth at the site.", 
@@ -3021,14 +3035,14 @@
   "sounds": [
    "over.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something. Notice that 'over' also acts an adverb, such adverbs are sometimes called prepositional adverbs. 'over' can also be a preposition of place"
+  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something. Notice that 'over' also acts as an adverb here, such adverbs are sometimes called prepositional adverbs. 'over' can also be a preposition of place"
  },
  {
   "proverb": "A beautiful white bird flew over the lake. He threw the ball over the fence and it landed on the roof of a car.", 
   "sounds": [
    "over1.aac"
   ], 
-  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something. Notice that 'over' also acts an adverb, such adverbs are sometimes called prepositional adverbs. 'over' can also be a preposition of place"
+  "description": "These sentences demonstrate how to use prepositions of movement. The preposition 'over' indicates movement above and across the top or top surface of something. Notice that 'over' also acts as an adverb here, such adverbs are sometimes called prepositional adverbs. 'over' can also be a preposition of place"
  },
  {
   "proverb": "There's a gas station about a mile up the road.", 
@@ -3297,7 +3311,7 @@
   "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'at' with specific locations, addresses, public places, shops, hotels, homes etc"
  },
  {
-  "proverb": "I did not object to the object", 
+  "proverb": "I did not object to the object.", 
   "sounds": [
    "Audio recording 2020-06-01 11-10-11.aac"
   ], 
@@ -4198,7 +4212,7 @@
   "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'forget' + to + infinitive is used when you want or need to do something, but you forget to do it. Also used when giving advice or an instruction: I forgot to watch the news.  'forget' + gerund is used when you forget about a memory, something that you've done in the past (did it but forgot about it). Often used when talking about past experiences: 'I'll never forget ..."
  },
  {
-  "proverb": "By the time she finds out, it'll be too late",
+  "proverb": "By the time she finds out, it'll be too late.",
   "sounds": [
    "toolate1.aac"
   ],

@@ -4,8 +4,11 @@ const axios = require('axios')
 const grammarSentences = require('../data/grammar.json')
 const proverbs = require('../data/proverbs.json')
 const translateSentences = require('../data/translate.json')
-const googleDriveLinksForGrammar = require('../data/googleDriveLinksForGrammar.json')
-const googleDriveLinksForProverbs = require('../data/googleDriveLinksForProverbs.json')
+let googleDriveLinksForGrammar = require('../data/googleDriveLinksForGrammar.json')
+let googleDriveLinksForProverbs = require('../data/googleDriveLinksForProverbs.json')
+//turn arrays of links into maps
+googleDriveLinksForGrammar = new Map(googleDriveLinksForGrammar.map(obj => [obj.name, obj.link]))
+googleDriveLinksForProverbs = new Map(googleDriveLinksForProverbs.map(obj => [obj.name, obj.link]))
 //calculate how many items are stored in each json file
 const grammarQty = grammarSentences.length
 const proverbsQty = proverbs.length
@@ -14,8 +17,9 @@ const translateQty = translateSentences.length
 
 const findLink = (file, googleDriveLinks) => {
 	//find the link to the audio file on Google Drive
-	const item = googleDriveLinks.find(item => item.name === file)
-	return item ? item['link'] : ''
+	//const item = googleDriveLinks.find(item => item.name === file)
+  const item = googleDriveLinks.get(file)
+	return item || ''
 }
 
 const grabOneItem = (index, data, googleDriveLinks) => {
