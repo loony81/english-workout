@@ -132,8 +132,8 @@
   "proverb": "You should live within your means"
  },
  {
-  "description": "Прийти к истине (установить истину)",  
-  "proverb": "To arrive at the truth"
+  "description": "прийти к истине (установить истину)",  
+  "proverb": "to arrive at the truth"
  },
  {
   "description": "Я переел сладкого (съел чересчур много сахара)",  
@@ -1172,7 +1172,7 @@
   "proverb": "What is going on here?"
  },
  {
-  "description": "Он не успеет (сможет, справиться, выживет)",
+  "description": "Он не успеет/сможет/справится/выживет",
   "proverb": "He's not gonna make it"
  },
  {
@@ -2664,7 +2664,7 @@
   "proverb": "Are you calling me a liar?"
  },
   {
-  "description": "Давай, мы опоздаем! / Поспеши, мы опаздываем!",
+  "description": "Давай, мы опоздаем!",
   "proverb": "Come on, we're gonna be late!"
  },
  {
@@ -3748,6 +3748,10 @@
   "proverb": "I'm getting married tomorrow"
  },
  {
+  "description": "Он женится",
+  "proverb": "He's getting married"
+ },
+ {
   "description": "Они только что поженились",
   "proverb": "They have just got married"
  },
@@ -3996,7 +4000,7 @@
   "proverb": "I'm studying law at Harvard"
  },
  {
-  "description": "Действуйте (продолжайте) в соответствии с графиком / Действуйте по расписанию",
+  "description": "Действуйте (Продолжайте) в соответствии с графиком / Действуйте по расписанию",
   "proverb": "Proceed according to schedule"
  },
  {
@@ -5740,7 +5744,7 @@
   "proverb": "Mark my words"
  },
  {
-  "description": "Буду очень признателен за любой совет (Любой совет будет оценен по достоинству)",
+  "description": "Буду очень признателен за любой совет (Любой совет был бы оценен по достоинству)",
   "proverb": "Any advice would be greatly appreciated"
  },
  {
@@ -6572,7 +6576,7 @@
   "proverb": "He has tried to give up smoking twice but hasn't succeeded"
  },
  {
-  "description": "На что ты намекаешь?",
+  "description": "На что ты намекаешь? (1)",
   "proverb": "What are you insinuating?"
  },
  {
@@ -7396,8 +7400,12 @@
   "proverb": "I'm gonna finish this once and for all"
  },
  {
-  "description": "Кто здесь главный? (проверить)",
+  "description": "Кто здесь главный? (1)",
   "proverb": "Who's in command here?"
+ },
+ {
+  "description": "Кто здесь главный? (2)",
+  "proverb": "Who's in charge here?"
  },
  {
   "description": "Ты жив! И это самое важное!",
@@ -8076,24 +8084,104 @@
   "proverb": "She's still angry over the way she's been treated"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "На что ты намекаешь? (2)",
+  "proverb": "What are you implying?"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Мне тошно от одного твоего вида",
+  "proverb": "I'm sick of the sight of you"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Не смей больше и пальцем его трогать!",
+  "proverb": "Don't you lay another finger on him!"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Я его никогда и пальцем не тронул",
+  "proverb": "I never laid a finger on him"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Если ты хоть пальцем меня пальцем, я закричу",
+  "proverb": "If you lay a finger on me, I'll scream"
+ },
+ {
+  "description": "Из-за тебя нас чуть не убили",
+  "proverb": "You nearly got us killed"
+ },
+ {
+  "description": "У меня отличные новости, которыми я хотел бы поделиться",
+  "proverb": "I have some exciting news I'd like to share"
+ },
+ {
+  "description": "Я прекрасно себя чувствую (Я абсолютно здоров)",
+  "proverb": "I'm in perfect health"
+ },
+ {
+  "description": "Я в отличной (идеальной) форме",
+  "proverb": "I'm in perfect shape"
+ },
+ {
+  "description": "Мы не подходим друг другу",
+  "proverb": "We don't fit together"
+ },
+ {
+  "description": "Тебе должно быть стыдно!",
+  "proverb": "You should be embarrassed!"
+ },
+ {
+  "description": "Тебе не стыдно (за себя)?",
+  "proverb": "Are you not ashamed of yourself?"
+ },
+ {
+  "description": "К тому времени как она узнает (выяснит), будет уже слишком поздно",
+  "proverb": "By the time she finds out, it'll be too late"
+ },
+ {
+  "description": "Ты всегда меня поддерживал / Ты всегда был рядом в трудную минуту",
+  "proverb": "You've always been there for me"
+ },
+ {
+  "description": "Не торопись (Возьми столько времени, сколько тебе нужно)",
+  "proverb": "Take your time"
+ },
+ {
+  "description": "Где ты был? Я весь извелся от волнения (Я чуть с ума не сошёл от волнения)",
+  "proverb": "Where've you been? I've been worried sick"
+ },
+ {
+  "description": "Ты уверен, что знаешь что ты делаешь?",
+  "proverb": "Are you sure you know what you're doing?"
+ },
+ {
+  "description": "Убирайся! / Проваливай!",
+  "proverb": "Get out!"
+ },
+ {
+  "description": "Это то, к чему ты готовился всю свою жизнь",
+  "proverb": "This is what you've been preparing for your whole life"
+ },
+ {
+  "description": "Так ему и надо! (Он получил по заслугам!)",
+  "proverb": "Serves him right!"
+ },
+ {
+  "description": "Так тебе и надо! (Поделом тебе!)",
+  "proverb": "Serves you right!"
+ },
+ {
+  "description": "Меня сейчас стошнит!",
+  "proverb": "I'm gonna be sick!"
+ },
+ {
+  "description": "Ты мне доверяешь?",
+  "proverb": "Do you trust me?"
+ },
+ {
+  "description": "Мне не помешала бы компания (контекст: поездка с кем-то вместе)",
+  "proverb": "I could use some company"
+ },
+ {
+  "description": "по какой-то причине",
+  "proverb": "for some reason"
  },
  {
   "description": "",
