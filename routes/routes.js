@@ -4,6 +4,7 @@ const axios = require('axios')
 const grammarSentences = require('../data/grammar.json')
 const proverbs = require('../data/proverbs.json')
 const translateSentences = require('../data/translate.json')
+
 let googleDriveLinksForGrammar = require('../data/googleDriveLinksForGrammar.json')
 let googleDriveLinksForProverbs = require('../data/googleDriveLinksForProverbs.json')
 //turn arrays of links into maps
