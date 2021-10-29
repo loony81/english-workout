@@ -163,6 +163,10 @@
   "description": "Где ты был прошлой ночью?",  
   "proverb": "Where were you last night?"
  },
+  {
+  "description": "Чем ты думал? / О чем ты думал? (контекст: порицание за какой-то проступок)",  
+  "proverb": "What were you thinking?"
+ },
  {
   "description": "Чем ты думал когда подписывал соглашение?",  
   "proverb": "What were you thinking signing the agreement?"
@@ -440,7 +444,7 @@
   "proverb": "Who did that?"
  },
  {
-  "description": "Откуда у тебя это? (Кто дал тебе это?)",
+  "description": "Откуда у тебя это? / Кто дал тебе это? (subject question)",
   "proverb": "Who gave you that?"
  },
  {
@@ -820,7 +824,7 @@
   "proverb": "I'll be there in an hour"
  },
  {
-  "description": "У меня неплохо получается (Я становлюсь всё лучше и лучше в этом деле)",
+  "description": "У меня неплохо получается! (Я становлюсь всё лучше и лучше в этом деле!)",
   "proverb": "I'm getting good at it!"
  },
  {
@@ -1856,8 +1860,8 @@
   "proverb": "With that said"
  },
  {
-  "description": "В каком-то роде / В некотором смысле",
-  "proverb": "In a way"
+  "description": "в каком-то роде / в некотором смысле",
+  "proverb": "in a way"
  },
  {
   "description": "Одевайся, я буду ждать тебя на улице (снаружи)",
@@ -2155,7 +2159,7 @@
   "description": "Что тебя гложет? (Что у тебя на уме?)",
   "proverb": "What's on your mind?"
  },
-  {
+ {
   "description": "Меня беспокоят многие вещи / На меня многое навалилось (У меня много на уме)",
   "proverb": "I have a lot on my mind"
  },
@@ -3168,6 +3172,10 @@
   "proverb": "I lost some weight"
  },
  {
+  "description": "Я хочу похудеть (Я хочу сбросить вес)",
+  "proverb": "I want to lose weight"
+ },
+ {
   "description": "Я потерял работу",
   "proverb": "I lost my job"
  },
@@ -3740,6 +3748,10 @@
   "proverb": "He told me he had eaten a cheese sandwich for lunch"
  },
  {
+  "description": "вступать в брак (жениться, выйти замуж)",
+  "proverb": "to get married"
+ },
+ {
   "description": "Я женюсь (Я выхожу замуж)",
   "proverb": "I am getting married"
  },
@@ -4252,7 +4264,7 @@
   "proverb": "She is smelling the flowers"
  },
  {
-  "description": "Это не правильно (Это звучит неправильно)",
+  "description": "Это неправильно (Это звучит неправильно)",
   "proverb": "That doesn't sound right"
  },
  {
@@ -5616,7 +5628,7 @@
   "proverb": "Nice is on the south coast of France"
  },
  {
-  "description": "Мне страшно (Я боюсь) когда я еду со скоростью более 100 километров в час",
+  "description": "Я пугаюсь (Мне становится страшно) когда я еду со скоростью более 100 километров в час",
   "proverb": "I get scared when I drive over 100 kilometers an hour"
  },
  {
@@ -7284,8 +7296,8 @@
   "proverb": "I must admit I'm impressed"
  },
  {
-  "description": "Что делает тебя таким уверенным?",
-  "proverb": "What makes you so sure? (subject question)"
+  "description": "Что делает тебя таким уверенным? (subject question)",
+  "proverb": "What makes you so sure?"
  },
  {
   "description": "Сделай одолжение (Мне нужно одолжение)",
@@ -7512,7 +7524,7 @@
   "proverb": "She used to play tennis, but then she hurt her knee and had to stop"
  },
  {
-  "description": "Красивая белая птица прелетела над озером",
+  "description": "Красивая белая птица пролетела над озером",
   "proverb": "A beautiful white bird flew over the lake"
  },
  {
@@ -7913,7 +7925,7 @@
  },
  {
   "description": "В сегодняшнем уроке я собираюсь рассказать вам в чем разница между ... (научить вас разнице между ...)",
-  "proverb": "In today's lesson I'm going to teach you about the difference between"
+  "proverb": "In today's lesson I'm going to teach you about the difference between ..."
  },
  {
   "description": "Опиши это на английском",
@@ -7973,7 +7985,7 @@
  },
  {
   "description": "приготовить чашку кофе",
-  "proverb": "make a cup of coffee"
+  "proverb": "to make a cup of coffee"
  },
  {
   "description": "Он на кухне, заваривает чай (Он на кухне, готовит чашку чая)",
@@ -8180,8 +8192,328 @@
   "proverb": "I could use some company"
  },
  {
-  "description": "по какой-то причине",
+  "description": "почему-то (по какой-то причине)",
   "proverb": "for some reason"
+ },
+ {
+  "description": "Некоторые люди говорят что политика - это грязная вещь",
+  "proverb": "Some people say that politics is dirty"
+ },
+ {
+  "description": "Нам нужно серьезно поговорить",
+  "proverb": "We need to have a serious talk"
+ },
+ {
+  "description": "творить чудеса",
+  "proverb": "to work wonders"
+ },
+ {
+  "description": "Скажем так ...",
+  "proverb": "Let's put it this way ..."
+ },
+ {
+  "description": "Не понял тебя / Я не улавливаю твою мысль (Я что-то не догоняю)",
+  "proverb": "I'm not following you"
+ },
+ {
+  "description": "по моей команде (по моему сигналу.)",
+  "proverb": "on my mark"
+ },
+ {
+  "description": "Ты кажешся странно отстраненным (отрешенным), учитывая наше затруднительное положение",
+  "proverb": "You seem strangely detached given our predicament"
+ },
+ {
+  "description": "К чему ты ведешь? / К чему ты клонишь / Что ты хочешь сказать?",
+  "proverb": "What's your point?"
+ },
+ {
+  "description": "Он жив?",
+  "proverb": "Is he alive?"
+ },
+ {
+  "description": "Я не понимаю!",
+  "proverb": "I don't get it!"
+ },
+ {
+  "description": "Твой секрет в безопасности со мной",
+  "proverb": "Your secret's safe with me"
+ },
+ {
+  "description": "Потеряйся!",
+  "proverb": "Get lost!"
+ },
+ {
+  "description": "Неужели единственный способ для тебя добиться успеха - это увидеть, как я проигрываю?",
+  "proverb": "Is that the only way you can succeed is to see me fail?"
+ },
+ {
+  "description": "Ты имеешь хоть малейшее представление чего это стоило попасть сюда?",
+  "proverb": "Do you have any idea what it took to get in here?"
+ },
+ {
+  "description": "Какой Лондон в это время года?",
+  "proverb": "What's London like this time of year?"
+ },
+ {
+  "description": "В этой моче больше водки чем самой мочи",
+  "proverb": "There is more vodka in this piss than there is piss"
+ },
+ {
+  "description": "Это не обсуждается / Это не подлежит обсуждению / Это не предмет торга",
+  "proverb": "It's not negotiable"
+ },
+ {
+  "description": "Я решился (принял решение) прибегнуть к более крайним (экстремальным) мерам",
+  "proverb": "I made up my mind to resort to more extreme measures"
+ },
+ {
+  "description": "прямо к делу / сразу к сути",
+  "proverb": "straight to the point"
+ },
+ {
+  "description": "Я принял решение",
+  "proverb": "I made up my mind"
+ },
+ {
+  "description": "Каково это - быть миллионером?",
+  "proverb": "What's it like being a millionaire?"
+ },
+ {
+  "description": "Соберись! (Возьми себя в руки!)",
+  "proverb": "Pull yourself together!"
+ },
+ {
+  "description": "Сколько сахара вы кладете в ваше кофе?",
+  "proverb": "How much sugar do you put in your coffee?"
+ },
+ {
+  "description": "Не желаете ли добавить сахара в ваше кофе?",
+  "proverb": "Would you like sugar in your coffee?"
+ },
+ {
+  "description": "Этим летом я собираюсь в кругосветный круиз (круиз вокруг света)",
+  "proverb": "This summer I'm going on a cruise around the world"
+ },
+ {
+  "description": "Не желаете ли кофе?",
+  "proverb": "Would you like some coffee?"
+ },
+ {
+  "description": "Кончай валять дурака и возьми себя в руки! / Перестань страдать херней и возьми себя в руки!",
+  "proverb": "Quit fucking around and pull yourself together!"
+ },
+ {
+  "description": "Над чем ты смеёшься?",
+  "proverb": "What are you laughing at?"
+ },
+ {
+  "description": "Он нас предал!",
+  "proverb": "He's betrayed us!"
+ },
+ {
+  "description": "Ты пил?",
+  "proverb": "Have you been drinking?"
+ },
+ {
+  "description": "Прошу минутку вашего внимания!",
+  "proverb": "May I have your attention, please?"
+ },
+ {
+  "description": "Ты нуждаешься во мне больше чем я в тебе",
+  "proverb": "You need me a lot more than I need you"
+ },
+ {
+  "description": "Все могло быть и хуже!",
+  "proverb": "Things could be worse!"
+ },
+ {
+  "description": "Не унывай! / Веселей!",
+  "proverb": "Cheer up!"
+ },
+ {
+  "description": "Тише там! / Ну-ка тише там!",
+  "proverb": "Keep it down!"
+ },
+ {
+  "description": "Здесь на карту поставлены жизни (Здесь на кону жизни людей)",
+  "proverb": "There are lives at stake here"
+ },
+ {
+  "description": "на кону / в опасности",
+  "proverb": "at stake"
+ },
+ {
+  "description": "Зажми рану!",
+  "proverb": "Keep pressure on the wound!"
+ },
+ {
+  "description": "Ты услышал об этом в новостях?",
+  "proverb": "Did you here about that on the news?"
+ },
+ {
+  "description": "Я услышал об этом в новостях",
+  "proverb": "I heard it on the news"
+ },
+ {
+  "description": "Я польщен! (Это для меня большая честь!)",
+  "proverb": "I'm honored!"
+ },
+ {
+  "description": "Неподчинение (Несоблюдение) повлечет за собой наказание (штраф)",
+  "proverb": "Noncompliance will result in a penalty"
+ },
+ {
+  "description": "Слышал новость (новости)?",
+  "proverb": "Did you hear the news?"
+ },
+ {
+  "description": "Зажми рану и держи пока не прибудет помощь",
+  "proverb": "Keep pressure on the wound until help arrives"
+ },
+ {
+  "description": "Давайте быстро подведем итог",
+  "proverb": "Let's quickly recap"
+ },
+ {
+  "description": "Прежде чем мы продолжим, давайте подведем итог того, что мы узнали (изучили) на данный момент",
+  "proverb": "Before we continue, let's recap what we have learned so far"
+ },
+ {
+  "description": "Что ты здесь забыл? (Что тебе здесь надо?)",
+  "proverb": "What's your business here?"
+ },
+ {
+  "description": "Выкладывай! / По какому делу! / Говори, что нужно!",
+  "proverb": "State your business!"
+ },
+ {
+  "description": "Ты торгуешься со мной?",
+  "proverb": "Are you bargaining with me?"
+ },
+ {
+  "description": "Я не причиню тебе вреда (Я не собираюсь причинить тебе вред)",
+  "proverb": "I'm not gonna hurt you"
+ },
+ {
+  "description": "Он живет в центре города",
+  "proverb": "He lives downtown"
+ },
+ {
+  "description": "Ты такой наивный",
+  "proverb": "You're so naive"
+ },
+ {
+  "description": "Я покончил с этим!",
+  "proverb": "I'm through with it!"
+ },
+ {
+  "description": "Он умер за правое (благое) дело",
+  "proverb": "He died for a good cause"
+ },
+ {
+  "description": "У меня печальные вести (У меня есть неприятные известия, которые я хочу сообщить)",
+  "proverb": "I have unfortunate tidings to report"
+ },
+ {
+  "description": "Они для меня все на одно лицо",
+  "proverb": "They all look alike to me"
+ },
+ {
+  "description": "Я бы выразился по-другому (Я бы так не сказал)",
+  "proverb": "I wouldn't put it that way"
+ },
+ {
+  "description": "Ты должно быть шутишь",
+  "proverb": "You must be joking"
+ },
+ {
+  "description": "Говорить буду я (Позволь мне вести переговоры)",
+  "proverb": "Let me do the talking"
+ },
+ {
+  "description": "Я знаю, что пожалею об этом",
+  "proverb": "I know I'm gonna regret this"
+ },
+ {
+  "description": "Ты пожалеешь об этом",
+  "proverb": "You're gonna regret this"
+ },
+ {
+  "description": "Ты с ума сошел?",
+  "proverb": "Have you lost your mind?"
+ },
+ {
+  "description": "За работу! / Давайте приступать к делу! (работе)",
+  "proverb": "Let's get to work!"
+ },
+ {
+  "description": "Тебе нужно кое-что знать",
+  "proverb": "There's something you need to know"
+ },
+ {
+  "description": "На это потребуется время / Это займет время",
+  "proverb": "It will take time"
+ },
+ {
+  "description": "Это может занять некоторое время",
+  "proverb": "It may take some time"
+ },
+ {
+  "description": "Оденься и пошли со мной!",
+  "proverb": "Get dressed and come with me!"
+ },
+ {
+  "description": "В следующем уроке мы рассмотрим ...",
+  "proverb": "In the next lesson we're going to look at ..."
+ },
+ {
+  "description": "Я теряю силы (Я теряю силу)",
+  "proverb": "I'm losing strength"
+ },
+ {
+  "description": "Сочту это за согласие (Буду считать что это 'да')",
+  "proverb": "I'll take that as a yes"
+ },
+ {
+  "description": "У меня нет времени на то чтобы испытывать судьбу",
+  "proverb": "I have no time to take chances"
+ },
+ {
+  "description": "Неверность (Нелояльность) будет караться смертью",
+  "proverb": "Disloyalty will be punishable by death"
+ },
+ {
+  "description": "Отсюда придется идти пешком",
+  "proverb": "We'll have to go by foot from here"
+ },
+ {
+  "description": "Тебе придется получше постараться",
+  "proverb": "You'll have to do much better than that"
+ },
+ {
+  "description": "Это слишком большой риск / Это слишком рискованно",
+  "proverb": "It's too much of a risk"
+ },
+ {
+  "description": "Я скоро вернусь / Я ненадолго отлучусь",
+  "proverb": "I won't be long"
+ },
+ {
+  "description": "Поспи!",
+  "proverb": "Get to sleep!"
+ },
+ {
+  "description": "У меня нет времени смотреть телевизор",
+  "proverb": "I have no time to watch TV"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",

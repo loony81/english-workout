@@ -21,7 +21,7 @@ app.use(
   })
 )
 app.use(express.static(__dirname + '/dist'))
-app.use(express.json())
+app.use(express.json()) // this middleware parses the body of the request and if there is a json object it will populate the req.body property
 
 
 //routes

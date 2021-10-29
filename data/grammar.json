@@ -25,7 +25,7 @@
   "sounds": [
    "cake.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when talking about something specific. Also, the noun 'cake' can be both countable and uncountable. In this sentence 'cake' is an uncountable noun."
+  "description": "This sentence demonstrates the use of the definite article when talking about something specific. Also, the noun 'cake' can be either countable and uncountable. In this sentence 'cake' is an uncountable noun."
  }, 
  {
   "proverb": "We wanted to watch TV, but there wasn't one in the apartment, so we just listened to the radio.", 
@@ -130,14 +130,14 @@
   "sounds": [
    "thelast2.aac"
   ], 
-  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the duration (the last 30 days), that's why the PP is used"
+  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the time period (the last 30 days), that's why the PP is used"
  }, 
  {
   "proverb": "In the last two minutes, Paul has eaten four hot dogs.", 
   "sounds": [
    "thelast3.aac"
   ], 
-  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the duration of time (за последние две минуты), that's why the PP is used"
+  "description": "This sentence demonstrates when to use last or the last. Here we are talking about the time period (за последние две минуты), that's why the PP is used"
  }, 
  {
   "proverb": "The next two weeks will be tough!", 
@@ -256,7 +256,7 @@
   "sounds": [
    "themost4.aac"
   ], 
-  "description": "These sentences demonstrate when to use 'most' or 'the most'. In the first sentence 'most' is an adverb that describes the adjective 'delicious'. In the second sentence 'most' is part of a superlative adjective which consists of more than two syllables"
+  "description": "These sentences demonstrate when to use 'most' or 'the most'. In the first sentence 'most' is an adverb that describes the adjective 'delicious' and means to a great extent, can be replaced with 'very': This juice is very delicious ... In the second sentence 'most' is part of a superlative adjective which consists of more than two syllables"
  },
  {
   "proverb": "advantage but advantageous", 
@@ -546,7 +546,14 @@
   "sounds": [
    "politics.aac"
   ], 
-  "description": "This sentence demonstrates irregular singular nouns. 'politics' is an irregular uncountable singular noun"
+  "description": "This sentence demonstrates irregular singular nouns. 'politics' is an irregular uncountable singular noun. Other examples: economics, physics, news, Mathematics, athletics, billiards, statistics, etc. There are also some diseases: mumps, measles, rabies, etc"
+ },
+ {
+  "proverb": "Statistics is an important subject relevant to various fields.", 
+  "sounds": [
+   "statistics.aac"
+  ], 
+  "description": "This sentence demonstrates irregular singular nouns. 'statistics' is an irregular uncountable singular noun. Other examples: economics, politics, physics, news, Mathematics, athletics, billiards, etc. There are also some diseases: mumps, measles, rabies, etc"
  }, 
  {
   "proverb": "Billiards is easier than pool or snooker.", 
@@ -1269,7 +1276,7 @@
   "sounds": [
    "dinner2.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal, We do not usually use articles with meals (uncount nouns), unless it is a specific meal, for example a formal occasion or a social event: They held a dinner to celebrate his retirement"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal, for example a formal occasion or a social event: They held a dinner to celebrate his retirement"
  }, 
  {
   "proverb": "I can't talk now, I'm having dinner. Can you call back later?", 
@@ -1360,7 +1367,7 @@
   "sounds": [
    "man1.aac"
   ], 
-  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense"
+  "description": "This sentence demonstrates that we do not use articles (definite or indefinite) when a common noun is used in its widest sense. Actually, in this particular example 'man' is an uncountable noun and means the human race (Человек предполагает, а Бог располагает)"
  },
  {
   "proverb": "There aren't many people who have read this novel to the end.", 
@@ -1577,7 +1584,7 @@
   "sounds": [
    "atsunrise.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dawn, at dinner, at lunchtime, at bedtime)."
+  "description": "This sentence demonstrates how to use prepositions of time. The preposition of time 'at' is generally used in reference to specific times on the clock or points of time in the day (at 3pm, at noon, at midnight, at dawn, at dinner, at lunchtime, at bedtime, etc)."
  }, 
  {
   "proverb": "I'll be asleep at midnight!", 
@@ -2131,7 +2138,7 @@
   "sounds": [
    "ontheleft.aac"
   ], 
-  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it implies location that's why it is used with the preposition of place 'on'. 'to the left' means 'налево', it implies direction, that's why it is used with the preposition of movement/direction 'to'"
+  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it implies location, to be more precise, it implies the left side, that's why it is used with the preposition of place 'on'. We could say: The boy on the left side is the shortest. 'to the left' means 'налево', it implies direction, that's why it is used with the preposition of movement/direction 'to'"
  }, 
  {
   "proverb": "There are three apples on the tree.", 
@@ -2152,7 +2159,7 @@
   "sounds": [
    "onthewater.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with bodies of water: oceans, rivers and lakes (these are also considered flat surfaces). Specifically, in this sentence we mean that something is on the surface of the water"
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with bodies of water: oceans, rivers and lakes (these are also considered flat surfaces). Specifically, in this sentence we mean that something is on the surface of a lake or a river."
  }, 
  {
   "proverb": "We'll take you out on the lake. We want to have a picnic at the lake. Lots of people were swimming in the lake.", 
@@ -2363,7 +2370,7 @@
   "sounds": [
    "horse.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it. And we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse."
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it. But we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse."
  }, 
  {
   "proverb": "You get on a train, bus, or subway to begin your trip.", 
@@ -2636,14 +2643,14 @@
   "sounds": [
    "bythecar.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' means next to something or beside (он ждет у машины)"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' means next to something or beside something (Он ждет у машины)"
  },
  {
   "proverb": "Put your bag by the door and sit down.", 
   "sounds": [
    "bythedoor.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' means next to something or beside or near (Положи свою сумку у двери и сядь)"
+  "description": "This sentence demonstrates how to use prepositions of place. The preposition 'by' means next to something or beside something (Положи свою сумку у двери и сядь)"
  },
  {
   "proverb": "He sits at a table.", 
@@ -2916,7 +2923,7 @@
   "sounds": [
    "beers.aac"
   ], 
-  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it implies location that's why it is used with the preposition of place 'on'. 'to the left' means 'налево', it implies direction, that's why it is used with the preposition of movement/direction 'to'"
+  "description": "These sentences demonstrate the difference between 'on the left' and 'to the left'. 'on the left' means 'слева', it implies location, to be more precise, it implies the left side, that's why it is used with the preposition of place 'on'. We could also say: The boy on the left side is the shortest. 'to the left' means 'налево', it implies direction, that's why it is used with the preposition of movement/direction 'to'"
  },
  {
   "proverb": "She smiled at me. They waved at us as we drove by. She aimed at the target. Don't yell at me!", 
@@ -3497,7 +3504,7 @@
   "sounds": [
    "have5.aac", "have6.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is mostly used as a stative verb and means to own, or to do regularly. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having trouble logging into my gmail account, I'm having an affair, etc"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'have' is mostly used as a stative verb and means to own, or to do regularly. But sometimes 'have' can be used as an action verb when taking or experiencing something: I'm having breakfast, I'm having fun, I'm having trouble logging into my gmail account, I'm having an affair, I am having a heart attack, etc"
  },
  {
   "proverb": "She is having a baby.", 
@@ -3838,7 +3845,7 @@
   "sounds": [
    "defend.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'defend' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'making' is the object of 'defend'."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'defend' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. In this example 'carrying' is the object of 'defend'."
  },
  {
   "proverb": "She delayed doing her homework.", 
@@ -4342,7 +4349,7 @@
   "sounds": [
    "come.aac"
   ],
-  "description": "'come' can be followed by either an infinitive or a gerund. 'come + gerund' is like other verbs of movement followed by a gerund. It means that the subject is doing something as they move."
+  "description": "'come' can be followed by either an infinitive or a gerund. 'come + gerund' is like other verbs of movement followed by a gerund. It means that the subject is doing something as they move. 'come + infinitive' means that the infinitive verb indicates the purpose of coming, or to have or form an opinion, attitude, etc., after time passes: We came to watch a movie. I've come to like her over the months."
  },
  {
   "proverb": "How long have you been awake?",
@@ -4590,14 +4597,14 @@
   "sounds": [
    "Audio recording 2021-04-18 14-52-04.aac"
   ],
-  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently (like minutes ago)"
+  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently (like minutes ago), but they have an effect on the present moment"
  },
  {
   "proverb": "It is no use running, the train has just left. They have just got married.",
   "sounds": [
    "Audio recording 2021-04-18 14-54-32.aac"
   ],
-  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently like minutes ago, or days ago (second sentence)"
+  "description": "We often use the present perfect with 'just' to talk about actions that have happened very recently like minutes ago, or days ago (second sentence), but they have a consequence now"
  },
  {
   "proverb": "I'm talking to you. I've been talking to you for 5 minutes. It's raining. It has been raining all morning.",
@@ -4825,7 +4832,7 @@
   "sounds": [
    "pizza.aac"
   ],
-  "description": "In English there is no difference between 'going to' and 'will'"
+  "description": "In English there is no difference in meaning between 'going to' and 'will'. Both can be used interchangeably"
  },
  {
   "proverb": "He asked me what I was doing",
@@ -4860,7 +4867,7 @@
   "sounds": [
    "scratched.aac"
   ],
-  "description": "'whose' is a possessive determiner or pronoun (mine, ours, yours, his, hers, its, etc), it means possession and is used for adding information about a person or thing."
+  "description": "'whose' is a possessive determiner or pronoun (mine, ours, yours, his, hers, its, etc), it means possession and is used for adding information about a person or thing. Also notice that in both sentences 'whose' is part of an identifying relative clause"
  },
  {
   "proverb": "Do you know whose car that is? The company, whose workers are now being forced to stay home, will probably go bankrupt.",
@@ -4902,14 +4909,14 @@
   "sounds": [
    "home.aac"
   ],
-  "description": "The word home is a bit strange. If we don't use an article, it means a place where we live (uncount noun). Fixed expressions: (go) home, be (at) home, arrive home. Notice we don't need 'to' with 'go home' (not 'go to home'). But we can use an article with home when it means 'the building that somebody lives in'. In this case we use articles in the normal way (the last sentence)"
+  "description": "The word home is a bit strange. If we don't use an article, it means a place where we live (uncount noun), or it can also be an adverb like in: go home, arrive home, stay home, etc.. Fixed expressions: (go) home, be (at) home, arrive home. Notice we don't need 'to' with 'go home' (not 'go to home'). But we can use an article with home when it means 'the building that somebody lives in'. In this case we use articles in the normal way (the last sentence)"
  },
  {
   "proverb": "They went home. I stayed at home. Julie works from home. It's time to go home. We arrived home yesterday. My sister has made her flat into a beautiful home.",
   "sounds": [
    "home1.aac"
   ],
-  "description": "The word home is a bit strange. If we don't use an article, it means a place where we live (uncount noun). Fixed expressions: (go) home, be (at) home, arrive home. Notice we don't need 'to' with 'go home' (not 'go to home'). But we can use an article with home when it means 'the building that somebody lives in'. In this case we use articles in the normal way (the last sentence)"
+  "description": "The word home is a bit strange. If we don't use an article, it means a place where we live (uncount noun), or it can also be an adverb like in: go home, arrive home, stay home, etc. Fixed expressions: (go) home, be (at) home, arrive home. Notice we don't need 'to' with 'go home' (not 'go to home'). But we can use an article with home when it means 'the building that somebody lives in'. In this case we use articles in the normal way (the last sentence)"
  },
  {
   "proverb": "I'm home! I'm at home!",
@@ -4951,7 +4958,7 @@
   "sounds": [
    "town.aac"
   ],
-  "description": "When we are talking about the place where we live or work, or about the town center near to us, 'town' is an uncountable noun and we often use no article with it in certain expressions: in town, go into town, out of town, leave town. Town can also be a normal countable noun (last sentence)"
+  "description": "When we are talking about the place where we live or work, or about the town center near to us, 'town' is an uncountable noun (just like downtown) and we often use no article with it in certain expressions: in town, go into town, out of town, leave town. Town can also be a normal countable noun (last sentence)"
  },
  {
   "proverb": "I was at church. I was in the church.",
@@ -5014,7 +5021,7 @@
   "sounds": [
    "street.aac"
   ],
-  "description": "'I am in the street' usually means you are on the pavement of the street possibly where you can get hit by car, as one would tell children 'Get out of the street!'\n'I am at the street' is usually used to say you have arrived at a street e.g. an intersection with another street 'I am at Fifth Avenue and 43rd St'\n'I am on the street' is used to say you somewhere along the street 'He lives on Mitchell Avenue' means he lives somewhere along Mitchell Avenue."
+  "description": "'I am in the street' usually means you are on the pavement of the street possibly where you can get hit by car, as one would tell children 'Get out of the street!'\n'I am at the street' is usually used to say you have arrived at a street e.g. an intersection with another street 'I am at Fifth Avenue and 43rd St'\n'I am on the street' is used to say you're somewhere along the street 'He lives on Mitchell Avenue' means he lives somewhere along Mitchell Avenue."
  },
  {
   "proverb": "Maybe it will rain tomorrow. I may be a little late for lunch.",
@@ -5287,14 +5294,14 @@
   "sounds": [
    "wish1.aac"
   ],
-  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are imaginary. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. It is very close to the second conditional in meaning: If I were taller, I would play basketball. For a wish about a situation in the present (first two sentences), we use the past simple tense: 'I am not tall' becomes 'I wish I were taller'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further: 'I ate too much' becomes 'I wish I hadn't eaten so much'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It is cloudy today. I wish the sun would come out.'"
+  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are imaginary. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. It is very close to the second conditional in meaning: If I were taller, I would play basketball. For a wish about a situation in the present (first two sentences), we use the past simple tense: 'I am not tall' becomes 'I wish I were taller'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further: 'I ate too much' becomes 'I wish I hadn't eaten so much'. Use 'would' for wishes in the future or to complain about the present situation and describe a future remedy (last sentence): 'It is cloudy today. I wish the sun would come out.'"
  },
  {
   "proverb": "I wish I were rich. He wishes he were taller. I wish I had studied harder in high school. I wish it would rain.",
   "sounds": [
    "wish2.aac"
   ],
-  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are imaginary. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. It is very close to the second conditional in meaning: If I were rich, I would buy ... For a wish about a situation in the present (first two sentences), we use the past simple tense:'I am poor' becomes 'I wish I were rich'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further, i.e use the past perfect tense: 'I didn't study hard in high school' becomes 'I wish I had studied harder in high school'. Use 'would' to complain about the present situation and describe a future remedy (last sentence): 'It hasn't rained for two weeks. I wish ...'"
+  "description": "'wish' is a unique verb in English. It is often used with the subjunctive mood because the meanings are imaginary. In these unreal situations, past tense does not indicate past time, it distances the situation not in time but in reality. It is very close to the second conditional in meaning: If I were rich, I would buy ... For a wish about a situation in the present (first two sentences), we use the past simple tense:'I am poor' becomes 'I wish I were rich'. Notice that 'were' is used for all pronouns. For past wishes (regrets), we go back in the past one tense further, i.e use the past perfect tense: 'I didn't study hard in high school' becomes 'I wish I had studied harder in high school'. Use 'would' for wishes in the future or to complain about the present situation and describe a future remedy (last sentence): 'It hasn't rained for two weeks. I wish ...'"
  },
  {
   "proverb": "He is in a meeting. He is at a meeting.",
