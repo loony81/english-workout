@@ -2544,7 +2544,7 @@
   "proverb": "It's the last door on the left"
  },
  {
-  "description": "Я говорю со своим другом по телефону (в данный момент)",
+  "description": "Я говорю со своим другом по телефону (контекст: в данный момент)",
   "proverb": "I am speaking with my friend on the phone"
  },
  {
@@ -2848,7 +2848,7 @@
   "proverb": "Would you mind speaking up a bit?"
  },
  {
-  "description": "Я думаю ты ошибся",
+  "description": "Я думаю ты совершил ошибку",
   "proverb": "I think you made a mistake"
  },
  {
@@ -3208,7 +3208,7 @@
   "proverb": "When I arrive, I will call you"
  },
  {
-  "description": "Она меня не слушает (контекст: не в данный момент а вообще)",
+  "description": "Она меня не слушает (контекст: не в данный момент, а вообще)",
   "proverb": "She doesn't listen to me"
  },
  {
@@ -5768,7 +5768,7 @@
   "proverb": "The tiger lives in Asia"
  },
  {
-  "description": "Она сказала что может говорить на идеальном английском",
+  "description": "Она сказала что может говорить на идеальном английском (reported speech)",
   "proverb": "She said she could speak perfect English"
  },
  {
@@ -6880,7 +6880,7 @@
   "proverb": "He's gone missing"
  },
  {
-  "description": "Ничего из этого не должно было случиться",
+  "description": "Ничего из этого не должно было вообще случиться",
   "proverb": "None of this should ever have happened"
  },
  {
@@ -7000,7 +7000,7 @@
   "proverb": "He stood up for me"
  },
  {
-  "description": "Держись! Ты там держись!",
+  "description": "Держись! (Ты там держись!)",
   "proverb": "Hang in there!"
  },
  {
@@ -7040,7 +7040,7 @@
   "proverb": "to give in"
  },
  {
-  "description": "бросать",
+  "description": "бросать (в смысле прекращать)",
   "proverb": "to give up"
  },
  {
@@ -7584,6 +7584,10 @@
   "proverb": "I don't have a choice"
  },
  {
+  "description": "У меня нет особого выбора / У меня небольшой выбор",
+  "proverb": "I don't have much choice"
+ },
+ {
   "description": "Я не спал уже два дня",
   "proverb": "I haven't slept in two days"
  },
@@ -7824,7 +7828,7 @@
   "proverb": "Dawn's coming"
  },
  {
-  "description": "Как ты держишся?",
+  "description": "Как ты держишся? (контекст: спрашивают кого-то у кого сложный период в жизни)",
   "proverb": "How're you holding up?"
  },
  {
@@ -8052,7 +8056,7 @@
   "proverb": "I want you to have a drink with me"
  },
  {
-  "description": "Кому какое дело? (Всем насрать!)",
+  "description": "Кому какое дело? / Всем насрать! (subject question)",
   "proverb": "Who gives a shit?"
  },
  {
@@ -8112,7 +8116,7 @@
   "proverb": "I never laid a finger on him"
  },
  {
-  "description": "Если ты хоть пальцем меня пальцем, я закричу",
+  "description": "Если ты хоть пальцем меня тронешь, я закричу",
   "proverb": "If you lay a finger on me, I'll scream"
  },
  {
@@ -8216,7 +8220,7 @@
   "proverb": "I'm not following you"
  },
  {
-  "description": "по моей команде (по моему сигналу.)",
+  "description": "по моей команде (по моему сигналу)",
   "proverb": "on my mark"
  },
  {
@@ -8320,7 +8324,7 @@
   "proverb": "May I have your attention, please?"
  },
  {
-  "description": "Ты нуждаешься во мне больше чем я в тебе",
+  "description": "Ты нуждаешься во мне намного больше чем я в тебе",
   "proverb": "You need me a lot more than I need you"
  },
  {
@@ -8440,7 +8444,7 @@
   "proverb": "You're gonna regret this"
  },
  {
-  "description": "Ты с ума сошел?",
+  "description": "Ты с ума сошел? / Ты совсем рехнулся?",
   "proverb": "Have you lost your mind?"
  },
  {
@@ -8508,8 +8512,272 @@
   "proverb": "I have no time to watch TV"
  },
  {
+  "description": "Я тебя породил, я тебя и убью (Я привел тебя в этот мир, я тебя и заберу из него)",
+  "proverb": "I brought you into this world, and I'll take you out of it"
+ },
+ {
+  "description": "Я видел и делал вещи, которыми я не горжусь",
+  "proverb": "I've seen and done things I'm not proud of"
+ },
+ {
+  "description": "Тебя ждет сюрприз (Тебя ждет угощение)",
+  "proverb": "You are in for a treat"
+ },
+ {
+  "description": "Я не хочу испортить сюрприз (Я не собираюсь испортить сюрприз)",
+  "proverb": "I'm not gonna spoil the surprise"
+ },
+ {
+  "description": "докопаться до сути чего-либо",
+  "proverb": "to get to the bottom of something"
+ },
+ {
+  "description": "Я собираюсь немного покопаться. Я собираюсь докопаться до сути этого (разобраться в этом)",
+  "proverb": "I'm gonna do some digging. I'm gonna get to the bottom of this."
+ },
+ {
+  "description": "Ты умеешь хранить секреты? (Тебе можно доверить тайну?)",
+  "proverb": "Can you keep a secret?"
+ },
+ {
+  "description": "хранить секрет",
+  "proverb": "to keep a secret"
+ },
+ {
+  "description": "Я это прекрасно знаю / Я в курсе (Я очень хорошо об этом осведомлен)",
+  "proverb": "I'm well aware of that"
+ },
+ {
+  "description": "Мы должны идти дальше (Мы должны продолжать идти)",
+  "proverb": "We gotta keep going!"
+ },
+ {
+  "description": "Ты должен пойти со мной",
+  "proverb": "You gotta come with me"
+ },
+ {
+  "description": "Никогда не теряй надежды!",
+  "proverb": "Never lose hope!"
+ },
+ {
+  "description": "Это была напряженная неделя",
+  "proverb": "It's been a busy week"
+ },
+ {
+  "description": "У меня просто такое чувство, что что-то не так",
+  "proverb": "I just have a feeling that something is wrong"
+ },
+ {
+  "description": "Я повсюду тебя ищу",
+  "proverb": "I've been looking all over for you"
+ },
+ {
+  "description": "Что тебя беспокоит?",
+  "proverb": "What's troubling you?"
+ },
+ {
+  "description": "Это очень мило с вашей стороны / Так приятно услышать это от вас",
+  "proverb": "That's nice of you to say"
+ },
+ {
+  "description": "Поклади на место! / Положи обратно!",
+  "proverb": "Put it back! / Put that back!"
+ },
+ {
+  "description": "Когда она уходит на работу?",
+  "proverb": "When does she leave for work?"
+ },
+ {
+  "description": "Мы продвигаемся к решению / Мы работаем над решением (проблемы)",
+  "proverb": "We're working toward a solution"
+ },
+ {
+  "description": "Она работает в саду (контекст: в данный момент)",
+  "proverb": "She is working in the garden"
+ },
+ {
+  "description": "Я начал работать когда мне было шестнадцать",
+  "proverb": "I started working when I was sixteen"
+ },
+ {
+  "description": "Воры похитили несколько ценных произведений искусства",
+  "proverb": "The thieves stole several valuable works of art"
+ },
+ {
+  "description": "в случае",
+  "proverb": "in the event of"
+ },
+ {
+  "description": "Я видел и делал вещи, о которых жалею (the subjunctive)",
+  "proverb": "I've seen and done things I wish I hadn't"
+ },
+ {
+  "description": "Я сделаю все возможное, чтобы положить этому конец",
+  "proverb": "I'll do whatever it takes to end this"
+ },
+ {
+  "description": "Ты меня слушаешь?",
+  "proverb": "Are you listening to me?"
+ },
+ {
+  "description": "поджечь что-то",
+  "proverb": "to set something on fire"
+ },
+ {
+  "description": "Он поджег свой собственный дом",
+  "proverb": "He set his own house on fire"
+ },
+ {
+  "description": "Они подожгли дом",
+  "proverb": "They set the house on fire"
+ },
+ {
+  "description": "У меня есть некоторые вещи, которые мне нужно решить (о которых мне нужно позаботиться)",
+  "proverb": "I've got some things I need to take care of"
+ },
+ {
+  "description": "Извини что побеспокоил тебя",
+  "proverb": "I'm sorry that I bothered you"
+ },
+ {
+  "description": "У него просто тяжелый период в его жизни (Он просто проходит через трудный период в своей жизни)",
+  "proverb": "He's just going through a hard time in his life"
+ },
+ {
+  "description": "Спи (Спи дальше)",
+  "proverb": "Just go back to sleep"
+ },
+ {
+  "description": "В таком случае ... / Если это так ...",
+  "proverb": "If that's the case ..."
+ },
+ {
+  "description": "Мне бы сейчас не помешала хорошая новость (хорошие новости)",
+  "proverb": "I could use some good news right now"
+ },
+ {
+  "description": "Согласно легенде",
+  "proverb": "According to legend"
+ },
+ {
+  "description": "Давайте вернемся к работе",
+  "proverb": "Let's get back to work"
+ },
+ {
+  "description": "Ты (даже) не знаешь, как долго я ждал этого момента",
+  "proverb": "You don't know how long I've been waiting for this moment"
+ },
+ {
+  "description": "Не поймите меня неправильно",
+  "proverb": "Don't get me wrong"
+ },
+ {
+  "description": "Время летит быстро",
+  "proverb": "Time passes quickly"
+ },
+ {
+  "description": "Ты слишком многое принимаешь за должное (Ты принимаешь слишком много вещей как должное)",
+  "proverb": "You take too many things for granted"
+ },
+ {
+  "description": "Мы никогда ничего не должны принимать как должное",
+  "proverb": "We must never take things for granted"
+ },
+ {
+  "description": "Это для твоего же блага",
+  "proverb": "It's for your own good"
+ },
+ {
+  "description": "Не говори со мной как с ребенком",
+  "proverb": "Don't talk to me like I'm a child"
+ },
+ {
+  "description": "У нас все еще есть время",
+  "proverb": "We still have time"
+ },
+ {
+  "description": "У меня не было выбора",
+  "proverb": "I had no choice"
+ },
+ {
+  "description": "Что мы здесь имеем? / Что тут у нас?",
+  "proverb": "What have we here?"
+ },
+ {
+  "description": "Это очень некультурно (невежливо) пялиться",
+  "proverb": "It's very rude to stare"
+ },
+ {
+  "description": "Не пытайся смутить (застыдить) меня, у меня нет гордости",
+  "proverb": "Don't try to embarrass me, I've got no pride"
+ },
+ {
+  "description": "Скажем так ... (Позволь я так скажу ...)",
+  "proverb": "Let me put it this way ..."
+ },
+ {
+  "description": "Мы возобновили обсуждение проблемы на встрече",
+  "proverb": "We resumed speaking about the problem at the meeting"
+ },
+ {
+  "description": "Давайте посмотрим! / Давайте взглянем!",
+  "proverb": "Let's have a look!"
+ },
+ {
+  "description": "Мясо испортилось",
+  "proverb": "The meat has gone bad"
+ },
+ {
+  "description": "Боюсь, это молоко испортилось",
+  "proverb": "I'm afraid that this milk has gone bad"
+ },
+ {
+  "description": "За счет заведения",
+  "proverb": "It's on the house"
+ },
+ {
+  "description": "Я не собираюсь унижаться (опускаться до такого уровня) чтобы спорить с тобой",
+  "proverb": "I'm not gonna lower myself to argue with you"
+ },
+ {
+  "description": "Ты себя недооцениваешь",
+  "proverb": "Don't sell yourself short"
+ },
+ {
+  "description": "поладить / найти общий язык",
+  "proverb": "to come to an understanding"
+ },
+ {
+  "description": "Мы нашли общий язык / Мы поладили / Мы пришли к взаимопониманию",
+  "proverb": "We came to an understanding"
+ },
+ {
+  "description": "Я просто экстраполирую потенциальные последствия, основываясь на том, что я знаю о тебе",
+  "proverb": "I'm just extrapolating potential outcomes based on what I know about you"
+ },
+ {
+  "description": "Не лезь не в свое дело (Почему бы тебе не заняться своим делом?)",
+  "proverb": "Why don't you mind your own business?"
+ },
+ {
+  "description": "как можно скорее",
+  "proverb": "as soon as possible"
+ },
+ {
+  "description": "Мясо испортится, нам следует приготовить его как можно скорее",
+  "proverb": "The meat is gonna go bad, we should cook it as soon as possible"
+ },
+ {
+  "description": "Вдруг погас свет",
+  "proverb": "Suddenly, the lights went out"
+ },
+ {
+  "description": "Я видел и похуже",
+  "proverb": "I've seen worse"
+ },
+ {
   "description": "",
-  "proverb": ""
+  "proverb": "Having said that ..."
  },
  {
   "description": "",

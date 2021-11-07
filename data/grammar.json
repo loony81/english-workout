@@ -63,7 +63,7 @@
   "description": "This sentence demonstrates the use of the definine article with the names of holidays"
  }, 
  {
-  "proverb": "Images may be subject to copyright", 
+  "proverb": "Images may be subject to copyright.", 
   "sounds": [
    "subject.aac"
   ], 
@@ -278,21 +278,21 @@
   "sounds": [
    "philippines.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use 'the' with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands. Notice that even though the Philippines has plural meaning it is followed by 'is' because here we're talking about the country. But sometimes it can be followed by 'are' when it refers to an island archipelago"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use 'the' with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name has plural meaning (The Netherlands, The Philippines, the Canary Islands). Notice that even though the Philippines has plural meaning it is followed by 'is' because here we're talking about the country. But sometimes it can be followed by 'are' when it refers to an island archipelago"
  }, 
  {
   "proverb": "The Republic of Ireland is in the European Union.", 
   "sounds": [
    "therepublic.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning, or if a country is composed of a group of small islands"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name has plural meaning (The Netherlands, The Philippines, the Canary Islands)"
  }, 
  {
   "proverb": "We're going on vacation to the Dominican Republic.", 
   "sounds": [
    "dominican.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name consists of more than two words, or if a name has plural meaning (The Netherlands), or if a country is composed of a group of small islands (The Philippines)"
+  "description": "This sentence demonstrates the use of the definite article with country names. In most cases we do not use ‘the’ with country names, but we use it when a country has a political title in its name (united, republic, kingdom, empire), or if a name has plural meaning (The Netherlands, The Philippines, the Canary Islands)"
  }, 
  {
   "proverb": "We took a trip down the Nile.", 
@@ -1037,14 +1037,14 @@
   "sounds": [
    "doctor.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article with titles that also include names, and titles without names"
+  "description": "These sentences demonstrate the use of the definite article with titles without names and titles that also include names"
  }, 
  {
   "proverb": "The president has already signed a dozen executive orders. I have just called President Obama to congratulate him on his victory.", 
   "sounds": [
    "president.aac"
   ], 
-  "description": "These sentences demonstrate the use of the definite article with titles that also include names, and titles without names"
+  "description": "These sentences demonstrate the use of the definite article with titles without names and titles that also include names"
  }, 
  {
   "proverb": "Mother has returned.", 
@@ -1079,7 +1079,7 @@
   "sounds": [
    "bread.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article with the names of shops. And it is a common practice to omit the following words: shop, bakery, grocery, pharmacy, etc especially if a place is named after someone. For example: Smith's Food & Drug or just Smith's, Nathan's Pharmacy or just Nathan's, Nathan's Bakery, etc"
+  "description": "This sentence demonstrates the use of the definite article with the names of shops. And it is a common practice to omit the following words: shop, bakery, grocery, pharmacy, etc especially if a place is named after someone. For example: Smith's Food & Drug or just Smith's, Nathan's Pharmacy or just Nathan's, Amy's Bakery or just Amy's, etc"
  }, 
  {
   "proverb": "They reached King's Cross at half past ten.", 
@@ -1801,7 +1801,7 @@
   "description": "This sentence demonstrates when to use 'on time' and when to use 'in time'"
  }, 
  {
-  "proverb": "The show should be finished by 9 p.m. Please return these books by Friday.", 
+  "proverb": "The show should be finished by 9 p.m. Please, return these books by Friday.", 
   "sounds": [
    "by.aac"
   ], 
@@ -2370,7 +2370,7 @@
   "sounds": [
    "horse.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it. But we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse."
+  "description": "This sentence demonstrates how to use prepositions of place. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, motorcycle), we can ride something if we are on top of it. But we don't generally use 'on' after 'ride': ride on a horse, ride on a bike, although it is acceptable. If the rider is holding the reins, he/she is riding the horse. If, however, someone is sitting behind the rider, that person is riding on a horse."
  }, 
  {
   "proverb": "You get on a train, bus, or subway to begin your trip.", 
@@ -2391,7 +2391,7 @@
   "sounds": [
    "horse1.aac"
   ], 
-  "description": "These expressions demonstrate how to use transportation prepositions. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, bike, motorcycle), we can ride something if we are on top of it"
+  "description": "These expressions demonstrate how to use transportation prepositions. We use the preposition 'on' with means of transportation which are considered a platform (bus, train, ship, etc) and also when we ride something (bicycle, horse, motorcycle), we can ride something if we are on top of it"
  },
  {
   "proverb": "These pots are on sale for $20.", 
@@ -2776,7 +2776,7 @@
   "sounds": [
    "victim.aac", "victim1.aac"
   ], 
-  "description": "This sentence demonstrates how to use prepositions of place. The prepositions 'under' and 'over' are mostly used when talking about movement, but they are also used as prepositions of place with: 1. ages (younger than or older than); 2. numbers (less than or more than): speed, numbers of people, time; 3. wearing clothes;"
+  "description": "The prepositions 'under' and 'over' are mostly used when talking about movement, but they are also used as prepositions of place with: 1. ages (younger than or older than); 2. numbers (less than or more than): speed, numbers of people, time; 3. wearing clothes;"
  },
  {
   "proverb": "The orchestra performed magically under the direction of the genius conductor.", 
@@ -3774,7 +3774,7 @@
   "sounds": [
    "worth.aac"
   ], 
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation 'be worth - заслуживать, стоить' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb."
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The collocation 'be worth - заслуживать, стоить' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb: 'remembering', 'having' and 'seeing' are the objects of 'is worth'"
  },
  {
   "proverb": "I will help you bear this burden, Frodo Baggins, as long as it is yours to bear.", 
@@ -4139,7 +4139,7 @@
   "sounds": [
    "resume.aac"
   ],
-  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resume - возобновлять, продолжать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' is the object of 'resume': мы возобновили разговор об. Also notice that we use the preposition 'at' with events"
+  "description": "When one verb is followed by another verb, the second verb may be an infinitive (to go), bare infinitive (go) or gerund (going). The verb 'resume - возобновлять, продолжать' is always followed by a gerund. The rule is to use a gerund after another verb when the second verb acts as the object of the first verb. 'speaking' is the object of 'resume': мы возобновили разговор о проблеме (говорить о проблеме). Also notice that we use the preposition 'at' with events"
  },
  {
   "proverb": "He risked being caught. She risks losing her job.",
@@ -4258,7 +4258,7 @@
   "sounds": [
    "try1.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытаюсь изучать Японский. 'try + gerund' means to experiment with different options to see if something works, or giving advice: Попробуй учиться с носителем языка. It also shows the difference between 'learn' and 'study'"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'try + to + infinitive' is used when we attempt to do something that is not easy and usually do not succeed at it: Я пытаюсь выучить Японский. 'try + gerund' means to experiment with different options to see if something works, or giving advice: Попробуй учиться с носителем языка. It also shows the difference between 'learn' and 'study'"
  },
  {
   "proverb": "I tried to watch the movie but there was too much noise going on. I couldn't get to sleep so I tried watching the movie.",
@@ -4272,7 +4272,7 @@
   "sounds": [
    "regret.aac"
   ],
-  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions, usually in the present tense, to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form. 'see' as an action verb means to have a relationship with someone"
+  "description": "Some verbs can be followed either by a gerund or an infinitive with a change in meaning. 'regret + gerund' describes a past action which you feel bad about: Сожалею (жалею), что сказал вам, что виделся с кем-то другим. 'regret + to + infinitive' is used in formal expressions, usually in the present tense, to apologize for an unfortunate situation or when announcing bad news: С сожалением сообщаю вам, что ... Also notice that in the first sentence the verb 'see', which is usually a stative verb, is used in the continuous form. 'see' as an action verb means to have a relationship with someone (видеться)"
  },
  {
   "proverb": "I regret to inform you that you have failed the exam. I regret not telling you the truth.",
@@ -4349,7 +4349,7 @@
   "sounds": [
    "come.aac"
   ],
-  "description": "'come' can be followed by either an infinitive or a gerund. 'come + gerund' is like other verbs of movement followed by a gerund. It means that the subject is doing something as they move. 'come + infinitive' means that the infinitive verb indicates the purpose of coming, or to have or form an opinion, attitude, etc., after time passes: We came to watch a movie. I've come to like her over the months."
+  "description": "'come' can be followed by either an infinitive or a gerund. 'come + gerund' is like other verbs of movement followed by a gerund. It means that the subject is doing something as they move. 'come + infinitive' means that the infinitive verb indicates the purpose of coming, or to have or form an opinion, attitude, etc., after some time: We came to watch a movie. I've come to like her over the months."
  },
  {
   "proverb": "How long have you been awake?",
@@ -4930,7 +4930,7 @@
   "sounds": [
    "work.aac"
   ],
-  "description": "The noun 'work' is similar to 'home' and 'bed'. When we use 'work' to mean a place where we work, then we don't need to use an article (first sentence). Fixed expressions: (go) to work, (be) at work, start work, finish work. When we use 'work' to mean a project that we are working on now, 'work' is a normal uncountable noun. So, we can use 'the' if we are talking about some specific work that the listener knows about (second sentence). An exception is when work means a piece of art/literature/music. In this case work is a normal countable noun (third sentence)"
+  "description": "The noun 'work' is similar to 'home' and 'bed'. When we use 'work' to mean a place where we work, then we don't need to use an article (first sentence). Fixed expressions: (go) to work, (be) at work, start work, finish work, leave for work. When we use 'work' to mean a project that we are working on now, 'work' is a normal uncountable noun. So, we can use 'the' if we are talking about some specific work that the listener knows about (second sentence). An exception is when work means a piece of art/literature/music (произведение искусства, шедевр, творение). In this case work is a normal countable noun (third sentence)"
  },
  {
   "proverb": "The twins enjoy school. Bob and Kevin go to the same school. When I was in high school, everyone had to study French. Don't be late for school! They built a new school not far from my house.",
@@ -5273,7 +5273,7 @@
   "sounds": [
    "relative_clauses_1.aac"
   ],
-  "description": "The difference between these two sentences is that the first sentence contains an identifying clause and it means that you have many sisters. You need to provide this additional information to identify which sister you are talking about. We do not use commas to highlight an identifying clause. The second sentence contains a non-identifying clause and it means that you have only one sister. So, if you just say 'My sister visited me last weekend', it will be complete and understood by a listener, because you have only one sister and everybody knows that. We have to use commas to highlight a non-identifying clause."
+  "description": "The difference between these two sentences is that the first sentence contains an identifying clause and it means that you have many sisters. You need to provide this additional information to identify which sister you are talking about. We do not use commas to highlight an identifying clause. The second sentence contains a non-identifying clause and it means that you have only one sister. So, if you just say 'My sister visited me last weekend', it will be complete and understood by a listener, because you have only one sister and everybody knows that she lives in Chicago, so this information is extra. We have to use commas to highlight a non-identifying clause."
  },
  {
   "proverb": "Which is the farthest planet from the Sun?",

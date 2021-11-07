@@ -1,0 +1,5 @@
+{
+	"port": "PORT",
+	"jwtkey": "englishworkout_jwtkey",
+	"db": "englishworkout_db"
+}
