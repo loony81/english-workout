@@ -27,4 +27,16 @@ router.post('/', async (req, res) => {
     res.header('x-auth-token', token).json({name, email})
 })
 
+//a route to get information about the currently logged in user
+router.get('/me', auth, async (req,res) => {
+	//req.user is a custom property added inside the auth middleware function
+	//so instead of passing the _id property as part of the query sting we will get it from req.user
+	// a route like this protects from viewing another user's information by adding the id 
+	//of another user to the query string
+	const user  = await User.findById(req.user._id).select('-password -isAdmin') //exclude the password
+	// next we will need to fill in the statistics (how many items in each topic have been processed, how many items are on priority list, etc)
+	// and send it to the user
+	res.json(user)
+})
+
 module.exports = router
