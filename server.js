@@ -3,6 +3,8 @@ const app = express()
 const winston = require('winston') // for logging
 const helmet = require('helmet') // for security
 const config = require('config')
+const Joi = require('joi') //a package for data validation in Node/MongoDB applications
+Joi.objectId = require('joi-objectid')(Joi) // adds id validation to Joi
 require('./logging')() // handling and logging errors
 const PORT = process.env.PORT || config.get('port')
 

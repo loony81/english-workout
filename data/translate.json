@@ -1120,7 +1120,7 @@
   "proverb": "I'm not going to work all day without lunch"
  },
  {
-  "description": "Многие животные спят зимой (в течение зимы)",
+  "description": "Много животных спят зимой (в течение зимы)",
   "proverb": "Many animals sleep during winter"
  },
  {
@@ -6572,7 +6572,7 @@
   "proverb": "I insist"
  },
  {
-  "description": "Мы летим в Муксику послезавтра",
+  "description": "Мы летим в Мексику послезавтра",
   "proverb": "We're flying to Mexico the day after tomorrow"
  },
  {
@@ -8276,7 +8276,7 @@
   "proverb": "straight to the point"
  },
  {
-  "description": "Я принял решение",
+  "description": "Я принял решение / Я решился",
   "proverb": "I made up my mind"
  },
  {
@@ -8776,8 +8776,164 @@
   "proverb": "I've seen worse"
  },
  {
+  "description": "Сказав это / При этом / Говоря об этом",
+  "proverb": "Having said that"
+ },
+ {
+  "description": "вкратце / В двух словах",
+  "proverb": "In a nutshell"
+ },
+ {
+  "description": "Ничто в мире (на земле) не заставит меня передумать (изменить мое мнение)",
+  "proverb": "Nothing on earth will make me change my mind"
+ },
+ {
+  "description": "Будет больно (контекст: лечение раны у пострадавшего)",
+  "proverb": "This is gonna hurt"
+ },
+ {
+  "description": "Будет немного больно (контекст: лечение раны у пострадавшего)",
+  "proverb": "This is gonna hurt a little bit"
+ },
+ {
+  "description": "Будет неприятно, но это нужно сделать",
+  "proverb": "This is not gonna feel good, but it's gotta be done"
+ },
+ {
+  "description": "худшее (уже) позади",
+  "proverb": "The worst part's over"
+ },
+ {
+  "description": "Пристегните (свой) ремень безопасности (1)",
+  "proverb": "Put your seat belt on"
+ },
+ {
+  "description": "Пристегните (свой) ремень безопасности (2)",
+  "proverb": "Fasten your seat belt"
+ },
+ {
+  "description": "Пожалуйста, положи нож! (контекст: когда кто-то угрожает ножем)",
+  "proverb": "Please, put the knife down!"
+ },
+ {
+  "description": "Мы попали на первые полосы (Мы попали на первую страницу газеты)",
+  "proverb": "We made the front page"
+ },
+ {
+  "description": "Я ничего не имею против курения",
+  "proverb": "I don't mind smoking"
+ },
+ {
+  "description": "Когда ты будешь дома? / Во сколько ты придёшь домой? (контекст: вопрос родителя ребенку отпросившегося погулять)",
+  "proverb": "What time are you coming home?"
+ },
+ {
+  "description": "Надвигается шторм",
+  "proverb": "There is a storm coming in"
+ },
+ {
+  "description": "Ты мне еще час назад должен был позвонить (Предполагалось что ты позвонишь мне еще час назад)",
+  "proverb": "You were supposed to call me an hour ago"
+ },
+ {
+  "description": "Это все, что я прошу",
+  "proverb": "It's all I'm asking"
+ },
+ {
+  "description": "У тебя нет доказательств этому",
+  "proverb": "You have no evidence of that"
+ },
+ {
+  "description": "Мы уже на месте? / Мы уже приехали?",
+  "proverb": "Are we there yet?"
+ },
+ {
+  "description": "Она меня жутко бесит (Она сводит меня с ума)",
+  "proverb": "She drives me nuts"
+ },
+ {
+  "description": "Отличного лета! / Хорошо вам провести лето!",
+  "proverb": "Have a great summer!"
+ },
+ {
+  "description": "Так не пойдет / Это не сработает",
+  "proverb": "This is not gonna work"
+ },
+ {
+  "description": "Прежде чем мы продолжим, я хочу убедиться, что мы поняли друг друга (что мы мыслим одинаково)",
+  "proverb": "Before we go any further, I wanna make sure that we are on the same page"
+ },
+ {
+  "description": "В котором часу прибывает рейс из Амстердама? (контекст: аэропорт)",
+  "proverb": "What time does the flight from Amsterdam arrive?"
+ },
+ {
+  "description": "Разве (это) не так?",
+  "proverb": "Ain't that right?"
+ },
+ {
+  "description": "Если мои ответы пугают тебя, тогда тебе следует перестать задавать страшные вопросы",
+  "proverb": "If my answers frighten you, then you should cease asking scary questions"
+ },
+ {
+  "description": "Это было чудо",
+  "proverb": "It was a miracle"
+ },
+ {
+  "description": "Руки за голову!",
+  "proverb": "Put your hands behind your head!"
+ },
+ {
+  "description": "Было 4 часа пополудни, когда мы прибыли в Италию",
+  "proverb": "It was 4 pm when we arrived in Italy"
+ },
+ {
+  "description": "Президент Джо Байден прибыл во Францию вчера",
+  "proverb": "President Joe Biden arrived in France yesterday"
+ },
+ {
+  "description": "Когда я приехал (прибыл) на вечеринку, все мои друзья были уже пьяны",
+  "proverb": "When I arrived at the party, all my friends were already drunk"
+ },
+ {
+  "description": "Тебе приснился плохой сон?",
+  "proverb": "Did you have a bad dream?"
+ },
+ {
+  "description": "Это отличная новость!",
+  "proverb": "That is great news!"
+ },
+ {
+  "description": "Я могу хранить секреты, если ты можешь",
+  "proverb": "I can keep a secret if you can"
+ },
+ {
+  "description": "Я в большой заднице (У меня большие проблемы)",
+  "proverb": "I'm in big trouble"
+ },
+ {
+  "description": "Да ну, неужели? / Кто бы мог подумать! / Да что ты говоришь!",
+  "proverb": "Is that a fact?"
+ },
+ {
+  "description": "Позвольте мне сделать безумное (грубое) предположение",
+  "proverb": "Let me take a wild guess here?"
+ },
+ {
+  "description": "Печалька! (Чертовски жаль!)",
+  "proverb": "That's a damn shame!"
+ },
+ {
+  "description": "разделять мнение / думать одинаково о чем-либо",
+  "proverb": "to be on the same page"
+ },
+ {
   "description": "",
-  "proverb": "Having said that ..."
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
  },
  {
   "description": "",
