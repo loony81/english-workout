@@ -8,7 +8,7 @@
   "proverb": "Take a deep breath"
  },
  {
-  "description": "Я в пути (я уже в пути)",  
+  "description": "Я в пути (Я уже в пути)",  
   "proverb": "I am on my way"
  },
  {
@@ -3748,26 +3748,6 @@
   "proverb": "He told me he had eaten a cheese sandwich for lunch"
  },
  {
-  "description": "вступать в брак (жениться, выйти замуж)",
-  "proverb": "to get married"
- },
- {
-  "description": "Я женюсь (Я выхожу замуж)",
-  "proverb": "I am getting married"
- },
- {
-  "description": "Я завтра женюсь",
-  "proverb": "I'm getting married tomorrow"
- },
- {
-  "description": "Он женится",
-  "proverb": "He's getting married"
- },
- {
-  "description": "Они только что поженились",
-  "proverb": "They have just got married"
- },
- {
   "description": "Я люблю кататься на лыжах зимой",
   "proverb": "I love to go skiing in the winter"
  },
@@ -5650,6 +5630,10 @@
  {
   "description": "Он очень зол на тебя",
   "proverb": "He's very angry with you"
+ },
+ {
+  "description": "Я был зол на него за то, что он забыл мой день рождения",
+  "proverb": "I was angry with him for forgetting my birthday"
  },
  {
   "description": "Я сожалею о том (Я извиняюсь за то) что случилось прошлой ночью",
@@ -8928,16 +8912,228 @@
   "proverb": "to be on the same page"
  },
  {
-  "description": "",
-  "proverb": "And you should be good to go"
+  "description": "Хоть раз в жизни, не мог бы ты, пожалуйста, просто послушать меня?",
+  "proverb": "For once in your life, would you please just listen to me"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Дай мне время до завтра, я что-нибудь придумаю (контекст: обсуждение сложной дилеммы)",
+  "proverb": "Just give me until tomorrow, I'll figure something out"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Мы должны это как следует обдумать (продумать до мелочей)",
+  "proverb": "We have to think this through"
+ },
+ {
+  "description": "Ты должен дать мне возможность (шанс) объясниться",
+  "proverb": "You have to give me a chance to explain"
+ },
+ {
+  "description": "Куда собрался? (И куда это ты собрался?)",
+  "proverb": "Where do you think you are going?"
+ },
+ {
+  "description": "Не стой у меня на пути! / Не попадайся мне на пути!",
+  "proverb": "Stay out of my way!"
+ },
+ {
+  "description": "Я почти разуверился в тебе / Я уже почти поставил крест на тебе",
+  "proverb": "I almost gave up on you"
+ },
+ {
+  "description": "Кто бы мог подумать",
+  "proverb": "Who would've thought"
+ },
+ {
+  "description": "Ты ведешь себя странно",
+  "proverb": "You're acting weird"
+ },
+ {
+  "description": "Я попытаю счастья / Я рискну",
+  "proverb": "I'll take my chances"
+ },
+ {
+  "description": "На чьей ты стороне?",
+  "proverb": "Which side are you on?"
+ },
+ {
+  "description": "Для тебя это все шуточки? (Это что, какая-то шутка для тебя?)",
+  "proverb": "Is this some kind of a joke to you?"
+ },
+ {
+  "description": "Становится жарко",
+  "proverb": "It's getting hot"
+ },
+ {
+  "description": "вступать в брак (жениться, выйти замуж)",
+  "proverb": "to get married"
+ },
+ {
+  "description": "Я женюсь (Я выхожу замуж)",
+  "proverb": "I am getting married"
+ },
+ {
+  "description": "Я завтра женюсь",
+  "proverb": "I'm getting married tomorrow"
+ },
+ {
+  "description": "Он женится",
+  "proverb": "He's getting married"
+ },
+ {
+  "description": "Они только что поженились",
+  "proverb": "They have just got married"
+ },
+ {
+  "description": "Он разводится",
+  "proverb": "He's getting divorced"
+ },
+ {
+  "description": "Джек и Джилл разводятся",
+  "proverb": "Jack and Jill are getting divorced"
+ },
+ {
+  "description": "Джек женился на Джилл",
+  "proverb": "Jack married Jill"
+ },
+ {
+  "description": "Джек женат",
+  "proverb": "Jack is married"
+ },
+ {
+  "description": "Джилл замужем",
+  "proverb": "Jill is married"
+ },
+ {
+  "description": "Джек женат на Джилл",
+  "proverb": "Jack is married to Jill"
+ },
+ {
+  "description": "Я был женат на ней 11 лет",
+  "proverb": "I've been married to her for 11 years."
+ },
+ {
+  "description": "Я был женат дважды",
+  "proverb": " I've been married twice"
+ },
+ {
+  "description": "Я женат на своей жене уже почти 20 лет",
+  "proverb": "I've been married to my wife for almost 20 years"
+ },
+ {
+  "description": "Джек и Джилл поженились 1 апреля",
+  "proverb": "Jack and Jill got married on April 1"
+ },
+ {
+  "description": "Джек и Джилл поженятся на следующей неделе",
+  "proverb": "Jack and Jill will get married next week"
+ },
+ {
+  "description": "обручиться (предварительно договориться о заключении брака)",
+  "proverb": "to get engaged"
+ },
+ {
+  "description": "Джек и Джилл помолвлены",
+  "proverb": "Jack and Jill are engaged"
+ },
+ {
+  "description": "Джек и Джилл обручились на прошлой неделе",
+  "proverb": "Jack and Jill got engaged last week"
+ },
+ {
+  "description": "Джек и Джилл обручены неделю",
+  "proverb": "Jack and Jill have been engaged for one week"
+ },
+ {
+  "description": "развестить (расторгнуть брак)",
+  "proverb": "to get divorced"
+ },
+ {
+  "description": "Как давно они в разводе?",
+  "proverb": "How long have they been divorced?"
+ },
+ {
+  "description": "Джек развелся с Джилл",
+  "proverb": "Jack divorced Jill"
+ },
+ {
+  "description": "Они разведены",
+  "proverb": "They are divorced"
+ },
+  {
+  "description": "Джек разведен (в разводе)",
+  "proverb": "Jack is divorced"
+ },
+ {
+  "description": "Джек и Джилл развелись в прошлом месяце",
+  "proverb": "Jack and Jill got divorced last month"
+ },
+ {
+  "description": "Он женат на моей сестре",
+  "proverb": "He's married to my sister"
+ },
+ {
+  "description": "Когда они развелись?",
+  "proverb": "When did they get divorced?"
+ },
+  {
+  "description": "Он разведен",
+  "proverb": "He's divorced"
+ },
+ {
+  "description": "Они в разводе (уже) месяц",
+  "proverb": "They have been divorced for a month"
+ },
+ {
+  "description": "Он живет по соседству",
+  "proverb": "He lives next door"
+ },
+ {
+  "description": "Еще не время / Время еще не пришло.",
+  "proverb": "It isn't time yet"
+ },
+ {
+  "description": "Они легли (пошли) спать в 9 вечера",
+  "proverb": "They went to sleep at 9 pm"
+ },
+ {
+  "description": "Есть кто дома?",
+  "proverb": "Is anybody home?"
+ },
+ {
+  "description": "Что ты сказал не важно / Что ты скажешь не имеет значения",
+  "proverb": "What you say is not important"
+ },
+ {
+  "description": "Тебе решать как ты это сделаешь",
+  "proverb": "How you do it is up to you"
+ },
+ {
+  "description": "В комнате пять человек",
+  "proverb": "There are five people in the room"
+ },
+ {
+  "description": "В холодильнике есть молоко (немного молока)",
+  "proverb": "There is some milk in the refrigerator"
+ },
+ {
+  "description": "Только мы двое",
+  "proverb": "It's just the two of us"
+ },
+ {
+  "description": "Физика мой любимый предмет",
+  "proverb": "Physics is my favorite subject"
+ },
+ {
+  "description": "Какая-то женщина приходила увидеться с тобой (Какая-то женщина была, хотела повидаться с тобой)",
+  "proverb": "Some woman was here to see you"
+ },
+ {
+  "description": "Он единственный кто там живет",
+  "proverb": "He is the only one who lives there"
+ },
+ {
+  "description": "Давай повесим картину над камином",
+  "proverb": "Let's hang the painting above the fireplace"
  },
  {
   "description": "",

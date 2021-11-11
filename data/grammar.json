@@ -1801,7 +1801,7 @@
   "description": "This sentence demonstrates when to use 'on time' and when to use 'in time'"
  }, 
  {
-  "proverb": "The show should be finished by 9 p.m. Please, return these books by Friday.", 
+  "proverb": "The show should be finished by 9 pm. Please, return these books by Friday.", 
   "sounds": [
    "by.aac"
   ], 
@@ -4800,11 +4800,11 @@
   "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future (second sentence) or another action in the future (first sentence). Notice that if it is another action in the future, the action is described using the Present Simple tense (when she wakes up, when you wake up, when I wake up)"
  },
  {
-  "proverb": "I won't have finished work by 8 p.m. Will you have eaten when I pick you up?",
+  "proverb": "I won't have finished work by 8 pm. Will you have eaten when I pick you up?",
   "sounds": [
    "eaten.aac"
   ],
-  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future or another action in the future. If it is another action in the future, the action is described using the Present Simple tense (when I pick you up, when he picks you up, etc)"
+  "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future, either a specific time in the future (first sentence) or another action in the future (second sentence). If it is another action in the future, the action is described using the Present Simple tense (when I pick you up, when he picks you up, when you pick me up, etc)"
  },
  {
   "proverb": "By the time you read this I will have left. Will you have finished when I get back?",
