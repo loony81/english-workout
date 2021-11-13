@@ -4,6 +4,7 @@ const express = require('express')
 const bcrypt = require('bcrypt') // a package for hashing passwords
 const router = express.Router()
 const {User, validate} = require('../models/user')
+const auth = require('../middleware/auth')
 
 router.post('/', async (req, res) => {
 	const {error} = validate(req.body)
