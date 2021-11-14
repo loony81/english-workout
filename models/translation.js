@@ -9,7 +9,7 @@ const translationSchema = new mongoose.Schema({
 		minlength: 3,
 		maxlength: 1000
 	},
-	russianSentence: {
+	description: {
 		type: String,
 		required: true,
 		maxlength: 1000
@@ -21,7 +21,7 @@ const Translation = mongoose.model('Translation', translationSchema)
 const validateTranslation = translation => {
 	const schema = {
 		proverb: Joi.string().required().min(3).max(1000),
-		russianSentence: Joi.string().required().max(1000)
+		description: Joi.string().required().max(1000)
 	}
 	return Joi.validate(translation, schema)
 }
