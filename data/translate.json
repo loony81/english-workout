@@ -5700,7 +5700,7 @@
   "proverb": "They waved at us as we drove by"
  },
  {
-  "description": "Ты будешь ждать уже 2 часа к тому времени как я прийду (прибуду)",
+  "description": "Ты будешь ждать уже 2 часа как я прийду (прибуду)",
   "proverb": "You will have been waiting for 2 hours when I arrive"
  },
  {
@@ -6000,7 +6000,7 @@
   "proverb": "He paid for the meal and she paid for the taxi"
  },
  {
-  "description": "Он сказал мне что я глуп",
+  "description": "Он сказал мне что я глуп (reported speech)",
   "proverb": "He said to me that I was stupid"
  },
  {
@@ -9404,8 +9404,8 @@
   "proverb": "Let me help you find your way out"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Позвони мне",
+  "proverb": "Give me a call"
  },
  {
   "description": "",
