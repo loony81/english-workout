@@ -1644,7 +1644,7 @@
   "proverb": "It's gonna be dark soon"
  },
  {
-  "description": "Нам нужно / следует держаться вместе",
+  "description": "Нам нужно (следует) держаться вместе",
   "proverb": "We should stick together"
  },
  {
@@ -7040,7 +7040,7 @@
   "proverb": "to check out"
  },
  {
-  "description": "отвергнуть отклонить, уменьшать",
+  "description": "отвергнуть, отклонить, уменьшать",
   "proverb": "to turn down"
  },
  {
@@ -9136,6 +9136,282 @@
   "proverb": "Let's hang the painting above the fireplace"
  },
  {
+  "description": "Лады? / По рукам? (Мы пришли к взаимопониманию?)",
+  "proverb": "Do we have an understanding?"
+ },
+ {
+  "description": "За ним требуется присмотр (Он нуждается в присмотре)",
+  "proverb": "He needs looking after"
+ },
+ {
+  "description": "Прошу прощения за то что ушел не попрощавшись",
+  "proverb": "I apologize for leaving without saying goodbye"
+ },
+ {
+  "description": "У всех есть свои недостатки (У каждого из нас есть свои пороки)",
+  "proverb": "Each of us have our vices"
+ },
+ {
+  "description": "Ты выглядишь так красиво в этом новом платье / Ты такая хорошенькая в этом новом платье",
+  "proverb": "You look so pretty in this new dress"
+ },
+ {
+  "description": "Я весь на нервах! / Я так нервничаю! (Я такой взволнованный!)",
+  "proverb": "I'm so nervous!"
+ },
+ {
+  "description": "Я бы не отказался от чашечки чая",
+  "proverb": "I could use a cup of tea"
+ },
+ {
+  "description": "Я бы не отказался от выпивки / Мне не помешает выпить",
+  "proverb": "I could use a drink"
+ },
+ {
+  "description": "Ты даже не представляешь себе что требуется, чтобы пробежать марафон (Ты даже не знаешь что требуется, чтобы пробежать марафон)",
+  "proverb": "You don't know what it takes to run a marathon"
+ },
+ {
+  "description": "Она обладает всеми качествами быть врачом (У нее есть все, что нужно, чтобы стать врачом)",
+  "proverb": "She has what it takes to be a doctor"
+ },
+ {
+  "description": "Она обладает всеми качествами необходимыми для выполнения этой работы",
+  "proverb": "She has what it takes to do the job"
+ },
+ {
+  "description": "Я буду снимать номер в отеле (Я остановлюсь в отеле)",
+  "proverb": "I'll be staying at a hotel"
+ },
+ {
+  "description": "Я пришел увидеться с мистером Смитом",
+  "proverb": "I've come to see Mr. Smith"
+ },
+ {
+  "description": "столько, сколько нужно",
+  "proverb": "as long as it takes"
+ },
+ {
+  "description": "Она пропала (без вести) два года назад",
+  "proverb": "She went missing two years ago"
+ },
+ {
+  "description": "застрять",
+  "proverb": "to get stuck"
+ },
+ {
+  "description": "Я проинструктирую тебя / Я объясню что делать (контекст: когда один человек инструктирует другого как выполнить какое-то задание)",
+  "proverb": "I'll walk you through it"
+ },
+ {
+  "description": "Я ничего кроме щедрости и гостеприимства к вам не проявил (не показал)",
+  "proverb": "I have shown you nothing but generosity and hospitality"
+ },
+ {
+  "description": "Пожалуйста, выбирайте выражения когда за столом (Пожалуйста, следите за речью за столом)",
+  "proverb": "Please, watch your language at table"
+ },
+ {
+  "description": "Вижу вы обое поладили",
+  "proverb": "I see you two are getting along"
+ },
+ {
+  "description": "Тебе еще повезло что ты здесь находишься",
+  "proverb": "You're lucky to be here at all"
+ },
+ {
+  "description": "Мое великодушие не безгранично (Это предел моей щедрости)",
+  "proverb": "My generosity only extends so far"
+ },
+ {
+  "description": "Даже и не думай пытаться снова такое учудить",
+  "proverb": "Don't even think about trying that again"
+ },
+ {
+  "description": "Что вы собиаетесь со мной делать?",
+  "proverb": "What are you gonna do to me?"
+ },
+ {
+  "description": "Скажи что-нибудь!",
+  "proverb": "Say something!"
+ },
+ {
+  "description": "Пожалуйста не вешай трубку!",
+  "proverb": "Please, don't hang up!"
+ },
+ {
+  "description": "Я собираюсь заняться покупками на выходных (Я собираюсь пойти по магазинам на выходных)",
+  "proverb": "I'm going to go shopping on the weekend"
+ },
+ {
+  "description": "Даже думать об этом не смей",
+  "proverb": "Don't even think about it"
+ },
+ {
+  "description": "Следи за языком! / Выбирай выражения! / Следи за речью!",
+  "proverb": "Watch your language!"
+ },
+ {
+  "description": "Я хочу чтобы ты перевел все что я говорю, слово в слово",
+  "proverb": "I want you to translate what I say, word for word"
+ },
+ {
+  "description": "",
+  "proverb": "Would you care to explain this?"
+ },
+ {
+  "description": "",
+  "proverb": "He turned his back on me"
+ },
+ {
+  "description": "Она удалась в своего отца (Она вся пошла в своего отца)",
+  "proverb": "She takes after her father"
+ },
+ {
+  "description": "Мне понравилось все мероприятие",
+  "proverb": "I loved the whole experience"
+ },
+ {
+  "description": "Похоже ты обоссался! (Похоже ты нассал в штаны!)",
+  "proverb": "Looks like you wet your pants!"
+ },
+ {
+  "description": "Был рад знакомству!",
+  "proverb": "It's been nice/lovely knowing you!"
+ },
+ {
+  "description": "",
+  "proverb": "Is there a single thing about you that I can trust?"
+ },
+ {
+  "description": "Это очевидно!",
+  "proverb": "That's apparent!"
+ },
+ {
+  "description": "",
+  "proverb": "So, you'd rather risk your life to save people you don't even know?"
+ },
+ {
+  "description": "Ты занимаешься рисованием? (Ты рисуешь?)",
+  "proverb": "Do you draw?"
+ },
+ {
+  "description": "Ты играешь на гитаре?",
+  "proverb": "Do you play the guitar?"
+ },
+ {
+  "description": "Туда доступ воспрещен!",
+  "proverb": "It's off-limits!"
+ },
+ {
+  "description": "",
+  "proverb": "Certain areas in the museum are currently off-limits to visitors"
+ },
+ {
+  "description": "Я думаю ты ошибаешься",
+  "proverb": "I think you're mistaken"
+ },
+ {
+  "description": "Через два часа становится темно",
+  "proverb": "It gets dark in two hours"
+ },
+ {
+  "description": "Половину сейчас, половину по возвращению (контекст: оговор оплаты при заключении сделки)",
+  "proverb": "Half now, half upon return"
+ },
+ {
+  "description": "",
+  "proverb": "He is a lot of things, but he's not a coward"
+ },
+ {
+  "description": "",
+  "proverb": "He is a lot of things, but he's not a liar"
+ },
+ {
+  "description": "Сохраняйте спокойствие!",
+  "proverb": "Stay calm!"
+ },
+ {
+  "description": "Я единственный кто может вас туда доставить",
+  "proverb": "I'm the only one who can get you there"
+ },
+ {
+  "description": "",
+  "proverb": "Why should I trust you?"
+ },
+ {
+  "description": "Надеюсь мы больше никогда не встретимся",
+  "proverb": "I hope we never meet again"
+ },
+ {
+  "description": "",
+  "proverb": "I suppose it's only a scam if you fall for it"
+ },
+ {
+  "description": "Он должен мне денег",
+  "proverb": "He owes me money"
+ },
+ {
+  "description": "Ты поранишся! (контекст: предупреждение другому человеку когда тот собирается сделать что-то рискованное или опасное для жизни)",
+  "proverb": "You're gonna hurt yourself!"
+ },
+ {
+  "description": "",
+  "proverb": "I gotta be honest with you"
+ },
+ {
+  "description": "Я бы с радостью если бы я мог, но я не могу",
+  "proverb": "I would if I could, but I can't"
+ },
+ {
+  "description": "Никто не может туда добраться, но даже если бы они и могли, то не отважились бы (не захотели бы)",
+  "proverb": "Nobody can get there, and if they could, they wouldn't"
+ },
+ {
+  "description": "Я буду то же что и ты (контекст: ответ на предложение выпить)",
+  "proverb": "I'll have whatever you're having"
+ },
+ {
+  "description": "Могу я предложить вам выпить?",
+  "proverb": "Can I offer you a drink? (мое)"
+ },
+ {
+  "description": "Насколько я знаю",
+  "proverb": "Last time I checked"
+ },
+ {
+  "description": "по направлению к",
+  "proverb": "in the direction of"
+ },
+ {
+  "description": "",
+  "proverb": "I'm told you're the man for the job. You were told wrong."
+ },
+ {
+  "description": "",
+  "proverb": "Be quick about it!"
+ },
+ {
+  "description": "Меня это ни чуточку не колышит!",
+  "proverb": "I don't care in the slightest!"
+ },
+ {
+  "description": "ты привлекаешь лишнее (ненужное) внимание",
+  "proverb": "You're drawing unnecessary attention"
+ },
+ {
+  "description": "Позвольте провести вас к выходу (Позвольте помочь вам найти выход)",
+  "proverb": "Let me help you find your way out"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
   "description": "",
   "proverb": ""
  },
@@ -9143,4 +9419,5 @@
   "description": "",
   "proverb": ""
  }
+
 ]

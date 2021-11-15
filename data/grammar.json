@@ -7,7 +7,7 @@
   "description": "This sentence demonstrates the use of the definite article with mountain ranges and continents"
  }, 
  {
-  "proverb": "I lived and worked in Australia for a whole year. The last three months were the best because I got to travel around the country!", 
+  "proverb": "I lived and worked in Australia for a whole year. The last three months were the best because I got to travel around the country.", 
   "sounds": [
    "thelast.aac"
   ], 
@@ -383,14 +383,14 @@
   "sounds": [
    "thewest.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something (not directions)."
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something (not directions). Here 'north' is a noun."
  }, 
  {
   "proverb": "Egypt is in the north of Africa.", 
   "sounds": [
    "thenorth.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something (not directions)."
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something (not directions). Here 'north' is a noun."
  }, 
  {
   "proverb": "The sun rises in the east and sets in the west.", 
@@ -404,7 +404,7 @@
   "sounds": [
    "thesouth.aac"
   ], 
-  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something. Also notice that here the modal would is used to talk about a habitual action in the past (similar to used to): We used to go to the south of France for holidays every year."
+  "description": "This sentence demonstrates the use of the definite article when referring to the West, North, East or South as geographical parts of something. Also notice that here the modal would is used to talk about a habitual action in the past (similar to 'used to'): We used to go to the south of France for holidays every year."
  }, 
  {
   "proverb": "I'm traveling north.", 
@@ -1269,7 +1269,7 @@
   "sounds": [
    "dinner1.aac"
   ], 
-  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. 'I ate dinner with a fork' is more appropriate to demonstrate this rule"
+  "description": "This sentence demonstrates the use of articles with meals (breakfast/lunch/dinner). We do not usually use articles with meals (uncount nouns), unless it is a specific meal. 'I ate dinner with a fork' is more illustrative to demonstrate this rule"
  }, 
  {
   "proverb": "Would you like to have dinner with me?", 
@@ -1687,8 +1687,7 @@
  {
   "proverb": "I'm going to go shopping on the weekend. What are you doing on the weekend? What did you do on the weekend?", 
   "sounds": [
-   "weekend.aac", 
-   "weekend1.aac"
+   "weekend.aac"
   ], 
   "description": "These sentences demonstrate how to use prepositions of time. Weekend means a period of time somewhere between Friday evening and Sunday night. In American English we use 'on' with weekends, in British English we use 'at'. Weekend is mostly used in singular form (always preceded with 'the') and can mean either a specific weekend (previous or upcoming) or any weekend. But remember that 'the' is not used when talking about last weekend (прошлые выходные) or next weekned (следующие выходные), for example: She cleaned the room last weekend.  Weekend can also be used in its plural form (on weekends or on the weekends can be used interchangeably) when we're talking about something habitual"
  }, 
@@ -2017,7 +2016,7 @@
   "sounds": [
    "arrive1.aac"
   ], 
-  "description": "This sentence demonstrates what prepositions to use with the verb 'arrive'. 'arrive' is a verb that indicates location or time, but not movement, so we use the usual prepositions of place or time after it (or no prepositions, for example: arrive home, arrive yesterday, arrive next week)."
+  "description": "This sentence demonstrates what prepositions to use with the verb 'arrive'. 'arrive' is a verb that indicates location or time, but not movement, so we use the usual prepositions of place or time after it: arrive at the airport, arrive at the cinema, arrive in London, arrive in April, arrive on Friday, etc. Or no prepositions, for example: arrive home, arrive yesterday, arrive next week)."
  }, 
  {
   "proverb": "I'll be arriving on Friday and leaving the following Thursday.", 
@@ -3252,21 +3251,21 @@
   "sounds": [
    "feel.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues (second sentence), or touching something - щупать. Actually 'I feel sick' and 'I am feeling sick' mean the same thing and can be used interchangeably. The same is true for 'How do you feel?' and 'How are you feeling?', or 'I feel tired' and 'I am feeling tired'"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion, similar to 'think' or 'consider' (first sentence: I think this is not the best use ... ). 'feel' as an action verb is used when experiencing emotions or health issues (second sentence), or touching something - щупать. Actually 'I feel sick' and 'I am feeling sick' mean the same thing and can be used interchangeably. The same is true for 'How do you feel?' and 'How are you feeling?', or 'I feel tired' and 'I am feeling tired'"
  },
  {
   "proverb": "I drink because it feels good. I've been feeling unusually tired lately. The doctor is feeling the pulse of a woman.", 
   "sounds": [
    "feel1.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues (second sentence), or touching something - щупать (third sentence)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion, similar to 'think' or 'consider' (first sentence). 'feel' as an action verb is used when experiencing emotions or health issues (second sentence), or touching something - щупать (third sentence)"
  },
  {
   "proverb": "I feel it still needs a lot of work. The vet was feeling the dog's leg to discover if it was broken.", 
   "sounds": [
    "feel2.aac", "feel3.aac"
   ], 
-  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion (first sentence: I think it still needs ...). 'feel' as an action verb is used when experiencing emotions or health issues (I'm not feeling well), or touching something - щупать (second sentence)"
+  "description": "Some verbs can be either stative or dynamic depending on the situation. 'feel' as a stative verb is used when talking about someone's opinion, similar to 'think' or 'consider' (first sentence: I think it still needs ...). 'feel' as an action verb is used when experiencing emotions or health issues (I'm not feeling well), or touching something - щупать (second sentence)"
  },
  {
   "proverb": "This cheese smells funky. He's smelling the cookies.", 
@@ -4181,21 +4180,21 @@
   "sounds": [
    "Audio recording 2021-11-09 14-08-44.aac"
   ],
-  "description": "With certain verbs, such as live, work, teach, play, and study, there is little or no difference in meaning between the present perfect and present perfect continuous tense when SINCE and FOR is used."
+  "description": "Both these sentences can be used interchangeably. With certain verbs, such as live, work, teach, play, and study, there is little or no difference in meaning between the present perfect and present perfect continuous tense when SINCE and FOR is used. Actually the same is true for: 'Where are you studying?' and 'Where do you study?', they also can be used interchangeably"
  },
  {
   "proverb": "She has taught English for nine years. She has been teaching English for nine years.",
   "sounds": [
    "Audio recording 2021-11-09 14-13-39.aac"
   ],
-  "description": "With certain verbs, such as live, work, teach, play, and study, there is little or no difference in meaning between the present perfect and present perfect continuous tense when SINCE and FOR is used."
+  "description": "Both these sentences can be used interchangeably. With certain verbs, such as live, work, teach, play, and study, there is little or no difference in meaning between the present perfect and present perfect continuous tense when SINCE and FOR is used."
  },
  {
   "proverb": "They've lived in London since 2004. They've been living in London since 2004.",
   "sounds": [
    "Audio recording 2021-11-09 14-21-24.aac"
   ],
-  "description": "With certain verbs, such as live, work, teach, play, and study, there is little or no difference in meaning between the present perfect and present perfect continuous tense when SINCE and FOR is used."
+  "description": "Both these sentences can be used interchangeably. With certain verbs, such as live, work, teach, play, and study, there is little or no difference in meaning between the present perfect and present perfect continuous tense when SINCE and FOR is used."
  },
  {
   "proverb": "Remember to lock the door! I remember locking the door.",
@@ -4632,7 +4631,7 @@
   "sounds": [
    "raining.aac"
   ],
-  "description": "When we use the present perfect continuous we focus on the duration of the action. We are talking about a period of time during which an action, or state of being, takes place in the present and still continues to take place. If we do not need to indicate a period of time, then we usually use the present continuous."
+  "description": "When we use the present perfect continuous we focus on the duration of the action which is still in progress. We are talking about a period of time during which an action, or state of being, takes place in the present and still continues to take place. If we do not need to indicate a period of time, then we usually use the present continuous."
  },
  {
   "proverb": "How many books has she written? She must be tired, she has been writing all afternoon.",
@@ -4640,14 +4639,14 @@
    "writing.aac",
    "writing1.aac"
   ],
-  "description": "When we use the present perfect, we focus on the completion of the action, and its impact on now. When we use the present perfect continuous we focus on the duration of the action."
+  "description": "When we use the present perfect, we focus on the completion of the action, and its impact on now. When we use the present perfect continuous we focus on the duration of the action, but the action is not finished, it is still in progress."
  },
  {
   "proverb": "You've been playing tennis since 10 o'clock. How many sets have you played?",
   "sounds": [
    "tennis.aac"
   ],
-  "description": "When we use the present perfect, we focus on the completion of the action, and its impact on now. When we use the present perfect continuous we focus on the duration of the action."
+  "description": "When we use the present perfect, we focus on the completion of the action, and its impact on now. When we use the present perfect continuous we focus on the duration of the action, but the action is not finished, it is still in progress."
  },
  {
   "proverb": "I'm sorry I'm late, have you been waiting for a long time? I think I've liked chocolate since I was born.",
@@ -5112,7 +5111,7 @@
   "sounds": [
    "listen1.aac"
   ],
-  "description": "'listen - слушать' is active, you are paying attention and concentrating when you're listening to something. 'hear - слышать' on the other hand is a little bit more passive, you're just receiving sound whether you want it or not without paying attention. 'hear' is a stative verb, 'listen' is dynamic. 'look' and 'see' work in the same manner. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening' and 'looking' require effort"
+  "description": "'listen - слушать' is active, you are paying attention and concentrating when you're listening to something. 'hear - слышать' on the other hand is a little bit more passive, you're just receiving sound whether you want it or not without paying attention. 'hear' is a stative verb, 'listen' is dynamic. 'look' and 'see' work in the same manner, for example: Did you see that? No, I wasn't looking. 'Hearing' and 'seeing' are abilities that people have, they are automatic, we don't have to make an effort to do them. 'Listening' and 'looking' require effort"
  },
  {
   "proverb": "Look over there! What can you see?",

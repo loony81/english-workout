@@ -37,7 +37,7 @@ router.get('/me', auth, async (req,res) => {
 	const user  = await User.findById(req.user._id).select('-password -isAdmin') //exclude the password
 	// next we will need to fill in the statistics (how many items in each topic have been processed, how many items are on priority list, etc)
 	// and send it to the user
-	res.json(user)
+	res.json(user) // it's just temporary
 })
 
 module.exports = router
