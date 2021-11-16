@@ -3808,7 +3808,7 @@
   "proverb": "It makes me laugh"
  },
  {
-  "description": "За нами хвост / За нами кто-то идет следом / Нас преследуют)",
+  "description": "За нами хвост / За нами кто-то идет следом / Нас преследуют",
   "proverb": "We are being followed"
  },
  {
@@ -5188,7 +5188,7 @@
   "proverb": "She told me that she was looking for a job"
  },
  {
-  "description": "Она сказала, что плохо себя чувствует",
+  "description": "Она сказала, что плохо себя чувствует (reported speech)",
   "proverb": "She said that she was not feeling well"
  },
  {
@@ -9256,11 +9256,11 @@
   "proverb": "I want you to translate what I say, word for word"
  },
  {
-  "description": "",
+  "description": "Не потрудитесь ли объяснить это?",
   "proverb": "Would you care to explain this?"
  },
  {
-  "description": "",
+  "description": "Он отвернулся от меня (Он повернулся ко мне спиной)",
   "proverb": "He turned his back on me"
  },
  {
@@ -9268,7 +9268,7 @@
   "proverb": "She takes after her father"
  },
  {
-  "description": "Мне понравилось все мероприятие",
+  "description": "Мне понравилось все мероприятие (Мне понравилось все представление)",
   "proverb": "I loved the whole experience"
  },
  {
@@ -9277,10 +9277,10 @@
  },
  {
   "description": "Был рад знакомству!",
-  "proverb": "It's been nice/lovely knowing you!"
+  "proverb": "It's been nice knowing you!"
  },
  {
-  "description": "",
+  "description": "Есть ли в тебе хоть что-то, чему я могу доверять?",
   "proverb": "Is there a single thing about you that I can trust?"
  },
  {
@@ -9288,7 +9288,7 @@
   "proverb": "That's apparent!"
  },
  {
-  "description": "",
+  "description": "Итак, ты бы предпочел рисковать своей жизнью, чтобы спасти людей которых даже не знаешь?",
   "proverb": "So, you'd rather risk your life to save people you don't even know?"
  },
  {
@@ -9300,11 +9300,11 @@
   "proverb": "Do you play the guitar?"
  },
  {
-  "description": "Туда доступ воспрещен!",
+  "description": "Вход запрещен!",
   "proverb": "It's off-limits!"
  },
  {
-  "description": "",
+  "description": "Некоторые секции музея в настоящее время закрыты для посетителей",
   "proverb": "Certain areas in the museum are currently off-limits to visitors"
  },
  {
@@ -9312,7 +9312,7 @@
   "proverb": "I think you're mistaken"
  },
  {
-  "description": "Через два часа становится темно",
+  "description": "Через два часа стемнеет",
   "proverb": "It gets dark in two hours"
  },
  {
@@ -9320,12 +9320,20 @@
   "proverb": "Half now, half upon return"
  },
  {
-  "description": "",
+  "description": "Половину сейчас, половину по завершении (контекст: оговор оплаты при заключении сделки)",
+  "proverb": "Half now, half upon completion"
+ },
+ {
+  "description": "Он способен на многое, но он точно не трус",
   "proverb": "He is a lot of things, but he's not a coward"
  },
  {
-  "description": "",
+  "description": "Он способен на многое, но он точно не лжец",
   "proverb": "He is a lot of things, but he's not a liar"
+ },
+ {
+  "description": "Он способен на многое, но он точно не предатель",
+  "proverb": "He is a lot of things, but he's not a traitor"
  },
  {
   "description": "Сохраняйте спокойствие!",
@@ -9336,7 +9344,7 @@
   "proverb": "I'm the only one who can get you there"
  },
  {
-  "description": "",
+  "description": "С чего мне тебе верить?",
   "proverb": "Why should I trust you?"
  },
  {
@@ -9344,7 +9352,7 @@
   "proverb": "I hope we never meet again"
  },
  {
-  "description": "",
+  "description": "Я полагаю что развод (мошенничество) только тогда развод когда ты попадаешься (ведешься) на него",
   "proverb": "I suppose it's only a scam if you fall for it"
  },
  {
@@ -9352,11 +9360,11 @@
   "proverb": "He owes me money"
  },
  {
-  "description": "Ты поранишся! (контекст: предупреждение другому человеку когда тот собирается сделать что-то рискованное или опасное для жизни)",
+  "description": "Ты можешь пораниться! / Ты поранишься! / Гляди не надорвись! (контекст: предупреждение другому человеку когда тот собирается сделать что-то рискованное или опасное для жизни)",
   "proverb": "You're gonna hurt yourself!"
  },
  {
-  "description": "",
+  "description": "Буду с тобой честен (Я должен быть честен с тобой)",
   "proverb": "I gotta be honest with you"
  },
  {
@@ -9373,10 +9381,10 @@
  },
  {
   "description": "Могу я предложить вам выпить?",
-  "proverb": "Can I offer you a drink? (мое)"
+  "proverb": "Can I offer you a drink?"
  },
  {
-  "description": "Насколько я знаю",
+  "description": "Насколько я знаю / Насколько мне известно",
   "proverb": "Last time I checked"
  },
  {
@@ -9384,19 +9392,31 @@
   "proverb": "in the direction of"
  },
  {
-  "description": "",
+  "description": "Мне сказали что вы именно тот, кто мне нужен (нужный человек). Вас ввели в заблуждение.",
   "proverb": "I'm told you're the man for the job. You were told wrong."
  },
  {
-  "description": "",
+  "description": "Вас ввели в заблуждение / Вас дезинформировали",
+  "proverb": "You were told wrong"
+ },
+ {
+  "description": "Поживее! / Побыстрее!",
   "proverb": "Be quick about it!"
  },
  {
-  "description": "Меня это ни чуточку не колышит!",
+  "description": "Бутылку шампанского, и поживее!",
+  "proverb": "Bottle of champagne and be quick about it!"
+ },
+ {
+  "description": "Принеси мне полотенце и поживее",
+  "proverb": "Bring me a towel and be quick about it"
+ },
+ {
+  "description": "Меня (это) совершенно не колышет!",
   "proverb": "I don't care in the slightest!"
  },
  {
-  "description": "ты привлекаешь лишнее (ненужное) внимание",
+  "description": "Ты привлекаешь лишнее (ненужное) внимание",
   "proverb": "You're drawing unnecessary attention"
  },
  {
@@ -9412,6 +9432,46 @@
   "proverb": "I will be a millionaire at 40"
  },
  {
+  "description": "так или иначе",
+  "proverb": "one way or another"
+ },
+ {
+  "description": "Нам повезло!",
+  "proverb": "We're in luck!"
+ },
+ {
+  "description": "Мы прибыли на место (Мы достигли цели)",
+  "proverb": "We have arrived at the target"
+ },
+ {
+  "description": "Старайся не привлекать к себе внимание (Попытайся избежать привлечения к себе внимания)",
+  "proverb": "Try to avoid drawing attention to yourself"
+ },
+ {
+  "description": "Не ведись на это",
+  "proverb": "Don't fall for it"
+ },
+ {
+  "description": "Я еще не достаточно пьян чтобы вестись на это",
+  "proverb": "I'm not drunk enough yet to fall for it"
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
+  "description": "",
+  "proverb": ""
+ },
+ {
   "description": "",
   "proverb": ""
  },
@@ -9419,5 +9479,4 @@
   "description": "",
   "proverb": ""
  }
-
 ]
