@@ -6,10 +6,12 @@ const router = express.Router()
 const {User, validate} = require('../models/user')
 const auth = require('../middleware/auth')
 
+
+
 router.post('/', async (req, res) => {
 	const {error} = validate(req.body)
 	if(error) return res.status(400).send(error.details[0].message)
-	let {name, email, password, isAdmin} = req.body
+	let {name, email, password} = req.body
 	// make sure a user with this email is not registered already
 	let user = await User.findOne({email})
 	if(user) return res.status(400).send('User with this email is already registered')
@@ -19,7 +21,7 @@ router.post('/', async (req, res) => {
 	const salt = await bcrypt.genSalt(10)
 	//reassign the password to a new hashed password
 	password = await bcrypt.hash(password, salt)
-	user = new User({name, email, password, isAdmin})
+	user = new User({name, email, password})
     await user.save()
     //generate jwt to eliminate the need to login after the registratio
     const token = user.generateAuthToken()
@@ -34,10 +36,30 @@ router.get('/me', auth, async (req,res) => {
 	//so instead of passing the _id property as part of the query sting we will get it from req.user
 	// a route like this protects from viewing another user's information by adding the id 
 	//of another user to the query string
-	const user  = await User.findById(req.user._id).select('-password -isAdmin') //exclude the password
-	// next we will need to fill in the statistics (how many items in each topic have been processed, how many items are on priority list, etc)
-	// and send it to the user
-	res.json(user) // it's just temporary
+	const user  = await User.findById(req.user._id).select('-password') //exclude the password
+	// extract all the necessary info and construct the resulting object to send back
+	const {name, email, dateJoined} = user
+	const grammar = {
+		total: req.app.locals.totalGrammarItems || 'not available',
+		processed: user.statistics.grammarSentences.length,
+		onPriorityList: user.statistics.grammarSentences.filter(item => item.prioritized).length
+	}
+
+	const proverbs = {
+		total: req.app.locals.totalProverbItems || 'not available',
+		processed: user.statistics.proverbs.length,
+		onPriorityList: user.statistics.proverbs.filter(item => item.prioritized).length
+	}
+
+	const translations = {
+		total: req.app.locals.totalTranslationItems || 'not available',
+		processed: user.statistics.translations.length,
+		onPriorityList: user.statistics.translations.filter(item => item.prioritized).length
+	}
+
+	const result = {name, email, dateJoined, grammar, proverbs, translations}
+
+	res.json(result)
 })
 
 module.exports = router

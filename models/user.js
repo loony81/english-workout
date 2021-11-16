@@ -29,10 +29,6 @@ const userSchema = new mongoose.Schema({
 		default: Date.now, 
 		required: true
 	},
-	isAdmin: {
-		type: Boolean,
-        default: false
-	},
 	//statistics will be embedded inside user schema
 	statistics: {
 		type: statisticsSchema,
@@ -61,7 +57,6 @@ const validateUser = user => {
 		email: Joi.string().required().max(255).email({ minDomainAtoms: 2 }),
 		password: Joi.string().required().min(6).max(255),
 		dateJoined: Joi.date(),
-		isAdmin: Joi.boolean(),
 		statistics: Joi.object({
 			grammarSentences: Joi.array().items(Joi.object()),
 			proverbs: Joi.array().items(Joi.object()),
