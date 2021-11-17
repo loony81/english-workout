@@ -2084,7 +2084,7 @@
   "proverb": "What is the weather forecast for tomorrow?"
  },
  {
-  "description": "Позволь мне кое-что прояснить",
+  "description": "Позволь мне прояснить ситуацию",
   "proverb": "Let me get this straight"
  },
  {
@@ -7692,7 +7692,7 @@
   "proverb": "I gotta take a piss"
  },
  {
-  "description": "Сколько времене это еще займет? / Сколько еще это будет продолжаться?",
+  "description": "Сколько времени это еще займет? / Сколько еще это будет продолжаться?",
   "proverb": "How much longer is this gonna take?"
  },
  {
@@ -9456,12 +9456,36 @@
   "proverb": "I'm not drunk enough yet to fall for it"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Пожелай мне удачи!",
+  "proverb": "Wish me luck!"
  },
  {
-  "description": "",
-  "proverb": ""
+  "description": "Прошу каждого сохрянять спокойствие! Ситуация под контролем!",
+  "proverb": "Everybody just stay calm! The situation is under control!"
+ },
+ {
+  "description": "Мы должны принять меры (Мы должны предпринять шаги)",
+  "proverb": "We have to take steps"
+ },
+ {
+  "description": "Позволь мне кое-что прояснить",
+  "proverb": "Let me get something straight"
+ },
+ {
+  "description": "Я не думаю что они желают нам вреда",
+  "proverb": "I don't think they mean us any harm"
+ },
+ {
+  "description": "Я выполнял приказ. У меня не было выбора.",
+  "proverb": "I was under orders. I had no choice."
+ },
+ {
+  "description": "Не рискуй! / Не испытывай судьбу!",
+  "proverb": "Don't take any chances!"
+ },
+ {
+  "description": "Ты меня за дурачка принимаешь? / Не прикидывайся дурачком",
+  "proverb": "Don't play stupid with me"
  },
  {
   "description": "",

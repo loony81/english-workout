@@ -67,4 +67,4 @@ const validateUser = user => {
 }
 
 module.exports.User = User
-module.exports.validateUser = validateUser
+module.exports.validate = validateUser

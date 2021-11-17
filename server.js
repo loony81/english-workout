@@ -34,7 +34,11 @@ app.use(express.json()) // this middleware parses the body of the request and if
 app.get('/', (req, res) => {
   res.sendFile('index.html')
 })
-app.use(require('./routes/routes'))
+app.use('/api/auth', require('./routes/auth'))
+app.use('/api/users', require('./routes/users'))
+app.use('/api/items', require('./routes/items'))
+app.use('/api/prlist', require('./routes/prlist'))
+
 app.get('*', (req, res) => {
  	res.redirect('/')
 })
