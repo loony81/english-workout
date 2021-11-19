@@ -30,3 +30,4 @@ todo.txt
 app/
 backups/
 webpack.config.js
+data/
