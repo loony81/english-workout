@@ -11,7 +11,7 @@ const auth = require('../middleware/auth')
 router.post('/', async (req, res) => {
 	const {error} = validate(req.body)
 	if(error) return res.status(400).send(error.details[0].message)
-	let {name, email, password} = req.body
+	let {name, email, password, isAdmin} = req.body
 	// make sure a user with this email is not registered already
 	let user = await User.findOne({email})
 	if(user) return res.status(400).send('User with this email is already registered')
@@ -21,7 +21,7 @@ router.post('/', async (req, res) => {
 	const salt = await bcrypt.genSalt(10)
 	//reassign the password to a new hashed password
 	password = await bcrypt.hash(password, salt)
-	user = new User({name, email, password})
+	user = new User({name, email, password, isAdmin})
     await user.save()
     //generate jwt to eliminate the need to login after the registratio
     const token = user.generateAuthToken()
@@ -36,7 +36,7 @@ router.get('/me', auth, async (req,res) => {
 	//so instead of passing the _id property as part of the query sting we will get it from req.user
 	// a route like this protects from viewing another user's information by adding the id 
 	//of another user to the query string
-	const user  = await User.findById(req.user._id).select('-password') //exclude the password
+	const user  = await User.findById(req.user._id).select('-password -isAdmin') //exclude password and isAdmin
 	// extract all the necessary info and construct the resulting object to send back
 	const {name, email, dateJoined} = user
 	const grammar = {
