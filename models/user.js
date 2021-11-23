@@ -53,6 +53,31 @@ userSchema.methods.generateAuthToken = function(){
 	)
 }
 
+userSchema.methods.updateStatistics = function(itemId, topic){
+	let item = this.statistics[topic].id(itemId)
+    let result = {}
+    if(item){
+      // we need to return the old statistics before updating it
+      result._id = item._id
+      result.timesEncountered = item.timesEncountered
+      result.prioritized = item.prioritized, 
+      result.lastEncounteredOn = item.lastEncounteredOn
+      // now update the statistics
+      item.timesEncountered++
+      item.lastEncounteredOn = Date.now() 
+    } else {
+      item = {
+        _id: itemId,
+        timesEncountered: 0
+      }
+      // we don't need the prioritized property when an item is encountered for the first time
+      result = {...item}
+      item.timesEncountered++
+      this.statistics[topic].push(item)
+    }
+    return result
+}
+
 const User = mongoose.model('User', userSchema)
 
 const validateUser = user => {

@@ -51,32 +51,13 @@ async function constructResponse(item, user, topic) {
   }  
 }
 
-// this function finds the item in a user's statistics and updates it
+// this function finds a user and updates the statistics about an item
 async function updateUser(userId, itemId, topic) { 
   const user = await User.findById(userId)
-  let item = user.statistics[topic].id(itemId)
-  let result = {}
-  if(item){
-    // we need to return the old item before updating it
-    result._id = item._id
-    result.timesEncountered = item.timesEncountered
-    result.prioritized = item.prioritized, 
-    result.lastEncounteredOn = item.lastEncounteredOn
-    // now update the item
-    item.timesEncountered++
-    item.lastEncounteredOn = Date.now() 
-  } else {
-    item = {
-      _id: itemId,
-      timesEncountered: 0
-    }
-    // we don't need the prioritized property when an item is encountered for the first time
-    result = {...item}
-    item.timesEncountered++
-    user.statistics[topic].push(item)
-  }
+  // we need to return the old statistics before updating it
+  const oldStatistics = user.updateStatistics(itemId, topic)
   await user.save()
-  return result
+  return oldStatistics
 }
 
 // this function calculates the total number of items inside a collection, and saves it as a property 

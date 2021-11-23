@@ -7,6 +7,29 @@ const {Translation} = require('../models/translation')
 const auth = require('../middleware/auth')
 
 
+function constructResponse(item, itemStatistics) {
+  // select one audio file if there is
+  let audio
+  if(item.sounds){
+    audio = item.sounds[Math.floor(Math.random() * item.sounds.length)]
+  }
+  if(audio) {
+    return {
+      id: item._id,
+      sentence: item.proverb, 
+      description: item.description, // descripton will be undefined for proverbs
+      audio,
+      itemStatistics
+    }
+  }
+  return {
+    id: item._id,
+    sentence: item.proverb, 
+    description: item.description,
+    itemStatistics
+  }
+}
+
 
 // these routes select and return all items from a given collection where 
 // the 'prioritized' property is set to true
@@ -68,27 +91,54 @@ router.put('/translate/:id/:action', auth, async (req, res) => {
 
 // the following routes fetch one radom item from a priority list
 router.get('/grammar/one', auth, async (req, res) => {
-  const user = await User.findById(req.user._id).select('-_id statistics.grammarSentences')
+  const user = await User.findById(req.user._id).select('statistics.grammarSentences')
   const grammarPrlist = user.statistics.grammarSentences.filter(item => item.prioritized)
   if(grammarPrlist.length === 0) return res.send('There are no items on your priority list for Grammar')
+  // get the id of a random item
   const rand = Math.floor(Math.random() * grammarPrlist.length)
-  res.json(grammarPrlist[rand])
+  const itemId = grammarPrlist[rand]._id
+  // get this item from the grammars collection
+  const item = await Grammar.findOne(itemId)
+  // get the old statistics and then update it
+  const oldStatistics = user.updateStatistics(itemId, 'grammarSentences')
+  await user.save()
+  // populate the response object with data
+  const constructedResponse = constructResponse(item, oldStatistics)
+  res.json(constructedResponse)
 })
 
 router.get('/proverb/one', auth, async (req, res) => {
-  const user = await User.findById(req.user._id).select('-_id statistics.proverbs')
+  const user = await User.findById(req.user._id).select('statistics.proverbs')
   const proverbsPrlist = user.statistics.proverbs.filter(item => item.prioritized)
   if(proverbsPrlist.length === 0) return res.send('There are no items on your priority list for Proverbs')
+  // get the id of a random item
   const rand = Math.floor(Math.random() * proverbsPrlist.length)
-  res.json(proverbsPrlist[rand])
+  const itemId = proverbsPrlist[rand]._id
+  // get this item from the proverbs collection
+  const item = await Proverb.findOne(itemId)
+  // get the old statistics and then update it
+  const oldStatistics = user.updateStatistics(itemId, 'proverbs')
+  await user.save()
+  // populate the response object with data
+  const constructedResponse = constructResponse(item, oldStatistics)
+  res.json(constructedResponse)
 })
 
 router.get('/translate/one', auth, async (req, res) => {
-  const user = await User.findById(req.user._id).select('-_id statistics.translations')
+  const user = await User.findById(req.user._id).select('statistics.translations')
   const translationsPrlist = user.statistics.translations.filter(item => item.prioritized)
   if(translationsPrlist.length === 0) return res.send('There are no items on your priority list for Translation')
+  // get the id of a random item
   const rand = Math.floor(Math.random() * translationsPrlist.length)
-  res.json(translationsPrlist[rand])
+  const itemId = translationsPrlist[rand]._id
+  // get this item from the proverbs collection
+  const item = await Translation.findOne(itemId)
+  // get the old statistics and then update it
+  const oldStatistics = user.updateStatistics(itemId, 'translations')
+  await user.save()
+  // populate the response object with data
+  const constructedResponse = constructResponse(item, oldStatistics)
+  res.json(constructedResponse)
 })
 
 module.exports = router
