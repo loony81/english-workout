@@ -11,7 +11,7 @@ module.exports = function (req,res,next){
 		//for /api/items routes we will let a user thru without setting req.user property
 		if (req.originalUrl.startsWith('/api/items')) return next()
 		// for all other routes access must be denied
-		return res.status(401).send('Access denied.')	
+		return res.status(401).send({message: 'Access denied.'})	
 	}
 
 	try{
@@ -21,6 +21,6 @@ module.exports = function (req,res,next){
 		next()
 	} catch(ex){
 		//user provided jwt but it is not valid that's why we have a bad request
-		res.status(400).send('Invalid token')
+		res.status(400).send({message: 'Invalid token'})
 	}
 }

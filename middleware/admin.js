@@ -4,6 +4,6 @@
 // otherwise we won't have access to req.user
 module.exports = function (req,res,next){
 	//even if you are authenticated but not an admin, you are not allowed to access this resourse
-	if(!req.user.isAdmin) return res.status(403).send('Access denied.')
+	if(!req.user.isAdmin) return res.status(403).send({message: 'Access denied.'})
 	next()
 }

@@ -37,7 +37,7 @@ function constructResponse(item, itemStatistics) {
 router.get('/grammar', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('-_id statistics.grammarSentences')
   const grammarPrlist = user.statistics.grammarSentences.filter(item => item.prioritized)
-  if(grammarPrlist.length === 0) return res.send('There are no items on your priority list for Grammar')
+  if(grammarPrlist.length === 0) return res.send({message: 'There are no items on your priority list for Grammar'})
   res.json(grammarPrlist)
 })
 
@@ -45,14 +45,14 @@ router.get('/grammar', auth, async (req, res) => {
 router.get('/proverb', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('-_id statistics.proverbs')
   const proverbsPrlist = user.statistics.proverbs.filter(item => item.prioritized)
-  if(proverbsPrlist.length === 0) return res.send('There are no items on your priority list for Proverbs')
+  if(proverbsPrlist.length === 0) return res.send({message: 'There are no items on your priority list for Proverbs'})
   res.json(proverbsPrlist)
 })
 
 router.get('/translate', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('-_id statistics.translations')
   const translationsPrlist = user.statistics.translations.filter(item => item.prioritized)
-  if(translationsPrlist.length === 0) return res.send('There are no items on your priority list for Translation')
+  if(translationsPrlist.length === 0) return res.send({message: 'There are no items on your priority list for Translation'})
   res.json(translationsPrlist)
 })
 
@@ -62,7 +62,7 @@ router.get('/translate', auth, async (req, res) => {
 router.put('/grammar/:id/:action', auth, async (req, res) => {
   const user  = await User.findById(req.user._id)
   const item = user.statistics.grammarSentences.id(req.params.id)
-  if (!item) return res.status(404).send('The item with the given ID was not found.')
+  if (!item) return res.status(404).send({message: 'The item with the given ID was not found.'})
   if(req.params.action === 'add') item.prioritized = true
   if(req.params.action === 'remove') item.prioritized = false
   await user.save()
@@ -72,7 +72,7 @@ router.put('/grammar/:id/:action', auth, async (req, res) => {
 router.put('/proverb/:id/:action', auth, async (req, res) => {
   const user  = await User.findById(req.user._id)
   const item = user.statistics.proverbs.id(req.params.id)
-  if (!item) return res.status(404).send('The item with the given ID was not found.')
+  if (!item) return res.status(404).send({message: 'The item with the given ID was not found.'})
   if(req.params.action === 'add') item.prioritized = true
   if(req.params.action === 'remove') item.prioritized = false
   await user.save()
@@ -82,7 +82,7 @@ router.put('/proverb/:id/:action', auth, async (req, res) => {
 router.put('/translate/:id/:action', auth, async (req, res) => {
   const user  = await User.findById(req.user._id)
   const item = user.statistics.translations.id(req.params.id)
-  if (!item) return res.status(404).send('The item with the given ID was not found.')
+  if (!item) return res.status(404).send({message: 'The item with the given ID was not found.'})
   if(req.params.action === 'add') item.prioritized = true
   if(req.params.action === 'remove') item.prioritized = false
   await user.save()
@@ -93,7 +93,7 @@ router.put('/translate/:id/:action', auth, async (req, res) => {
 router.get('/grammar/one', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('statistics.grammarSentences')
   const grammarPrlist = user.statistics.grammarSentences.filter(item => item.prioritized)
-  if(grammarPrlist.length === 0) return res.send('There are no items on your priority list for Grammar')
+  if(grammarPrlist.length === 0) return res.send({message: 'There are no items on your priority list for Grammar'})
   // get the id of a random item
   const rand = Math.floor(Math.random() * grammarPrlist.length)
   const itemId = grammarPrlist[rand]._id
@@ -110,7 +110,7 @@ router.get('/grammar/one', auth, async (req, res) => {
 router.get('/proverb/one', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('statistics.proverbs')
   const proverbsPrlist = user.statistics.proverbs.filter(item => item.prioritized)
-  if(proverbsPrlist.length === 0) return res.send('There are no items on your priority list for Proverbs')
+  if(proverbsPrlist.length === 0) return res.send({message: 'There are no items on your priority list for Proverbs'})
   // get the id of a random item
   const rand = Math.floor(Math.random() * proverbsPrlist.length)
   const itemId = proverbsPrlist[rand]._id
@@ -127,7 +127,7 @@ router.get('/proverb/one', auth, async (req, res) => {
 router.get('/translate/one', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('statistics.translations')
   const translationsPrlist = user.statistics.translations.filter(item => item.prioritized)
-  if(translationsPrlist.length === 0) return res.send('There are no items on your priority list for Translation')
+  if(translationsPrlist.length === 0) return res.send({message: 'There are no items on your priority list for Translation'})
   // get the id of a random item
   const rand = Math.floor(Math.random() * translationsPrlist.length)
   const itemId = translationsPrlist[rand]._id
