@@ -17,38 +17,20 @@ async function constructResponse(item, user, topic) {
   if(item.sounds){
     audio = item.sounds[Math.floor(Math.random() * item.sounds.length)]
   }
+  
+  const result = {
+    id: item._id,
+    sentence: item.proverb, 
+    description: item.description
+  }
   // if a user is authenticated then add the item's statistics to the resulting object
   if(user){
-    //update user's statistics
     const itemStatistics = await updateUser(user._id, item._id, topic)
-    if(audio) {
-      return {
-        id: item._id,
-        sentence: item.proverb, 
-        description: item.description, // descripton will be undefined for proverbs
-        audio,
-        itemStatistics
-      }
-    }
-    return {
-      id: item._id,
-      sentence: item.proverb, 
-      description: item.description,
-      itemStatistics
-    }
-  } else {
-    if(audio) {
-      return {
-        sentence: item.proverb, 
-        description: item.description, // descripton will be undefined for proverbs
-        audio
-      }
-    }
-    return {
-        sentence: item.proverb, 
-        description: item.description
-    }
-  }  
+    result.itemStatistics = itemStatistics
+  } 
+  // the same for audio
+  if(audio) result.audio = audio
+  return result
 }
 
 // this function finds a user and updates the statistics about an item
