@@ -9,6 +9,7 @@ module.exports = function (req,res,next){
 	//if there's no token at all
 	if(!token) {
 		//for /api/items routes we will let a user thru without setting req.user property
+		// for those users who don't want to register but still want to use the app
 		if (req.originalUrl.startsWith('/api/items')) return next()
 		// for all other routes access must be denied
 		return res.status(401).send({message: 'Access denied.'})	

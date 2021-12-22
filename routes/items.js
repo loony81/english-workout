@@ -72,7 +72,7 @@ router.get('/grammar', auth, async (req, res) => {
 })
 
 
-router.get('/proverb', auth, async (req, res) => {
+router.get('/proverbs', auth, async (req, res) => {
     const totalProverbItems = await getTotalNumberOfItems(req, 'totalProverbItems', Proverb)
   	const rand = Math.floor(Math.random() * totalProverbItems)
     // get random document from the Proverb collection
@@ -82,7 +82,7 @@ router.get('/proverb', auth, async (req, res) => {
     res.json(constructedResponse)
 })
 
-router.get('/translate', auth, async (req, res) => {
+router.get('/translation', auth, async (req, res) => {
   const totalTranslationItems = await getTotalNumberOfItems(req, 'totalTranslationItems', Translation)
   const rand = Math.floor(Math.random() * totalTranslationItems)
   // get random document from the Translation collection
