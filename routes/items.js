@@ -104,10 +104,7 @@ router.post('/audio', async (req, res) => {
     method: 'GET',
     responseType: 'stream'
    })
-   // set response headers
-   res.writeHead(200, {
-    'Content-Type': 'audio/aac'
-   })
+   res.header('Content-Type', 'audio/aac')
    // and pipe it directly to response
    audio.data.pipe(res)
 })

@@ -1,5 +1,5 @@
 {
-	"port": 5000,
-	"jwtkey": "",
+	"port": 5001,
+	"jwtkey": "Hello World",
 	"db": "mongodb://localhost/englishworkout"
 }

@@ -11,7 +11,7 @@ const auth = require('../middleware/auth')
 router.post('/', async (req, res) => {
 	const {error} = validate(req.body)
 	if(error) return res.status(400).send({message: error.details[0].message})
-	let {name, email, password, isAdmin} = req.body
+	let {name, email, password} = req.body
 	// make sure a user with this email is not registered already
 	let user = await User.findOne({email})
 	if(user) return res.status(400).send({message: 'User with this email is already registered'})
@@ -21,7 +21,7 @@ router.post('/', async (req, res) => {
 	const salt = await bcrypt.genSalt(10)
 	//reassign the password to a new hashed password
 	password = await bcrypt.hash(password, salt)
-	user = new User({name, email, password, isAdmin})
+	user = new User({name, email, password, isAdmin: false}) // don't allow anybody to register as an admin
     await user.save()
     //generate jwt to eliminate the need to login after the registratio
     const token = user.generateAuthToken()
