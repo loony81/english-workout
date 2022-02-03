@@ -3,6 +3,7 @@ const router = express.Router()
 const {Grammar, validateGrammar} = require('../models/grammar')
 const {Proverb, validateProverb} = require('../models/proverb')
 const {Translation, validateTranslation} = require('../models/translation')
+const {Quote, validateQuote} = require('../models/quote')
 const auth = require('../middleware/auth')
 const admin = require('../middleware/admin')
 
@@ -36,6 +37,12 @@ router.post('/proverbs', [auth, admin], async (req, res) => {
   res.json(items)
 })
 
+router.post('/quotes', [auth, admin], async (req, res) => {
+  const {proverb} = req.body
+  const items = await findItems(Quote, proverb)
+  res.json(items)
+})
+
 // routes for adding new items
  
 router.post('/add_grammar', [auth, admin], async (req, res) => {
@@ -64,6 +71,15 @@ router.post('/add_proverbs', [auth, admin], async (req, res) => {
     const newProverb = new Proverb({proverb, sounds})
     await newProverb.save()
     res.status(201).send({message: 'New proverb item has been successfully saved'})
+})
+
+router.post('/add_quotes', [auth, admin], async (req, res) => {
+    const {proverb, description} = req.body
+    const {error} = validateQuote({proverb, description})
+    if(error) return res.status(400).send({message: error.details[0].message})
+    const newQuote = new Quote({proverb, description})
+    await newQuote.save()
+    res.status(201).send({message: 'New quote has been successfully saved'})
 })
 
 // routes for updating items
@@ -103,6 +119,17 @@ router.put('/proverbs', [auth, admin], async (req, res) => {
   res.status(201).send({message: 'The proverb has been successfully modified'})
 })
 
+router.put('/quotes', [auth, admin], async (req, res) => {
+  const {proverb, description} = req.body
+  const {error} = validateQuote({proverb, description})
+  if(error) return res.status(400).send({message: error.details[0].message})
+  const item = await Quote.findById(req.body._id)
+  item.proverb = proverb
+  item.description = description
+  await item.save()
+  res.status(201).send({message: 'The quote has been successfully modified'})
+})
+
 // routes for deleting items
 
 router.delete('/grammar/:id', [auth, admin], async (req,res) => {
@@ -121,6 +148,12 @@ router.delete('/proverbs/:id', [auth, admin], async (req,res) => {
   const result = await Proverb.findByIdAndRemove(req.params.id)
   if (!result) return res.status(404).send({message: 'The proverb with the given ID was not found.'})
   res.status(200).send({message: 'The proverb has been successfully deleted'})
+})
+
+router.delete('/quotes/:id', [auth, admin], async (req,res) => {
+  const result = await Quote.findByIdAndRemove(req.params.id)
+  if (!result) return res.status(404).send({message: 'The quote with the given ID was not found.'})
+  res.status(200).send({message: 'The quote has been successfully deleted'})
 })
 
 

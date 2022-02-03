@@ -40,7 +40,8 @@ const userSchema = new mongoose.Schema({
 		default: {
 			grammarSentences: [],
 			proverbs: [],
-			translations: []
+			translations: [],
+			quotes: []
 		}
 	}
 })
@@ -90,7 +91,8 @@ const validateUser = user => {
 		statistics: Joi.object({
 			grammarSentences: Joi.array().items(Joi.object()),
 			proverbs: Joi.array().items(Joi.object()),
-			translations: Joi.array().items(Joi.object())
+			translations: Joi.array().items(Joi.object()),
+			quotes: Joi.array().items(Joi.object())
 		})
 	}
 	return Joi.validate(user, schema)

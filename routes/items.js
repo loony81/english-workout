@@ -5,6 +5,7 @@ const {User} = require('../models/user')
 const {Grammar} = require('../models/grammar')
 const {Proverb} = require('../models/proverb')
 const {Translation} = require('../models/translation')
+const {Quote} = require('../models/quote')
 const auth = require('../middleware/auth')
 
 
@@ -89,6 +90,16 @@ router.get('/translation', auth, async (req, res) => {
   const randomItem = await Translation.findOne().skip(rand)
   // construct a response depending on whether a user is logged in or not
   const constructedResponse = await constructResponse(randomItem, req.user, 'translations')
+  res.json(constructedResponse)
+})
+
+router.get('/quotes', auth, async (req, res) => {
+  const totalQuoteItems = await getTotalNumberOfItems(req, 'totalQuoteItems', Quote)
+  const rand = Math.floor(Math.random() * totalQuoteItems)
+  // get random document from the Translation collection
+  const randomItem = await Quote.findOne().skip(rand)
+  // construct a response depending on whether a user is logged in or not
+  const constructedResponse = await constructResponse(randomItem, req.user, 'quotes')
   res.json(constructedResponse)
 })
 

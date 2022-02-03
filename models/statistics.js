@@ -4,6 +4,7 @@ const mongoose = require('mongoose')
 const {Grammar} = require('./grammar')
 const {Proverb} = require('./proverb')
 const {Translation} = require('./translation')
+const {Quote} = require('./quote')
 
 const statisticsSchema = new mongoose.Schema({
 
@@ -54,6 +55,27 @@ const statisticsSchema = new mongoose.Schema({
             _id: {
                 type: mongoose.Schema.Types.ObjectId,
                 ref: "Translation"
+            },
+            timesEncountered: {
+                type: Number,
+                required: true,
+                default: 0
+            },
+            prioritized: {
+                type: Boolean,
+                default: false
+            },
+            lastEncounteredOn: {
+                type: Date,
+                default: Date.now
+            }
+        }
+    ],
+    quotes: [
+        {
+            _id: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: "Quote"
             },
             timesEncountered: {
                 type: Number,

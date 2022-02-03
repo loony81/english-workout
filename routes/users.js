@@ -57,7 +57,13 @@ router.get('/me', auth, async (req,res) => {
 		onPriorityList: user.statistics.translations.filter(item => item.prioritized).length
 	}
 
-	const result = {name, email, dateJoined, grammar, proverbs, translations}
+	const quotes = {
+		total: req.app.locals.totalQuoteItems || 'not available',
+		processed: user.statistics.quotes.length,
+		onPriorityList: user.statistics.quotes.filter(item => item.prioritized).length
+	}
+
+	const result = {name, email, dateJoined, grammar, proverbs, translations, quotes}
 
 	res.json(result)
 })
